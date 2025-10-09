@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-hidden="true">
+  <defs>
+    <linearGradient id="calc-body" x1="50%" y1="0%" x2="50%" y2="100%">
+      <stop offset="0%" stop-color="#89e219" />
+      <stop offset="100%" stop-color="#58cc02" />
+    </linearGradient>
+    <linearGradient id="calc-shadow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="rgba(43, 134, 0, 0.35)" />
+      <stop offset="100%" stop-color="rgba(31, 97, 0, 0.05)" />
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <path
+      d="M30 18c-4.4 0-8 3.6-8 8v68c0 4.4 3.6 8 8 8h60c4.4 0 8-3.6 8-8V26c0-4.4-3.6-8-8-8H30z"
+      fill="url(#calc-body)"
+    />
+    <path
+      d="M30 18h60c4.4 0 8 3.6 8 8v8H22v-8c0-4.4 3.6-8 8-8z"
+      fill="#4b4b4b"
+      opacity="0.18"
+    />
+    <rect x="26" y="22" width="68" height="76" rx="12" ry="12" fill="url(#calc-shadow)" opacity="0.55" />
+    <rect x="30" y="26" width="60" height="68" rx="10" ry="10" fill="url(#calc-body)" />
+    <rect x="38" y="34" width="44" height="18" rx="5" ry="5" fill="#ffffff" opacity="0.9" />
+    <circle cx="48" cy="64" r="6" fill="#ffffff" />
+    <circle cx="72" cy="64" r="6" fill="#ffffff" />
+    <circle cx="60" cy="64" r="6" fill="#ffffff" />
+    <circle cx="48" cy="78" r="6" fill="#ffffff" />
+    <circle cx="60" cy="78" r="6" fill="#ffffff" />
+    <circle cx="72" cy="78" r="6" fill="#ffffff" />
+    <path d="M48 62h12v4H48z" fill="#58cc02" />
+    <path d="M60 76h12v4H60z" fill="#58cc02" />
+    <path d="M72 62h12v4H72z" fill="#58cc02" opacity="0.65" />
+    <path d="M48 74h12v4H48z" fill="#58cc02" opacity="0.65" />
+    <path d="M60 62h12v4H60z" fill="#58cc02" opacity="0.65" />
+    <path d="M72 74h12v4H72z" fill="#58cc02" opacity="0.65" />
+    <rect x="44" y="89" width="32" height="8" rx="4" ry="4" fill="#4b4b4b" opacity="0.35" />
+  </g>
+</svg>

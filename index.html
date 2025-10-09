@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>DuoCalculator</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <noscript>
+      <p class="no-script">This calculator needs JavaScript enabled.</p>
+    </noscript>
+    <div class="app">
+      <header class="app-header">
+        <div class="brand">
+          <img src="assets/mascot.svg" alt="" class="brand-mascot" />
+          <div class="brand-text">
+            <span class="brand-name">DuoCalculator</span>
+            <span class="brand-tagline">Plan your language learning journey</span>
+          </div>
+        </div>
+        <nav class="tabs" role="tablist" aria-label="Calculator modes">
+          <button
+            class="tab-button"
+            role="tab"
+            id="tab-finish"
+            aria-controls="panel-finish"
+            aria-selected="true"
+            data-tab="finish"
+          >
+            How long until I finish?
+          </button>
+          <button
+            class="tab-button"
+            role="tab"
+            id="tab-pace"
+            aria-controls="panel-pace"
+            aria-selected="false"
+            data-tab="pace"
+          >
+            How much per day for my goal?
+          </button>
+        </nav>
+      </header>
+      <main class="layout">
+        <section class="card controls">
+          <h2 class="card-title">Course &amp; progress</h2>
+          <form id="shared-form" autocomplete="off">
+            <div class="field-row">
+              <div class="field-group">
+                <label for="from-lang-select">From language</label>
+                <select id="from-lang-select" name="fromLanguage" required disabled>
+                  <option value="">Loading languages…</option>
+                </select>
+              </div>
+              <div class="field-group">
+                <label for="to-lang-select">To language</label>
+                <select id="to-lang-select" name="toLanguage" required disabled>
+                  <option value="">Select a base language first</option>
+                </select>
+                <p class="field-hint">
+                  Courses via
+                  <a href="https://duolingodata.com/" target="_blank" rel="noopener">
+                    DuolingoData.com
+                  </a>
+                </p>
+              </div>
+            </div>
+
+            <div class="field-group">
+              <label for="section-select">Section</label>
+              <select id="section-select" name="section" required disabled>
+                <option value="">Select a course first</option>
+              </select>
+            </div>
+
+            <div class="field-group">
+              <label for="unit-select">Unit</label>
+              <select id="unit-select" name="unit" required disabled>
+                <option value="">Select a section first</option>
+              </select>
+            </div>
+
+            <div class="field-group inline">
+              <label for="minutes-per-activity">
+                Minutes per lesson
+                <button
+                  type="button"
+                  class="tooltip-trigger"
+                  aria-describedby="minutes-help"
+                  data-tooltip-target="minutes-help"
+                >
+                  why 3.5?
+                </button>
+              </label>
+              <input
+                id="minutes-per-activity"
+                name="minutesPerActivity"
+                type="number"
+                min="1"
+                max="20"
+                step="0.1"
+                value="3.5"
+                required
+              />
+              <div class="tooltip" role="tooltip" id="minutes-help">
+                Community reports average ~3–4 minutes per lesson. Adjust to match your pace.
+              </div>
+            </div>
+
+            <div
+              id="panel-finish"
+              class="tab-panel"
+              role="tabpanel"
+              aria-labelledby="tab-finish"
+              data-tab-panel="finish"
+            >
+              <div class="field-group">
+                <label for="minutes-per-day">Minutes per day</label>
+                <input
+                  id="minutes-per-day"
+                  name="minutesPerDay"
+                  type="number"
+                  min="1"
+                  max="600"
+                  step="1"
+                  value="30"
+                  required
+                />
+              </div>
+            </div>
+
+            <div
+              id="panel-pace"
+              class="tab-panel"
+              role="tabpanel"
+              aria-labelledby="tab-pace"
+              data-tab-panel="pace"
+              hidden
+            >
+              <div class="field-group">
+                <label for="target-days">Target days to finish</label>
+                <input
+                  id="target-days"
+                  name="targetDays"
+                  type="number"
+                  min="1"
+                  max="3650"
+                  step="1"
+                  value="90"
+                  required
+                />
+              </div>
+              <button type="submit" class="primary-button" data-action="calculate-pace">
+                Calculate daily time
+              </button>
+            </div>
+          </form>
+
+          <div class="card-subsection">
+            <button type="button" class="link-button" id="reset-state">Reset</button>
+          </div>
+        </section>
+
+        <section class="card results" aria-live="polite">
+          <h2 class="card-title">Results</h2>
+          <div class="results-summary">
+            <p class="result-line" id="result-headline">Pick a course to begin.</p>
+            <p class="result-detail" id="result-detail"></p>
+            <p class="result-meta" id="result-meta"></p>
+          </div>
+
+          <div class="progress-area">
+            <div class="progress-label">
+              <span id="progress-text">Progress: 0%</span>
+              <span id="progress-counts">0 of 0 lessons completed</span>
+            </div>
+            <div class="progress-bar">
+              <div class="progress-bar-fill" id="progress-bar-fill"></div>
+            </div>
+          </div>
+
+          <div class="course-meta" id="course-meta"></div>
+
+          <div class="eta-chip" id="eta-chip" hidden>
+            <span class="eta-label">Estimated finish</span>
+            <time id="eta-date" datetime=""></time>
+          </div>
+
+          <section class="debug-panel" id="debug-panel" hidden>
+            <h3>Debug data</h3>
+            <pre id="debug-output"></pre>
+          </section>
+          <div class="results-actions" data-tab-panel="finish">
+            <button
+              type="submit"
+              form="shared-form"
+              class="primary-button"
+              data-action="calculate-finish"
+            >
+              Calculate finish date
+            </button>
+          </div>
+        </section>
+      </main>
+      <footer class="app-footer">
+        <p>
+          Unofficial calculator. Course counts scraped from
+          <a href="https://duolingodata.com/" target="_blank" rel="noopener">
+            DuolingoData.com
+          </a>
+              (updates vary by course). Times are estimates; adjust minutes per lesson to match your
+          pace.
+        </p>
+      </footer>
+      <div class="toast-region" role="status" aria-live="polite" id="toast-region"></div>
+    </div>
+
+    <script src="app.js"></script>
+  </body>
+</html>

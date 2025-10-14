@@ -108,7 +108,7 @@ const dom = {
   etaDate: document.getElementById("eta-date"),
   tooltipTrigger: document.querySelector(".tooltip-trigger"),
   tooltip: document.getElementById("minutes-help"),
-  resetButton: document.getElementById("reset-state"),
+  resetButtons: document.querySelectorAll("[data-reset]"),
   toastRegion: document.getElementById("toast-region"),
   debugPanel: document.getElementById("debug-panel"),
   debugOutput: document.getElementById("debug-output"),
@@ -292,11 +292,13 @@ function setupForm() {
 }
 
 function setupReset() {
-  if (!dom.resetButton) return;
-  dom.resetButton.addEventListener("click", () => {
-    localStorage.removeItem(STORAGE_KEY);
-    showToast("Saved selections cleared.");
-    window.location.reload();
+  if (!dom.resetButtons || dom.resetButtons.length === 0) return;
+  dom.resetButtons.forEach((button) => {
+    button.addEventListener("click", () => {
+      localStorage.removeItem(STORAGE_KEY);
+      showToast("Saved selections cleared.");
+      window.location.reload();
+    });
   });
 }
 
@@ -514,6 +516,12 @@ function populateToLanguageSelect(fromLang) {
   }
   const targets = state.courses
     .filter((course) => course.fromLang === fromLang)
+    .filter((course) => {
+      if (typeof course.unitsCount === "number") {
+        return course.unitsCount > 0;
+      }
+      return true;
+    })
     .sort((a, b) => a.toLang.localeCompare(b.toLang));
   const duplicateCounts = targets.reduce((map, course) => {
     const key = course.toLang.toLowerCase();

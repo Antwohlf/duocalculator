@@ -115,20 +115,26 @@
               aria-labelledby="tab-finish"
               data-tab-panel="finish"
             >
-              <div class="field-group">
-                <label for="minutes-per-day">Minutes per day</label>
-                <input
-                  id="minutes-per-day"
-                  name="minutesPerDay"
-                  type="number"
-                  min="1"
-                  max="600"
-                  step="1"
-                  value="30"
-                  required
-                />
-              </div>
+            <div class="field-group">
+              <label for="minutes-per-day">Minutes per day</label>
+              <input
+                id="minutes-per-day"
+                name="minutesPerDay"
+                type="number"
+                min="1"
+                max="600"
+                step="1"
+                value="30"
+                required
+              />
             </div>
+              <div class="form-actions" data-tab-panel="finish">
+                <button type="submit" class="primary-button" data-action="calculate-finish">
+                  Calculate finish date
+                </button>
+                <button type="button" class="secondary-button" data-reset>Reset</button>
+              </div>
+          </div>
 
             <div
               id="panel-pace"
@@ -146,20 +152,19 @@
                   type="number"
                   min="1"
                   max="3650"
-                  step="1"
-                  value="90"
-                  required
-                />
-              </div>
-              <button type="submit" class="primary-button" data-action="calculate-pace">
-                Calculate daily time
-              </button>
+                step="1"
+                value="90"
+                required
+              />
             </div>
-          </form>
-
-          <div class="card-subsection">
-            <button type="button" class="link-button" id="reset-state">Reset</button>
+              <div class="form-actions" data-tab-panel="pace">
+                <button type="submit" class="primary-button" data-action="calculate-pace">
+                  Calculate daily time
+                </button>
+                <button type="button" class="secondary-button" data-reset>Reset</button>
+              </div>
           </div>
+          </form>
         </section>
 
         <section class="card results" aria-live="polite">
@@ -191,16 +196,6 @@
             <h3>Debug data</h3>
             <pre id="debug-output"></pre>
           </section>
-          <div class="results-actions" data-tab-panel="finish">
-            <button
-              type="submit"
-              form="shared-form"
-              class="primary-button"
-              data-action="calculate-finish"
-            >
-              Calculate finish date
-            </button>
-          </div>
         </section>
       </main>
       <footer class="app-footer">

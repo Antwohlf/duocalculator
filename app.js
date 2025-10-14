@@ -27,10 +27,15 @@ const LANGUAGE_NAME_OVERRIDES = {
   fa: "Persian",
   fi: "Finnish",
   fr: "French",
+  hv: "High Valyrian",
+  hw: "Hawaiian",
   ga: "Irish",
   gd: "Scottish Gaelic",
   gl: "Galician",
   gu: "Gujarati",
+  kl: "Greenlandic",
+  nb: "Norwegian Bokmål",
+  nv: "Navajo",
   he: "Hebrew",
   hi: "Hindi",
   hr: "Croatian",
@@ -79,6 +84,7 @@ const LANGUAGE_NAME_OVERRIDES = {
   ur: "Urdu",
   uz: "Uzbek",
   vi: "Vietnamese",
+  yi: "Yiddish",
   xh: "Xhosa",
   zh: "Chinese",
   zhhans: "Chinese (Simplified)",
@@ -101,6 +107,7 @@ const LANGUAGE_FLAGS = {
   ru: "🇷🇺",
   ar: "🇸🇦",
   hi: "🇮🇳",
+  ca: "🌍",
   nl: "🇳🇱",
   sv: "🇸🇪",
   da: "🇩🇰",
@@ -119,6 +126,15 @@ const LANGUAGE_FLAGS = {
   el: "🇬🇷",
   ga: "🇮🇪",
   eo: "🌍",
+  te: "🇮🇳",
+  sw: "🇹🇿",
+  zu: "🇿🇦",
+  yi: "🇮🇱",
+  hv: "🐉",
+  hw: "🌺",
+  kl: "🇬🇱",
+  nb: "🇳🇴",
+  nv: "🇺🇸",
 };
 
 const dom = {
@@ -615,7 +631,7 @@ function populateToLanguageSelect(fromLang) {
     const descriptors = [];
     if (count > 1) {
       if (course.levelShort) {
-        descriptors.push(course.levelShort);
+        descriptors.push(`CEFR ${course.levelShort.toUpperCase()}`);
       }
       if (!descriptors.length && course.unitsCount) {
         descriptors.push(`${course.unitsCount} units`);
@@ -1272,10 +1288,11 @@ function parseCourseDetail(text, meta) {
       const sectionTitleCandidate = rest.trim().replace(/^[\s:–-]+/, "");
       const originalTitle = sectionTitleCandidate || headingClean;
       const levelInTitle = normalizeLevel(originalTitle);
-      const displayTitle = originalTitle
+      const cleanedTitle = originalTitle
         .replace(/CEFR\s*[A-C][0-3](?:\+|-)?/gi, "")
         .replace(/\s{2,}/g, " ")
-        .trim() || originalTitle;
+        .trim();
+      const displayTitle = cleanedTitle || originalTitle;
       currentSection = {
         sectionIndex: Number(sectionNumber),
         unitCount: Number(unitCount),

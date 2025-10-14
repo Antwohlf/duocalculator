@@ -189,6 +189,10 @@ form {
   gap: 8px;
 }
 
+.language-row select {
+  flex: 1 1 auto;
+}
+
 .swap-button {
   border: 2px solid rgba(75, 75, 75, 0.2);
   border-radius: 50%;
@@ -214,6 +218,11 @@ form {
 .swap-button:disabled {
   opacity: 0.4;
   cursor: not-allowed;
+}
+
+.swap-button:focus-visible {
+  outline: 3px solid rgba(88, 204, 2, 0.35);
+  outline-offset: 3px;
 }
 
 .field-group.inline {

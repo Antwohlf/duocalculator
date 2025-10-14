@@ -4,6 +4,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>DuoCalculator</title>
+    <link rel="icon" type="image/png" href="assets/logo.png" />
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
@@ -13,7 +14,7 @@
     <div class="app">
       <header class="app-header">
         <div class="brand">
-          <img src="assets/mascot.svg" alt="" class="brand-mascot" />
+          <img src="assets/logo.png" alt="DuoCalculator logo" class="brand-mascot" />
           <div class="brand-text">
             <span class="brand-name">DuoCalculator</span>
             <span class="brand-tagline">Plan your language learning journey</span>
@@ -49,21 +50,26 @@
             <div class="field-row">
               <div class="field-group">
                 <label for="from-lang-select">From language</label>
-                <select id="from-lang-select" name="fromLanguage" required disabled>
-                  <option value="">Loading languages…</option>
-                </select>
+                <div class="language-row">
+                  <select id="from-lang-select" name="fromLanguage" required disabled>
+                    <option value="">Loading languages…</option>
+                  </select>
+                  <button
+                    type="button"
+                    class="swap-button"
+                    id="swap-languages"
+                    aria-label="Swap languages"
+                    disabled
+                  >
+                    ⇄
+                  </button>
+                </div>
               </div>
               <div class="field-group">
                 <label for="to-lang-select">To language</label>
                 <select id="to-lang-select" name="toLanguage" required disabled>
                   <option value="">Select a base language first</option>
                 </select>
-                <p class="field-hint">
-                  Courses via
-                  <a href="https://duolingodata.com/" target="_blank" rel="noopener">
-                    DuolingoData.com
-                  </a>
-                </p>
               </div>
             </div>
 
@@ -72,6 +78,7 @@
               <select id="section-select" name="section" required disabled>
                 <option value="">Select a course first</option>
               </select>
+              <p class="field-hint" id="section-cefr-hint"></p>
             </div>
 
             <div class="field-group">
@@ -116,7 +123,9 @@
               data-tab-panel="finish"
             >
             <div class="field-group">
-              <label for="minutes-per-day">Minutes per day</label>
+              <label for="minutes-per-day">
+                Minutes per day
+              </label>
               <input
                 id="minutes-per-day"
                 name="minutesPerDay"
@@ -129,9 +138,6 @@
               />
             </div>
               <div class="form-actions" data-tab-panel="finish">
-                <button type="submit" class="primary-button" data-action="calculate-finish">
-                  Calculate finish date
-                </button>
                 <button type="button" class="secondary-button" data-reset>Reset</button>
               </div>
           </div>
@@ -158,13 +164,15 @@
               />
             </div>
               <div class="form-actions" data-tab-panel="pace">
-                <button type="submit" class="primary-button" data-action="calculate-pace">
-                  Calculate daily time
-                </button>
                 <button type="button" class="secondary-button" data-reset>Reset</button>
               </div>
           </div>
           </form>
+          <p class="card-note">
+            Data sourced from
+            <a href="https://duolingodata.com/" target="_blank" rel="noopener">DuolingoData.com</a>
+            (updates vary by course).
+          </p>
         </section>
 
         <section class="card results" aria-live="polite">
@@ -185,12 +193,22 @@
             </div>
           </div>
 
-          <div class="course-meta" id="course-meta"></div>
-
-          <div class="eta-chip" id="eta-chip" hidden>
-            <span class="eta-label">Estimated finish</span>
-            <time id="eta-date" datetime=""></time>
+          <div class="result-stats">
+            <div class="stat">
+              <span class="stat-label">Finish date</span>
+              <span class="stat-value" id="stat-finish-date">—</span>
+            </div>
+            <div class="stat">
+              <span class="stat-label">Lessons left</span>
+              <span class="stat-value" id="stat-lessons-left">—</span>
+            </div>
+            <div class="stat">
+              <span class="stat-label">Minutes per day</span>
+              <span class="stat-value" id="stat-minutes-day">—</span>
+            </div>
           </div>
+
+          <div class="course-meta" id="course-meta"></div>
 
           <section class="debug-panel" id="debug-panel" hidden>
             <h3>Debug data</h3>

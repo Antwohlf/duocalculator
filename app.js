@@ -86,12 +86,48 @@ const LANGUAGE_NAME_OVERRIDES = {
   zu: "Zulu",
 };
 
+const LANGUAGE_FLAGS = {
+  en: "🇺🇸",
+  es: "🇪🇸",
+  fr: "🇫🇷",
+  de: "🇩🇪",
+  it: "🇮🇹",
+  pt: "🇵🇹",
+  ja: "🇯🇵",
+  ko: "🇰🇷",
+  zh: "🇨🇳",
+  zhhans: "🇨🇳",
+  zhhant: "🇨🇳",
+  ru: "🇷🇺",
+  ar: "🇸🇦",
+  hi: "🇮🇳",
+  nl: "🇳🇱",
+  sv: "🇸🇪",
+  da: "🇩🇰",
+  fi: "🇫🇮",
+  no: "🇳🇴",
+  pl: "🇵🇱",
+  uk: "🇺🇦",
+  cs: "🇨🇿",
+  he: "🇮🇱",
+  id: "🇮🇩",
+  vi: "🇻🇳",
+  tr: "🇹🇷",
+  th: "🇹🇭",
+  ro: "🇷🇴",
+  hu: "🇭🇺",
+  el: "🇬🇷",
+  ga: "🇮🇪",
+  eo: "🌍",
+};
+
 const dom = {
   tabs: document.querySelectorAll(".tab-button"),
   tabPanels: document.querySelectorAll("[data-tab-panel]"),
   form: document.getElementById("shared-form"),
   fromLangSelect: document.getElementById("from-lang-select"),
   toLangSelect: document.getElementById("to-lang-select"),
+  swapButton: document.getElementById("swap-languages"),
   sectionSelect: document.getElementById("section-select"),
   unitSelect: document.getElementById("unit-select"),
   minutesPerActivity: document.getElementById("minutes-per-activity"),
@@ -104,10 +140,11 @@ const dom = {
   progressCounts: document.getElementById("progress-counts"),
   progressFill: document.getElementById("progress-bar-fill"),
   courseMeta: document.getElementById("course-meta"),
-  etaChip: document.getElementById("eta-chip"),
-  etaDate: document.getElementById("eta-date"),
-  tooltipTrigger: document.querySelector(".tooltip-trigger"),
-  tooltip: document.getElementById("minutes-help"),
+  sectionCEFRHint: document.getElementById("section-cefr-hint"),
+  statFinishDate: document.getElementById("stat-finish-date"),
+  statLessonsLeft: document.getElementById("stat-lessons-left"),
+  statMinutesPerDay: document.getElementById("stat-minutes-day"),
+  tooltipTriggers: document.querySelectorAll("[data-tooltip-target]"),
   resetButtons: document.querySelectorAll("[data-reset]"),
   toastRegion: document.getElementById("toast-region"),
   debugPanel: document.getElementById("debug-panel"),
@@ -143,6 +180,7 @@ init();
 
 function init() {
   loadStoredState();
+  resetStats();
   setupTabs();
   setupTooltip();
   setupForm();
@@ -174,21 +212,26 @@ function setActiveTab(tabId) {
 }
 
 function setupTooltip() {
-  if (!dom.tooltipTrigger || !dom.tooltip) return;
-  let visible = false;
-  dom.tooltipTrigger.addEventListener("click", (event) => {
-    event.stopPropagation();
-    visible = !visible;
-    dom.tooltip.dataset.visible = visible ? "true" : "false";
-  });
-  document.addEventListener("click", (event) => {
-    if (
-      !dom.tooltipTrigger.contains(event.target) &&
-      !dom.tooltip.contains(event.target)
-    ) {
-      visible = false;
-      dom.tooltip.dataset.visible = "false";
-    }
+  if (!dom.tooltipTriggers || !dom.tooltipTriggers.length) return;
+  dom.tooltipTriggers.forEach((trigger) => {
+    const targetId = trigger.dataset.tooltipTarget;
+    const tooltip = targetId ? document.getElementById(targetId) : null;
+    if (!tooltip) return;
+
+    const show = () => {
+      tooltip.dataset.visible = "true";
+    };
+    const hide = () => {
+      tooltip.dataset.visible = "false";
+    };
+
+    trigger.addEventListener("mouseenter", show);
+    trigger.addEventListener("mouseleave", hide);
+    trigger.addEventListener("focus", show);
+    trigger.addEventListener("blur", hide);
+
+    tooltip.addEventListener("mouseenter", show);
+    tooltip.addEventListener("mouseleave", hide);
   });
 }
 
@@ -223,6 +266,26 @@ function setupForm() {
     }
     await handleCourseSelection(courseKey, { restoreProgress: false });
   });
+
+  if (dom.swapButton) {
+    dom.swapButton.addEventListener("click", () => {
+      if (dom.swapButton.disabled) return;
+      const currentCourseKey = dom.toLangSelect.value;
+      if (!currentCourseKey || !state.courseMap.has(currentCourseKey)) return;
+      const currentCourse = state.courseMap.get(currentCourseKey);
+      const reverseKey = findCourseKey(currentCourse.toLang, currentCourse.fromLang, currentCourse.levelShort);
+      if (!reverseKey) return;
+      const reverseCourse = state.courseMap.get(reverseKey);
+      if (!reverseCourse) return;
+      state.selectedFromLang = reverseCourse.fromLang;
+      state.selectedToLang = reverseCourse.toLang;
+      state.currentCourseKey = reverseKey;
+      dom.fromLangSelect.value = reverseCourse.fromLang;
+      populateToLanguageSelect(reverseCourse.fromLang);
+      dom.toLangSelect.value = reverseKey;
+      handleCourseSelection(reverseKey, { restoreProgress: false });
+    });
+  }
 
   dom.sectionSelect.addEventListener("change", () => {
     const rawValue = dom.sectionSelect.value;
@@ -359,6 +422,9 @@ function clearCourseDisplay({ progressMessage } = {}) {
     progressMessage ||
     (state.selectedFromLang ? "Select a target language first" : "Select languages first");
   resetProgressControls(message);
+  updateSectionHint();
+  resetStats();
+  updateSwapButton();
 }
 
 function resetProgressControls(message) {
@@ -412,6 +478,7 @@ async function loadCourses() {
 
     populateToLanguageSelect(null);
     clearCourseDisplay();
+    updateSwapButton();
   } catch (error) {
     console.error(error);
     dom.fromLangSelect.innerHTML = `<option value="">Unable to load languages</option>`;
@@ -424,6 +491,7 @@ async function handleCourseSelection(courseKey, { restoreProgress = false } = {}
   if (!courseKey || !state.courseMap.has(courseKey)) {
     clearCourseDisplay();
     saveState();
+    updateSwapButton();
     return;
   }
   const meta = state.courseMap.get(courseKey);
@@ -441,6 +509,7 @@ async function handleCourseSelection(courseKey, { restoreProgress = false } = {}
   }
   saveState();
   computeAndRender();
+  updateSwapButton();
 }
 
 async function ensureCourseDetail(courseKey) {
@@ -491,12 +560,22 @@ function refreshLevelLabel(courseKey, meta) {
 }
 
 function populateFromLanguageSelect() {
-  const languages = Array.from(new Set(state.courses.map((course) => course.fromLang))).sort(
-    (a, b) => a.localeCompare(b),
-  );
-  const options = [`<option value="">Select base language</option>`].concat(
-    languages.map((lang) => `<option value="${lang}">${lang}</option>`),
-  );
+  const languageMeta = new Map();
+  state.courses.forEach((course) => {
+    if (!languageMeta.has(course.fromLang)) {
+      languageMeta.set(course.fromLang, {
+        code: course.fromCode,
+        flag: getLanguageFlag(course.fromCode, course.fromLang),
+      });
+    }
+  });
+
+  const languages = Array.from(languageMeta.keys()).sort((a, b) => a.localeCompare(b));
+  const options = [`<option value="">Select base language</option>`];
+  languages.forEach((lang) => {
+    const meta = languageMeta.get(lang) || { flag: "🌐" };
+    options.push(`<option value="${lang}">${meta.flag} ${lang}</option>`);
+  });
   dom.fromLangSelect.innerHTML = options.join("");
   if (state.selectedFromLang && !languages.includes(state.selectedFromLang)) {
     state.selectedFromLang = null;
@@ -506,6 +585,7 @@ function populateFromLanguageSelect() {
   } else {
     dom.fromLangSelect.selectedIndex = 0;
   }
+  updateSwapButton();
 }
 
 function populateToLanguageSelect(fromLang) {
@@ -530,21 +610,22 @@ function populateToLanguageSelect(fromLang) {
   }, new Map());
   const options = [`<option value="">Select target language</option>`];
   targets.forEach((course) => {
-    const levelLabel = (course.levelShort && course.levelShort.toUpperCase()) || course.level || "";
     const count = duplicateCounts.get(course.toLang.toLowerCase()) || 0;
-    let label = course.toLang;
+    const flag = getLanguageFlag(course.toCode, course.toLang);
+    const descriptors = [];
     if (count > 1) {
-      if (levelLabel) {
-        label += ` (${levelLabel})`;
-      } else if (course.unitsCount) {
-        label += ` (${course.unitsCount} units)`;
-      } else if (course.updated) {
-        label += ` (${course.updated})`;
-      } else {
-        label += " (variant)";
+      if (course.levelShort) {
+        descriptors.push(course.levelShort);
+      }
+      if (!descriptors.length && course.unitsCount) {
+        descriptors.push(`${course.unitsCount} units`);
+      }
+      if (!descriptors.length && course.updated) {
+        descriptors.push(course.updated);
       }
     }
-    options.push(`<option value="${course.key}">${label}</option>`);
+    const descriptorText = descriptors.length ? ` • ${descriptors.join(" · ")}` : "";
+    options.push(`<option value="${course.key}">${flag} ${course.toLang}${descriptorText}</option>`);
   });
   dom.toLangSelect.innerHTML = options.join("");
   dom.toLangSelect.disabled = false;
@@ -569,6 +650,38 @@ function populateToLanguageSelect(fromLang) {
   } else {
     dom.toLangSelect.selectedIndex = 0;
   }
+  updateSwapButton();
+}
+
+function findCourseKey(fromLang, toLang, levelShort) {
+  if (!fromLang || !toLang) return null;
+  const matches = state.courses.filter(
+    (course) => course.fromLang === fromLang && course.toLang === toLang,
+  );
+  if (!matches.length) return null;
+  if (matches.length === 1) return matches[0].key;
+  if (levelShort) {
+    const exact = matches.find((course) => (course.levelShort || "").toUpperCase() === levelShort.toUpperCase());
+    if (exact) return exact.key;
+  }
+  return matches[0].key;
+}
+
+function updateSwapButton() {
+  if (!dom.swapButton) return;
+  const fromLang = dom.fromLangSelect.value;
+  const toValue = dom.toLangSelect.value;
+  if (!fromLang || !toValue || !state.courseMap.has(toValue)) {
+    dom.swapButton.disabled = true;
+    return;
+  }
+  const currentCourse = state.courseMap.get(toValue);
+  if (!currentCourse) {
+    dom.swapButton.disabled = true;
+    return;
+  }
+  const reverseKey = findCourseKey(currentCourse.toLang, currentCourse.fromLang, currentCourse.levelShort);
+  dom.swapButton.disabled = !reverseKey;
 }
 
 function populateSections({ autoSelect = false } = {}) {
@@ -582,12 +695,11 @@ function populateSections({ autoSelect = false } = {}) {
   }
 
   const options = course.sections
-    .map(
-      (section, index) =>
-        `<option value="${index}">Section ${section.sectionIndex}${
-          section.title ? `: ${section.title}` : ""
-        } (${section.units.length} units)</option>`,
-    )
+    .map((section, index) => {
+      const descriptor = section.units.length ? ` (${section.units.length} units)` : "";
+      const titleText = section.title ? `: ${section.title}` : "";
+      return `<option value="${index}">Section ${section.sectionIndex}${titleText}${descriptor}</option>`;
+    })
     .join("");
 
   dom.sectionSelect.innerHTML = options;
@@ -602,6 +714,7 @@ function populateSections({ autoSelect = false } = {}) {
   }
 
   dom.sectionSelect.value = String(state.selection.sectionIndex);
+  updateSectionHint();
   return true;
 }
 
@@ -646,13 +759,40 @@ function populateUnits({ autoSelect = false } = {}) {
   }
 
   dom.unitSelect.value = String(state.selection.unitIndex);
+  updateSectionHint();
+  updateSwapButton();
   return true;
+}
+
+function updateSectionHint() {
+  if (!dom.sectionCEFRHint) return;
+  const course = state.currentCourseData;
+  const { sectionIndex } = state.selection;
+  if (!course || sectionIndex === null || !course.sections[sectionIndex]) {
+    dom.sectionCEFRHint.textContent = "";
+    return;
+  }
+  const section = course.sections[sectionIndex];
+  const details = [];
+  dom.sectionCEFRHint.textContent = details.join(" • ") || "";
+}
+
+function resetStats() {
+  if (dom.statFinishDate) {
+    dom.statFinishDate.textContent = "—";
+  }
+  if (dom.statLessonsLeft) {
+    dom.statLessonsLeft.textContent = "—";
+  }
+  if (dom.statMinutesPerDay) {
+    dom.statMinutesPerDay.textContent = "—";
+  }
 }
 
 function renderCourseMeta(detail) {
   if (!detail) {
     dom.courseMeta.innerHTML = "";
-    dom.etaChip.hidden = true;
+    resetStats();
     return;
   }
   const { meta, totals } = detail;
@@ -681,7 +821,8 @@ function computeAndRender({ force = false } = {}) {
     dom.resultDetail.textContent = "";
     dom.resultMeta.textContent = "";
     updateProgressSummary(0, 0);
-    dom.etaChip.hidden = true;
+    resetStats();
+    updateSwapButton();
     return;
   }
 
@@ -691,7 +832,7 @@ function computeAndRender({ force = false } = {}) {
     dom.resultDetail.textContent = "";
     dom.resultMeta.textContent = "";
     updateProgressSummary(0, course.totals.activities);
-    dom.etaChip.hidden = true;
+    resetStats();
     return;
   }
   if (unitIndex === null) {
@@ -699,7 +840,7 @@ function computeAndRender({ force = false } = {}) {
     dom.resultDetail.textContent = "";
     dom.resultMeta.textContent = "";
     updateProgressSummary(0, course.totals.activities);
-    dom.etaChip.hidden = true;
+    resetStats();
     return;
   }
 
@@ -709,8 +850,8 @@ function computeAndRender({ force = false } = {}) {
     dom.resultHeadline.textContent = "Unit data missing.";
     dom.resultDetail.textContent = "Choose a different unit or refresh the course.";
     dom.resultMeta.textContent = "";
-    dom.etaChip.hidden = true;
     updateProgressSummary(0, course.totals.activities);
+    resetStats();
     return;
   }
   const lessonsInUnit = Math.max(0, unit.activities || 0);
@@ -718,8 +859,8 @@ function computeAndRender({ force = false } = {}) {
     dom.resultHeadline.textContent = "Lesson data unavailable.";
     dom.resultDetail.textContent = "Refresh the course or pick a different unit to continue.";
     dom.resultMeta.textContent = "";
-    dom.etaChip.hidden = true;
     updateProgressSummary(0, course.totals.activities);
+    resetStats();
     return;
   }
 
@@ -735,8 +876,11 @@ function computeAndRender({ force = false } = {}) {
       ? computeFinish(totalLessons, lessonsCompleted)
       : computePace(totalLessons, lessonsCompleted);
 
-  if (!result) return;
-  renderResult(result);
+  if (!result) {
+    resetStats();
+    return;
+  }
+  renderResult(result, { totalLessons, lessonsCompleted });
 
   if (force && state.debug) {
     renderDebug(course);
@@ -764,7 +908,6 @@ function computeFinish(totalLessons, lessonsCompleted) {
     dom.resultHeadline.textContent = "🎉 You have finished this course!";
     dom.resultDetail.textContent = "";
     dom.resultMeta.textContent = "";
-    dom.etaChip.hidden = true;
     return null;
   }
   const minutesPerLesson = Math.max(state.minutesPerActivity, 0.1);
@@ -773,13 +916,14 @@ function computeFinish(totalLessons, lessonsCompleted) {
   const days = Math.ceil(minutesLeft / minutesPerDay);
   const finishDate = new Date();
   finishDate.setDate(finishDate.getDate() + days);
-  dom.etaChip.hidden = false;
-  dom.etaDate.textContent = formatDate(finishDate);
-  dom.etaDate.setAttribute("datetime", finishDate.toISOString());
   return {
     headline: `You will finish in about ${days} ${days === 1 ? "day" : "days"}.`,
     detail: `That’s ${formatNumber(minutesLeft)} minutes of practice left (${lessonsLeft} lessons).`,
-    meta: `Stay on pace with ${minutesPerDay} minutes per day at ~${minutesPerLesson.toFixed(1)} min each.`,
+    finishDate,
+    lessonsLeft,
+    minutesPerDay,
+    minutesPerLesson,
+    mode: "finish",
   };
 }
 
@@ -789,25 +933,58 @@ function computePace(totalLessons, lessonsCompleted) {
     dom.resultHeadline.textContent = "🎉 You have finished this course!";
     dom.resultDetail.textContent = "Try a new course or adjust your inputs.";
     dom.resultMeta.textContent = "";
-    dom.etaChip.hidden = true;
     return null;
   }
   const minutesPerLesson = Math.max(state.minutesPerActivity, 0.1);
   const daysTarget = Math.max(state.targetDays, 1);
   const minutesPerDay = Math.ceil((lessonsLeft * minutesPerLesson) / daysTarget);
   const lessonsPerDay = Math.ceil(lessonsLeft / daysTarget);
-  dom.etaChip.hidden = true;
+  const finishDate = new Date();
+  finishDate.setDate(finishDate.getDate() + daysTarget);
   return {
     headline: `Spend about ${minutesPerDay} minutes per day.`,
     detail: `That’s roughly ${lessonsPerDay} ${lessonsPerDay === 1 ? "lesson" : "lessons"} each day to finish in ${daysTarget} days.`,
-    meta: `${lessonsLeft} lessons left • ~${minutesPerLesson.toFixed(1)} minutes per lesson.`,
+    finishDate,
+    lessonsLeft,
+    minutesPerDay,
+    minutesPerLesson,
+    targetDays: daysTarget,
+    mode: "pace",
   };
 }
 
-function renderResult(result) {
+function renderResult(result, { totalLessons, lessonsCompleted }) {
   dom.resultHeadline.textContent = result.headline;
   dom.resultDetail.textContent = result.detail;
   dom.resultMeta.textContent = result.meta;
+  updateStats(result, totalLessons, lessonsCompleted);
+}
+
+function updateStats(result, totalLessons, lessonsCompleted) {
+  if (!result) {
+    resetStats();
+    return;
+  }
+  const lessonsLeftRaw = result.lessonsLeft != null ? result.lessonsLeft : Math.max(totalLessons - lessonsCompleted, 0);
+  const lessonsLeft = Number.isFinite(lessonsLeftRaw) && lessonsLeftRaw >= 0 ? lessonsLeftRaw : 0;
+
+  if (dom.statFinishDate) {
+    if (result.finishDate instanceof Date && !Number.isNaN(result.finishDate.getTime())) {
+      dom.statFinishDate.textContent = formatDate(result.finishDate);
+    } else {
+      dom.statFinishDate.textContent = "—";
+    }
+  }
+  if (dom.statLessonsLeft) {
+    dom.statLessonsLeft.textContent = lessonsLeft ? formatNumber(lessonsLeft) : "0";
+  }
+  if (dom.statMinutesPerDay) {
+    let minutesValue = result.minutesPerDay;
+    if (typeof minutesValue !== "number" || Number.isNaN(minutesValue)) {
+      minutesValue = state.minutesPerDay;
+    }
+    dom.statMinutesPerDay.textContent = `${formatNumber(minutesValue)} min`;
+  }
 }
 
 function updateProgressSummary(done, total) {
@@ -1038,6 +1215,25 @@ function normalizeLevel(level) {
   return cleaned.toUpperCase();
 }
 
+function codeToFlag(code) {
+  if (!code || code.length < 2) return null;
+  const alpha2 = code.slice(0, 2).toUpperCase();
+  const first = alpha2.codePointAt(0);
+  const second = alpha2.codePointAt(1);
+  if (!first || !second) return null;
+  return String.fromCodePoint(first + 127397, second + 127397);
+}
+
+function getLanguageFlag(code, name) {
+  const normalized = normalizeLanguageCode(code);
+  if (normalized && LANGUAGE_FLAGS[normalized]) {
+    return LANGUAGE_FLAGS[normalized];
+  }
+  const derived = normalized ? codeToFlag(normalized) : null;
+  if (derived) return derived;
+  return name && name.toLowerCase().includes("english") ? "🇺🇸" : "🌐";
+}
+
 function parseCourseDetail(text, meta) {
   const clean = text
     .replace(/<br\s*\/?>/gi, "\n")
@@ -1074,16 +1270,22 @@ function parseCourseDetail(text, meta) {
       const [, headingRaw, sectionNumber, unitCount, rest] = sectionMatch;
       const headingClean = headingRaw.trim().replace(/[:\s]+$/, "");
       const sectionTitleCandidate = rest.trim().replace(/^[\s:–-]+/, "");
-      const sectionTitle = sectionTitleCandidate || headingClean;
+      const originalTitle = sectionTitleCandidate || headingClean;
+      const levelInTitle = normalizeLevel(originalTitle);
+      const displayTitle = originalTitle
+        .replace(/CEFR\s*[A-C][0-3](?:\+|-)?/gi, "")
+        .replace(/\s{2,}/g, " ")
+        .trim() || originalTitle;
       currentSection = {
         sectionIndex: Number(sectionNumber),
         unitCount: Number(unitCount),
-        title: sectionTitle,
+        title: displayTitle,
+        rawTitle: originalTitle,
+        cefr: levelInTitle || "",
         units: [],
       };
       sections.push(currentSection);
       currentUnit = null;
-      const levelInTitle = normalizeLevel(sectionTitle);
       if (levelInTitle && !meta.levelShort) {
         meta.levelShort = levelInTitle;
         meta.level = `CEFR ${levelInTitle}`;
@@ -1117,7 +1319,9 @@ function parseCourseDetail(text, meta) {
     }
   });
 
-  let totals = sections.reduce(
+  const filteredSections = sections.filter((section) => section.units.length > 0);
+
+  let totals = filteredSections.reduce(
     (acc, section) => {
       section.units.forEach((unit) => {
         if (typeof unit.activities === "number") {
@@ -1141,7 +1345,7 @@ function parseCourseDetail(text, meta) {
   const fallbackLessons = metaAverage || computedAverage || 10;
 
   let hadMissing = false;
-  sections.forEach((section) => {
+  filteredSections.forEach((section) => {
     section.units.forEach((unit) => {
       if (!unit.activities || unit.activities <= 0) {
         unit.activities = fallbackLessons;
@@ -1151,7 +1355,7 @@ function parseCourseDetail(text, meta) {
     });
   });
 
-  totals = sections.reduce(
+  totals = filteredSections.reduce(
     (acc, section) => {
       section.units.forEach((unit) => {
         acc.activities += unit.activities;
@@ -1181,7 +1385,7 @@ function parseCourseDetail(text, meta) {
       fallbackLessons,
       levelShort: meta.levelShort || normalizeLevel(meta.level),
     },
-    sections,
+    sections: filteredSections,
     totals,
   };
 }

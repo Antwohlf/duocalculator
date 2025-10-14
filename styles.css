@@ -183,6 +183,39 @@ form {
   flex: 1 1 220px;
 }
 
+.language-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.swap-button {
+  border: 2px solid rgba(75, 75, 75, 0.2);
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.95);
+  color: var(--color-grey);
+  font-weight: 700;
+  font-size: 1rem;
+  width: 36px;
+  height: 36px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: transform var(--transition), box-shadow var(--transition), background var(--transition);
+  box-shadow: 0 4px 12px rgba(43, 43, 43, 0.15);
+}
+
+.swap-button:hover:not(:disabled) {
+  transform: translateY(-1px);
+  background: rgba(137, 226, 25, 0.2);
+}
+
+.swap-button:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
 .field-group.inline {
   align-items: flex-start;
 }
@@ -200,6 +233,12 @@ select {
   padding: 12px 14px;
   background: rgba(255, 255, 255, 0.85);
   transition: border-color var(--transition), box-shadow var(--transition);
+}
+
+input:hover,
+select:hover {
+  border-color: var(--color-accent-dark);
+  box-shadow: 0 0 0 3px rgba(88, 204, 2, 0.15);
 }
 
 select:disabled,
@@ -225,10 +264,11 @@ select:focus {
   border: none;
   background: transparent;
   color: var(--color-accent);
-  font-size: 0.8rem;
-  font-weight: 600;
-  text-decoration: underline;
+  font-size: 0.85rem;
+  font-weight: 700;
   cursor: pointer;
+  line-height: 1;
+  text-decoration: underline;
 }
 
 .tooltip {
@@ -255,7 +295,7 @@ select:focus {
   display: flex;
   gap: 12px;
   align-items: center;
-  justify-content: space-between;
+  justify-content: flex-start;
 }
 
 .primary-button {
@@ -271,7 +311,7 @@ select:focus {
 }
 
 .secondary-button {
-  border: none;
+  border: 2px solid rgba(75, 75, 75, 0.25);
   border-radius: 999px;
   background: rgba(75, 75, 75, 0.12);
   color: var(--color-grey);
@@ -317,6 +357,38 @@ select:focus {
   display: flex;
   flex-direction: column;
   gap: 12px;
+}
+
+.result-stats {
+  margin: 16px 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: 12px;
+}
+
+.stat {
+  background: rgba(255, 255, 255, 0.85);
+  border: 2px solid rgba(88, 204, 2, 0.25);
+  border-radius: var(--radius-medium);
+  padding: 12px;
+  box-shadow: 0 8px 16px rgba(43, 43, 43, 0.12);
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.stat-label {
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--color-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.stat-value {
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: var(--color-grey);
 }
 
 .result-line {
@@ -385,27 +457,16 @@ select:focus {
   text-decoration: underline;
 }
 
-.eta-chip {
-  align-self: flex-start;
-  background: rgba(137, 226, 25, 0.2);
-  padding: 10px 16px;
-  border-radius: 999px;
-  display: inline-flex;
-  flex-direction: column;
-  gap: 4px;
-  font-size: 0.85rem;
-  box-shadow: 0 6px 14px rgba(88, 204, 2, 0.25);
+.card-note {
+  margin-top: 20px;
+  font-size: 0.8rem;
+  color: var(--color-muted);
+  text-align: right;
 }
 
-.eta-label {
+.card-note a {
+  color: var(--color-accent-dark);
   font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
-}
-
-.eta-chip time {
-  font-size: 1rem;
-  font-weight: 600;
 }
 
 .debug-panel {

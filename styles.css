@@ -29,10 +29,9 @@ body {
   margin: 0;
   min-height: 100vh;
   font-family: "Nunito", "Baloo 2", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
-  background:
-    radial-gradient(circle at 20% 20%, rgba(137, 226, 25, 0.45) 0%, rgba(137, 226, 25, 0) 45%),
-    radial-gradient(circle at 80% 10%, rgba(88, 204, 2, 0.35) 0%, rgba(88, 204, 2, 0) 50%),
-    var(--color-bg);
+  background: radial-gradient(circle at 25% 25%, rgba(88, 204, 2, 0.25) 0%, rgba(88, 204, 2, 0) 42%),
+    radial-gradient(circle at 78% 12%, rgba(88, 204, 2, 0.18) 0%, rgba(88, 204, 2, 0) 48%),
+    linear-gradient(180deg, #e2e6ea 0%, #d6dce2 50%, #e9edf1 100%);
   color: var(--color-text);
   display: flex;
   align-items: stretch;
@@ -142,18 +141,21 @@ body {
 .card {
   background: var(--color-surface);
   border-radius: var(--radius-large);
-  box-shadow: var(--shadow-soft);
+  box-shadow:
+    0 16px 40px rgba(88, 204, 2, 0.08),
+    0 18px 36px rgba(0, 0, 0, 0.25);
   padding: 28px clamp(24px, 5vw, 44px);
   display: flex;
   flex-direction: column;
   gap: 24px;
-  border: 3px solid rgba(88, 204, 2, 0.35);
+  border: 3px solid rgba(88, 204, 2, 0.5);
 }
 
 .card-title {
   margin: 0;
   font-size: 1.3rem;
   font-weight: 700;
+  color: var(--color-accent-dark);
 }
 
 .card-subsection {

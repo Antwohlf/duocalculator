@@ -1,8 +1,10 @@
 const http = require("http");
 const path = require("path");
 const fs = require("fs/promises");
+const fsSync = require("fs");
 
 const proxyHandler = require("./api/proxy");
+const reportBugHandler = require("./api/reportBug");
 
 const MIME_TYPES = {
   ".html": "text/html; charset=utf-8",
@@ -18,6 +20,35 @@ const MIME_TYPES = {
 };
 
 const ROOT_DIR = __dirname;
+const DOTENV_PATH = path.join(ROOT_DIR, ".env");
+
+function loadEnvFile() {
+  if (!fsSync.existsSync(DOTENV_PATH)) return;
+  try {
+    const contents = fsSync.readFileSync(DOTENV_PATH, "utf8");
+    contents.split(/\r?\n/).forEach((line) => {
+      const trimmed = line.trim();
+      if (!trimmed || trimmed.startsWith("#")) return;
+      const eqIndex = trimmed.indexOf("=");
+      if (eqIndex === -1) return;
+      const key = trimmed.slice(0, eqIndex).trim();
+      let value = trimmed.slice(eqIndex + 1).trim();
+      if (!key) return;
+      const quoteMatch = value.match(/^(['"])(.*)\1$/);
+      if (quoteMatch) {
+        value = quoteMatch[2];
+      }
+      if (process.env[key] === undefined) {
+        process.env[key] = value;
+      }
+    });
+  } catch (error) {
+    console.warn("Failed to read .env file:", error);
+  }
+}
+
+loadEnvFile();
+
 const PORT = Number(process.env.PORT) || 3000;
 
 async function serveStatic(url, res) {
@@ -58,6 +89,11 @@ async function handleRequest(req, res) {
   if (url.pathname.startsWith("/api/proxy")) {
     req.query = Object.fromEntries(url.searchParams.entries());
     await proxyHandler(req, res);
+    return;
+  }
+
+  if (url.pathname === "/api/report-bug") {
+    await reportBugHandler(req, res);
     return;
   }
 

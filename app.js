@@ -1,6 +1,9 @@
 const REMOTE_BASE = "https://duolingodata.com/";
 const PROXY_ENDPOINT = "/api/proxy?url=";
 const STORAGE_KEY = "duocalculator:v1";
+const BUG_MIN_DESC = 20;
+const BUG_MAX_DESC = 2000;
+const BUG_MAX_EMAIL = 254;
 
 const LANGUAGE_NAME_OVERRIDES = {
   af: "Afrikaans",
@@ -107,7 +110,7 @@ const LANGUAGE_FLAGS = {
   ru: "🇷🇺",
   ar: "🇸🇦",
   hi: "🇮🇳",
-  ca: "🌍",
+  ca: "🇨🇦",
   nl: "🇳🇱",
   sv: "🇸🇪",
   da: "🇩🇰",
@@ -135,6 +138,63 @@ const LANGUAGE_FLAGS = {
   kl: "🇬🇱",
   nb: "🇳🇴",
   nv: "🇺🇸",
+  af: "🇿🇦",
+  am: "🇪🇹",
+  az: "🇦🇿",
+  be: "🇧🇾",
+  bg: "🇧🇬",
+  bn: "🇧🇩",
+  bs: "🇧🇦",
+  ceb: "🇵🇭",
+  co: "🇫🇷",
+  cs: "🇨🇿",
+  cy: "🏴",
+  eo: "🌍",
+  et: "🇪🇪",
+  eu: "🇪🇸",
+  fa: "🇮🇷",
+  gl: "🇪🇸",
+  gu: "🇮🇳",
+  he: "🇮🇱",
+  hr: "🇭🇷",
+  hu: "🇭🇺",
+  hy: "🇦🇲",
+  id: "🇮🇩",
+  ig: "🇳🇬",
+  is: "🇮🇸",
+  ka: "🇬🇪",
+  kk: "🇰🇿",
+  lb: "🇱🇺",
+  lt: "🇱🇹",
+  lv: "🇱🇻",
+  mg: "🇲🇬",
+  mk: "🇲🇰",
+  ml: "🇮🇳",
+  mn: "🇲🇳",
+  mr: "🇮🇳",
+  ms: "🇲🇾",
+  mt: "🇲🇹",
+  my: "🇲🇲",
+  ne: "🇳🇵",
+  pl: "🇵🇱",
+  qu: "🇵🇪",
+  ro: "🇷🇴",
+  sh: "🇷🇸",
+  si: "🇱🇰",
+  sk: "🇸🇰",
+  sl: "🇸🇮",
+  sq: "🇦🇱",
+  sr: "🇷🇸",
+  ta: "🇮🇳",
+  th: "🇹🇭",
+  tr: "🇹🇷",
+  uk: "🇺🇦",
+  ur: "🇵🇰",
+  uz: "🇺🇿",
+  vi: "🇻🇳",
+  xh: "🇿🇦",
+  yi: "🇮🇱",
+  zu: "🇿🇦",
 };
 
 const dom = {
@@ -165,6 +225,16 @@ const dom = {
   toastRegion: document.getElementById("toast-region"),
   debugPanel: document.getElementById("debug-panel"),
   debugOutput: document.getElementById("debug-output"),
+  bugTrigger: document.getElementById("bug-report-trigger"),
+  bugBackdrop: document.getElementById("bug-modal-backdrop"),
+  bugClose: document.getElementById("bug-modal-close"),
+  bugForm: document.getElementById("bug-form"),
+  bugDescription: document.getElementById("bug-desc"),
+  bugEmail: document.getElementById("bug-email"),
+  bugError: document.getElementById("bug-error"),
+  bugSuccess: document.getElementById("bug-success"),
+  bugSubmit: document.getElementById("bug-submit"),
+  bugCancel: document.getElementById("bug-cancel"),
 };
 
 const state = {
@@ -184,6 +254,14 @@ const state = {
   minutesPerDay: 30,
   targetDays: 90,
   debug: false,
+  bug: {
+    isOpen: false,
+    description: "",
+    email: "",
+    isSubmitting: false,
+    error: "",
+    success: "",
+  },
 };
 
 const debugEnabled = new URLSearchParams(window.location.search).has("debug");
@@ -201,6 +279,7 @@ function init() {
   setupTooltip();
   setupForm();
   setupReset();
+  setupBugReport();
   renderStoredInputs();
   loadCourses();
   setActiveTab(state.activeTab);
@@ -538,8 +617,24 @@ async function ensureCourseDetail(courseKey) {
   }
   const meta = state.courseMap.get(courseKey);
   try {
+    if (!meta.detailHref) {
+      const synthetic = buildSyntheticDetail(meta);
+      state.courseDetailCache.set(courseKey, synthetic);
+      state.currentCourseData = synthetic;
+      renderCourseMeta(synthetic);
+      refreshLevelLabel(courseKey, synthetic.meta);
+      return;
+    }
     const { body } = await fetchViaProxy(meta.detailHref);
-    const detail = parseCourseDetail(body, meta);
+    let detail = parseCourseDetail(body, meta);
+    if (!detail.sections || detail.sections.length === 0) {
+      const fallbackMeta = {
+        ...meta,
+        unitsCount: meta.unitsCount || detail?.totals?.units || 1,
+        lessonsCount: meta.lessonsCount || detail?.totals?.activities || null,
+      };
+      detail = buildSyntheticDetail(fallbackMeta);
+    }
     state.courseDetailCache.set(courseKey, detail);
     state.currentCourseData = detail;
     renderCourseMeta(detail);
@@ -549,7 +644,16 @@ async function ensureCourseDetail(courseKey) {
     }
   } catch (error) {
     console.error(error);
-    showToast(`Unable to load course detail for ${meta.fromLang} → ${meta.toLang}.`);
+    const fallback = buildSyntheticDetail(meta);
+    if (fallback) {
+      state.courseDetailCache.set(courseKey, fallback);
+      state.currentCourseData = fallback;
+      renderCourseMeta(fallback);
+      refreshLevelLabel(courseKey, fallback.meta);
+      showToast(`Using estimated course data for ${meta.fromLang} → ${meta.toLang}.`);
+    } else {
+      showToast(`Unable to load course detail for ${meta.fromLang} → ${meta.toLang}.`);
+    }
   }
 }
 
@@ -1145,9 +1249,11 @@ function parseCourseList(html) {
       const lessonsCount = numberFromCell(getCell(lessonsIndex, -1));
       const updated = normalizeText(getCell(updatedIndex, -1));
 
-      if (!absoluteHref) return null;
-
-      const key = `${absoluteHref}`;
+      const key =
+        absoluteHref ||
+        `fallback:${(fromLang || "").toLowerCase()}::${(toLang || "").toLowerCase()}::${
+          levelShort || levelRaw || updated || unitsCount || lessonsCount || "v1"
+        }`;
       return {
         key,
         title: `${fromLang} → ${toLang}`,
@@ -1163,7 +1269,18 @@ function parseCourseList(html) {
         detailHref: absoluteHref,
       };
     })
-    .filter(Boolean);
+    .filter((course) => {
+      if (!course) return false;
+      const from = (course.fromLang || "").toLowerCase();
+      const to = (course.toLang || "").toLowerCase();
+      if (from && to && from === to) {
+        return false;
+      }
+      if (course.fromCode && course.toCode && course.fromCode === course.toCode) {
+        return false;
+      }
+      return true;
+    });
 }
 
 function extractLanguageCodes(detailHref) {
@@ -1248,6 +1365,66 @@ function getLanguageFlag(code, name) {
   const derived = normalized ? codeToFlag(normalized) : null;
   if (derived) return derived;
   return name && name.toLowerCase().includes("english") ? "🇺🇸" : "🌐";
+}
+
+function buildSyntheticDetail(meta) {
+  if (!meta) return null;
+  const unitsCount = Math.max(1, meta.unitsCount || 1);
+  const totalLessons = Math.max(unitsCount, meta.lessonsCount || unitsCount * 10);
+  const perUnitBase = Math.max(1, Math.floor(totalLessons / unitsCount));
+  let remaining = totalLessons - perUnitBase * unitsCount;
+  const unitsPerSection = 10;
+  const sections = [];
+  let unitNumber = 1;
+  let sectionIndex = 1;
+  while (unitNumber <= unitsCount) {
+    const sectionUnits = [];
+    for (let i = 0; i < unitsPerSection && unitNumber <= unitsCount; i += 1) {
+      const extra = remaining > 0 ? 1 : 0;
+      if (remaining > 0) remaining -= 1;
+      const activities = perUnitBase + extra;
+      sectionUnits.push({
+        sectionIndex,
+        unitIndex: unitNumber,
+        title: `Unit ${unitNumber}`,
+        activityPattern: [],
+        activities,
+      });
+      unitNumber += 1;
+    }
+    sections.push({
+      sectionIndex,
+      unitCount: sectionUnits.length,
+      title: "",
+      rawTitle: "",
+      cefr: meta.levelShort || "",
+      units: sectionUnits,
+    });
+    sectionIndex += 1;
+  }
+
+  const totals = sections.reduce(
+    (acc, section) => {
+      section.units.forEach((unit) => {
+        acc.activities += unit.activities;
+        acc.units += 1;
+      });
+      return acc;
+    },
+    { activities: 0, units: 0 },
+  );
+
+  return {
+    meta: {
+      ...meta,
+      title: `${meta.fromLang} → ${meta.toLang}`,
+      fallbackLessons: perUnitBase,
+      levelShort: meta.levelShort || normalizeLevel(meta.level),
+      detailHref: meta.detailHref || null,
+    },
+    sections,
+    totals,
+  };
 }
 
 function parseCourseDetail(text, meta) {
@@ -1419,6 +1596,152 @@ function showToast(message) {
       toast.remove();
     }, 220);
   }, 5000);
+}
+
+function setupBugReport() {
+  if (!dom.bugTrigger || !dom.bugBackdrop || !dom.bugForm) return;
+
+  const openModal = () => {
+    state.bug.isOpen = true;
+    state.bug.error = "";
+    state.bug.success = "";
+    dom.bugBackdrop.hidden = false;
+    document.body.classList.add("modal-open");
+    updateBugFormFields();
+    updateBugMessages();
+    updateBugCharCount();
+    requestAnimationFrame(() => {
+      dom.bugDescription?.focus();
+    });
+  };
+
+  const closeModal = () => {
+    state.bug.isOpen = false;
+    dom.bugBackdrop.hidden = true;
+    document.body.classList.remove("modal-open");
+    dom.bugTrigger.focus();
+  };
+
+  const cancelModal = () => {
+    state.bug.error = "";
+    updateBugMessages();
+    closeModal();
+  };
+
+  dom.bugTrigger.addEventListener("click", openModal);
+
+  dom.bugBackdrop.addEventListener("click", (event) => {
+    if (event.target === dom.bugBackdrop) {
+      cancelModal();
+    }
+  });
+
+  dom.bugClose?.addEventListener("click", cancelModal);
+  dom.bugCancel?.addEventListener("click", cancelModal);
+
+  dom.bugDescription?.addEventListener("input", (event) => {
+    state.bug.description = event.target.value || "";
+    updateBugCharCount();
+  });
+
+  dom.bugEmail?.addEventListener("input", (event) => {
+    state.bug.email = event.target.value || "";
+  });
+
+  window.addEventListener("keydown", (event) => {
+    if (event.key === "Escape" && state.bug.isOpen) {
+      cancelModal();
+    }
+  });
+
+  dom.bugForm.addEventListener("submit", async (event) => {
+    event.preventDefault();
+    state.bug.error = "";
+    state.bug.success = "";
+    const description = (dom.bugDescription.value || "").trim();
+    const email = (dom.bugEmail.value || "").trim().slice(0, BUG_MAX_EMAIL);
+    state.bug.description = description;
+    state.bug.email = email;
+
+    if (description.length < BUG_MIN_DESC) {
+      state.bug.error = `Please provide at least ${BUG_MIN_DESC} characters.`;
+      updateBugMessages();
+      dom.bugDescription.focus();
+      return;
+    }
+
+    state.bug.isSubmitting = true;
+    updateBugSubmitState();
+
+    try {
+      const response = await fetch("/api/report-bug", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          description,
+          userEmail: email || undefined,
+          pageUrl: window.location.href,
+          userAgent: navigator.userAgent,
+        }),
+      });
+      const data = await response.json().catch(() => ({}));
+      if (!response.ok || data.error) {
+        throw new Error(data.error || "Failed to submit");
+      }
+      state.bug.description = "";
+      state.bug.success = "Thanks — your bug report has been sent.";
+      dom.bugDescription.value = "";
+      updateBugCharCount();
+      updateBugMessages();
+      showToast(state.bug.success);
+      closeModal();
+    } catch (error) {
+      state.bug.error = error instanceof Error ? error.message : "Something went wrong";
+      updateBugMessages();
+    } finally {
+      state.bug.isSubmitting = false;
+      updateBugSubmitState();
+    }
+  });
+
+  updateBugFormFields();
+  updateBugMessages();
+  updateBugCharCount();
+}
+
+function updateBugFormFields() {
+  if (dom.bugDescription) {
+    dom.bugDescription.value = state.bug.description;
+  }
+  if (dom.bugEmail) {
+    dom.bugEmail.value = state.bug.email;
+  }
+}
+
+function updateBugMessages() {
+  if (dom.bugError) {
+    dom.bugError.textContent = state.bug.error || "";
+  }
+  if (dom.bugSuccess) {
+    dom.bugSuccess.textContent = state.bug.success || "";
+  }
+}
+
+function updateBugCharCount() {
+  if (!dom.bugDescription) return;
+  const current = dom.bugDescription.value.length;
+  const safeCurrent = Math.min(current, BUG_MAX_DESC);
+  const counter = `${safeCurrent}/${BUG_MAX_DESC}`;
+  const target = document.getElementById("bug-desc-count");
+  if (target) {
+    target.textContent = counter;
+  }
+}
+
+function updateBugSubmitState() {
+  if (!dom.bugSubmit) return;
+  dom.bugSubmit.disabled = state.bug.isSubmitting;
+  dom.bugSubmit.textContent = state.bug.isSubmitting ? "Sending…" : "Submit bug";
 }
 
 function formatNumber(value) {

@@ -20,28 +20,47 @@
             <span class="brand-tagline">Plan your language learning journey</span>
           </div>
         </div>
-        <nav class="tabs" role="tablist" aria-label="Calculator modes">
-          <button
-            class="tab-button"
-            role="tab"
-            id="tab-finish"
-            aria-controls="panel-finish"
-            aria-selected="true"
-            data-tab="finish"
-          >
-            How long until I finish?
+        <div class="header-controls">
+          <nav class="tabs" role="tablist" aria-label="Calculator modes">
+            <button
+              class="tab-button"
+              role="tab"
+              id="tab-finish"
+              aria-controls="panel-finish"
+              aria-selected="true"
+              data-tab="finish"
+            >
+              How long until I finish?
+            </button>
+            <button
+              class="tab-button"
+              role="tab"
+              id="tab-pace"
+              aria-controls="panel-pace"
+              aria-selected="false"
+              data-tab="pace"
+            >
+              How much per day for my goal?
+            </button>
+          </nav>
+          <button type="button" class="secondary-button button-sm bug-button" id="bug-report-trigger">
+            <span class="bug-icon" aria-hidden="true">
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M8 16a4 4 0 0 0 8 0V9a4 4 0 0 0-8 0z" />
+                <path d="M12 2v2" />
+                <path d="m16 3 .88.88" />
+                <path d="M21 11h-2" />
+                <path d="M3 11h2" />
+                <path d="M8 3 7.12 3.88" />
+                <path d="m4 18 2-2" />
+                <path d="m20 18-2-2" />
+                <path d="M4 14h3" />
+                <path d="M17 14h3" />
+              </svg>
+            </span>
+            <span>Report bug</span>
           </button>
-          <button
-            class="tab-button"
-            role="tab"
-            id="tab-pace"
-            aria-controls="panel-pace"
-            aria-selected="false"
-            data-tab="pace"
-          >
-            How much per day for my goal?
-          </button>
-        </nav>
+        </div>
       </header>
       <main class="layout">
         <section class="card controls">
@@ -219,6 +238,65 @@
           pace.
         </p>
       </footer>
+      <div class="bug-modal-backdrop" id="bug-modal-backdrop" hidden>
+        <div
+          class="bug-modal"
+          role="dialog"
+          aria-modal="true"
+          aria-labelledby="bug-modal-title"
+          aria-describedby="bug-modal-description"
+        >
+          <div class="bug-modal-header">
+            <div>
+              <p class="bug-modal-overline">Feedback</p>
+              <h3 class="bug-modal-title" id="bug-modal-title">Report a bug</h3>
+              <p class="bug-modal-description" id="bug-modal-description">
+                Found something broken or confusing? Describe it here and we’ll take a look.
+              </p>
+            </div>
+            <button type="button" class="icon-button" id="bug-modal-close" aria-label="Close bug report dialog">
+              ✕
+            </button>
+          </div>
+          <form class="bug-form space-tight" id="bug-form">
+            <div class="field-group">
+              <label for="bug-desc">What happened?</label>
+              <textarea
+                id="bug-desc"
+                name="description"
+                rows="4"
+                minlength="20"
+                maxlength="2000"
+                required
+                aria-describedby="bug-desc-help"
+              ></textarea>
+              <div class="field-meta">
+                <span class="field-hint" id="bug-desc-help">Minimum 20 characters, keep it specific.</span>
+                <span class="char-count" id="bug-desc-count">0/2000</span>
+              </div>
+            </div>
+            <div class="field-group">
+              <label for="bug-email">Email (optional)</label>
+              <input
+                id="bug-email"
+                name="email"
+                type="email"
+                maxlength="254"
+                placeholder="you@example.com"
+                inputmode="email"
+              />
+            </div>
+            <p class="bug-message bug-error" id="bug-error" aria-live="polite"></p>
+            <p class="bug-message bug-success" id="bug-success" aria-live="polite"></p>
+            <div class="bug-form-actions">
+              <button type="button" class="secondary-button button-sm" id="bug-cancel">Cancel</button>
+              <button type="submit" class="primary-button button-sm" id="bug-submit">
+                Submit bug
+              </button>
+            </div>
+          </form>
+        </div>
+      </div>
       <div class="toast-region" role="status" aria-live="polite" id="toast-region"></div>
     </div>
 

@@ -75,6 +75,14 @@ body {
   gap: 16px;
 }
 
+.header-controls {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: 12px;
+}
+
 .brand-mascot {
   width: 64px;
   height: 64px;
@@ -309,6 +317,37 @@ select:focus {
   justify-content: flex-start;
 }
 
+.button-sm {
+  padding: 8px 12px;
+  font-size: 0.9rem;
+}
+
+.bug-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  white-space: nowrap;
+  background: rgba(255, 255, 255, 0.14);
+  border: 2px solid rgba(255, 255, 255, 0.9);
+  color: #ffffff;
+  box-shadow: 0 8px 18px rgba(0, 0, 0, 0.15);
+}
+
+.bug-icon svg {
+  display: block;
+}
+
+.bug-button:hover {
+  background: rgba(255, 255, 255, 0.2);
+  transform: translateY(-2px);
+  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.2);
+}
+
+.bug-button:focus-visible {
+  outline: 3px solid rgba(255, 255, 255, 0.9);
+  outline-offset: 3px;
+}
+
 .primary-button {
   border: none;
   border-radius: 999px;
@@ -331,6 +370,24 @@ select:focus {
   cursor: pointer;
   transition: background var(--transition), transform var(--transition), box-shadow var(--transition);
   box-shadow: 0 6px 14px rgba(43, 43, 43, 0.15);
+}
+
+.bug-button.secondary-button {
+  background: rgba(255, 255, 255, 0.14);
+  border-color: rgba(255, 255, 255, 0.9);
+  color: #ffffff;
+  box-shadow: 0 8px 18px rgba(0, 0, 0, 0.15);
+}
+
+.bug-button.secondary-button:hover {
+  background: rgba(255, 255, 255, 0.22);
+  transform: translateY(-2px);
+  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.2);
+}
+
+.bug-button.secondary-button:focus-visible {
+  outline: 3px solid rgba(255, 255, 255, 0.9);
+  outline-offset: 3px;
 }
 
 .secondary-button:hover {
@@ -513,6 +570,32 @@ select:focus {
   font-weight: 600;
 }
 
+.icon-button {
+  border: 2px solid rgba(75, 75, 75, 0.2);
+  background: rgba(255, 255, 255, 0.95);
+  color: var(--color-grey);
+  border-radius: 50%;
+  width: 34px;
+  height: 34px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  font-weight: 700;
+  transition: transform var(--transition), box-shadow var(--transition), background var(--transition);
+  box-shadow: 0 6px 12px rgba(43, 43, 43, 0.15);
+}
+
+.icon-button:hover {
+  transform: translateY(-1px);
+  background: rgba(137, 226, 25, 0.16);
+}
+
+.icon-button:focus-visible {
+  outline: 3px solid rgba(88, 204, 2, 0.35);
+  outline-offset: 2px;
+}
+
 .toast-region {
   position: fixed;
   bottom: 24px;
@@ -547,6 +630,126 @@ select:focus {
 .toast.hide {
   opacity: 0;
   transform: translateY(8px);
+}
+
+.bug-modal-backdrop {
+  position: fixed;
+  inset: 0;
+  background: rgba(24, 36, 16, 0.4);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 16px;
+  z-index: 150;
+}
+
+.bug-modal {
+  background: var(--color-surface);
+  border-radius: var(--radius-medium);
+  border: 3px solid rgba(88, 204, 2, 0.45);
+  box-shadow: 0 22px 60px rgba(24, 36, 16, 0.32);
+  width: min(520px, 94vw);
+  padding: 20px clamp(18px, 4vw, 28px);
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.bug-modal-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 12px;
+}
+
+.bug-modal-overline {
+  margin: 0 0 4px;
+  font-size: 0.75rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--color-muted);
+}
+
+.bug-modal-title {
+  margin: 0;
+  font-size: 1.3rem;
+  color: var(--color-accent-dark);
+}
+
+.bug-modal-description {
+  margin: 6px 0 0;
+  font-size: 0.95rem;
+  color: var(--color-muted);
+}
+
+.bug-form.space-tight {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+textarea {
+  font: inherit;
+  border-radius: var(--radius-small);
+  border: 2px solid rgba(75, 75, 75, 0.18);
+  padding: 12px 14px;
+  background: rgba(255, 255, 255, 0.85);
+  transition: border-color var(--transition), box-shadow var(--transition);
+  resize: vertical;
+  min-height: 120px;
+}
+
+textarea:hover {
+  border-color: var(--color-accent-dark);
+  box-shadow: 0 0 0 3px rgba(88, 204, 2, 0.15);
+}
+
+textarea:focus {
+  border-color: var(--color-accent);
+  box-shadow: 0 0 0 4px rgba(137, 226, 25, 0.25);
+  outline: none;
+}
+
+.field-meta {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 8px;
+  font-size: 0.8rem;
+  color: var(--color-muted);
+}
+
+.char-count {
+  font-variant-numeric: tabular-nums;
+}
+
+.bug-message {
+  margin: 0;
+  min-height: 0.9rem;
+  font-size: 0.82rem;
+}
+
+.bug-error {
+  color: #d22c2c;
+}
+
+.bug-success {
+  color: #1f8a3a;
+}
+
+.bug-form-actions {
+  margin-top: 4px;
+  display: flex;
+  justify-content: flex-end;
+  gap: 10px;
+}
+
+.bug-modal-backdrop[hidden] {
+  display: none;
+}
+
+body.modal-open {
+  overflow: hidden;
 }
 
 @media (max-width: 980px) {

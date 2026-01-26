@@ -1,0 +1,968 @@
+{
+  "meta": {
+    "key": "jafit130",
+    "courseTitle": "Italian → Japanese",
+    "scrapedAt": "2026-01-26T02:42:01.712Z",
+    "sourceHash": "sha256:eba2f43e638a5252",
+    "fromLang": "Italian",
+    "toLang": "Japanese",
+    "fromCode": "it",
+    "toCode": "ja",
+    "level": "CEFR INTRO",
+    "levelShort": "INTRO",
+    "detailHref": "https://duolingodata.com/dat/jafit130.html",
+    "detailHrefHash": "sha256:859a214ec2aa0a26",
+    "scrapeWarnings": [],
+    "schemaVersion": "1.0.0"
+  },
+  "totals": {
+    "sections": 4,
+    "activities": 4768,
+    "units": 129
+  },
+  "sections": [
+    {
+      "sectionIndex": 1,
+      "unitCount": 10,
+      "title": "CEFR Intro:",
+      "rawTitle": "CEFR Intro:",
+      "cefr": "INTRO:",
+      "units": [
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Ordina cibo e bevande",
+          "activityPattern": [],
+          "activities": 1
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Usa aggettivi per descrivere nomi",
+          "activityPattern": [],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Saluta e dai l'arrivederci",
+          "activityPattern": [],
+          "activities": 3
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Parla di cibo",
+          "activityPattern": [],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Parla di paesi e nazionalità",
+          "activityPattern": [],
+          "activities": 5
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Forma frasi negative e rispondi.",
+          "activityPattern": [],
+          "activities": 6
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Parla dei tuoi oggetti personali",
+          "activityPattern": [],
+          "activities": 7
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Descrivi i tuoi amici",
+          "activityPattern": [],
+          "activities": 8
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Di' che ore sono",
+          "activityPattern": [],
+          "activities": 9
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Trova luoghi e oggetti da viaggio",
+          "activityPattern": [],
+          "activities": 10
+        }
+      ]
+    },
+    {
+      "sectionIndex": 2,
+      "unitCount": 30,
+      "title": ":",
+      "rawTitle": "CEFR A1:",
+      "cefr": "A1",
+      "units": [
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Presentati e descrivi dove vivi",
+          "activityPattern": [],
+          "activities": 1
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Usa i verbi al presente per abitudini",
+          "activityPattern": [],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Parla delle tue abitudini alimentari",
+          "activityPattern": [],
+          "activities": 3
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Acquista vestiti",
+          "activityPattern": [],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Presentati e presenta gli altri",
+          "activityPattern": [],
+          "activities": 5
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Usa verbi per azioni future",
+          "activityPattern": [],
+          "activities": 6
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Chiedi dettagli di viaggio",
+          "activityPattern": [],
+          "activities": 7
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Parla delle attività del weekend",
+          "activityPattern": [],
+          "activities": 8
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Parla delle stagioni e del tempo",
+          "activityPattern": [],
+          "activities": 9
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Ordina cibo e bevande",
+          "activityPattern": [],
+          "activities": 10
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Ordina pasticcini",
+          "activityPattern": [],
+          "activities": 11
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Orientarsi in stazione",
+          "activityPattern": [],
+          "activities": 12
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Usa strutture possessive con oggetti",
+          "activityPattern": [],
+          "activities": 13
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Parla della tua famiglia",
+          "activityPattern": [],
+          "activities": 14
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Gestisci le emergenze",
+          "activityPattern": [],
+          "activities": 15
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Esplora nuovi luoghi",
+          "activityPattern": [],
+          "activities": 16
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Pianifica un appuntamento",
+          "activityPattern": [],
+          "activities": 17
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Usa la forma volitiva",
+          "activityPattern": [],
+          "activities": 18
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Fai la spesa e cucina",
+          "activityPattern": [],
+          "activities": 19
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Usa verbi negativi al presente/futuro",
+          "activityPattern": [],
+          "activities": 20
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Parla degli orari di lavoro",
+          "activityPattern": [],
+          "activities": 21
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Orientati in città per una festa",
+          "activityPattern": [],
+          "activities": 22
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Parla degli eventi",
+          "activityPattern": [],
+          "activities": 23
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Parla di te e della vita universitaria",
+          "activityPattern": [],
+          "activities": 24
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Usa espressioni di frequenza e quantità",
+          "activityPattern": [],
+          "activities": 25
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Parla delle lezioni",
+          "activityPattern": [],
+          "activities": 26
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Parla dei tuoi hobby",
+          "activityPattern": [],
+          "activities": 27
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Usa strutture locative",
+          "activityPattern": [],
+          "activities": 28
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Fai il check-in e orientati in hotel",
+          "activityPattern": [],
+          "activities": 29
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Trova alimenti nel negozio",
+          "activityPattern": [],
+          "activities": 30
+        }
+      ]
+    },
+    {
+      "sectionIndex": 3,
+      "unitCount": 30,
+      "title": ":",
+      "rawTitle": "CEFR A1:",
+      "cefr": "A1",
+      "units": [
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Organizza un incontro con amici",
+          "activityPattern": [],
+          "activities": 1
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Cerca assistenza medica",
+          "activityPattern": [],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Goditi un caffè con animali",
+          "activityPattern": [],
+          "activities": 3
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Visita lo zoo",
+          "activityPattern": [],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Usa i verbi al passato",
+          "activityPattern": [],
+          "activities": 5
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Acquista prodotti di elettronica",
+          "activityPattern": [],
+          "activities": 6
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Vai a un concerto",
+          "activityPattern": [],
+          "activities": 7
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Usa aggettivi positivi e negativi",
+          "activityPattern": [],
+          "activities": 8
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Valuta un appartamento",
+          "activityPattern": [],
+          "activities": 9
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Esprimi le tue frustrazioni al lavoro",
+          "activityPattern": [],
+          "activities": 10
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Prenditi un giorno di riposo",
+          "activityPattern": [],
+          "activities": 11
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Pianifica una gita per vedere i ciliegi",
+          "activityPattern": [],
+          "activities": 12
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Organizza e parti per Okinawa",
+          "activityPattern": [],
+          "activities": 13
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Parla di un'esperienza in crociera",
+          "activityPattern": [],
+          "activities": 14
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Descrivi un'esperienza di viaggio",
+          "activityPattern": [],
+          "activities": 15
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Usa verbi al passato negativo",
+          "activityPattern": [],
+          "activities": 16
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Partecipa a una festa di inaugurazione",
+          "activityPattern": [],
+          "activities": 17
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Esprimi insoddisfazioni in viaggio",
+          "activityPattern": [],
+          "activities": 18
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Parla di un appuntamento deludente",
+          "activityPattern": [],
+          "activities": 19
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Vai a un matrimonio",
+          "activityPattern": [],
+          "activities": 20
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Collega due aggettivi",
+          "activityPattern": [],
+          "activities": 21
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Restituisci o cambia articoli",
+          "activityPattern": [],
+          "activities": 22
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Acquista prodotti da viaggio essenziali",
+          "activityPattern": [],
+          "activities": 23
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Pianifica attività estive",
+          "activityPattern": [],
+          "activities": 24
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Comunica al lavoro",
+          "activityPattern": [],
+          "activities": 25
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Usa verbi per dare e ricevere",
+          "activityPattern": [],
+          "activities": 26
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Parla della tua salute",
+          "activityPattern": [],
+          "activities": 27
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Parla dei tuoi hobby",
+          "activityPattern": [],
+          "activities": 28
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Parla dei tuoi corsi",
+          "activityPattern": [],
+          "activities": 29
+        }
+      ]
+    },
+    {
+      "sectionIndex": 4,
+      "unitCount": 60,
+      "title": ":",
+      "rawTitle": "CEFR A2:",
+      "cefr": "A2",
+      "units": [
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Parla dei mobili per la nuova casa",
+          "activityPattern": [],
+          "activities": 1
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Organizza una festa a sorpresa",
+          "activityPattern": [],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Parla di un viaggio aziendale",
+          "activityPattern": [],
+          "activities": 3
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Parla dell'azienda di famiglia",
+          "activityPattern": [],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Partecipa a un concorso fotografico",
+          "activityPattern": [],
+          "activities": 5
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Usa i social media",
+          "activityPattern": [],
+          "activities": 6
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Organizza attività all'aperto",
+          "activityPattern": [],
+          "activities": 7
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Ordina cibo al ristorante",
+          "activityPattern": [],
+          "activities": 8
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Fai acquisti in un negozio dell'usato",
+          "activityPattern": [],
+          "activities": 9
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Collabora a progetti con i colleghi",
+          "activityPattern": [],
+          "activities": 10
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Organizza una gita sugli sci",
+          "activityPattern": [],
+          "activities": 11
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Parla dei tuoi generi di film preferiti",
+          "activityPattern": [],
+          "activities": 12
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Scopri le attrazioni di Fukuoka",
+          "activityPattern": [],
+          "activities": 13
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Ordina un caffè in libreria",
+          "activityPattern": [],
+          "activities": 14
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Partecipa a un matrimonio di famiglia",
+          "activityPattern": [],
+          "activities": 15
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Confronta le opzioni di hotel",
+          "activityPattern": [],
+          "activities": 16
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Parla educatamente di ritardi a riunioni",
+          "activityPattern": [],
+          "activities": 17
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Parla di strategie per gli esami",
+          "activityPattern": [],
+          "activities": 18
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Fai una videochiamata",
+          "activityPattern": [],
+          "activities": 19
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Parla di sport e attività",
+          "activityPattern": [],
+          "activities": 20
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Parla del Capodanno giapponese",
+          "activityPattern": [],
+          "activities": 21
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Coordina un viaggio internazionale",
+          "activityPattern": [],
+          "activities": 22
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Apri un conto in banca",
+          "activityPattern": [],
+          "activities": 23
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Parla del processo di ricerca accademica",
+          "activityPattern": [],
+          "activities": 24
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Organizza un barbecue",
+          "activityPattern": [],
+          "activities": 25
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Parla di esigenze alimentari",
+          "activityPattern": [],
+          "activities": 26
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Parla di una scena del crimine",
+          "activityPattern": [],
+          "activities": 27
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Organizza una riunione aziendale",
+          "activityPattern": [],
+          "activities": 28
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Ritrova vecchi amici",
+          "activityPattern": [],
+          "activities": 29
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Parla delle tradizioni dei festival",
+          "activityPattern": [],
+          "activities": 30
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Parla di scelte di vita salutari",
+          "activityPattern": [],
+          "activities": 31
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Adattati alle differenze culturali",
+          "activityPattern": [],
+          "activities": 32
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Orientati durante una gita in città",
+          "activityPattern": [],
+          "activities": 33
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Parla di tradizioni culturali",
+          "activityPattern": [],
+          "activities": 34
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Organizza un festival scolastico",
+          "activityPattern": [],
+          "activities": 35
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Organizza un picnic",
+          "activityPattern": [],
+          "activities": 36
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Parla di affari al convegno",
+          "activityPattern": [],
+          "activities": 37
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Racconta un'esperienza deludente",
+          "activityPattern": [],
+          "activities": 38
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Parla delle attività in sala giochi",
+          "activityPattern": [],
+          "activities": 39
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Parla di esperienze all'estero",
+          "activityPattern": [],
+          "activities": 40
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Partecipa a una serata giochi",
+          "activityPattern": [],
+          "activities": 41
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Parla servizi di riparazione elettronici",
+          "activityPattern": [],
+          "activities": 42
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Parla di salute con un dottore",
+          "activityPattern": [],
+          "activities": 43
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Condividi i tuoi successi",
+          "activityPattern": [],
+          "activities": 44
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Divertiti al karaoke con gli amici",
+          "activityPattern": [],
+          "activities": 45
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Parla di abitudini salutari",
+          "activityPattern": [],
+          "activities": 46
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Orientati con un'app di navigazione",
+          "activityPattern": [],
+          "activities": 47
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Scopri il \"kendo\" per ridurre lo stress",
+          "activityPattern": [],
+          "activities": 48
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Parla della vita con i coinquilini",
+          "activityPattern": [],
+          "activities": 49
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Parla dei sintomi con dei professionisti",
+          "activityPattern": [],
+          "activities": 50
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Parla delle tradizioni della Golden Week",
+          "activityPattern": [],
+          "activities": 51
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Compra vestiti e accessori",
+          "activityPattern": [],
+          "activities": 52
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Partecipa a un evento di pulizia",
+          "activityPattern": [],
+          "activities": 53
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Racconta esperienze d'infanzia",
+          "activityPattern": [],
+          "activities": 54
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Orientati in un ufficio giapponese",
+          "activityPattern": [],
+          "activities": 55
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Parla di videogiochi",
+          "activityPattern": [],
+          "activities": 56
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Parla della gestione rifiuti locale",
+          "activityPattern": [],
+          "activities": 57
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Parla di aspirazioni future e identità",
+          "activityPattern": [],
+          "activities": 58
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Organizza un viaggio in Giappone",
+          "activityPattern": [],
+          "activities": 59
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Parla di salute e benessere",
+          "activityPattern": [
+            2025,
+            10,
+            8
+          ],
+          "activities": 2043
+        }
+      ]
+    }
+  ]
+}

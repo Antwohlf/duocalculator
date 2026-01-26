@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "key": "ptfja131",
+    "courseTitle": "Japanese → Portuguese",
+    "scrapedAt": "2026-01-26T02:42:01.712Z",
+    "sourceHash": "sha256:b8071c15f6ef6b91",
+    "fromLang": "Japanese",
+    "toLang": "Portuguese",
+    "fromCode": "ja",
+    "toCode": "pt",
+    "level": null,
+    "levelShort": null,
+    "detailHref": "https://duolingodata.com/dat/ptfja131.html",
+    "detailHrefHash": "sha256:859e8493fc33710f",
+    "scrapeWarnings": [
+      "No sections parsed, using meta.unitsCount",
+      "No activities parsed, using meta.lessonsCount"
+    ],
+    "schemaVersion": "1.0.0"
+  },
+  "totals": {
+    "sections": 0,
+    "activities": 2742,
+    "units": 131
+  },
+  "sections": []
+}

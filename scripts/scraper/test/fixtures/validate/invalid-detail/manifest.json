@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0",
+  "schemaVersion": "1.0.0",
+  "scrapedAt": "2024-01-01T00:00:00.000Z",
+  "scrapedAtUnix": 1704067200,
+  "lastSuccessfulScrape": "2024-01-01T00:00:00.000Z",
+  "lastAttemptedScrape": "2024-01-01T00:00:00.000Z",
+  "scrapeDurationMs": 1234,
+  "courseCount": 1,
+  "detailCount": 1,
+  "failedCourses": [],
+  "checksum": "sha256:abcd",
+  "source": "https://duolingodata.com/",
+  "staleThresholdDays": 6,
+  "maxStaleDays": 30,
+  "nextUpdate": "2024-01-08T00:00:00.000Z"
+}

@@ -1,0 +1,975 @@
+{
+  "meta": {
+    "key": "jaftl130",
+    "courseTitle": "Tagalog → Japanese",
+    "scrapedAt": "2026-01-26T02:42:01.712Z",
+    "sourceHash": "sha256:a068fc4a9a6ab441",
+    "fromLang": "Tagalog",
+    "toLang": "Japanese",
+    "fromCode": "tl",
+    "toCode": "ja",
+    "level": "CEFR INTRO",
+    "levelShort": "INTRO",
+    "detailHref": "https://duolingodata.com/dat/jaftl130.html",
+    "detailHrefHash": "sha256:74ad054c8e8d7646",
+    "scrapeWarnings": [],
+    "schemaVersion": "1.0.0"
+  },
+  "totals": {
+    "sections": 4,
+    "activities": 4801,
+    "units": 130
+  },
+  "sections": [
+    {
+      "sectionIndex": 1,
+      "unitCount": 10,
+      "title": "CEFR Intro:",
+      "rawTitle": "CEFR Intro:",
+      "cefr": "INTRO:",
+      "units": [
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Umorder ng pagkain at mga inumin",
+          "activityPattern": [],
+          "activities": 1
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Mga pang-uring panglarawan ng pangngalan",
+          "activityPattern": [],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Pagbati at pagpapaalam",
+          "activityPattern": [],
+          "activities": 3
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Pag-usapan ang tungkol sa pagkain",
+          "activityPattern": [],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Pag-usapan ang mga bansa at nasyonalidad",
+          "activityPattern": [],
+          "activities": 5
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Negatibong pangungusap, sagot sa tanong",
+          "activityPattern": [],
+          "activities": 6
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Pag-usapan ang iyong mga gamit",
+          "activityPattern": [],
+          "activities": 7
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Idetalye ang iyong mga kaibigan",
+          "activityPattern": [],
+          "activities": 8
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Pagsabi ng oras",
+          "activityPattern": [],
+          "activities": 9
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Paghahanap ng lugar at pambiyaheng gamit",
+          "activityPattern": [],
+          "activities": 10
+        }
+      ]
+    },
+    {
+      "sectionIndex": 2,
+      "unitCount": 30,
+      "title": ":",
+      "rawTitle": "CEFR A1:",
+      "cefr": "A1",
+      "units": [
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Pagpapakilala at pagdetalye ng tirahan",
+          "activityPattern": [],
+          "activities": 1
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Pangkasalukuyang pandiwa sa mga gawi",
+          "activityPattern": [],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Pag-usapan ang iyong mga gawi sa pagkain",
+          "activityPattern": [],
+          "activities": 3
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Pamimili ng mga damit",
+          "activityPattern": [],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Pagpapakilala ng sarili at ibang tao",
+          "activityPattern": [],
+          "activities": 5
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Mga pandiwa para sa gagawin sa hinaharap",
+          "activityPattern": [],
+          "activities": 6
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Pagtanong tungkol sa detalye ng biyahe",
+          "activityPattern": [],
+          "activities": 7
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Pag-usapan ang mga aktibidad sa weekend",
+          "activityPattern": [],
+          "activities": 8
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Pag-usapan ang mga panahon at klima",
+          "activityPattern": [],
+          "activities": 9
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Pag-order ng pagkain at mga inumin",
+          "activityPattern": [],
+          "activities": 10
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Pag-order ng mga tinapay",
+          "activityPattern": [],
+          "activities": 11
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Pag-iikot sa istasyon",
+          "activityPattern": [],
+          "activities": 12
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Mga paari para sa pangngalang di-buhay",
+          "activityPattern": [],
+          "activities": 13
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Pag-usapan ang iyong pamilya",
+          "activityPattern": [],
+          "activities": 14
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Pagharap sa mga emergency",
+          "activityPattern": [],
+          "activities": 15
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Mamasyal sa mga bagong lugar",
+          "activityPattern": [],
+          "activities": 16
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Pagplano ng isang date",
+          "activityPattern": [],
+          "activities": 17
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Paggamit ng anyong intensiyonal",
+          "activityPattern": [],
+          "activities": 18
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Pagbili at pagluto ng pagkain",
+          "activityPattern": [],
+          "activities": 19
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Mga di-nakaraang negatibong pandiwa",
+          "activityPattern": [],
+          "activities": 20
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Pag-usapan ang mga iskedyul ng trabaho",
+          "activityPattern": [],
+          "activities": 21
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Pagdaan sa lungsod para sa bertdey party",
+          "activityPattern": [],
+          "activities": 22
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Pag-usapan ang mga ganap",
+          "activityPattern": [],
+          "activities": 23
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Magpakilala, ikuwento ang buhay-kolehiyo",
+          "activityPattern": [],
+          "activities": 24
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Paggamit ng mga pahayag ng dalas at dami",
+          "activityPattern": [],
+          "activities": 25
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Pag-usapan ang mga klase",
+          "activityPattern": [],
+          "activities": 26
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Pag-usapan ang iyong mga libangan",
+          "activityPattern": [],
+          "activities": 27
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Paggamit ng mga istrukturang panlunan",
+          "activityPattern": [],
+          "activities": 28
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Pag-check-in at pag-iikot sa isang hotel",
+          "activityPattern": [],
+          "activities": 29
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Paghanap ng mga bibilhin sa tindahan",
+          "activityPattern": [],
+          "activities": 30
+        }
+      ]
+    },
+    {
+      "sectionIndex": 3,
+      "unitCount": 30,
+      "title": ":",
+      "rawTitle": "CEFR A1:",
+      "cefr": "A1",
+      "units": [
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Pag-areglo ng pagkikita ng mga kaibigan",
+          "activityPattern": [],
+          "activities": 1
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Paghingi ng medikal na tulong",
+          "activityPattern": [],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Masiyahan sa kapihang may mga hayop",
+          "activityPattern": [],
+          "activities": 3
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Pagbisita sa zoo",
+          "activityPattern": [],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Mga pandiwang nasa panahong pangnagdaan",
+          "activityPattern": [],
+          "activities": 5
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Pagbili ng elektroniks",
+          "activityPattern": [],
+          "activities": 6
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Dumalo sa isang concert",
+          "activityPattern": [],
+          "activities": 7
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Mga positibo at negatibong pang-uri",
+          "activityPattern": [],
+          "activities": 8
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Suriin ang isang apartment",
+          "activityPattern": [],
+          "activities": 9
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Ipahayag ang mga kinaiinisan sa trabaho",
+          "activityPattern": [],
+          "activities": 10
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Magpahinga ng isang araw",
+          "activityPattern": [],
+          "activities": 11
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Pagplano ng pagpunta sa hanami",
+          "activityPattern": [],
+          "activities": 12
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Pag-areglo ng biyahe papuntang Okinawa",
+          "activityPattern": [],
+          "activities": 13
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Ikuwento ang danas sa cruise",
+          "activityPattern": [],
+          "activities": 14
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Idetalye ang danas sa pagbibiyahe",
+          "activityPattern": [],
+          "activities": 15
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Mga negatibong pandiwang pangnagdaan",
+          "activityPattern": [],
+          "activities": 16
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Dumalo sa party para sa bagong bahay",
+          "activityPattern": [],
+          "activities": 17
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Ipahayag ang pagkadismaya sa biyahe",
+          "activityPattern": [],
+          "activities": 18
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Ikuwento ang pagkadismaya sa isang date",
+          "activityPattern": [],
+          "activities": 19
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Dumalo sa isang kasal",
+          "activityPattern": [],
+          "activities": 20
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Pagkonekta ng dalawang pang-uri",
+          "activityPattern": [],
+          "activities": 21
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Pagsoli o pagpapapalit ng mga bagay",
+          "activityPattern": [],
+          "activities": 22
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Pagbili ng mga kakailanganin sa biyahe",
+          "activityPattern": [],
+          "activities": 23
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Pagplano ng mga aktibidad sa tag-init",
+          "activityPattern": [],
+          "activities": 24
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Makipag-usap habang nasa trabaho",
+          "activityPattern": [],
+          "activities": 25
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Mga pandiwa sa pagbigay at pagtanggap",
+          "activityPattern": [],
+          "activities": 26
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Pag-usapan ang iyong kalusugan",
+          "activityPattern": [],
+          "activities": 27
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Pag-usapan ang iyong mga libangan",
+          "activityPattern": [],
+          "activities": 28
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Pag-usapan ang iyong mga klase",
+          "activityPattern": [],
+          "activities": 29
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Pagpapadala ng pakete sa post office",
+          "activityPattern": [],
+          "activities": 30
+        }
+      ]
+    },
+    {
+      "sectionIndex": 4,
+      "unitCount": 60,
+      "title": ":",
+      "rawTitle": "CEFR A2:",
+      "cefr": "A2",
+      "units": [
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Pag-usapan ang pagbili ng gamit sa bahay",
+          "activityPattern": [],
+          "activities": 1
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Magplano ng sorpresang party",
+          "activityPattern": [],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Pag-usapan ang pagbiyahe ng kompanya",
+          "activityPattern": [],
+          "activities": 3
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Ikuwento ang negosyo ng iyong pamilya",
+          "activityPattern": [],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Sumali sa kontest na panlitrato",
+          "activityPattern": [],
+          "activities": 5
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Magsanay sa paggamit ng social media",
+          "activityPattern": [],
+          "activities": 6
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Magplano ng mga panlabas na aktibidad",
+          "activityPattern": [],
+          "activities": 7
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Umorder ng pagkain sa isang restawran",
+          "activityPattern": [],
+          "activities": 8
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Bumili sa tindahang pang-ukay-ukay",
+          "activityPattern": [],
+          "activities": 9
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Pagtulungan ng magkatrabaho ang proyekto",
+          "activityPattern": [],
+          "activities": 10
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Magplano ng biyahe para makapag-ski",
+          "activityPattern": [],
+          "activities": 11
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Sabihin ang paboritong uri ng pelikula",
+          "activityPattern": [],
+          "activities": 12
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Puntahan ang mga pasyalan sa Fukuoka",
+          "activityPattern": [],
+          "activities": 13
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Umorder ng kape sa tindahan ng libro",
+          "activityPattern": [],
+          "activities": 14
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Dumalo sa isang pampamilyang kasal",
+          "activityPattern": [],
+          "activities": 15
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Ikumpara ang mga pagpipiliang hotel",
+          "activityPattern": [],
+          "activities": 16
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Kalmang pag-usapan ang atrasadong miting",
+          "activityPattern": [],
+          "activities": 17
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Pag-usapan ang mga paghahanda sa eksam",
+          "activityPattern": [],
+          "activities": 18
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Mag-video call",
+          "activityPattern": [],
+          "activities": 19
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Pag-usapan ang isports at mga aktibidad",
+          "activityPattern": [],
+          "activities": 20
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Pag-usapan ang Bagong Taon sa Japan",
+          "activityPattern": [],
+          "activities": 21
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Mag-ayos ng pagbiyahe sa ibang bansa",
+          "activityPattern": [],
+          "activities": 22
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Magbukas ng isang account sa bangko",
+          "activityPattern": [],
+          "activities": 23
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Pag-usapan ang akademikong pananaliksik",
+          "activityPattern": [],
+          "activities": 24
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Magdaos ng salusalong may barbikyu",
+          "activityPattern": [],
+          "activities": 25
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Pag-usapan ang mga kailangan sa pagkain",
+          "activityPattern": [],
+          "activities": 26
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Pag-usapan ang pinangyarihan ng krimen",
+          "activityPattern": [],
+          "activities": 27
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Mag-organisa ng pangnegosyong miting",
+          "activityPattern": [],
+          "activities": 28
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Makisamang muli sa dating mga kaibigan",
+          "activityPattern": [],
+          "activities": 29
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Pag-usapan ang pangkulturang festival",
+          "activityPattern": [],
+          "activities": 30
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Pag-usapan ang pangkalusugang pamumuhay",
+          "activityPattern": [],
+          "activities": 31
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Makibagay sa mga pagkakaiba sa kultura",
+          "activityPattern": [],
+          "activities": 32
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Mamasyal sa lungsod ng isang araw",
+          "activityPattern": [],
+          "activities": 33
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Pag-usapan ang mga tradisyong kultural",
+          "activityPattern": [],
+          "activities": 34
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Ayusing makatinda sa festival ng eskwela",
+          "activityPattern": [],
+          "activities": 35
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Mag-organisa ng isang salusalong piknik",
+          "activityPattern": [],
+          "activities": 36
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Mag-usapang negosyo sa kumperensiya",
+          "activityPattern": [],
+          "activities": 37
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Ibahagi ang nakakadismayang karanasan",
+          "activityPattern": [],
+          "activities": 38
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Pag-usapan ang mga aktibidad sa arcade",
+          "activityPattern": [],
+          "activities": 39
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Pag-usapan ang pag-aaral sa ibang bansa",
+          "activityPattern": [],
+          "activities": 40
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Makisali sa isang gabing panlaro",
+          "activityPattern": [],
+          "activities": 41
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Pag-usapan ang pagkumpuni ng elektroniks",
+          "activityPattern": [],
+          "activities": 42
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Kausapin ang doktor tungkol sa kalusugan",
+          "activityPattern": [],
+          "activities": 43
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Ipamalita ang tungkol sa mga nakamtan",
+          "activityPattern": [],
+          "activities": 44
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Magkatuwaan ng mga kaibigan sa karaoke",
+          "activityPattern": [],
+          "activities": 45
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Pag-usapan ang mga pangkalusugang gawi",
+          "activityPattern": [],
+          "activities": 46
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Mamasyal sa tulong ng mga cellphone app",
+          "activityPattern": [],
+          "activities": 47
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Subukang pang-alis ng stress ang \"kendo\"",
+          "activityPattern": [],
+          "activities": 48
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Pag-usapan ang naninirahang may kabahay",
+          "activityPattern": [],
+          "activities": 49
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Idulog ang sintomas sa mga propesyonal",
+          "activityPattern": [],
+          "activities": 50
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Pag-usapan ang tradisyon ng Golden Week",
+          "activityPattern": [],
+          "activities": 51
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Bumili ng mga damit at aksesorya",
+          "activityPattern": [],
+          "activities": 52
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Makilahok sa gaganaping paglilinis",
+          "activityPattern": [],
+          "activities": 53
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Ibahagi ang mga karanasan noong kabataan",
+          "activityPattern": [],
+          "activities": 54
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Maging pamilyar sa opisina sa Japan",
+          "activityPattern": [],
+          "activities": 55
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Pag-usapan ang nilalaman ng video game",
+          "activityPattern": [],
+          "activities": 56
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Pag-usapan ang pamamahala ng basura",
+          "activityPattern": [],
+          "activities": 57
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Ikuwento ang mga hinahangad at identidad",
+          "activityPattern": [],
+          "activities": 58
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Magplano ng biyahe papuntang Japan",
+          "activityPattern": [],
+          "activities": 59
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Pag-usapan ang kabuuang kalusugan",
+          "activityPattern": [
+            2025,
+            10,
+            11
+          ],
+          "activities": 2046
+        }
+      ]
+    }
+  ]
+}

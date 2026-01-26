@@ -1,0 +1,171 @@
+{
+  "meta": {
+    "key": "nvfen11",
+    "courseTitle": "English → Navajo",
+    "scrapedAt": "2026-01-26T02:42:01.712Z",
+    "sourceHash": "sha256:c97a9594531c90a1",
+    "fromLang": "English",
+    "toLang": "Navajo",
+    "fromCode": "en",
+    "toCode": "nv",
+    "level": "CEFR , DAILY REFRESH",
+    "levelShort": ", DAILY REFRESH",
+    "detailHref": "https://duolingodata.com/dat/nvfen11.html",
+    "detailHrefHash": "sha256:ea9b0a44c16c1fcd",
+    "scrapeWarnings": [],
+    "schemaVersion": "1.0.0"
+  },
+  "totals": {
+    "sections": 1,
+    "activities": 2157,
+    "units": 11
+  },
+  "sections": [
+    {
+      "sectionIndex": 1,
+      "unitCount": 11,
+      "title": "Section",
+      "rawTitle": "Section",
+      "cefr": "SECTION",
+      "units": [
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Introduce yourself 📝",
+          "activityPattern": [
+            4,
+            4,
+            2,
+            1
+          ],
+          "activities": 11
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Talk about family 📝",
+          "activityPattern": [
+            3,
+            3,
+            1,
+            1
+          ],
+          "activities": 8
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Identify foods 📝",
+          "activityPattern": [
+            4,
+            4,
+            2,
+            1
+          ],
+          "activities": 11
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Describe animals 📝",
+          "activityPattern": [
+            4,
+            4,
+            2,
+            2,
+            1
+          ],
+          "activities": 13
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Use numbers 📝",
+          "activityPattern": [
+            6,
+            6,
+            2,
+            3,
+            1
+          ],
+          "activities": 18
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Refer to body parts 📝",
+          "activityPattern": [
+            5,
+            5,
+            2,
+            2,
+            1
+          ],
+          "activities": 15
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Name colors 📝",
+          "activityPattern": [
+            3,
+            3,
+            2,
+            1,
+            1
+          ],
+          "activities": 10
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Express quantity 📝",
+          "activityPattern": [
+            4,
+            4,
+            2,
+            2,
+            1
+          ],
+          "activities": 13
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Identify directions 📝",
+          "activityPattern": [
+            2,
+            2,
+            2,
+            1,
+            1
+          ],
+          "activities": 8
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Talk about beauty 📝",
+          "activityPattern": [
+            2,
+            2,
+            2,
+            1,
+            1
+          ],
+          "activities": 8
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Describe the weather 📝",
+          "activityPattern": [
+            2025,
+            17
+          ],
+          "activities": 2042
+        }
+      ]
+    }
+  ]
+}

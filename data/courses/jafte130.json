@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "key": "jafte130",
+    "courseTitle": "Telugu → Japanese",
+    "scrapedAt": "2026-01-26T02:42:01.712Z",
+    "sourceHash": "sha256:6a85943978e79d05",
+    "fromLang": "Telugu",
+    "toLang": "Japanese",
+    "fromCode": "te",
+    "toCode": "ja",
+    "level": null,
+    "levelShort": null,
+    "detailHref": "https://duolingodata.com/dat/jafte130.html",
+    "detailHrefHash": "sha256:53576e2af538fbe7",
+    "scrapeWarnings": [
+      "No sections parsed, using meta.unitsCount",
+      "No activities parsed, using meta.lessonsCount"
+    ],
+    "schemaVersion": "1.0.0"
+  },
+  "totals": {
+    "sections": 0,
+    "activities": 2557,
+    "units": 130
+  },
+  "sections": []
+}

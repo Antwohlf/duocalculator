@@ -1,0 +1,6975 @@
+{
+  "meta": {
+    "key": "esfko991",
+    "courseTitle": "Korean → Spanish",
+    "scrapedAt": "2026-01-26T03:05:48.382Z",
+    "sourceHash": "sha256:93c7ff6b278665c4",
+    "fromLang": "Korean",
+    "toLang": "Spanish",
+    "fromCode": "ko",
+    "toCode": "es",
+    "level": "CEFR INTRO",
+    "levelShort": "INTRO",
+    "detailHref": "https://duolingodata.com/dat/esfko991.html",
+    "detailHrefHash": "sha256:ac098744d06cddd6",
+    "scrapeWarnings": [],
+    "schemaVersion": "1.0.0"
+  },
+  "totals": {
+    "sections": 1,
+    "activities": 100043,
+    "units": 991
+  },
+  "sections": [
+    {
+      "sectionIndex": 4,
+      "unitCount": 60,
+      "title": "CEFR A2",
+      "rawTitle": "CEFR A2",
+      "cefr": "A2",
+      "units": [
+        {
+          "sectionIndex": 4,
+          "unitIndex": 1,
+          "title": "카페에서 주문하기",
+          "activityPattern": [],
+          "activities": 1
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 1,
+          "title": "인사하고 작별 인사하기",
+          "activityPattern": [],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 1,
+          "title": "\"ser de\"를 사용해 출신지 말하기",
+          "activityPattern": [],
+          "activities": 3
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 1,
+          "title": "가족과 친구 소개하기",
+          "activityPattern": [],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 1,
+          "title": "성격 묘사하기",
+          "activityPattern": [],
+          "activities": 5
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 1,
+          "title": "\"estar\"를 사용해 위치 말하기",
+          "activityPattern": [],
+          "activities": 6
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 1,
+          "title": "도시의 장소에 대해 이야기하기",
+          "activityPattern": [],
+          "activities": 7
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 1,
+          "title": "언어에 대해 이야기하기",
+          "activityPattern": [],
+          "activities": 8
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 1,
+          "title": "\"Hace\"를 사용해 날씨 묘사하기",
+          "activityPattern": [],
+          "activities": 9
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 1,
+          "title": "과일 사기",
+          "activityPattern": [],
+          "activities": 10
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 2,
+          "title": "집 묘사하기",
+          "activityPattern": [],
+          "activities": 1
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 2,
+          "title": "현재 시제를 사용해 습관 말하기",
+          "activityPattern": [],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 2,
+          "title": "스포츠에 대해 이야기하기",
+          "activityPattern": [],
+          "activities": 3
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 2,
+          "title": "취미에 대해 이야기하기",
+          "activityPattern": [],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 2,
+          "title": "수업에 참여하기",
+          "activityPattern": [],
+          "activities": 5
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 2,
+          "title": "음식에 대해 이야기하기",
+          "activityPattern": [],
+          "activities": 6
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 2,
+          "title": "음식과 서비스 평가하기",
+          "activityPattern": [],
+          "activities": 7
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 2,
+          "title": "길 물어보기",
+          "activityPattern": [],
+          "activities": 8
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 2,
+          "title": "옷 쇼핑하기",
+          "activityPattern": [],
+          "activities": 9
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 2,
+          "title": "직장에 대해 이야기하기",
+          "activityPattern": [],
+          "activities": 10
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 2,
+          "title": "부정관사 사용하기",
+          "activityPattern": [],
+          "activities": 11
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 2,
+          "title": "집안일 하기",
+          "activityPattern": [],
+          "activities": 12
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 2,
+          "title": "학교 프로젝트 논의하기",
+          "activityPattern": [],
+          "activities": 13
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 2,
+          "title": "다른 사람 기분 물어보기",
+          "activityPattern": [],
+          "activities": 14
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 2,
+          "title": "길 물어보기",
+          "activityPattern": [],
+          "activities": 15
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 2,
+          "title": "요리 재료에 대해 물어보기",
+          "activityPattern": [],
+          "activities": 16
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 2,
+          "title": "파티에서 자기소개하기",
+          "activityPattern": [],
+          "activities": 17
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 2,
+          "title": "외모 묘사하기",
+          "activityPattern": [],
+          "activities": 18
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 2,
+          "title": "시간 표현에 정관사 사용하기",
+          "activityPattern": [],
+          "activities": 19
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 2,
+          "title": "정중하게 자기소개하기",
+          "activityPattern": [],
+          "activities": 20
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 2,
+          "title": "감정 표현하기",
+          "activityPattern": [],
+          "activities": 21
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 2,
+          "title": "식단에 대해 논의하기",
+          "activityPattern": [],
+          "activities": 22
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 2,
+          "title": "동물에 대해 이야기하기",
+          "activityPattern": [],
+          "activities": 23
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 2,
+          "title": "재귀동사를 사용해 일상 루틴 말하기",
+          "activityPattern": [],
+          "activities": 24
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 2,
+          "title": "다른 사람의 삶에 대해 이야기하기",
+          "activityPattern": [],
+          "activities": 25
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 2,
+          "title": "관심사에 대해 논의하기",
+          "activityPattern": [],
+          "activities": 26
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 2,
+          "title": "음악 취향 이야기하기",
+          "activityPattern": [],
+          "activities": 27
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 2,
+          "title": "좋아하는 활동 이야기하기",
+          "activityPattern": [],
+          "activities": 28
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 2,
+          "title": "간접목적어 대명사 사용하기",
+          "activityPattern": [],
+          "activities": 29
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 2,
+          "title": "출퇴근 방법 말하기",
+          "activityPattern": [],
+          "activities": 30
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 2,
+          "title": "생일에 대해 이야기하기",
+          "activityPattern": [],
+          "activities": 31
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 3,
+          "title": "옷 쇼핑하기",
+          "activityPattern": [],
+          "activities": 1
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 3,
+          "title": "활동에 대해 이야기하기",
+          "activityPattern": [],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 3,
+          "title": "웰빙 활동 계획하기",
+          "activityPattern": [],
+          "activities": 3
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 3,
+          "title": "현재형 조건문 사용하기",
+          "activityPattern": [],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 3,
+          "title": "여행 계획 세우기",
+          "activityPattern": [],
+          "activities": 5
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 3,
+          "title": "깜짝 파티 계획하기",
+          "activityPattern": [],
+          "activities": 6
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 3,
+          "title": "도시 탐험하기",
+          "activityPattern": [],
+          "activities": 7
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 3,
+          "title": "여행 상황 설명하기",
+          "activityPattern": [],
+          "activities": 8
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 3,
+          "title": "지시 형용사 사용하기",
+          "activityPattern": [],
+          "activities": 9
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 3,
+          "title": "파티를 즐기기",
+          "activityPattern": [],
+          "activities": 10
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 3,
+          "title": "옷 쇼핑하기",
+          "activityPattern": [],
+          "activities": 11
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 3,
+          "title": "아이돌봄 업무 관리하기",
+          "activityPattern": [],
+          "activities": 12
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 3,
+          "title": "건강에 대해 이야기하기",
+          "activityPattern": [],
+          "activities": 13
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 3,
+          "title": "부정 형용사 사용하기",
+          "activityPattern": [],
+          "activities": 14
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 3,
+          "title": "직장 문제 해결하기",
+          "activityPattern": [],
+          "activities": 15
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 3,
+          "title": "쇼핑하며 물건 선택하기",
+          "activityPattern": [],
+          "activities": 16
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 3,
+          "title": "영화에 대해 논의하기",
+          "activityPattern": [],
+          "activities": 17
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 3,
+          "title": "간접목적어 대명사 사용하기",
+          "activityPattern": [],
+          "activities": 18
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 3,
+          "title": "우편 보내고 받기",
+          "activityPattern": [],
+          "activities": 19
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 3,
+          "title": "밤 외출 즐기기",
+          "activityPattern": [],
+          "activities": 20
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 3,
+          "title": "날씨에 대해 이야기하기",
+          "activityPattern": [],
+          "activities": 21
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 3,
+          "title": "사람들의 기분 물어보기",
+          "activityPattern": [],
+          "activities": 22
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 3,
+          "title": "잃어버린 반려동물 찾기",
+          "activityPattern": [],
+          "activities": 23
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 3,
+          "title": "명사와 함께 수량 표현 사용하기",
+          "activityPattern": [],
+          "activities": 24
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 3,
+          "title": "온라인 채팅하기",
+          "activityPattern": [],
+          "activities": 25
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 3,
+          "title": "스포츠에 대해 이야기하기",
+          "activityPattern": [],
+          "activities": 26
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 3,
+          "title": "집안일 하기",
+          "activityPattern": [],
+          "activities": 27
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 3,
+          "title": "비상 상황 대처하기",
+          "activityPattern": [],
+          "activities": 28
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 3,
+          "title": "우체국에서 문제 해결하기",
+          "activityPattern": [],
+          "activities": 29
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 3,
+          "title": "\"por\"와 \"para\" 사용하기",
+          "activityPattern": [],
+          "activities": 30
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "사교 활동 계획하기",
+          "activityPattern": [],
+          "activities": 1
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "기술 문제 해결하기",
+          "activityPattern": [],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "주변 환경 묘사하기",
+          "activityPattern": [],
+          "activities": 3
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "오락 프로그램 평가하기",
+          "activityPattern": [],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "가족 특징 이야기하기",
+          "activityPattern": [],
+          "activities": 5
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "형용사로 최상급 사용하기",
+          "activityPattern": [],
+          "activities": 6
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "직장에서 소통하기",
+          "activityPattern": [],
+          "activities": 7
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "과거 시제 사용하기",
+          "activityPattern": [],
+          "activities": 8
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "자원봉사에 참여하기",
+          "activityPattern": [],
+          "activities": 9
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "소지품 찾기",
+          "activityPattern": [],
+          "activities": 10
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "식료품 쇼핑하기",
+          "activityPattern": [],
+          "activities": 11
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "선물에 대해 이야기하기",
+          "activityPattern": [],
+          "activities": 12
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "현재시제로 \"saber\" 사용하기",
+          "activityPattern": [],
+          "activities": 13
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "행사에서 어울리기",
+          "activityPattern": [],
+          "activities": 14
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "주거 조건 평가하기",
+          "activityPattern": [],
+          "activities": 15
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "업무 과제 관리하기",
+          "activityPattern": [],
+          "activities": 16
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "관계와 감정 논의하기",
+          "activityPattern": [],
+          "activities": 17
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "길 안내로 길 찾기",
+          "activityPattern": [],
+          "activities": 18
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "명령문 사용하기",
+          "activityPattern": [],
+          "activities": 19
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "명령문에 목적 대명사 사용하기",
+          "activityPattern": [],
+          "activities": 20
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "집안일 하기",
+          "activityPattern": [],
+          "activities": 21
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "인생 이야기 공유하기",
+          "activityPattern": [],
+          "activities": 22
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "쇼핑 경험 이야기하기",
+          "activityPattern": [],
+          "activities": 23
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "불완료 과거시제 사용하기",
+          "activityPattern": [],
+          "activities": 24
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "주거 비용 논의하기",
+          "activityPattern": [],
+          "activities": 25
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "여행 계획 세우기",
+          "activityPattern": [],
+          "activities": 26
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "여행 경험 공유하기",
+          "activityPattern": [],
+          "activities": 27
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "이웃 문제 논의하기",
+          "activityPattern": [],
+          "activities": 28
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "현재완료 시제 사용하기",
+          "activityPattern": [],
+          "activities": 29
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "모임 계획하기",
+          "activityPattern": [],
+          "activities": 30
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "건강에 관한 의견 표현하기",
+          "activityPattern": [],
+          "activities": 31
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "과거 경험 공유하기",
+          "activityPattern": [],
+          "activities": 32
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "영화와 TV 시리즈 논의하기",
+          "activityPattern": [],
+          "activities": 33
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "성취한 일 축하하기",
+          "activityPattern": [],
+          "activities": 34
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "가구와 집 꾸미기 논의하기",
+          "activityPattern": [],
+          "activities": 35
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "여행에 대해 불평하기",
+          "activityPattern": [],
+          "activities": 36
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "사고 후 도움 요청하기",
+          "activityPattern": [],
+          "activities": 37
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "축제에 대해 이야기하기",
+          "activityPattern": [],
+          "activities": 38
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "과거시제로 \"hacer\" 사용하기",
+          "activityPattern": [],
+          "activities": 39
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "소지품 알아보기",
+          "activityPattern": [],
+          "activities": 40
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "식사 문제 해결하기",
+          "activityPattern": [],
+          "activities": 41
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "본인이 성취한 일 논의하기",
+          "activityPattern": [],
+          "activities": 42
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "문화적 배경 이야기하기",
+          "activityPattern": [],
+          "activities": 43
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "할 수 없는 이유 설명하기",
+          "activityPattern": [],
+          "activities": 44
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "숫자를 상황에 맞게 사용하기",
+          "activityPattern": [],
+          "activities": 45
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "정치와 사회에 대해 토론하기",
+          "activityPattern": [],
+          "activities": 46
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "물건과 서비스 평가하기",
+          "activityPattern": [],
+          "activities": 47
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "비교 표현을 사용해 수량 표현하기",
+          "activityPattern": [],
+          "activities": 48
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "도난 물품 식별하기",
+          "activityPattern": [],
+          "activities": 49
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "반려동물 돌보기",
+          "activityPattern": [],
+          "activities": 50
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "뉴스 이야기하기",
+          "activityPattern": [],
+          "activities": 51
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "대학에 지원하기",
+          "activityPattern": [],
+          "activities": 52
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "예술에 대해 이야기하기",
+          "activityPattern": [],
+          "activities": 53
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "건강한 식습관 이야기하기",
+          "activityPattern": [],
+          "activities": 54
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "과거시제 사용하기",
+          "activityPattern": [],
+          "activities": 55
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "건강 문제 논의하기",
+          "activityPattern": [],
+          "activities": 56
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "문화 유적지 탐방하기",
+          "activityPattern": [],
+          "activities": 57
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "정치적 의견 토론하기",
+          "activityPattern": [],
+          "activities": 58
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "웰빙 활동에 대해 이야기하기",
+          "activityPattern": [],
+          "activities": 59
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "범죄 신고하기",
+          "activityPattern": [],
+          "activities": 60
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "동네: 동네 소개하기",
+          "activityPattern": [],
+          "activities": 1
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "동네: 동네 축제 소개하기",
+          "activityPattern": [],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "동네: 동네에서 물건 사기",
+          "activityPattern": [],
+          "activities": 3
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "동네: 이웃에 대해 이야기하기",
+          "activityPattern": [],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "동네: 길 안내 요청하기",
+          "activityPattern": [],
+          "activities": 5
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "문학: 소설 이야기 나누기",
+          "activityPattern": [],
+          "activities": 6
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "문학: 작가를 소개하기",
+          "activityPattern": [],
+          "activities": 7
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "문학: 소설 주인공 소개하기",
+          "activityPattern": [],
+          "activities": 8
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "문학: 시를 읽어보기",
+          "activityPattern": [],
+          "activities": 9
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "문학: 소설을 소개하기",
+          "activityPattern": [],
+          "activities": 10
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "기술: 게임 설치 방법 설명하기",
+          "activityPattern": [],
+          "activities": 11
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "기술: 기기 연결하기",
+          "activityPattern": [],
+          "activities": 12
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "기술: 컴퓨터 전문가 소개하기",
+          "activityPattern": [],
+          "activities": 13
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "기술: 블로그 소개하기",
+          "activityPattern": [],
+          "activities": 14
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "기술: 기술 문제 해결하기",
+          "activityPattern": [],
+          "activities": 15
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "결혼식: 결혼식 이야기하기",
+          "activityPattern": [],
+          "activities": 16
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "결혼식: 첫 만남 이야기하기",
+          "activityPattern": [],
+          "activities": 17
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "결혼식: 파트너에 대해 말하기",
+          "activityPattern": [],
+          "activities": 18
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "결혼식: 결혼식 묘사하기",
+          "activityPattern": [],
+          "activities": 19
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "결혼식: 결혼식 경험 말하기",
+          "activityPattern": [],
+          "activities": 20
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "사회: 새로운 정보 묻기",
+          "activityPattern": [],
+          "activities": 21
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "사회: 사회 이슈 설명하기",
+          "activityPattern": [],
+          "activities": 22
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "사회: 문제 상황 설명하기",
+          "activityPattern": [],
+          "activities": 23
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "사회: 기사 내용 설명하기",
+          "activityPattern": [],
+          "activities": 24
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "사회: 상황 변화 표현하기",
+          "activityPattern": [],
+          "activities": 25
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "공부: 수업 내용 복습하기",
+          "activityPattern": [],
+          "activities": 26
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "공부: 시험 준비하기",
+          "activityPattern": [],
+          "activities": 27
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "공부: 노트 빌려달라고 하기",
+          "activityPattern": [],
+          "activities": 28
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "공부: 번역 연습하기",
+          "activityPattern": [],
+          "activities": 29
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "공부: 과제를 고쳐 보기",
+          "activityPattern": [],
+          "activities": 30
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "약국: 약 복용법 물어보기",
+          "activityPattern": [],
+          "activities": 31
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "약국: 건강 상태 말하기",
+          "activityPattern": [],
+          "activities": 32
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "약국: 검사 결과 물어보기",
+          "activityPattern": [],
+          "activities": 33
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "약국: 증상 말하기",
+          "activityPattern": [],
+          "activities": 34
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "약국: 약국에서 도움 요청하기",
+          "activityPattern": [],
+          "activities": 35
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "의견: 솔직한 의견 말하기",
+          "activityPattern": [],
+          "activities": 36
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "의견: 의견 말하기",
+          "activityPattern": [],
+          "activities": 37
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "의견: 다른 생각 표현하기",
+          "activityPattern": [],
+          "activities": 38
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "의견: 의견 동의 또는 반대하기",
+          "activityPattern": [],
+          "activities": 39
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "의견: 다른 의견에 답하기",
+          "activityPattern": [],
+          "activities": 40
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "쇼핑: 옷감 종류 말하기",
+          "activityPattern": [],
+          "activities": 41
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "쇼핑: 옷 스타일 묘사하기",
+          "activityPattern": [],
+          "activities": 42
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "쇼핑: 상점 위치 묻기",
+          "activityPattern": [],
+          "activities": 43
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "쇼핑: 원하는 옷 골라보기",
+          "activityPattern": [],
+          "activities": 44
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "쇼핑: 필요한 물건 골라보기",
+          "activityPattern": [],
+          "activities": 45
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "식재료: 재료 준비하기",
+          "activityPattern": [],
+          "activities": 46
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "식재료: 식재료 이야기하기",
+          "activityPattern": [],
+          "activities": 47
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "식재료: 식재료 사용하기",
+          "activityPattern": [],
+          "activities": 48
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "식재료: 재료 추천하기",
+          "activityPattern": [],
+          "activities": 49
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "식재료: 식재료 고르기",
+          "activityPattern": [],
+          "activities": 50
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "제안: 여행 계획 제안하기",
+          "activityPattern": [],
+          "activities": 51
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "제안: 먹을 것 추천하기",
+          "activityPattern": [],
+          "activities": 52
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "제안: 조언을 해 보기",
+          "activityPattern": [],
+          "activities": 53
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "제안: 방문 장소 추천하기",
+          "activityPattern": [],
+          "activities": 54
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "제안: 급여 관련 조언하기",
+          "activityPattern": [],
+          "activities": 55
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "안전: 두려움 표현하기",
+          "activityPattern": [],
+          "activities": 56
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "안전: 위험 알리기",
+          "activityPattern": [],
+          "activities": 57
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "안전: 안전하게 행동하기",
+          "activityPattern": [],
+          "activities": 58
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "안전: 위험한 장소 묘사하기",
+          "activityPattern": [],
+          "activities": 59
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "안전: 비상구 위치 묻기",
+          "activityPattern": [],
+          "activities": 60
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "여행지: 여행지 선택하기",
+          "activityPattern": [],
+          "activities": 61
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "여행지: 길을 물어보기",
+          "activityPattern": [],
+          "activities": 62
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "여행지: 가고 싶은 곳 말하기",
+          "activityPattern": [],
+          "activities": 63
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "여행지: 여행지에서 길 묻기",
+          "activityPattern": [],
+          "activities": 64
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "여행지: 관광지 정보 알아보기",
+          "activityPattern": [],
+          "activities": 65
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "가구: 가구 고르기",
+          "activityPattern": [],
+          "activities": 66
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "가구: 가구 스타일 설명하기",
+          "activityPattern": [],
+          "activities": 67
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "가구: 배달 상황 말하기",
+          "activityPattern": [],
+          "activities": 68
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "가구: 가구 설명하기",
+          "activityPattern": [],
+          "activities": 69
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "가구: 가구 재질 묻기",
+          "activityPattern": [],
+          "activities": 70
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "습관: 습관 비교하기",
+          "activityPattern": [],
+          "activities": 71
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "습관: 나의 습관 말하기",
+          "activityPattern": [],
+          "activities": 72
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "습관: 습관 소개하기",
+          "activityPattern": [],
+          "activities": 73
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "습관: 좋은 습관 추천하기",
+          "activityPattern": [],
+          "activities": 74
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "습관: 자주 하는 습관 말하기",
+          "activityPattern": [],
+          "activities": 75
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "꿈: 소원을 말해 봐",
+          "activityPattern": [],
+          "activities": 76
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "꿈: 꿈 이야기하기",
+          "activityPattern": [],
+          "activities": 77
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "꿈: 완벽한 세상 묘사하기",
+          "activityPattern": [],
+          "activities": 78
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "꿈: 가장 바라는 것 말하기",
+          "activityPattern": [],
+          "activities": 79
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "꿈: 꿈을 이야기하기",
+          "activityPattern": [],
+          "activities": 80
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "서비스: 필요한 자료 요청하기",
+          "activityPattern": [],
+          "activities": 81
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "서비스: 직원 역할 설명하기",
+          "activityPattern": [],
+          "activities": 82
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "서비스: 서비스 관련 질문하기",
+          "activityPattern": [],
+          "activities": 83
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "서비스: 제품에 대해 설명하기",
+          "activityPattern": [],
+          "activities": 84
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "서비스: 서비스의 장점 말하기",
+          "activityPattern": [],
+          "activities": 85
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "정치: 선거 결과 예측하기",
+          "activityPattern": [],
+          "activities": 86
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "정치: 권리에 대해 말하기",
+          "activityPattern": [],
+          "activities": 87
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "정치: 정치 상황 정리하기",
+          "activityPattern": [],
+          "activities": 88
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "정치: 의견 표현하기",
+          "activityPattern": [],
+          "activities": 89
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "정치: 선거에 대해 이야기해 보기",
+          "activityPattern": [],
+          "activities": 90
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "이웃: 이웃을 소개하기",
+          "activityPattern": [],
+          "activities": 91
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "이웃: 이웃에게 조언 구하기",
+          "activityPattern": [],
+          "activities": 92
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "이웃: 이웃에게 책 추천하기",
+          "activityPattern": [],
+          "activities": 93
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "이웃: 이웃에게 연락하기",
+          "activityPattern": [],
+          "activities": 94
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "이웃: 이웃과 요리 준비하기",
+          "activityPattern": [],
+          "activities": 95
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "가족: 가족 특징 말하기",
+          "activityPattern": [],
+          "activities": 96
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "가족: 가족을 소개하기",
+          "activityPattern": [],
+          "activities": 97
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "가족: 가족 이야기 나누기",
+          "activityPattern": [],
+          "activities": 98
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "가족: 가족 상황 설명하기",
+          "activityPattern": [],
+          "activities": 99
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "가족: 가족의 성격 묘사하기",
+          "activityPattern": [],
+          "activities": 100
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "마을: 옛날 마을 묘사하기",
+          "activityPattern": [],
+          "activities": 101
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "마을: 마을 친구 소개하기",
+          "activityPattern": [],
+          "activities": 102
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "마을: 추억 공유하기",
+          "activityPattern": [],
+          "activities": 103
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "마을: 내 집 이야기하기",
+          "activityPattern": [],
+          "activities": 104
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "마을: 마을 설명하기",
+          "activityPattern": [],
+          "activities": 105
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "설명: 시합 상황 설명하기",
+          "activityPattern": [],
+          "activities": 106
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "설명: 옛날 사진 설명하기",
+          "activityPattern": [],
+          "activities": 107
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "설명: 규칙 설명하기",
+          "activityPattern": [],
+          "activities": 108
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "설명: 증상 설명하기",
+          "activityPattern": [],
+          "activities": 109
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "설명: 도와준 일 설명하기",
+          "activityPattern": [],
+          "activities": 110
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "집안일: 가전제품 설명하기",
+          "activityPattern": [],
+          "activities": 111
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "집안일: 집안일 부탁하기",
+          "activityPattern": [],
+          "activities": 112
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "집안일: 얼룩 제거 방법 묻기",
+          "activityPattern": [],
+          "activities": 113
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "집안일: 청소 방법 말하기",
+          "activityPattern": [],
+          "activities": 114
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "집안일: 정리 방법 설명하기",
+          "activityPattern": [],
+          "activities": 115
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "상상: 상상으로 이야기 만들기",
+          "activityPattern": [],
+          "activities": 116
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "상상: 상상 속 세계 만들기",
+          "activityPattern": [],
+          "activities": 117
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "상상: 상상 속 역할 놀이하기",
+          "activityPattern": [],
+          "activities": 118
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "상상: 새로운 세상 그려 보기",
+          "activityPattern": [],
+          "activities": 119
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "상상: 이야기를 상상해보기",
+          "activityPattern": [],
+          "activities": 120
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "회사 생활: 업무 일정 말하기",
+          "activityPattern": [],
+          "activities": 121
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "회사 생활: 회의 계획 세우기",
+          "activityPattern": [],
+          "activities": 122
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "회사 생활: 업무 진행 상황 말하기",
+          "activityPattern": [],
+          "activities": 123
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "회사 생활: 동료와 소통하기",
+          "activityPattern": [],
+          "activities": 124
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "회사 생활: 동료에게 안내하기",
+          "activityPattern": [],
+          "activities": 125
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "교실: 필요한 것 빌리기",
+          "activityPattern": [],
+          "activities": 126
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "교실: 필요한 물건 요청하기",
+          "activityPattern": [],
+          "activities": 127
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "교실: 수업 내용을 설명하기",
+          "activityPattern": [],
+          "activities": 128
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "교실: 교실 규칙 말하기",
+          "activityPattern": [],
+          "activities": 129
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "교실: 선생님께 질문하기",
+          "activityPattern": [],
+          "activities": 130
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "시간: 기간 표현하기",
+          "activityPattern": [],
+          "activities": 131
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "시간: 일정에 대해 말하기",
+          "activityPattern": [],
+          "activities": 132
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "시간: 경험 말하기",
+          "activityPattern": [],
+          "activities": 133
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "시간: 과거 경험 말하기",
+          "activityPattern": [],
+          "activities": 134
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "시간: 시간 경과 말하기",
+          "activityPattern": [],
+          "activities": 135
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "경험: 새로운 경험 말하기",
+          "activityPattern": [],
+          "activities": 136
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "경험: 경험 이야기하기",
+          "activityPattern": [],
+          "activities": 137
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "경험: 여행 경험 말하기",
+          "activityPattern": [],
+          "activities": 138
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "경험: 일어난 일 설명하기",
+          "activityPattern": [],
+          "activities": 139
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "경험: 경험 묘사하기",
+          "activityPattern": [],
+          "activities": 140
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "문화: 식사 문화를 소개하기",
+          "activityPattern": [],
+          "activities": 141
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "문화: 전통 음식 소개하기",
+          "activityPattern": [],
+          "activities": 142
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "문화: 축제를 소개하기",
+          "activityPattern": [],
+          "activities": 143
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "문화: 문화 행사 소개하기",
+          "activityPattern": [],
+          "activities": 144
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "문화: 축제 설명하기",
+          "activityPattern": [],
+          "activities": 145
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "악몽: 악몽 이야기하기",
+          "activityPattern": [],
+          "activities": 146
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "악몽: 무서웠던 경험 나누기",
+          "activityPattern": [],
+          "activities": 147
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "악몽: 느낌 표현하기",
+          "activityPattern": [],
+          "activities": 148
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "악몽: 괴물 묘사하기",
+          "activityPattern": [],
+          "activities": 149
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "악몽: 무서운 장면 묘사하기",
+          "activityPattern": [],
+          "activities": 150
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "병원: 증상 말하기",
+          "activityPattern": [],
+          "activities": 151
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "병원: 아픈 곳 설명하기",
+          "activityPattern": [],
+          "activities": 152
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "병원: 진단 결과 말하기",
+          "activityPattern": [],
+          "activities": 153
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "병원: 진료 예약하기",
+          "activityPattern": [],
+          "activities": 154
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "병원: 응급상황 설명하기",
+          "activityPattern": [],
+          "activities": 155
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "운전: 길 안내 요청하기",
+          "activityPattern": [],
+          "activities": 156
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "운전: 운전 규칙 설명하기",
+          "activityPattern": [],
+          "activities": 157
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "운전: 자동차에 짐 싣기",
+          "activityPattern": [],
+          "activities": 158
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "운전: 운전 면허 보여주기",
+          "activityPattern": [],
+          "activities": 159
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "운전: 교통표지판 이해하기",
+          "activityPattern": [],
+          "activities": 160
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "숙소: 숙소 예약하기",
+          "activityPattern": [],
+          "activities": 161
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "숙소: 숙소 위치 묻기",
+          "activityPattern": [],
+          "activities": 162
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "숙소: 숙소 선택하기",
+          "activityPattern": [],
+          "activities": 163
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "숙소: 숙소 추천하기",
+          "activityPattern": [],
+          "activities": 164
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "숙소: 숙소에서 일정 짜기",
+          "activityPattern": [],
+          "activities": 165
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "소원: 소원 표현하기",
+          "activityPattern": [],
+          "activities": 166
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "소원: 소원 말해보기",
+          "activityPattern": [],
+          "activities": 167
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "소원: 행복을 빌어주기",
+          "activityPattern": [],
+          "activities": 168
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "소원: 바라는 일 표현하기",
+          "activityPattern": [],
+          "activities": 169
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "소원: 직접 써 보기",
+          "activityPattern": [],
+          "activities": 170
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "기기: 기기 사용법 설명하기",
+          "activityPattern": [],
+          "activities": 171
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "기기: 기기 고장 설명하기",
+          "activityPattern": [],
+          "activities": 172
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "기기: 기기 연결하기",
+          "activityPattern": [],
+          "activities": 173
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "기기: 기기 조작하기",
+          "activityPattern": [],
+          "activities": 174
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "기기: 기기 문제 해결하기",
+          "activityPattern": [],
+          "activities": 175
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "직장: 사무실 위치 묻기",
+          "activityPattern": [],
+          "activities": 176
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "직장: 직장 내 갈등 표현하기",
+          "activityPattern": [],
+          "activities": 177
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "직장: 직업을 소개하기",
+          "activityPattern": [],
+          "activities": 178
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "직장: 직장 동료 칭찬하기",
+          "activityPattern": [],
+          "activities": 179
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "직장: 직장 고민 말하기",
+          "activityPattern": [],
+          "activities": 180
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "분위기: 전시 분위기 묘사하기",
+          "activityPattern": [],
+          "activities": 181
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "분위기: 분위기 비교하기",
+          "activityPattern": [],
+          "activities": 182
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "분위기: 기분 표현하기",
+          "activityPattern": [],
+          "activities": 183
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "분위기: 느낀 점을 표현하기",
+          "activityPattern": [],
+          "activities": 184
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "분위기: 느낌 표현하기",
+          "activityPattern": [],
+          "activities": 185
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "공부: 공부 계획 세우기",
+          "activityPattern": [],
+          "activities": 186
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "공부: 과제 방법 설명하기",
+          "activityPattern": [],
+          "activities": 187
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "공부: 공부 방법 말하기",
+          "activityPattern": [],
+          "activities": 188
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "공부: 자료 정리하기",
+          "activityPattern": [],
+          "activities": 189
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "공부: 대학 과정 알아보기",
+          "activityPattern": [],
+          "activities": 190
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "식사: 음식 주문하기",
+          "activityPattern": [],
+          "activities": 191
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "식사: 음식 취향 말하기",
+          "activityPattern": [],
+          "activities": 192
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "식사: 식사 경험 공유하기",
+          "activityPattern": [],
+          "activities": 193
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "식사: 맛 표현하기",
+          "activityPattern": [],
+          "activities": 194
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "식사: 음식 조리법 설명하기",
+          "activityPattern": [],
+          "activities": 195
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "약속: 약속 변경 알리기",
+          "activityPattern": [],
+          "activities": 196
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "약속: 약속 내용을 말해 보기",
+          "activityPattern": [],
+          "activities": 197
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "약속: 약속 잡기",
+          "activityPattern": [],
+          "activities": 198
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "약속: 약속에 대해 말하기",
+          "activityPattern": [],
+          "activities": 199
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "약속: 약속 상황 설명하기",
+          "activityPattern": [],
+          "activities": 200
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "문제: 문제 해결 방법 제안하기",
+          "activityPattern": [],
+          "activities": 201
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "문제: 경기 결과를 말해 보기",
+          "activityPattern": [],
+          "activities": 202
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "문제: 문제에 대해 이야기하기",
+          "activityPattern": [],
+          "activities": 203
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "문제: 사건 설명하기",
+          "activityPattern": [],
+          "activities": 204
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "문제: 문제 설명하기",
+          "activityPattern": [],
+          "activities": 205
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "추억: 추억 이야기하기",
+          "activityPattern": [],
+          "activities": 206
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "추억: 약속했던 일 떠올리기",
+          "activityPattern": [],
+          "activities": 207
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "추억: 옛날 일 묻기",
+          "activityPattern": [],
+          "activities": 208
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "추억: 좋았던 추억 말하기",
+          "activityPattern": [],
+          "activities": 209
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "추억: 추억 나누기",
+          "activityPattern": [],
+          "activities": 210
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "경기장: 멋진 골 묘사하기",
+          "activityPattern": [],
+          "activities": 211
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "경기장: 경기장 경험 말하기",
+          "activityPattern": [],
+          "activities": 212
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "경기장: 경기장 소개하기",
+          "activityPattern": [],
+          "activities": 213
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "경기장: 좋아하는 팀 말하기",
+          "activityPattern": [],
+          "activities": 214
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "경기장: 경기 결과 말하기",
+          "activityPattern": [],
+          "activities": 215
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "공연: 공연 추천하기",
+          "activityPattern": [],
+          "activities": 216
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "공연: 공연 일정 묻기",
+          "activityPattern": [],
+          "activities": 217
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "공연: 좋아하는 공연 말하기",
+          "activityPattern": [],
+          "activities": 218
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "공연: 공연에 대해 이야기하기",
+          "activityPattern": [],
+          "activities": 219
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "공연: 공연 경험 나누기",
+          "activityPattern": [],
+          "activities": 220
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "은행: 지점 위치 확인하기",
+          "activityPattern": [],
+          "activities": 221
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "은행: 계좌 개설하기",
+          "activityPattern": [],
+          "activities": 222
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "은행: 돈을 찾는 방법 말하기",
+          "activityPattern": [],
+          "activities": 223
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "은행: 계좌 잔액 확인하기",
+          "activityPattern": [],
+          "activities": 224
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "은행: 예금 방법 설명하기",
+          "activityPattern": [],
+          "activities": 225
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "날씨: 기상예보 전하기",
+          "activityPattern": [],
+          "activities": 226
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "날씨: 날씨 이야기하기",
+          "activityPattern": [],
+          "activities": 227
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "날씨: 날씨 묘사하기",
+          "activityPattern": [],
+          "activities": 228
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "날씨: 날씨에 대해 말하기",
+          "activityPattern": [],
+          "activities": 229
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "날씨: 날씨 예보 말하기",
+          "activityPattern": [],
+          "activities": 230
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "감정: 감정 표현하기",
+          "activityPattern": [],
+          "activities": 231
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "감정: 감정 설명하기",
+          "activityPattern": [],
+          "activities": 232
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "감정: 감정에 반응하기",
+          "activityPattern": [],
+          "activities": 233
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "감정: 감정 솔직하게 말하기",
+          "activityPattern": [],
+          "activities": 234
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "감정: 감정 전달하기",
+          "activityPattern": [],
+          "activities": 235
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "사랑: 사랑 표현하기",
+          "activityPattern": [],
+          "activities": 236
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "사랑: 연애 이야기하기",
+          "activityPattern": [],
+          "activities": 237
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "사랑: 연애 경험 나누기",
+          "activityPattern": [],
+          "activities": 238
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "사랑: 사랑의 우선순위 말하기",
+          "activityPattern": [],
+          "activities": 239
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "사랑: 데이트 이야기하기",
+          "activityPattern": [],
+          "activities": 240
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "분석: 상황 분석하기",
+          "activityPattern": [],
+          "activities": 241
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "분석: 문서 검토하기",
+          "activityPattern": [],
+          "activities": 242
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "분석: 우선순위 정하기",
+          "activityPattern": [],
+          "activities": 243
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "분석: 결과를 평가하기",
+          "activityPattern": [],
+          "activities": 244
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "분석: 분석 결과 공유하기",
+          "activityPattern": [],
+          "activities": 245
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "축구: 공 차는 법 설명하기",
+          "activityPattern": [],
+          "activities": 246
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "축구: 축구 규칙 설명하기",
+          "activityPattern": [],
+          "activities": 247
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "축구: 동료에게 공 전달하기",
+          "activityPattern": [],
+          "activities": 248
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "축구: 경기 상황 설명하기",
+          "activityPattern": [],
+          "activities": 249
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "축구: 선수 역할 나누기",
+          "activityPattern": [],
+          "activities": 250
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "의류: 옷 스타일 설명하기",
+          "activityPattern": [],
+          "activities": 1
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "의류: 옷을 묘사해 보기",
+          "activityPattern": [],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "의류: 신발끈 묶는 법 설명하기",
+          "activityPattern": [],
+          "activities": 3
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "의류: 옷 특징 설명하기",
+          "activityPattern": [],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "의류: 옷 가격 말하기",
+          "activityPattern": [],
+          "activities": 5
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "미용용품: 필요한 미용용품 요청하기",
+          "activityPattern": [],
+          "activities": 6
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "미용용품: 사용하는 미용용품 말하기",
+          "activityPattern": [],
+          "activities": 7
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "미용용품: 샴푸 추천해보기",
+          "activityPattern": [],
+          "activities": 8
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "미용용품: 미용용품 소개하기",
+          "activityPattern": [],
+          "activities": 9
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "미용용품: 사용법 설명하기",
+          "activityPattern": [],
+          "activities": 10
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "패션: 옷을 추천해 보기",
+          "activityPattern": [],
+          "activities": 11
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "패션: 좋아하는 스타일 말하기",
+          "activityPattern": [],
+          "activities": 12
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "패션: 옷 스타일 말하기",
+          "activityPattern": [],
+          "activities": 13
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "패션: 패션 소품 추천하기",
+          "activityPattern": [],
+          "activities": 14
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "패션: 옷 스타일을 설명하기",
+          "activityPattern": [],
+          "activities": 15
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "사고: 수리 방법 묻기",
+          "activityPattern": [],
+          "activities": 16
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "사고: 고장 원인 말하기",
+          "activityPattern": [],
+          "activities": 17
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "사고: 사고 상황 설명하기",
+          "activityPattern": [],
+          "activities": 18
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "사고: 분실 경험 나누기",
+          "activityPattern": [],
+          "activities": 19
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "사고: 사고 원인 묻기",
+          "activityPattern": [],
+          "activities": 20
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "식탁: 식탁에서 요청하기",
+          "activityPattern": [],
+          "activities": 21
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "식탁: 메뉴를 추천하기",
+          "activityPattern": [],
+          "activities": 22
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "식탁: 음식 주문하기",
+          "activityPattern": [],
+          "activities": 23
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "식탁: 메뉴 주문하기",
+          "activityPattern": [],
+          "activities": 24
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "식탁: 음식 맛 표현하기",
+          "activityPattern": [],
+          "activities": 25
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "매장: 상품 상태 확인하기",
+          "activityPattern": [],
+          "activities": 26
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "매장: 매장 위치 묻기",
+          "activityPattern": [],
+          "activities": 27
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "매장: 환불 요청하기",
+          "activityPattern": [],
+          "activities": 28
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "매장: 주문 방법 설명하기",
+          "activityPattern": [],
+          "activities": 29
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "매장: 주문 추적하기",
+          "activityPattern": [],
+          "activities": 30
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "상점: 불만 사항 말하기",
+          "activityPattern": [],
+          "activities": 31
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "상점: 불만을 말해보기",
+          "activityPattern": [],
+          "activities": 32
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "상점: 상품 교환 요청하기",
+          "activityPattern": [],
+          "activities": 33
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "상점: 상품 상태 확인하기",
+          "activityPattern": [],
+          "activities": 34
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "상점: 상품 비교하기",
+          "activityPattern": [],
+          "activities": 35
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "도시: 도시 경험 이야기하기",
+          "activityPattern": [],
+          "activities": 36
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "도시: 고향을 소개하기",
+          "activityPattern": [],
+          "activities": 37
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "도시: 도시 생활 설명하기",
+          "activityPattern": [],
+          "activities": 38
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "도시: 동네를 소개하기",
+          "activityPattern": [],
+          "activities": 39
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "도시: 대표 요리 추천받기",
+          "activityPattern": [],
+          "activities": 40
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "생태계: 생물 특징 설명하기",
+          "activityPattern": [],
+          "activities": 41
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "생태계: 생태계 설명하기",
+          "activityPattern": [],
+          "activities": 42
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "생태계: 환경 문제 설명하기",
+          "activityPattern": [],
+          "activities": 43
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "생태계: 자연 보호 방법 제안하기",
+          "activityPattern": [],
+          "activities": 44
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "생태계: 동물 서식지 설명하기",
+          "activityPattern": [],
+          "activities": 45
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "예술: 예술가를 소개하기",
+          "activityPattern": [],
+          "activities": 46
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "예술: 전시회 비교하기",
+          "activityPattern": [],
+          "activities": 47
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "예술: 전시회 이야기하기",
+          "activityPattern": [],
+          "activities": 48
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "예술: 작품 감상 말하기",
+          "activityPattern": [],
+          "activities": 49
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "예술: 작품 감상 이야기하기",
+          "activityPattern": [],
+          "activities": 50
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "여행: 비행 경험 말하기",
+          "activityPattern": [],
+          "activities": 51
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "여행: 여행지 이야기하기",
+          "activityPattern": [],
+          "activities": 52
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "여행: 여행지 풍경 묘사하기",
+          "activityPattern": [],
+          "activities": 53
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "여행: 여행 추억 말하기",
+          "activityPattern": [],
+          "activities": 54
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "여행: 비행 경험 이야기하기",
+          "activityPattern": [],
+          "activities": 55
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "의견: 의견 말하기",
+          "activityPattern": [],
+          "activities": 56
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "의견: 다른 의견 제시하기",
+          "activityPattern": [],
+          "activities": 57
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "의견: 생각에 동의하기",
+          "activityPattern": [],
+          "activities": 58
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "의견: 권리 주장하기",
+          "activityPattern": [],
+          "activities": 59
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "의견: 생각 표현하기",
+          "activityPattern": [],
+          "activities": 60
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "사무실: 회사 위치 말하기",
+          "activityPattern": [],
+          "activities": 61
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "사무실: 사무실 위치 물어보기",
+          "activityPattern": [],
+          "activities": 62
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "사무실: 업무 역할 설명하기",
+          "activityPattern": [],
+          "activities": 63
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "사무실: 사무실 위치 묻기",
+          "activityPattern": [],
+          "activities": 64
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "사무실: 직원 소개하기",
+          "activityPattern": [],
+          "activities": 65
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "감정: 감정에 대해 말하기",
+          "activityPattern": [],
+          "activities": 66
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "감정: 감정 표현하기",
+          "activityPattern": [],
+          "activities": 67
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "감정: 감정에 반응하기",
+          "activityPattern": [],
+          "activities": 68
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "감정: 감정을 말해 보기",
+          "activityPattern": [],
+          "activities": 69
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "감정: 감정 추측하기",
+          "activityPattern": [],
+          "activities": 70
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "비밀: 비밀 공유하기",
+          "activityPattern": [],
+          "activities": 71
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "비밀: 비밀 이야기하기",
+          "activityPattern": [],
+          "activities": 72
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "비밀: 거짓말 구별하기",
+          "activityPattern": [],
+          "activities": 73
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "비밀: 비밀 이야기 나누기",
+          "activityPattern": [],
+          "activities": 74
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "비밀: 진심 표현해 봐",
+          "activityPattern": [],
+          "activities": 75
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "건강: 아기 출생일 말하기",
+          "activityPattern": [],
+          "activities": 76
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "건강: 병원에 갈 이유 말하기",
+          "activityPattern": [],
+          "activities": 77
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "건강: 치료법 설명하기",
+          "activityPattern": [],
+          "activities": 78
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "건강: 증상 설명하기",
+          "activityPattern": [],
+          "activities": 79
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "건강: 치료 방법 말하기",
+          "activityPattern": [],
+          "activities": 80
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "업무: 업무 상황 설명하기",
+          "activityPattern": [],
+          "activities": 81
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "업무: 업무 성과 공유하기",
+          "activityPattern": [],
+          "activities": 82
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "업무: 자원 필요성 설명하기",
+          "activityPattern": [],
+          "activities": 83
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "업무: 업무 성과 이야기하기",
+          "activityPattern": [],
+          "activities": 84
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "업무: 업무 계획 세우기",
+          "activityPattern": [],
+          "activities": 85
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "안전: 교통사고 이야기하기",
+          "activityPattern": [],
+          "activities": 86
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "안전: 위험 상황 알리기",
+          "activityPattern": [],
+          "activities": 87
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "안전: 응급 상황에 대처하기",
+          "activityPattern": [],
+          "activities": 88
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "안전: 위험 알리기",
+          "activityPattern": [],
+          "activities": 89
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "안전: 위험 상황 설명하기",
+          "activityPattern": [],
+          "activities": 90
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "감사: 감사의 말 전하기",
+          "activityPattern": [],
+          "activities": 91
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "감사: 감사 인사하기",
+          "activityPattern": [],
+          "activities": 92
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "감사: 고마운 일 표현하기",
+          "activityPattern": [],
+          "activities": 93
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "감사: 고마움 표현하기",
+          "activityPattern": [],
+          "activities": 94
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "감사: 감사 이유 설명하기",
+          "activityPattern": [],
+          "activities": 95
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "도로: 길 안내하기",
+          "activityPattern": [],
+          "activities": 96
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "도로: 길 안내 요청하기",
+          "activityPattern": [],
+          "activities": 97
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "도로: 길을 안내해 보기",
+          "activityPattern": [],
+          "activities": 98
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "도로: 방향 제시하기",
+          "activityPattern": [],
+          "activities": 99
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "도로: 교통 상황 묘사하기",
+          "activityPattern": [],
+          "activities": 100
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "학교생활: 시험 결과 말하기",
+          "activityPattern": [],
+          "activities": 101
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "학교생활: 학교 실험 설명하기",
+          "activityPattern": [],
+          "activities": 102
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "학교생활: 학교 생활 이야기하기",
+          "activityPattern": [],
+          "activities": 103
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "학교생활: 시험 준비하기",
+          "activityPattern": [],
+          "activities": 104
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "학교생활: 학습 계획 세우기",
+          "activityPattern": [],
+          "activities": 105
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "범죄: 범죄 사건 설명하기",
+          "activityPattern": [],
+          "activities": 106
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "범죄: 범죄에 대해 말하기",
+          "activityPattern": [],
+          "activities": 107
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "범죄: 범죄 상황 묘사하기",
+          "activityPattern": [],
+          "activities": 108
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "범죄: 범죄 소식 전하기",
+          "activityPattern": [],
+          "activities": 109
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "범죄: 용의자 묘사하기",
+          "activityPattern": [],
+          "activities": 110
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "음식: 아침 식사 이야기하기",
+          "activityPattern": [],
+          "activities": 111
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "음식: 음식 취향 말하기",
+          "activityPattern": [],
+          "activities": 112
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "음식: 집밥에 대해 이야기하기",
+          "activityPattern": [],
+          "activities": 113
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "음식: 좋아하는 음식 말하기",
+          "activityPattern": [],
+          "activities": 114
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "음식: 음식 냄새 표현하기",
+          "activityPattern": [],
+          "activities": 115
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "조언: 상대에게 조언하기",
+          "activityPattern": [],
+          "activities": 116
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "조언: 상대방 이해하기",
+          "activityPattern": [],
+          "activities": 117
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "조언: 운동에 대해 조언하기",
+          "activityPattern": [],
+          "activities": 118
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "조언: 위로의 말 건네기",
+          "activityPattern": [],
+          "activities": 119
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "조언: 긍정적으로 조언하기",
+          "activityPattern": [],
+          "activities": 120
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "상황: 상황 설명하기",
+          "activityPattern": [],
+          "activities": 121
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "상황: 문제를 알리기",
+          "activityPattern": [],
+          "activities": 122
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "상황: 도구 요청하기",
+          "activityPattern": [],
+          "activities": 123
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "상황: 느낌 표현하기",
+          "activityPattern": [],
+          "activities": 124
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "상황: 결과 추측하기",
+          "activityPattern": [],
+          "activities": 125
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "집문제: 집주인에게 연락하기",
+          "activityPattern": [],
+          "activities": 126
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "집문제: 하자 요청하기",
+          "activityPattern": [],
+          "activities": 127
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "집문제: 집 가격 이야기하기",
+          "activityPattern": [],
+          "activities": 128
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "집문제: 불편한 점 말하기",
+          "activityPattern": [],
+          "activities": 129
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "집문제: 집 상태 확인하기",
+          "activityPattern": [],
+          "activities": 130
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "희망: 속마음 털어놓기",
+          "activityPattern": [],
+          "activities": 131
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "희망: 희망 표현하기",
+          "activityPattern": [],
+          "activities": 132
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "희망: 마음을 솔직하게 전하기",
+          "activityPattern": [],
+          "activities": 133
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "희망: 희망 표현하기",
+          "activityPattern": [],
+          "activities": 134
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "희망: 희망을 표현하기",
+          "activityPattern": [],
+          "activities": 135
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "식재료: 식재료 설명하기",
+          "activityPattern": [],
+          "activities": 136
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "식재료: 식재료 사러 가기",
+          "activityPattern": [],
+          "activities": 137
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "식재료: 재료 준비 방법 말하기",
+          "activityPattern": [],
+          "activities": 138
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "식재료: 식재료에 대해 말하기",
+          "activityPattern": [],
+          "activities": 139
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "식재료: 식재료 바꿔보기",
+          "activityPattern": [],
+          "activities": 140
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "로봇: 로봇 사용법 설명하기",
+          "activityPattern": [],
+          "activities": 141
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "로봇: 로봇에 대해 질문하기",
+          "activityPattern": [],
+          "activities": 142
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "로봇: 로봇 사용 방법 말하기",
+          "activityPattern": [],
+          "activities": 143
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "로봇: 로봇 관련 의견 말하기",
+          "activityPattern": [],
+          "activities": 144
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "로봇: 문제점 말하기",
+          "activityPattern": [],
+          "activities": 145
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "수리: 수리 기사 추천하기",
+          "activityPattern": [],
+          "activities": 146
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "수리: 수리 요청하기",
+          "activityPattern": [],
+          "activities": 147
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "수리: 수리 방법 설명하기",
+          "activityPattern": [],
+          "activities": 148
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "수리: 수리 비용 알아보기",
+          "activityPattern": [],
+          "activities": 149
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "수리: 도구 요청하기",
+          "activityPattern": [],
+          "activities": 150
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "장식: 방에 어울리는 물건 추천하기",
+          "activityPattern": [],
+          "activities": 151
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "장식: 가구 치수 재기",
+          "activityPattern": [],
+          "activities": 152
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "장식: 새 가구 고르기",
+          "activityPattern": [],
+          "activities": 153
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "장식: 집안 꾸미기 제안하기",
+          "activityPattern": [],
+          "activities": 154
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "장식: 방을 꾸며보기",
+          "activityPattern": [],
+          "activities": 155
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "의료: 의료 서비스 설명하기",
+          "activityPattern": [],
+          "activities": 156
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "의료: 보험 가입 방법 설명하기",
+          "activityPattern": [],
+          "activities": 157
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "의료: 보험 혜택 설명하기",
+          "activityPattern": [],
+          "activities": 158
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "의료: 의료 직업 소개하기",
+          "activityPattern": [],
+          "activities": 159
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "의료: 약국 이용 방법 말하기",
+          "activityPattern": [],
+          "activities": 160
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "이야기: 연예인 별명 소개하기",
+          "activityPattern": [],
+          "activities": 161
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "이야기: 이야기 시작하기",
+          "activityPattern": [],
+          "activities": 162
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "이야기: 이야기 나누기",
+          "activityPattern": [],
+          "activities": 163
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "이야기: 이야기 주인공 소개하기",
+          "activityPattern": [],
+          "activities": 164
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "이야기: 유명인 소개하기",
+          "activityPattern": [],
+          "activities": 165
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "축제: 축제 준비하기",
+          "activityPattern": [],
+          "activities": 166
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "축제: 축제 음식 소개하기",
+          "activityPattern": [],
+          "activities": 167
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "축제: 축제 소개하기",
+          "activityPattern": [],
+          "activities": 168
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "축제: 축제 이야기 나누기",
+          "activityPattern": [],
+          "activities": 169
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "축제: 축제 방문 경험 나누기",
+          "activityPattern": [],
+          "activities": 170
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "정치: 정치 이야기하기",
+          "activityPattern": [],
+          "activities": 171
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "정치: 정치에 대해 이야기하기",
+          "activityPattern": [],
+          "activities": 172
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "정치: 정치계 인물 소개하기",
+          "activityPattern": [],
+          "activities": 173
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "정치: 이슈 요약하기",
+          "activityPattern": [],
+          "activities": 174
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "정치: 사건을 설명하기",
+          "activityPattern": [],
+          "activities": 175
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "농작물: 농작물 재배 방법 말하기",
+          "activityPattern": [],
+          "activities": 176
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "농작물: 농작물 피해 설명하기",
+          "activityPattern": [],
+          "activities": 177
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "농작물: 작물 상태 묘사하기",
+          "activityPattern": [],
+          "activities": 178
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "농작물: 작물 상태 물어보기",
+          "activityPattern": [],
+          "activities": 179
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "농작물: 기후가 미치는 영향 설명하기",
+          "activityPattern": [],
+          "activities": 180
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "광고: 광고 문구 만들어보기",
+          "activityPattern": [],
+          "activities": 181
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "광고: 광고 소개하기",
+          "activityPattern": [],
+          "activities": 182
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "광고: 광고 효과 설명하기",
+          "activityPattern": [],
+          "activities": 183
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "광고: 제품 장점 설명하기",
+          "activityPattern": [],
+          "activities": 184
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "광고: 제품 소개하기",
+          "activityPattern": [],
+          "activities": 185
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "주방: 요리 과정 설명하기",
+          "activityPattern": [],
+          "activities": 186
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "주방: 주방 도구 요청하기",
+          "activityPattern": [],
+          "activities": 187
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "주방: 주방용품 사용하기",
+          "activityPattern": [],
+          "activities": 188
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "주방: 요리하는 방법 설명하기",
+          "activityPattern": [],
+          "activities": 189
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "주방: 재료 고르기",
+          "activityPattern": [],
+          "activities": 190
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "정치: 민주주의 설명하기",
+          "activityPattern": [],
+          "activities": 191
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "정치: 정치에 대해 의견 말하기",
+          "activityPattern": [],
+          "activities": 192
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "정치: 뉴스에 반응하기",
+          "activityPattern": [],
+          "activities": 193
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "정치: 정치 이야기하기",
+          "activityPattern": [],
+          "activities": 194
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "정치: 정치 뉴스에 반응하기",
+          "activityPattern": [],
+          "activities": 195
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "일상: 캠핑 경험 이야기하기",
+          "activityPattern": [],
+          "activities": 196
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "일상: 하루 일과 이야기하기",
+          "activityPattern": [],
+          "activities": 197
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "일상: 일상 경험 나누기",
+          "activityPattern": [],
+          "activities": 198
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "일상: 하고 싶은 일 말하기",
+          "activityPattern": [],
+          "activities": 199
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "일상: 하루 일과 설명하기",
+          "activityPattern": [],
+          "activities": 200
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "경력: 직장 경험 말하기",
+          "activityPattern": [],
+          "activities": 201
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "경력: 경력 소개하기",
+          "activityPattern": [],
+          "activities": 202
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "경력: 희망하는 일을 말하기",
+          "activityPattern": [],
+          "activities": 203
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "경력: 직업을 소개하기",
+          "activityPattern": [],
+          "activities": 204
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "경력: 직업 목표 말하기",
+          "activityPattern": [],
+          "activities": 205
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "이웃집: 이웃을 소개하기",
+          "activityPattern": [],
+          "activities": 206
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "이웃집: 이웃 얘기하기",
+          "activityPattern": [],
+          "activities": 207
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "이웃집: 이웃에 대해 이야기하기",
+          "activityPattern": [],
+          "activities": 208
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "이웃집: 이웃집 동물 얘기하기",
+          "activityPattern": [],
+          "activities": 209
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "이웃집: 이웃 이야기 듣기",
+          "activityPattern": [],
+          "activities": 210
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "습관: 가족 습관 이야기하기",
+          "activityPattern": [],
+          "activities": 211
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "습관: 자신의 습관 말하기",
+          "activityPattern": [],
+          "activities": 212
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "습관: 습관을 소개하기",
+          "activityPattern": [],
+          "activities": 213
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "습관: 나만의 습관 소개하기",
+          "activityPattern": [],
+          "activities": 214
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "습관: 좋은 습관 추천하기",
+          "activityPattern": [],
+          "activities": 215
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "응급실: 증상을 설명하기",
+          "activityPattern": [],
+          "activities": 216
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "응급실: 약 복용법 묻기",
+          "activityPattern": [],
+          "activities": 217
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "응급실: 응급처치 요청하기",
+          "activityPattern": [],
+          "activities": 218
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "응급실: 응급 상황 설명하기",
+          "activityPattern": [],
+          "activities": 219
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "응급실: 치료 방법 묻기",
+          "activityPattern": [],
+          "activities": 220
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "사건: 사건에 대해 질문하기",
+          "activityPattern": [],
+          "activities": 221
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "사건: 사건 경과 말하기",
+          "activityPattern": [],
+          "activities": 222
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "사건: 용의자 추측하기",
+          "activityPattern": [],
+          "activities": 223
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "사건: 사건 설명하기",
+          "activityPattern": [],
+          "activities": 224
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "사건: 문제 상황 말하기",
+          "activityPattern": [],
+          "activities": 225
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "놀람: 놀랐던 일 묘사하기",
+          "activityPattern": [],
+          "activities": 226
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "놀람: 놀란 이유 말하기",
+          "activityPattern": [],
+          "activities": 227
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "놀람: 놀라운 순간 말하기",
+          "activityPattern": [],
+          "activities": 228
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "놀람: 놀란 감정 표현하기",
+          "activityPattern": [],
+          "activities": 229
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "놀람: 상황에 반응하기",
+          "activityPattern": [],
+          "activities": 230
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "유치원: 유치원 선택하기",
+          "activityPattern": [],
+          "activities": 231
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "유치원: 수업을 소개하기",
+          "activityPattern": [],
+          "activities": 232
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "유치원: 지구에 대해 이야기하기",
+          "activityPattern": [],
+          "activities": 233
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "유치원: 교실 상황 말하기",
+          "activityPattern": [],
+          "activities": 234
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "유치원: 선생님 지시 따르기",
+          "activityPattern": [],
+          "activities": 235
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "생활: 여행 계획 말하기",
+          "activityPattern": [],
+          "activities": 236
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "생활: 도움이 필요할 때 요청하기",
+          "activityPattern": [],
+          "activities": 237
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "생활: 건강 검진 이야기하기",
+          "activityPattern": [],
+          "activities": 238
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "생활: 운동 계획 이야기하기",
+          "activityPattern": [],
+          "activities": 239
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "생활: 결혼식 이야기하기",
+          "activityPattern": [],
+          "activities": 240
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "동물: 동물 이야기하기",
+          "activityPattern": [],
+          "activities": 241
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "동물: 동물에 대해 이야기하기",
+          "activityPattern": [],
+          "activities": 242
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "동물: 동물 관련 질문하기",
+          "activityPattern": [],
+          "activities": 243
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "동물: 동물 특징 묘사하기",
+          "activityPattern": [],
+          "activities": 244
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "동물: 좋아하는 동물 말하기",
+          "activityPattern": [],
+          "activities": 245
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "가족사: 가족 소식 전하기",
+          "activityPattern": [],
+          "activities": 246
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "가족사: 가족 경험 나누기",
+          "activityPattern": [],
+          "activities": 247
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "가족사: 비밀을 털어놓기",
+          "activityPattern": [],
+          "activities": 248
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "가족사: 가족 얘기에 반응하기",
+          "activityPattern": [],
+          "activities": 249
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "가족사: 가족 변화 이야기하기",
+          "activityPattern": [],
+          "activities": 250
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "여행 준비: 여행 조건 말하기",
+          "activityPattern": [],
+          "activities": 1
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "여행 준비: 여행 계획 세우기",
+          "activityPattern": [],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "여행 준비: 부모님께 부탁하기",
+          "activityPattern": [],
+          "activities": 3
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "여행 준비: 허락 요청하기",
+          "activityPattern": [],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "여행 준비: 여행 허락 요청하기",
+          "activityPattern": [],
+          "activities": 5
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "몸 관리: 통증 완화법 설명하기",
+          "activityPattern": [],
+          "activities": 6
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "몸 관리: 건강 습관 이야기하기",
+          "activityPattern": [],
+          "activities": 7
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "몸 관리: 건강 습관 말하기",
+          "activityPattern": [],
+          "activities": 8
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "몸 관리: 운동 방법 설명하기",
+          "activityPattern": [],
+          "activities": 9
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "몸 관리: 건강 조언하기",
+          "activityPattern": [],
+          "activities": 10
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "주택: 집 특징 말하기",
+          "activityPattern": [],
+          "activities": 11
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "주택: 집에 대해 설명하기",
+          "activityPattern": [],
+          "activities": 12
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "주택: 집 위치 알아보기",
+          "activityPattern": [],
+          "activities": 13
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "주택: 집 상태 설명하기",
+          "activityPattern": [],
+          "activities": 14
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "주택: 주택 거래 이야기하기",
+          "activityPattern": [],
+          "activities": 15
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "회사: 업무 결과 발표하기",
+          "activityPattern": [],
+          "activities": 16
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "회사: 통계 설명하기",
+          "activityPattern": [],
+          "activities": 17
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "회사: 회사 생활 소개하기",
+          "activityPattern": [],
+          "activities": 18
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "회사: 회의에 참여하기",
+          "activityPattern": [],
+          "activities": 19
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "회사: 회사 목표 설명하기",
+          "activityPattern": [],
+          "activities": 20
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "증상: 증상 설명하기",
+          "activityPattern": [],
+          "activities": 21
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "증상: 의사에게 증상 말하기",
+          "activityPattern": [],
+          "activities": 22
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "증상: 상처 위치 말하기",
+          "activityPattern": [],
+          "activities": 23
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "증상: 증상 비교하기",
+          "activityPattern": [],
+          "activities": 24
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "증상: 증상 물어보기",
+          "activityPattern": [],
+          "activities": 25
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "정비소: 수리 요청하기",
+          "activityPattern": [],
+          "activities": 26
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "정비소: 수리 기사에게 물어보기",
+          "activityPattern": [],
+          "activities": 27
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "정비소: 정비 문제 설명하기",
+          "activityPattern": [],
+          "activities": 28
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "정비소: 정비 요청하기",
+          "activityPattern": [],
+          "activities": 29
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "정비소: 정비소 경험 말하기",
+          "activityPattern": [],
+          "activities": 30
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "진로: 관심 있는 직업 공유하기",
+          "activityPattern": [],
+          "activities": 31
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "진로: 진로 선택 설명하기",
+          "activityPattern": [],
+          "activities": 32
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "진로: 희망 직업 말하기",
+          "activityPattern": [],
+          "activities": 33
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "진로: 진로 계획 말하기",
+          "activityPattern": [],
+          "activities": 34
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "진로: 진로를 선택해 보기",
+          "activityPattern": [],
+          "activities": 35
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "성격: 성격 묘사하기",
+          "activityPattern": [],
+          "activities": 36
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "성격: 성격 변화 설명하기",
+          "activityPattern": [],
+          "activities": 37
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "성격: 성격 차이 이야기하기",
+          "activityPattern": [],
+          "activities": 38
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "성격: 성격에 대해 말하기",
+          "activityPattern": [],
+          "activities": 39
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "성격: 사람 성격 묘사하기",
+          "activityPattern": [],
+          "activities": 40
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "선거: 후보를 소개하기",
+          "activityPattern": [],
+          "activities": 41
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "선거: 후보를 비교해 보기",
+          "activityPattern": [],
+          "activities": 42
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "선거: 후보 발표하기",
+          "activityPattern": [],
+          "activities": 43
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "선거: 선거 결과 묻기",
+          "activityPattern": [],
+          "activities": 44
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "선거: 선거 결과를 예측하기",
+          "activityPattern": [],
+          "activities": 45
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "지구: 환경 문제 이야기하기",
+          "activityPattern": [],
+          "activities": 46
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "지구: 원인과 결과 말하기",
+          "activityPattern": [],
+          "activities": 47
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "지구: 환경 보호 방법 제안하기",
+          "activityPattern": [],
+          "activities": 48
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "지구: 지구를 위해 제안하기",
+          "activityPattern": [],
+          "activities": 49
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "지구: 지구 변화 설명하기",
+          "activityPattern": [],
+          "activities": 50
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "경고: 경고 표현하기",
+          "activityPattern": [],
+          "activities": 51
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "경고: 주의 깊게 들어 봐",
+          "activityPattern": [],
+          "activities": 52
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "경고: 경고문 전달하기",
+          "activityPattern": [],
+          "activities": 53
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "경고: 조심하라고 말하기",
+          "activityPattern": [],
+          "activities": 54
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "경고: 고집부리지 마",
+          "activityPattern": [],
+          "activities": 55
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "육아: 입양에 대해 얘기하기",
+          "activityPattern": [],
+          "activities": 56
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "육아: 육아 용품 준비하기",
+          "activityPattern": [],
+          "activities": 57
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "육아: 가족에게 도움 요청하기",
+          "activityPattern": [],
+          "activities": 58
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "육아: 육아 고민 나누기",
+          "activityPattern": [],
+          "activities": 59
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "육아: 육아 일정 이야기하기",
+          "activityPattern": [],
+          "activities": 60
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "미신: 미신 설명하기",
+          "activityPattern": [],
+          "activities": 61
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "미신: 미신에 대해 이야기하기",
+          "activityPattern": [],
+          "activities": 62
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "미신: 미신 경험 나누기",
+          "activityPattern": [],
+          "activities": 63
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "미신: 미신에 대해 말해 보기",
+          "activityPattern": [],
+          "activities": 64
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "미신: 미신에 반응하기",
+          "activityPattern": [],
+          "activities": 65
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "관계: 신뢰에 대해 말하기",
+          "activityPattern": [],
+          "activities": 66
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "관계: 오해를 풀어보기",
+          "activityPattern": [],
+          "activities": 67
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "관계: 후회하는 감정 표현하기",
+          "activityPattern": [],
+          "activities": 68
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "관계: 실수에 대해 이야기하기",
+          "activityPattern": [],
+          "activities": 69
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "관계: 감정을 표현하기",
+          "activityPattern": [],
+          "activities": 70
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "수업: 수업 계획 말하기",
+          "activityPattern": [],
+          "activities": 71
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "수업: 수업 내용 질문하기",
+          "activityPattern": [],
+          "activities": 72
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "수업: 과목 선택 설명하기",
+          "activityPattern": [],
+          "activities": 73
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "수업: 과제 의견 나누기",
+          "activityPattern": [],
+          "activities": 74
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "수업: 시험 준비 설명하기",
+          "activityPattern": [],
+          "activities": 75
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "농장: 농장 추억 이야기하기",
+          "activityPattern": [],
+          "activities": 76
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "농장: 농장 경험 공유하기",
+          "activityPattern": [],
+          "activities": 77
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "농장: 농장 이야기하기",
+          "activityPattern": [],
+          "activities": 78
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "농장: 모닥불 경험 말하기",
+          "activityPattern": [],
+          "activities": 79
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "농장: 농장 생활 묘사하기",
+          "activityPattern": [],
+          "activities": 80
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "문화: 어린 시절 이야기하기",
+          "activityPattern": [],
+          "activities": 81
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "문화: 칭찬 표현하기",
+          "activityPattern": [],
+          "activities": 82
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "문화: 가족 문화를 소개하기",
+          "activityPattern": [],
+          "activities": 83
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "문화: 문화 차이 이야기하기",
+          "activityPattern": [],
+          "activities": 84
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "문화: 음식에 대한 감상 말하기",
+          "activityPattern": [],
+          "activities": 85
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "직장생활: 회의 일정 잡기",
+          "activityPattern": [],
+          "activities": 86
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "직장생활: 업무 일과 설명하기",
+          "activityPattern": [],
+          "activities": 87
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "직장생활: 동료를 소개하기",
+          "activityPattern": [],
+          "activities": 88
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "직장생활: 동료에게 질문하기",
+          "activityPattern": [],
+          "activities": 89
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "직장생활: 직장 경험 말하기",
+          "activityPattern": [],
+          "activities": 90
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "서류: 서류 작성하기",
+          "activityPattern": [],
+          "activities": 91
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "서류: 서류 준비하기",
+          "activityPattern": [],
+          "activities": 92
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "서류: 서류 갱신하기",
+          "activityPattern": [],
+          "activities": 93
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "서류: 필요한 서류 안내하기",
+          "activityPattern": [],
+          "activities": 94
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "서류: 서류 작성 방법 설명하기",
+          "activityPattern": [],
+          "activities": 95
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "진료: 증상 설명하기",
+          "activityPattern": [],
+          "activities": 96
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "진료: 진료 예약하기",
+          "activityPattern": [],
+          "activities": 97
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "진료: 진료 요청하기",
+          "activityPattern": [],
+          "activities": 98
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "진료: 치료 지시 이해하기",
+          "activityPattern": [],
+          "activities": 99
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "진료: 진료 방법 설명하기",
+          "activityPattern": [],
+          "activities": 100
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "집수리: 도움 요청하기",
+          "activityPattern": [],
+          "activities": 101
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "집수리: 집수리 계획 세우기",
+          "activityPattern": [],
+          "activities": 102
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "집수리: 수리 방법 설명하기",
+          "activityPattern": [],
+          "activities": 103
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "집수리: 문제점을 지적하기",
+          "activityPattern": [],
+          "activities": 104
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "집수리: 우선순위 정하기",
+          "activityPattern": [],
+          "activities": 105
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "승인: 잘못 인정하기",
+          "activityPattern": [],
+          "activities": 106
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "승인: 예의 바르게 행동해 봐",
+          "activityPattern": [],
+          "activities": 107
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "승인: 결정에 반대 의사 밝히기",
+          "activityPattern": [],
+          "activities": 108
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "승인: 이유 설명하기",
+          "activityPattern": [],
+          "activities": 109
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "승인: 승인을 요청하기",
+          "activityPattern": [],
+          "activities": 110
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "드라마: 줄거리를 설명하기",
+          "activityPattern": [],
+          "activities": 111
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "드라마: 드라마 줄거리 소개하기",
+          "activityPattern": [],
+          "activities": 112
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "드라마: 등장인물 성격 묘사하기",
+          "activityPattern": [],
+          "activities": 113
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "드라마: 인물의 감정 표현하기",
+          "activityPattern": [],
+          "activities": 114
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "드라마: 주인공을 소개하기",
+          "activityPattern": [],
+          "activities": 115
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "변화: 변화를 말로 표현하기",
+          "activityPattern": [],
+          "activities": 116
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "변화: 도시 변화를 이야기하기",
+          "activityPattern": [],
+          "activities": 117
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "변화: 성장 과정을 설명하기",
+          "activityPattern": [],
+          "activities": 118
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "변화: 변화 경험 말하기",
+          "activityPattern": [],
+          "activities": 119
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "변화: 변한 이유 말하기",
+          "activityPattern": [],
+          "activities": 120
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "기분: 기분 설명하기",
+          "activityPattern": [],
+          "activities": 121
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "기분: 기분 표현하기",
+          "activityPattern": [],
+          "activities": 122
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "기분: 기분 바뀐 이유 설명하기",
+          "activityPattern": [],
+          "activities": 123
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "기분: 오늘 기분 말해 봐",
+          "activityPattern": [],
+          "activities": 124
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "기분: 기분 물어보기",
+          "activityPattern": [],
+          "activities": 125
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "가족: 가족 이야기 나누기",
+          "activityPattern": [],
+          "activities": 126
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "가족: 가족 대화 나누기",
+          "activityPattern": [],
+          "activities": 127
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "가족: 가족의 성격 말하기",
+          "activityPattern": [],
+          "activities": 128
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "가족: 가족의 기분 묻기",
+          "activityPattern": [],
+          "activities": 129
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "가족: 가족에게 감정 전하기",
+          "activityPattern": [],
+          "activities": 130
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "여행 문제: 여행 문제 해결하기",
+          "activityPattern": [],
+          "activities": 131
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "여행 문제: 일정 변경 설명하기",
+          "activityPattern": [],
+          "activities": 132
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "여행 문제: 도움 요청하기",
+          "activityPattern": [],
+          "activities": 133
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "여행 문제: 숙소 문제 설명하기",
+          "activityPattern": [],
+          "activities": 134
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "여행 문제: 여행 실수 설명하기",
+          "activityPattern": [],
+          "activities": 135
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "습관: 좋은 습관 소개하기",
+          "activityPattern": [],
+          "activities": 136
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "습관: 새로운 습관 공유하기",
+          "activityPattern": [],
+          "activities": 137
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "습관: 자신의 습관 말하기",
+          "activityPattern": [],
+          "activities": 138
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "습관: 좋은 습관 이야기하기",
+          "activityPattern": [],
+          "activities": 139
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "습관: 습관 변화 설명하기",
+          "activityPattern": [],
+          "activities": 140
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "도구: 도구 이름 말하기",
+          "activityPattern": [],
+          "activities": 141
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "도구: 도구 위치 묻기",
+          "activityPattern": [],
+          "activities": 142
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "도구: 도구 사용법 묻기",
+          "activityPattern": [],
+          "activities": 143
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "도구: 도구로 재료 손질하기",
+          "activityPattern": [],
+          "activities": 144
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "도구: 도구 사용하는 법 설명하기",
+          "activityPattern": [],
+          "activities": 145
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "성장: 성장 경험 이야기하기",
+          "activityPattern": [],
+          "activities": 146
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "성장: 성격 변화 설명하기",
+          "activityPattern": [],
+          "activities": 147
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "성장: 변화한 모습 이야기하기",
+          "activityPattern": [],
+          "activities": 148
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "성장: 중요한 순간 묘사하기",
+          "activityPattern": [],
+          "activities": 149
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "성장: 과거와 현재 비교하기",
+          "activityPattern": [],
+          "activities": 150
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "위로: 힘든 일 위로하기",
+          "activityPattern": [],
+          "activities": 151
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "위로: 상대방을 위로하기",
+          "activityPattern": [],
+          "activities": 152
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "위로: 위로의 말 전하기",
+          "activityPattern": [],
+          "activities": 153
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "위로: 상대방 걱정 들어주기",
+          "activityPattern": [],
+          "activities": 154
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "위로: 힘들 때 털어놓기",
+          "activityPattern": [],
+          "activities": 155
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "이별: 이별 후 감정 표현하기",
+          "activityPattern": [],
+          "activities": 156
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "이별: 이유를 설명하기",
+          "activityPattern": [],
+          "activities": 157
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "이별: 이별에 대해 이야기하기",
+          "activityPattern": [],
+          "activities": 158
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "이별: 이별 후 계획 말하기",
+          "activityPattern": [],
+          "activities": 159
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "이별: 진심을 표현하기",
+          "activityPattern": [],
+          "activities": 160
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "대화: 의견을 나누기",
+          "activityPattern": [],
+          "activities": 161
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "대화: 주제를 바꿔 대화하기",
+          "activityPattern": [],
+          "activities": 162
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "대화: 대화 시작하기",
+          "activityPattern": [],
+          "activities": 163
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "대화: 대화 다시 시작하기",
+          "activityPattern": [],
+          "activities": 164
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "대화: 계획에 대해 이야기하기",
+          "activityPattern": [],
+          "activities": 165
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "재난: 재난 상황 묘사하기",
+          "activityPattern": [],
+          "activities": 166
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "재난: 반응 표현하기",
+          "activityPattern": [],
+          "activities": 167
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "재난: 도움이 필요한지 묻기",
+          "activityPattern": [],
+          "activities": 168
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "재난: 피해 상황 말하기",
+          "activityPattern": [],
+          "activities": 169
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "재난: 피난처 위치 안내하기",
+          "activityPattern": [],
+          "activities": 170
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "갈등: 갈등 표현하기",
+          "activityPattern": [],
+          "activities": 171
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "갈등: 의심 표현하기",
+          "activityPattern": [],
+          "activities": 172
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "갈등: 불만을 표현하기",
+          "activityPattern": [],
+          "activities": 173
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "갈등: 갈등 상황 설명하기",
+          "activityPattern": [],
+          "activities": 174
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "갈등: 사과 표현하기",
+          "activityPattern": [],
+          "activities": 175
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "요리: 요리 방법 설명하기",
+          "activityPattern": [],
+          "activities": 176
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "요리: 고기 재워보기",
+          "activityPattern": [],
+          "activities": 177
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "요리: 내 요리 실력 표현하기",
+          "activityPattern": [],
+          "activities": 178
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "요리: 요리 충고 주고받기",
+          "activityPattern": [],
+          "activities": 179
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "요리: 요리 실수 인정하기",
+          "activityPattern": [],
+          "activities": 180
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "부모 허락: 이유 말하기",
+          "activityPattern": [],
+          "activities": 1
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "부모 허락: 부모님께 허락 구하기",
+          "activityPattern": [],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "부모 허락: 허락 요청하기",
+          "activityPattern": [],
+          "activities": 3
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "부모 허락: 내 주장 펼치기",
+          "activityPattern": [],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "부모 허락: 부모님 의견 묻기",
+          "activityPattern": [],
+          "activities": 5
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "인테리어: 아이디어 제안하기",
+          "activityPattern": [],
+          "activities": 6
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "인테리어: 계획서 보여주기",
+          "activityPattern": [],
+          "activities": 7
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "인테리어: 인테리어 아이디어 제안하기",
+          "activityPattern": [],
+          "activities": 8
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "인테리어: 자재 선택하기",
+          "activityPattern": [],
+          "activities": 9
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "인테리어: 도구 사용법 설명하기",
+          "activityPattern": [],
+          "activities": 10
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "환불: 환불 요청하기",
+          "activityPattern": [],
+          "activities": 11
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "환불: 상품 문제 설명하기",
+          "activityPattern": [],
+          "activities": 12
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "환불: 환불 조건 설명하기",
+          "activityPattern": [],
+          "activities": 13
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "환불: 환불 거절에 답하기",
+          "activityPattern": [],
+          "activities": 14
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "환불: 서비스에 실망 표현하기",
+          "activityPattern": [],
+          "activities": 15
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "환경: 환경 이야기하기",
+          "activityPattern": [],
+          "activities": 16
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "환경: 환경 문제 이야기하기",
+          "activityPattern": [],
+          "activities": 17
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "환경: 야외 활동 추천하기",
+          "activityPattern": [],
+          "activities": 18
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "환경: 재활용 방법 설명하기",
+          "activityPattern": [],
+          "activities": 19
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "환경: 의견에 반응하기",
+          "activityPattern": [],
+          "activities": 20
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "평등: 여성 인권 설명하기",
+          "activityPattern": [],
+          "activities": 21
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "평등: 평등에 대해 이야기하기",
+          "activityPattern": [],
+          "activities": 22
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "평등: 차별 경험을 나누기",
+          "activityPattern": [],
+          "activities": 23
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "평등: 성평등에 대해 말하기",
+          "activityPattern": [],
+          "activities": 24
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "평등: 권리와 기회 비교하기",
+          "activityPattern": [],
+          "activities": 25
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "벽화: 벽화 작품 소개하기",
+          "activityPattern": [],
+          "activities": 26
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "벽화: 벽화 의미 설명하기",
+          "activityPattern": [],
+          "activities": 27
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "벽화: 벽화 감상 표현하기",
+          "activityPattern": [],
+          "activities": 28
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "벽화: 벽화에 대해 설명하기",
+          "activityPattern": [],
+          "activities": 29
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "벽화: 벽화 이야기하기",
+          "activityPattern": [],
+          "activities": 30
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "레슬링: 선수들 묘사하기",
+          "activityPattern": [],
+          "activities": 31
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "레슬링: 선수 비교하기",
+          "activityPattern": [],
+          "activities": 32
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "레슬링: 레슬링 선수 비교하기",
+          "activityPattern": [],
+          "activities": 33
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "레슬링: 기술 변화 이야기하기",
+          "activityPattern": [],
+          "activities": 34
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "레슬링: 경기 장면 묘사하기",
+          "activityPattern": [],
+          "activities": 35
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "경기: 경기 결과 예측하기",
+          "activityPattern": [],
+          "activities": 36
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "경기: 선수 평가하기",
+          "activityPattern": [],
+          "activities": 37
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "경기: 좋아하는 팀 말하기",
+          "activityPattern": [],
+          "activities": 38
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "경기: 응원 메시지 전달하기",
+          "activityPattern": [],
+          "activities": 39
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "경기: 승리 소감 말하기",
+          "activityPattern": [],
+          "activities": 40
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "이웃: 불편한 점 말하기",
+          "activityPattern": [],
+          "activities": 41
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "이웃: 문제 제기하기",
+          "activityPattern": [],
+          "activities": 42
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "이웃: 이웃 문제를 설명하기",
+          "activityPattern": [],
+          "activities": 43
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "이웃: 이웃 문제 이야기하기",
+          "activityPattern": [],
+          "activities": 44
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "이웃: 이웃에게 협조 구하기",
+          "activityPattern": [],
+          "activities": 45
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "불만: 불만 표현하기",
+          "activityPattern": [],
+          "activities": 46
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "불만: 불평 말하기",
+          "activityPattern": [],
+          "activities": 47
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "불만: 불만에 공감하기",
+          "activityPattern": [],
+          "activities": 48
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "불만: 짜증나는 상황 설명하기",
+          "activityPattern": [],
+          "activities": 49
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "불만: 상황 설명하기",
+          "activityPattern": [],
+          "activities": 50
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "보드게임: 가족과 게임 추천하기",
+          "activityPattern": [],
+          "activities": 51
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "보드게임: 게임 방법 묻기",
+          "activityPattern": [],
+          "activities": 52
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "보드게임: 게임 규칙 설명하기",
+          "activityPattern": [],
+          "activities": 53
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "보드게임: 하고 싶은 게임 고르기",
+          "activityPattern": [],
+          "activities": 54
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "보드게임: 다음 경기 약속하기",
+          "activityPattern": [],
+          "activities": 55
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "사건: 용의자 추리하기",
+          "activityPattern": [],
+          "activities": 56
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "사건: 증거를 살펴보기",
+          "activityPattern": [],
+          "activities": 57
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "사건: 의심을 표현하기",
+          "activityPattern": [],
+          "activities": 58
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "사건: 증거를 확인하기",
+          "activityPattern": [],
+          "activities": 59
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "사건: 사건에 대해 설명하기",
+          "activityPattern": [],
+          "activities": 60
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "공포: 무서운 이야기 들려주기",
+          "activityPattern": [],
+          "activities": 61
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "공포: 무서운 일 이야기하기",
+          "activityPattern": [],
+          "activities": 62
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "공포: 무서운 경험 말하기",
+          "activityPattern": [],
+          "activities": 63
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "공포: 두려움 표현하기",
+          "activityPattern": [],
+          "activities": 64
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "공포: 공포 이야기 나누기",
+          "activityPattern": [],
+          "activities": 65
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "직업: 관심 있는 일자리 찾기",
+          "activityPattern": [],
+          "activities": 66
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "직업: 원하는 일을 말해보기",
+          "activityPattern": [],
+          "activities": 67
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "직업: 직업 소개하기",
+          "activityPattern": [],
+          "activities": 68
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "직업: 희망하는 직업 말하기",
+          "activityPattern": [],
+          "activities": 69
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "직업: 자신의 강점 말하기",
+          "activityPattern": [],
+          "activities": 70
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "행사: 행사를 준비해보기",
+          "activityPattern": [],
+          "activities": 71
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "행사: 참석자 상황 설명하기",
+          "activityPattern": [],
+          "activities": 72
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "행사: 행사 준비하기",
+          "activityPattern": [],
+          "activities": 73
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "행사: 행사 상황 설명하기",
+          "activityPattern": [],
+          "activities": 74
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "행사: 행사 계획 말하기",
+          "activityPattern": [],
+          "activities": 75
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "좀비: 좀비 상황 설명하기",
+          "activityPattern": [],
+          "activities": 76
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "좀비: 좀비 대비 물품 준비하기",
+          "activityPattern": [],
+          "activities": 77
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "좀비: 좀비 대비 방법 제안하기",
+          "activityPattern": [],
+          "activities": 78
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "좀비: 좀비에게서 도망치기",
+          "activityPattern": [],
+          "activities": 79
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "좀비: 좀비와 대화 시도하기",
+          "activityPattern": [],
+          "activities": 80
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "마술: 마술 도구 소개하기",
+          "activityPattern": [],
+          "activities": 81
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "마술: 마술 묘기 설명하기",
+          "activityPattern": [],
+          "activities": 82
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "마술: 마술 트릭 추리하기",
+          "activityPattern": [],
+          "activities": 83
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "마술: 마술사에게 질문하기",
+          "activityPattern": [],
+          "activities": 84
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "마술: 마술 비밀 풀어보기",
+          "activityPattern": [],
+          "activities": 85
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "파티: 파티 의상 평가하기",
+          "activityPattern": [],
+          "activities": 86
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "파티: 외모 칭찬하기",
+          "activityPattern": [],
+          "activities": 87
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "파티: 노래 추천하기",
+          "activityPattern": [],
+          "activities": 88
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "파티: 파티 음식 이야기하기",
+          "activityPattern": [],
+          "activities": 89
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "파티: 파티에 대해 말하기",
+          "activityPattern": [],
+          "activities": 90
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "이사: 이유 말하기",
+          "activityPattern": [],
+          "activities": 91
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "이사: 축하 인사 전하기",
+          "activityPattern": [],
+          "activities": 92
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "이사: 친구에게 작별 인사하기",
+          "activityPattern": [],
+          "activities": 93
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "이사: 새 집 소개하기",
+          "activityPattern": [],
+          "activities": 94
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "이사: 메시지 답장하기",
+          "activityPattern": [],
+          "activities": 95
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "반려동물: 반려동물 이야기하기",
+          "activityPattern": [],
+          "activities": 96
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "반려동물: 반려동물 입양하기",
+          "activityPattern": [],
+          "activities": 97
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "반려동물: 반려동물 특징 말하기",
+          "activityPattern": [],
+          "activities": 98
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "반려동물: 반려동물에게 말 걸기",
+          "activityPattern": [],
+          "activities": 99
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "반려동물: 반려동물 돌보기",
+          "activityPattern": [],
+          "activities": 100
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "미래: 미래 목표 이야기하기",
+          "activityPattern": [],
+          "activities": 101
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "미래: 미래를 상상해 보기",
+          "activityPattern": [],
+          "activities": 102
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "미래: 미래 계획 말하기",
+          "activityPattern": [],
+          "activities": 103
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "미래: 희망 표현하기",
+          "activityPattern": [],
+          "activities": 104
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "미래: 꿈과 목표 말하기",
+          "activityPattern": [],
+          "activities": 105
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "기기: 고장난 기기 이야기하기",
+          "activityPattern": [],
+          "activities": 106
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "기기: 기기 고치는 방법 설명하기",
+          "activityPattern": [],
+          "activities": 107
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "기기: 기기 상태 말하기",
+          "activityPattern": [],
+          "activities": 108
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "기기: 기기 선택하기",
+          "activityPattern": [],
+          "activities": 109
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "기기: 기기 비교하기",
+          "activityPattern": [],
+          "activities": 110
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "과제: 과제 주제 정하기",
+          "activityPattern": [],
+          "activities": 111
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "과제: 과제 방법 설명하기",
+          "activityPattern": [],
+          "activities": 112
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "과제: 과제 진행 상황 묻기",
+          "activityPattern": [],
+          "activities": 113
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "과제: 과제 요약하기",
+          "activityPattern": [],
+          "activities": 114
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "과제: 과제 발표 순서 정하기",
+          "activityPattern": [],
+          "activities": 115
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "운동: 운동 방법 설명하기",
+          "activityPattern": [],
+          "activities": 116
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "운동: 운동 계획 말하기",
+          "activityPattern": [],
+          "activities": 117
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "운동: 운동 후 느낌 말하기",
+          "activityPattern": [],
+          "activities": 118
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "운동: 운동에 대해 말하기",
+          "activityPattern": [],
+          "activities": 119
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "운동: 운동 목표 세우기",
+          "activityPattern": [],
+          "activities": 120
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "모임: 모임 계획 세우기",
+          "activityPattern": [],
+          "activities": 121
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "모임: 모임 일정 정하기",
+          "activityPattern": [],
+          "activities": 122
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "모임: 행사 참여 이유 말하기",
+          "activityPattern": [],
+          "activities": 123
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "모임: 함께 할 일 제안하기",
+          "activityPattern": [],
+          "activities": 124
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "모임: 모임 선택 이유 말하기",
+          "activityPattern": [],
+          "activities": 125
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "자연: 자연 여행 일정 짜기",
+          "activityPattern": [],
+          "activities": 126
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "자연: 자연 명소 추천받기",
+          "activityPattern": [],
+          "activities": 127
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "자연: 자연 장소 설명하기",
+          "activityPattern": [],
+          "activities": 128
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "자연: 풍경 감상하기",
+          "activityPattern": [],
+          "activities": 129
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "자연: 풍경 묘사하기",
+          "activityPattern": [],
+          "activities": 130
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "연설: 성과를 설명하기",
+          "activityPattern": [],
+          "activities": 131
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "연설: 의견을 말해 보기",
+          "activityPattern": [],
+          "activities": 132
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "연설: 의견 말하기",
+          "activityPattern": [],
+          "activities": 133
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "연설: 주장 펼치기",
+          "activityPattern": [],
+          "activities": 134
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "연설: 연설에 반응하기",
+          "activityPattern": [],
+          "activities": 135
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "장난: 장난에 반응하기",
+          "activityPattern": [],
+          "activities": 136
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "장난: 누가 장난쳤는지 추측하기",
+          "activityPattern": [],
+          "activities": 137
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "장난: 장난에 대해 이야기하기",
+          "activityPattern": [],
+          "activities": 138
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "장난: 남의 장난에 반응하기",
+          "activityPattern": [],
+          "activities": 139
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "장난: 벌받은 일 말하기",
+          "activityPattern": [],
+          "activities": 140
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "자동차: 원하는 차 묘사하기",
+          "activityPattern": [],
+          "activities": 141
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "자동차: 차 특징 설명하기",
+          "activityPattern": [],
+          "activities": 142
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "자동차: 차 가격 문의하기",
+          "activityPattern": [],
+          "activities": 143
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "자동차: 자동차 문제 설명하기",
+          "activityPattern": [],
+          "activities": 144
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "자동차: 문제 설명하기",
+          "activityPattern": [],
+          "activities": 145
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "뉴스: 날씨 정보 말하기",
+          "activityPattern": [],
+          "activities": 146
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "뉴스: 뉴스 내용 소개하기",
+          "activityPattern": [],
+          "activities": 147
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "뉴스: 뉴스 기사 이해하기",
+          "activityPattern": [],
+          "activities": 148
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "뉴스: 파업 이유 설명하기",
+          "activityPattern": [],
+          "activities": 149
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "뉴스: 새로운 발견 이야기하기",
+          "activityPattern": [],
+          "activities": 150
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "올림픽: 올림픽 경기 이야기하기",
+          "activityPattern": [],
+          "activities": 151
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "올림픽: 선수 성과 비교하기",
+          "activityPattern": [],
+          "activities": 152
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "올림픽: 선수 실력을 평가하기",
+          "activityPattern": [],
+          "activities": 153
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "올림픽: 경기 결과 이야기하기",
+          "activityPattern": [],
+          "activities": 154
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "올림픽: 경험 나누기",
+          "activityPattern": [],
+          "activities": 155
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "의심: 이유 물어보기",
+          "activityPattern": [],
+          "activities": 156
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "의심: 의심 표현하기",
+          "activityPattern": [],
+          "activities": 157
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "의심: 이유를 추측해 봐",
+          "activityPattern": [],
+          "activities": 158
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "의심: 거짓말 추측하기",
+          "activityPattern": [],
+          "activities": 159
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "의심: 상황 추측하기",
+          "activityPattern": [],
+          "activities": 160
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "회의: 질문에 답변하기",
+          "activityPattern": [],
+          "activities": 161
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "회의: 회의에서 질문하기",
+          "activityPattern": [],
+          "activities": 162
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "회의: 경력 이야기하기",
+          "activityPattern": [],
+          "activities": 163
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "회의: 회의 경험 말하기",
+          "activityPattern": [],
+          "activities": 164
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "회의: 회의에서 느낌 표현하기",
+          "activityPattern": [],
+          "activities": 165
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "추억: 어린 시절 이야기하기",
+          "activityPattern": [],
+          "activities": 166
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "추억: 장난감이나 놀이 설명하기",
+          "activityPattern": [],
+          "activities": 167
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "추억: 추억 이야기하기",
+          "activityPattern": [],
+          "activities": 168
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "추억: 옛 추억 얘기하기",
+          "activityPattern": [],
+          "activities": 169
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "추억: 지난 일 공유하기",
+          "activityPattern": [],
+          "activities": 170
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "문제: 문제 설명하기",
+          "activityPattern": [],
+          "activities": 171
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "문제: 문제 상황 설명하기",
+          "activityPattern": [],
+          "activities": 172
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "문제: 해결책 제안하기",
+          "activityPattern": [],
+          "activities": 173
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "문제: 문제 해결하기",
+          "activityPattern": [],
+          "activities": 174
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "문제: 문제 해결 방법 말하기",
+          "activityPattern": [],
+          "activities": 175
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "학습: 학습 경험 말하기",
+          "activityPattern": [],
+          "activities": 176
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "학습: 학습 방법 공유하기",
+          "activityPattern": [],
+          "activities": 177
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "학습: 학습 목표 세우기",
+          "activityPattern": [],
+          "activities": 178
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "학습: 새로운 내용 배우기",
+          "activityPattern": [],
+          "activities": 179
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "학습: 성취를 표현하기",
+          "activityPattern": [
+            2025,
+            12,
+            10
+          ],
+          "activities": 2047
+        }
+      ]
+    }
+  ]
+}

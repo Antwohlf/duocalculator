@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Button Contrast Test</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        body {
+            padding: 40px;
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+        .test-section {
+            padding: 20px;
+            border: 2px solid #ccc;
+            border-radius: 8px;
+        }
+        h2 {
+            margin-top: 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="test-section">
+        <h2>Footer Button (Should have black text on green background)</h2>
+        <div class="app-footer">
+            <button type="button" class="secondary-button button-sm bug-button" id="bug-report-trigger">
+                <span class="bug-icon" aria-hidden="true">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M8 16a4 4 0 0 0 8 0V9a4 4 0 0 0-8 0z" />
+                    </svg>
+                </span>
+                <span>Report bug</span>
+            </button>
+        </div>
+    </div>
+
+    <div class="test-section">
+        <h2>Generic secondary button (for comparison)</h2>
+        <button type="button" class="secondary-button button-sm bug-button">
+            <span class="bug-icon" aria-hidden="true">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M8 16a4 4 0 0 0 8 0V9a4 4 0 0 0-8 0z" />
+                </svg>
+            </span>
+            <span>Generic bug button</span>
+        </button>
+    </div>
+
+    <div class="test-section" style="background: linear-gradient(135deg, rgba(88, 204, 2, 0.85), rgba(137, 226, 25, 0.85)); padding: 30px;">
+        <h2 style="color: white;">In header context (white on green gradient)</h2>
+        <button type="button" class="secondary-button button-sm bug-button">
+            <span class="bug-icon" aria-hidden="true">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M8 16a4 4 0 0 0 8 0V9a4 4 0 0 0-8 0z" />
+                </svg>
+            </span>
+            <span>Report bug</span>
+        </button>
+    </div>
+</body>
+</html>

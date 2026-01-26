@@ -1,0 +1,7038 @@
+{
+  "meta": {
+    "key": "esfru991",
+    "courseTitle": "Russian → Spanish",
+    "scrapedAt": "2026-01-26T02:42:01.712Z",
+    "sourceHash": "sha256:ffd932f7e0235d4e",
+    "fromLang": "Russian",
+    "toLang": "Spanish",
+    "fromCode": "ru",
+    "toCode": "es",
+    "level": "CEFR INTRO",
+    "levelShort": "INTRO",
+    "detailHref": "https://duolingodata.com/dat/esfru991.html",
+    "detailHrefHash": "sha256:c2054cb9c3800aa6",
+    "scrapeWarnings": [],
+    "schemaVersion": "1.0.0"
+  },
+  "totals": {
+    "sections": 8,
+    "activities": 100048,
+    "units": 991
+  },
+  "sections": [
+    {
+      "sectionIndex": 1,
+      "unitCount": 10,
+      "title": "CEFR Intro:",
+      "rawTitle": "CEFR Intro:",
+      "cefr": "INTRO:",
+      "units": [
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Заказывайте в кафе",
+          "activityPattern": [],
+          "activities": 1
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Приветствуйте и прощайтесь",
+          "activityPattern": [],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "\"Ser de\" для указания происхождения",
+          "activityPattern": [],
+          "activities": 3
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Представьте семью и друзей",
+          "activityPattern": [],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Описывайте характеры",
+          "activityPattern": [],
+          "activities": 5
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Используйте «estar» для местоположений",
+          "activityPattern": [],
+          "activities": 6
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Говорите о местах в городе",
+          "activityPattern": [],
+          "activities": 7
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Говорите о языках",
+          "activityPattern": [],
+          "activities": 8
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Используйте \"hace\" для описания погоды",
+          "activityPattern": [],
+          "activities": 9
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Покупайте фрукты",
+          "activityPattern": [],
+          "activities": 10
+        }
+      ]
+    },
+    {
+      "sectionIndex": 2,
+      "unitCount": 31,
+      "title": ":",
+      "rawTitle": "CEFR A1:",
+      "cefr": "A1",
+      "units": [
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Опишите свой дом",
+          "activityPattern": [],
+          "activities": 1
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Используйте настоящее время для привычек",
+          "activityPattern": [],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Обсуждайте спорт",
+          "activityPattern": [],
+          "activities": 3
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Обсуждайте хобби",
+          "activityPattern": [],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Участвуйте в классе",
+          "activityPattern": [],
+          "activities": 5
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Обсуждайте еду",
+          "activityPattern": [],
+          "activities": 6
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Оцените еду и обслуживание",
+          "activityPattern": [],
+          "activities": 7
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Узнавайте дорогу",
+          "activityPattern": [],
+          "activities": 8
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Покупайте одежду",
+          "activityPattern": [],
+          "activities": 9
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Обсуждайте работу",
+          "activityPattern": [],
+          "activities": 10
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Используйте неопределенные артикли",
+          "activityPattern": [],
+          "activities": 11
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Выполняйте домашние дела",
+          "activityPattern": [],
+          "activities": 12
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Обсудите школьный проект",
+          "activityPattern": [],
+          "activities": 13
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Спросите, как кто-то себя чувствует",
+          "activityPattern": [],
+          "activities": 14
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Узнавайте дорогу",
+          "activityPattern": [],
+          "activities": 15
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Спросите об ингредиентах",
+          "activityPattern": [],
+          "activities": 16
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Представьтесь на вечеринке",
+          "activityPattern": [],
+          "activities": 17
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Опишите внешность",
+          "activityPattern": [],
+          "activities": 18
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Определенные артикли с временами",
+          "activityPattern": [],
+          "activities": 19
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Представьтесь официально",
+          "activityPattern": [],
+          "activities": 20
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Выражайте свои чувства",
+          "activityPattern": [],
+          "activities": 21
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Обсудите свой рацион питания",
+          "activityPattern": [],
+          "activities": 22
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Обсуждайте животных",
+          "activityPattern": [],
+          "activities": 23
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Используйте возвратные глаголы в быту",
+          "activityPattern": [],
+          "activities": 24
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Обсуждайте жизнь других",
+          "activityPattern": [],
+          "activities": 25
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Обсудите свои интересы",
+          "activityPattern": [],
+          "activities": 26
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Обсудите музыкальные предпочтения",
+          "activityPattern": [],
+          "activities": 27
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Расскажите о любимых занятиях",
+          "activityPattern": [],
+          "activities": 28
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Используйте косвенные местоимения",
+          "activityPattern": [],
+          "activities": 29
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Расскажите, как вы добираетесь",
+          "activityPattern": [],
+          "activities": 30
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Обсуждайте дни рождения",
+          "activityPattern": [],
+          "activities": 31
+        }
+      ]
+    },
+    {
+      "sectionIndex": 3,
+      "unitCount": 30,
+      "title": ":",
+      "rawTitle": "CEFR A1:",
+      "cefr": "A1",
+      "units": [
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Покупайте одежду",
+          "activityPattern": [],
+          "activities": 1
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Обсуждайте занятия",
+          "activityPattern": [],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Планируйте оздоровительные занятия",
+          "activityPattern": [],
+          "activities": 3
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Используйте условные в настоящем простом",
+          "activityPattern": [],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Планируйте поездку",
+          "activityPattern": [],
+          "activities": 5
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Организуйте вечеринку-сюрприз",
+          "activityPattern": [],
+          "activities": 6
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Исследуйте город",
+          "activityPattern": [],
+          "activities": 7
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Описывайте ситуации в путешествии",
+          "activityPattern": [],
+          "activities": 8
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Используйте указательные прилагательные",
+          "activityPattern": [],
+          "activities": 9
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Наслаждайтесь вечеринкой",
+          "activityPattern": [],
+          "activities": 10
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Покупайте одежду",
+          "activityPattern": [],
+          "activities": 11
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Выполняйте задачи няни",
+          "activityPattern": [],
+          "activities": 12
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Обсудите свое здоровье",
+          "activityPattern": [],
+          "activities": 13
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Неопределенные прилагательные",
+          "activityPattern": [],
+          "activities": 14
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Решайте рабочие проблемы",
+          "activityPattern": [],
+          "activities": 15
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Выбирайте товары при покупках",
+          "activityPattern": [],
+          "activities": 16
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Обсуждайте фильмы",
+          "activityPattern": [],
+          "activities": 17
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Используйте косвенные местоимения",
+          "activityPattern": [],
+          "activities": 18
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Отправляйте и получайте почту",
+          "activityPattern": [],
+          "activities": 19
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Наслаждайтесь вечерним выходом",
+          "activityPattern": [],
+          "activities": 20
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Поговорите о погоде",
+          "activityPattern": [],
+          "activities": 21
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Спросите, как люди себя чувствуют",
+          "activityPattern": [],
+          "activities": 22
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Поиск пропавшего питомца",
+          "activityPattern": [],
+          "activities": 23
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Указатели количества с существительными",
+          "activityPattern": [],
+          "activities": 24
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Общайтесь онлайн",
+          "activityPattern": [],
+          "activities": 25
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Обсуждайте спорт",
+          "activityPattern": [],
+          "activities": 26
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Выполняйте домашние дела",
+          "activityPattern": [],
+          "activities": 27
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Действуйте в экстренной ситуации",
+          "activityPattern": [],
+          "activities": 28
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Решайте проблемы на почте",
+          "activityPattern": [],
+          "activities": 29
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Используйте «por» и «para»",
+          "activityPattern": [],
+          "activities": 30
+        }
+      ]
+    },
+    {
+      "sectionIndex": 4,
+      "unitCount": 60,
+      "title": ":",
+      "rawTitle": "CEFR A2:",
+      "cefr": "A2",
+      "units": [
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Планируйте социальные мероприятия",
+          "activityPattern": [],
+          "activities": 1
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Решайте технические проблемы",
+          "activityPattern": [],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Опишите свое окружение",
+          "activityPattern": [],
+          "activities": 3
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Оценивайте развлечения",
+          "activityPattern": [],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Обсудите семейные черты",
+          "activityPattern": [],
+          "activities": 5
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Превосходные степени с прилагательными",
+          "activityPattern": [],
+          "activities": 6
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Общайтесь на работе",
+          "activityPattern": [],
+          "activities": 7
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Используйте прошедшее время",
+          "activityPattern": [],
+          "activities": 8
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Участвуйте в волонтерстве",
+          "activityPattern": [],
+          "activities": 9
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Найдите свои вещи",
+          "activityPattern": [],
+          "activities": 10
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Покупайте продукты",
+          "activityPattern": [],
+          "activities": 11
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Обсудите подарки",
+          "activityPattern": [],
+          "activities": 12
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Используйте «сабер» в настоящем времени",
+          "activityPattern": [],
+          "activities": 13
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Общайтесь на мероприятии",
+          "activityPattern": [],
+          "activities": 14
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Оцените условия жилья",
+          "activityPattern": [],
+          "activities": 15
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Управляйте рабочими задачами",
+          "activityPattern": [],
+          "activities": 16
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Обсуждайте отношения и чувства",
+          "activityPattern": [],
+          "activities": 17
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Ориентируйтесь по указаниям",
+          "activityPattern": [],
+          "activities": 18
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Используйте команды",
+          "activityPattern": [],
+          "activities": 19
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Объектные местоимения с командами",
+          "activityPattern": [],
+          "activities": 20
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Выполняйте домашние дела",
+          "activityPattern": [],
+          "activities": 21
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Поделитесь своей историей жизни",
+          "activityPattern": [],
+          "activities": 22
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Обсудите опыт покупок",
+          "activityPattern": [],
+          "activities": 23
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Используйте несовершенное время",
+          "activityPattern": [],
+          "activities": 24
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Обсудите стоимость жилья",
+          "activityPattern": [],
+          "activities": 25
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Планируйте свое путешествие",
+          "activityPattern": [],
+          "activities": 26
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Делитесь впечатлениями о путешествиях",
+          "activityPattern": [],
+          "activities": 27
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Обсудите проблемы района",
+          "activityPattern": [],
+          "activities": 28
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Используйте настоящее совершенное время",
+          "activityPattern": [],
+          "activities": 29
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Планируйте мероприятие",
+          "activityPattern": [],
+          "activities": 30
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Высказывайте мнение о здоровье",
+          "activityPattern": [],
+          "activities": 31
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Поделитесь прошлым опытом",
+          "activityPattern": [],
+          "activities": 32
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Обсуждайте фильмы и сериалы",
+          "activityPattern": [],
+          "activities": 33
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Празднуйте достижения",
+          "activityPattern": [],
+          "activities": 34
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Обсудите мебель и обстановку дома",
+          "activityPattern": [],
+          "activities": 35
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Пожалуйтесь на поездку",
+          "activityPattern": [],
+          "activities": 36
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Обратитесь за помощью после аварии",
+          "activityPattern": [],
+          "activities": 37
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Обсуждайте праздники",
+          "activityPattern": [],
+          "activities": 38
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Используйте \"hacer\" в прошедшем времени",
+          "activityPattern": [],
+          "activities": 39
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Определите принадлежности",
+          "activityPattern": [],
+          "activities": 40
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Решайте проблемы с питанием",
+          "activityPattern": [],
+          "activities": 41
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Обсудите личные достижения",
+          "activityPattern": [],
+          "activities": 42
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Обсуждайте культурные корни",
+          "activityPattern": [],
+          "activities": 43
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Скажите, почему не можете сделать что-то",
+          "activityPattern": [],
+          "activities": 44
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Используйте числа в контексте",
+          "activityPattern": [],
+          "activities": 45
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Обсуждайте политику и общество",
+          "activityPattern": [],
+          "activities": 46
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Оцените товары и услуги",
+          "activityPattern": [],
+          "activities": 47
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Используйте сравнительные количества",
+          "activityPattern": [],
+          "activities": 48
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Определите украденные вещи",
+          "activityPattern": [],
+          "activities": 49
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Ухаживайте за питомцами",
+          "activityPattern": [],
+          "activities": 50
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Обсуждайте новости",
+          "activityPattern": [],
+          "activities": 51
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Поступайте в университет",
+          "activityPattern": [],
+          "activities": 52
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Обсуждайте искусство",
+          "activityPattern": [],
+          "activities": 53
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Обсудите здоровое питание",
+          "activityPattern": [],
+          "activities": 54
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Используйте прошедшее время",
+          "activityPattern": [],
+          "activities": 55
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Обсудите проблемы со здоровьем",
+          "activityPattern": [],
+          "activities": 56
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Исследуйте культурные места",
+          "activityPattern": [],
+          "activities": 57
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Обсуждайте политические мнения",
+          "activityPattern": [],
+          "activities": 58
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Обсудите оздоровительные занятия",
+          "activityPattern": [],
+          "activities": 59
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Сообщите о преступлении",
+          "activityPattern": [],
+          "activities": 60
+        }
+      ]
+    },
+    {
+      "sectionIndex": 5,
+      "unitCount": 250,
+      "title": ":",
+      "rawTitle": "CEFR B1:",
+      "cefr": "B1",
+      "units": [
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Город: Опиши район города",
+          "activityPattern": [],
+          "activities": 1
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Город: Расскажи о фестивалях в городе",
+          "activityPattern": [],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Город: Расскажи о магазинах в городе",
+          "activityPattern": [],
+          "activities": 3
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Город: Расскажи о любимых местах",
+          "activityPattern": [],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Город: Опиши центр города",
+          "activityPattern": [],
+          "activities": 5
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Книги: Расскажи о любимой книге",
+          "activityPattern": [],
+          "activities": 6
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Книги: Опиши главного героя",
+          "activityPattern": [],
+          "activities": 7
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Книги: Опиши любимую книгу",
+          "activityPattern": [],
+          "activities": 8
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Книги: Опиши автора книги",
+          "activityPattern": [],
+          "activities": 9
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Книги: Опиши жанр книги",
+          "activityPattern": [],
+          "activities": 10
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Компьютер: Установи приложение",
+          "activityPattern": [],
+          "activities": 11
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Компьютер: Опиши компьютер дома",
+          "activityPattern": [],
+          "activities": 12
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Компьютер: Опиши свой компьютер",
+          "activityPattern": [],
+          "activities": 13
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Компьютер: Опиши фото для сайта",
+          "activityPattern": [],
+          "activities": 14
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Компьютер: Расскажи про интернет",
+          "activityPattern": [],
+          "activities": 15
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Романтика: Опиши свидание",
+          "activityPattern": [],
+          "activities": 16
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Романтика: Расскажи о свидании",
+          "activityPattern": [],
+          "activities": 17
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Романтика: Расскажи о своих чувствах",
+          "activityPattern": [],
+          "activities": 18
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Романтика: Расскажи о свадьбе",
+          "activityPattern": [],
+          "activities": 19
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Романтика: Говори о чувствах",
+          "activityPattern": [],
+          "activities": 20
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Статьи: Опиши интересную статью",
+          "activityPattern": [],
+          "activities": 21
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Статьи: Ответь на вопросы о частоте",
+          "activityPattern": [],
+          "activities": 22
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Статьи: Обсуди мировые проблемы",
+          "activityPattern": [],
+          "activities": 23
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Статьи: Перескажи статью",
+          "activityPattern": [],
+          "activities": 24
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Статьи: Передай суть новости",
+          "activityPattern": [],
+          "activities": 25
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Экзамен: Готовься к экзамену",
+          "activityPattern": [],
+          "activities": 26
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Экзамен: Расскажи про свой экзамен",
+          "activityPattern": [],
+          "activities": 27
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Экзамен: Узнай результаты",
+          "activityPattern": [],
+          "activities": 28
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Экзамен: Повторяй материал курса",
+          "activityPattern": [],
+          "activities": 29
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Экзамен: Исправляй ошибки в заданиях",
+          "activityPattern": [],
+          "activities": 30
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Клиника: Запишись к врачу",
+          "activityPattern": [],
+          "activities": 31
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Клиника: Опиши симптомы",
+          "activityPattern": [],
+          "activities": 32
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Клиника: Дай совет по уходу за кожей",
+          "activityPattern": [],
+          "activities": 33
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Клиника: Опиши свое самочувствие",
+          "activityPattern": [],
+          "activities": 34
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Клиника: Расскажи о простуде",
+          "activityPattern": [],
+          "activities": 35
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Мнения: Выскажи своё мнение",
+          "activityPattern": [],
+          "activities": 36
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Мнения: Сравни разные описания",
+          "activityPattern": [],
+          "activities": 37
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Мнения: Спроси о взглядах других",
+          "activityPattern": [],
+          "activities": 38
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Мнения: Спроси мнение собеседника",
+          "activityPattern": [],
+          "activities": 39
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Мнения: Делись опытом и взглядами",
+          "activityPattern": [],
+          "activities": 40
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Вещи: Опиши свою одежду",
+          "activityPattern": [],
+          "activities": 41
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Вещи: Скажи, что тебе нравится",
+          "activityPattern": [],
+          "activities": 42
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Вещи: Опиши свои вещи",
+          "activityPattern": [],
+          "activities": 43
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Вещи: Расскажи о размерах вещей",
+          "activityPattern": [],
+          "activities": 44
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Вещи: Узнай цену одежды",
+          "activityPattern": [],
+          "activities": 45
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Продукты: Составь список продуктов",
+          "activityPattern": [],
+          "activities": 46
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Продукты: Расскажи рецепт с фруктами",
+          "activityPattern": [],
+          "activities": 47
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Продукты: Опиши продукты на кухне",
+          "activityPattern": [],
+          "activities": 48
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Продукты: Опиши закуски",
+          "activityPattern": [],
+          "activities": 49
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Продукты: Объясни, как приготовить соус",
+          "activityPattern": [],
+          "activities": 50
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Паспорт: Не забудь зонт",
+          "activityPattern": [],
+          "activities": 51
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Паспорт: Не пей подозрительную воду",
+          "activityPattern": [],
+          "activities": 52
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Паспорт: Расскажи о потере паспорта",
+          "activityPattern": [],
+          "activities": 53
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Паспорт: Уточни правила въезда",
+          "activityPattern": [],
+          "activities": 54
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Паспорт: Готовься к собеседованию",
+          "activityPattern": [],
+          "activities": 55
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Советы: Дай совет в сложной ситуации",
+          "activityPattern": [],
+          "activities": 56
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Советы: Предлагай решения",
+          "activityPattern": [],
+          "activities": 57
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Советы: Рекомендуй друзьям решения",
+          "activityPattern": [],
+          "activities": 58
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Советы: Задавай вопросы о планах",
+          "activityPattern": [],
+          "activities": 59
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Советы: Дай полезный совет",
+          "activityPattern": [],
+          "activities": 60
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Путешествие: Узнай расписание рейсов",
+          "activityPattern": [],
+          "activities": 61
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Путешествие: Спросить дорогу",
+          "activityPattern": [],
+          "activities": 62
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Путешествие: Расскажи о поездке",
+          "activityPattern": [],
+          "activities": 63
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Путешествие: Опиши свой маршрут",
+          "activityPattern": [],
+          "activities": 64
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Путешествие: Узнай о местной кухне",
+          "activityPattern": [],
+          "activities": 65
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Мебель: Опиши мебель в доме",
+          "activityPattern": [],
+          "activities": 66
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Мебель: Закажи мебель по телефону",
+          "activityPattern": [],
+          "activities": 67
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Мебель: Опиши свою мебель",
+          "activityPattern": [],
+          "activities": 68
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Мебель: Спроси цену на диван",
+          "activityPattern": [],
+          "activities": 69
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Мебель: Выбери подходящую мебель",
+          "activityPattern": [],
+          "activities": 70
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Рутина: Расскажи о привычках",
+          "activityPattern": [],
+          "activities": 71
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Рутина: Сравни распорядки дня",
+          "activityPattern": [],
+          "activities": 72
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Рутина: Опиши утренние привычки",
+          "activityPattern": [],
+          "activities": 73
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Рутина: Расскажи о делах дома",
+          "activityPattern": [],
+          "activities": 74
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Рутина: Опиши свободное время",
+          "activityPattern": [],
+          "activities": 75
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Мечты: Расскажи о своих мечтах",
+          "activityPattern": [],
+          "activities": 76
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Мечты: Опиши идеальную жизнь",
+          "activityPattern": [],
+          "activities": 77
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Мечты: Опиши свой идеальный мир",
+          "activityPattern": [],
+          "activities": 78
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Мечты: Опиши свои мечты",
+          "activityPattern": [],
+          "activities": 79
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Мечты: Делись своими мечтами",
+          "activityPattern": [],
+          "activities": 80
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Профессии: Опиши свой рабочий день",
+          "activityPattern": [],
+          "activities": 81
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Профессии: Спроси о роли в компании",
+          "activityPattern": [],
+          "activities": 82
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Профессии: Опиши работу сотрудника",
+          "activityPattern": [],
+          "activities": 83
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Профессии: Опиши работу коллеги",
+          "activityPattern": [],
+          "activities": 84
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Профессии: Опиши профессию",
+          "activityPattern": [],
+          "activities": 85
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Общество: Расскажи о выборах",
+          "activityPattern": [],
+          "activities": 86
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Общество: Объясни важность общества",
+          "activityPattern": [],
+          "activities": 87
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Общество: Обсуди роль волонтёров",
+          "activityPattern": [],
+          "activities": 88
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Общество: Вырази своё мнение",
+          "activityPattern": [],
+          "activities": 89
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Общество: Обсуди законы",
+          "activityPattern": [],
+          "activities": 90
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Знакомство: Спроси о знакомых",
+          "activityPattern": [],
+          "activities": 91
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Знакомство: Расскажи о себе",
+          "activityPattern": [],
+          "activities": 92
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Знакомство: Обсуди любимых авторов",
+          "activityPattern": [],
+          "activities": 93
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Знакомство: Позвони новому знакомому",
+          "activityPattern": [],
+          "activities": 94
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Знакомство: Опиши свою семью",
+          "activityPattern": [],
+          "activities": 95
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Характер: Сравни характеры людей",
+          "activityPattern": [],
+          "activities": 96
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Характер: Расскажи о качествах людей",
+          "activityPattern": [],
+          "activities": 97
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Характер: Опиши характер друга",
+          "activityPattern": [],
+          "activities": 98
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Характер: Вырази мнение о человеке",
+          "activityPattern": [],
+          "activities": 99
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Характер: Оцени чужой поступок",
+          "activityPattern": [],
+          "activities": 100
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Воспоминания: опиши детство",
+          "activityPattern": [],
+          "activities": 101
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Воспоминания: Опиши старый дом",
+          "activityPattern": [],
+          "activities": 102
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Воспоминания: Опиши старых друзей",
+          "activityPattern": [],
+          "activities": 103
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Воспоминания: Опиши свою семью",
+          "activityPattern": [],
+          "activities": 104
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Воспоминания: Расскажи о старых друзьях",
+          "activityPattern": [],
+          "activities": 105
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Общение: Расскажи о спорте",
+          "activityPattern": [],
+          "activities": 106
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Общение: Опиши персонажа",
+          "activityPattern": [],
+          "activities": 107
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Общение: Объясни правила друзьям",
+          "activityPattern": [],
+          "activities": 108
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Общение: Спроси о самочувствии",
+          "activityPattern": [],
+          "activities": 109
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Общение: Спроси дорогу",
+          "activityPattern": [],
+          "activities": 110
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Дом: Опиши предметы в доме",
+          "activityPattern": [],
+          "activities": 111
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Дом: Опиши вещи в доме",
+          "activityPattern": [],
+          "activities": 112
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Дом: Опиши свой дом",
+          "activityPattern": [],
+          "activities": 113
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Дом: Опиши свои домашние дела",
+          "activityPattern": [],
+          "activities": 114
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Дом: Давай советы по уборке",
+          "activityPattern": [],
+          "activities": 115
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Фантазия: Опиши воображаемый мир",
+          "activityPattern": [],
+          "activities": 116
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Фантазия: Поделись мечтами",
+          "activityPattern": [],
+          "activities": 117
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Фантазия: Предлагай необычные идеи",
+          "activityPattern": [],
+          "activities": 118
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Фантазия: Придумай волшебный мир",
+          "activityPattern": [],
+          "activities": 119
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Фантазия: Придумай необычные истории",
+          "activityPattern": [],
+          "activities": 120
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Проекты: Опиши свой проект",
+          "activityPattern": [],
+          "activities": 121
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Проекты: Объясни детали проекта",
+          "activityPattern": [],
+          "activities": 122
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Проекты: Делись результатами работы",
+          "activityPattern": [],
+          "activities": 123
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Проекты: Расскажи о проекте",
+          "activityPattern": [],
+          "activities": 124
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Проекты: Покажи документы проекта",
+          "activityPattern": [],
+          "activities": 125
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Просьбы: Проси помощи с заданиями",
+          "activityPattern": [],
+          "activities": 126
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Просьбы: Попроси совет у близких",
+          "activityPattern": [],
+          "activities": 127
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Просьбы: Попроси передать письмо",
+          "activityPattern": [],
+          "activities": 128
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Просьбы: Попроси вернуть вещи",
+          "activityPattern": [],
+          "activities": 129
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Просьбы: Попроси объяснить",
+          "activityPattern": [],
+          "activities": 130
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Время: Опиши свой день по часам",
+          "activityPattern": [],
+          "activities": 131
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Время: Опиши свой распорядок",
+          "activityPattern": [],
+          "activities": 132
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Время: Опиши когда всё началось",
+          "activityPattern": [],
+          "activities": 133
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Время: Скажи когда это было",
+          "activityPattern": [],
+          "activities": 134
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Время: Опиши свои ежедневные дела",
+          "activityPattern": [],
+          "activities": 135
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Досуг: Расскажи о своих хобби",
+          "activityPattern": [],
+          "activities": 136
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Досуг: Опиши досуг с семьёй",
+          "activityPattern": [],
+          "activities": 137
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Досуг: Опиши свои развлечения",
+          "activityPattern": [],
+          "activities": 138
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Досуг: Поделись смешной историей",
+          "activityPattern": [],
+          "activities": 139
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Досуг: Расскажи о своих планах",
+          "activityPattern": [],
+          "activities": 140
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Традиции: Расскажи о традициях",
+          "activityPattern": [],
+          "activities": 141
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Традиции: Расскажи о праздниках",
+          "activityPattern": [],
+          "activities": 142
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Традиции: Опиши любимый праздник",
+          "activityPattern": [],
+          "activities": 143
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Традиции: Опиши важную церемонию",
+          "activityPattern": [],
+          "activities": 144
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Традиции: Опиши свадьбу",
+          "activityPattern": [],
+          "activities": 145
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Тайны: Опиши загадочную ситуацию",
+          "activityPattern": [],
+          "activities": 146
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Тайны: Поделись страшной историей",
+          "activityPattern": [],
+          "activities": 147
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Тайны: Опиши странные события",
+          "activityPattern": [],
+          "activities": 148
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Тайны: Объясни свои сны",
+          "activityPattern": [],
+          "activities": 149
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Тайны: Поделись своими страхами",
+          "activityPattern": [],
+          "activities": 150
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Болезнь: Опиши свои симптомы",
+          "activityPattern": [],
+          "activities": 151
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Болезнь: Опиши симптомы болезни",
+          "activityPattern": [],
+          "activities": 152
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Болезнь: Расскажи о травме",
+          "activityPattern": [],
+          "activities": 153
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Болезнь: Попроси рецепт у врача",
+          "activityPattern": [],
+          "activities": 154
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Болезнь: Объясни, почему не пришёл",
+          "activityPattern": [],
+          "activities": 155
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Трафик: Обходи пробки",
+          "activityPattern": [],
+          "activities": 156
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Трафик: Спроси о маршруте",
+          "activityPattern": [],
+          "activities": 157
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Трафик: Пользуйся GPS",
+          "activityPattern": [],
+          "activities": 158
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Трафик: Следи за дорогой",
+          "activityPattern": [],
+          "activities": 159
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Трафик: Надень ремень безопасности",
+          "activityPattern": [],
+          "activities": 160
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Отдых: Выбери жильё для отдыха",
+          "activityPattern": [],
+          "activities": 161
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Отдых: Планируй отпуск",
+          "activityPattern": [],
+          "activities": 162
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Отдых: Планируй свой отдых",
+          "activityPattern": [],
+          "activities": 163
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Отдых: Планируй время отдыха",
+          "activityPattern": [],
+          "activities": 164
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Отдых: Опиши красивые места",
+          "activityPattern": [],
+          "activities": 165
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Праздник: Расскажи о своём празднике",
+          "activityPattern": [],
+          "activities": 166
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Праздник: Планируй свой праздник",
+          "activityPattern": [],
+          "activities": 167
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Праздник: Опиши семейное торжество",
+          "activityPattern": [],
+          "activities": 168
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Праздник: Поделись своими желаниями",
+          "activityPattern": [],
+          "activities": 169
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Праздник: Выбери подарок на праздник",
+          "activityPattern": [],
+          "activities": 170
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Техника: Объясни работу устройства",
+          "activityPattern": [],
+          "activities": 171
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Техника: Расскажи о поломках техники",
+          "activityPattern": [],
+          "activities": 172
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Техника: Опиши приложение",
+          "activityPattern": [],
+          "activities": 173
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Техника: Попроси настроить устройство",
+          "activityPattern": [],
+          "activities": 174
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Техника: Опиши проблему с техникой",
+          "activityPattern": [],
+          "activities": 175
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Коллеги: Расскажи о встречах с коллегами",
+          "activityPattern": [],
+          "activities": 176
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Коллеги: Опиши коллег на работе",
+          "activityPattern": [],
+          "activities": 177
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Коллеги: Опиши своих коллег",
+          "activityPattern": [],
+          "activities": 178
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Коллеги: Опиши коллегу",
+          "activityPattern": [],
+          "activities": 179
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Коллеги: Оцени работу коллег",
+          "activityPattern": [],
+          "activities": 180
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Впечатления: Опиши свои впечатления",
+          "activityPattern": [],
+          "activities": 181
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Впечатления: Сравни характеры людей",
+          "activityPattern": [],
+          "activities": 182
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Впечатления: Опиши погоду сегодня",
+          "activityPattern": [],
+          "activities": 183
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Впечатления: Опиши свои эмоции",
+          "activityPattern": [],
+          "activities": 184
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Впечатления: Оцени своё настроение",
+          "activityPattern": [],
+          "activities": 185
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Университет: Опиши учебные предметы",
+          "activityPattern": [],
+          "activities": 186
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Университет: Выполняй задания",
+          "activityPattern": [],
+          "activities": 187
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Университет: Опиши свои предметы",
+          "activityPattern": [],
+          "activities": 188
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Университет: Составь список материалов",
+          "activityPattern": [],
+          "activities": 189
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Университет: Опиши свой университет",
+          "activityPattern": [],
+          "activities": 190
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Обед: Опиши свой обед",
+          "activityPattern": [],
+          "activities": 191
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Обед: Выбери блюдо на обед",
+          "activityPattern": [],
+          "activities": 192
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Обед: Похвали кого-то на обеде",
+          "activityPattern": [],
+          "activities": 193
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Обед: Опиши любимое блюдо",
+          "activityPattern": [],
+          "activities": 194
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Обед: Расскажи, что ел",
+          "activityPattern": [],
+          "activities": 195
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Праздник: Расскажи о планах на праздник",
+          "activityPattern": [],
+          "activities": 196
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Праздник: Опиши свой праздник",
+          "activityPattern": [],
+          "activities": 197
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Праздник: Обсуди планы на праздник",
+          "activityPattern": [],
+          "activities": 198
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Праздник: Опиши праздник мечты",
+          "activityPattern": [],
+          "activities": 199
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Праздник: Опиши семейный праздник",
+          "activityPattern": [],
+          "activities": 200
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Новости: Спроси о причинах проблемы",
+          "activityPattern": [],
+          "activities": 201
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Новости: Расскажи о спортивных новостях",
+          "activityPattern": [],
+          "activities": 202
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Новости: Опиши кандидата",
+          "activityPattern": [],
+          "activities": 203
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Новости: Расскажи о происшествии",
+          "activityPattern": [],
+          "activities": 204
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Новости: Расскажи о новостях",
+          "activityPattern": [],
+          "activities": 205
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Вопросы: Задавай вопросы о сериалах",
+          "activityPattern": [],
+          "activities": 206
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Вопросы: Задавай вопросы друзьям",
+          "activityPattern": [],
+          "activities": 207
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Вопросы: Задавай важные вопросы",
+          "activityPattern": [],
+          "activities": 208
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Вопросы: Отвечай на интересные вопросы",
+          "activityPattern": [],
+          "activities": 209
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Вопросы: Отвечай на вопросы",
+          "activityPattern": [],
+          "activities": 210
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Спорт: Опиши футбольный матч",
+          "activityPattern": [],
+          "activities": 211
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Спорт: Расскажи о любимом спорте",
+          "activityPattern": [],
+          "activities": 212
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Спорт: Расскажи о спортсменах",
+          "activityPattern": [],
+          "activities": 213
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Спорт: Опиши ход матча",
+          "activityPattern": [],
+          "activities": 214
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Спорт: Обсуждай результаты матчей",
+          "activityPattern": [],
+          "activities": 215
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Концерты: Поделись мнением о жанре",
+          "activityPattern": [],
+          "activities": 216
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Концерты: Проверь наличие мест",
+          "activityPattern": [],
+          "activities": 217
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Концерты: Сравни разные жанры",
+          "activityPattern": [],
+          "activities": 218
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Концерты: Скажи, что зал закрыт",
+          "activityPattern": [],
+          "activities": 219
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Концерты: Расскажи о концерте",
+          "activityPattern": [],
+          "activities": 220
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Банк: Попроси разменять деньги",
+          "activityPattern": [],
+          "activities": 221
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Банк: Открой счет в банке",
+          "activityPattern": [],
+          "activities": 222
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Банк: Спроси о карте банка",
+          "activityPattern": [],
+          "activities": 223
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Банк: Проверь баланс счёта",
+          "activityPattern": [],
+          "activities": 224
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Банк: Опиши свои сбережения",
+          "activityPattern": [],
+          "activities": 225
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Погода: Опиши погоду сегодня",
+          "activityPattern": [],
+          "activities": 226
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Погода: Расскажи о грозе",
+          "activityPattern": [],
+          "activities": 227
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Погода: Опиши плохую погоду",
+          "activityPattern": [],
+          "activities": 228
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Погода: Опиши погоду",
+          "activityPattern": [],
+          "activities": 229
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Погода: Опиши сегодняшнюю погоду",
+          "activityPattern": [],
+          "activities": 230
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Разногласия: Выражай несогласие",
+          "activityPattern": [],
+          "activities": 231
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Разногласия: Скажи, что думаешь",
+          "activityPattern": [],
+          "activities": 232
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Разногласия: Говори, что думаешь",
+          "activityPattern": [],
+          "activities": 233
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Разногласия: Говори открыто",
+          "activityPattern": [],
+          "activities": 234
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Разногласия: Спроси о мнении коллег",
+          "activityPattern": [],
+          "activities": 235
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Любовь: Опиши выражения любви",
+          "activityPattern": [],
+          "activities": 236
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Любовь: Опиши идеальное свидание",
+          "activityPattern": [],
+          "activities": 237
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Любовь: Поговори о чувствах",
+          "activityPattern": [],
+          "activities": 238
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Любовь: Опиши свою идеальную встречу",
+          "activityPattern": [],
+          "activities": 239
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Любовь: Расскажи о первой любви",
+          "activityPattern": [],
+          "activities": 240
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Конференция: Скажи, пойдёшь ли ты",
+          "activityPattern": [],
+          "activities": 241
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Конференция: Обсуди контракт",
+          "activityPattern": [],
+          "activities": 242
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Конференция: Опиши свои обязанности",
+          "activityPattern": [],
+          "activities": 243
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Конференция: Обсуди цели конференции",
+          "activityPattern": [],
+          "activities": 244
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Конференция: Дай совет коллегам",
+          "activityPattern": [],
+          "activities": 245
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Футбол: Передавай мяч команде",
+          "activityPattern": [],
+          "activities": 246
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Футбол: Дай совет по игре",
+          "activityPattern": [],
+          "activities": 247
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Футбол: Опиши действия игроков",
+          "activityPattern": [],
+          "activities": 248
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Футбол: Передай мяч напарнику",
+          "activityPattern": [],
+          "activities": 249
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Футбол: Опиши движение мяча",
+          "activityPattern": [],
+          "activities": 250
+        }
+      ]
+    },
+    {
+      "sectionIndex": 6,
+      "unitCount": 250,
+      "title": ":",
+      "rawTitle": "CEFR B1:",
+      "cefr": "B1",
+      "units": [
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Одежда: Опиши свою одежду",
+          "activityPattern": [],
+          "activities": 1
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Одежда: Выбери подходящие вещи",
+          "activityPattern": [],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Одежда: Расскажи о любимой обуви",
+          "activityPattern": [],
+          "activities": 3
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Одежда: Выбери подходящий наряд",
+          "activityPattern": [],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Одежда: Спроси о цене одежды",
+          "activityPattern": [],
+          "activities": 5
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Гигиена: Опиши свои средства гигиены",
+          "activityPattern": [],
+          "activities": 6
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Гигиена: Опиши уход за волосами",
+          "activityPattern": [],
+          "activities": 7
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Гигиена: Делись советами по гигиене",
+          "activityPattern": [],
+          "activities": 8
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Гигиена: Проси совет по гигиене",
+          "activityPattern": [],
+          "activities": 9
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Гигиена: Объясни зачем нужен гель",
+          "activityPattern": [],
+          "activities": 10
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Магазин: Покажи, что купил",
+          "activityPattern": [],
+          "activities": 11
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Магазин: Опиши любимый магазин",
+          "activityPattern": [],
+          "activities": 12
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Магазин: Спроси о скидках",
+          "activityPattern": [],
+          "activities": 13
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Магазин: Опиши понравившуюся вещь",
+          "activityPattern": [],
+          "activities": 14
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Магазин: Подбери нужный размер",
+          "activityPattern": [],
+          "activities": 15
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Техника: Спроси о гарантии",
+          "activityPattern": [],
+          "activities": 16
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Техника: Опиши свои устройства",
+          "activityPattern": [],
+          "activities": 17
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Техника: Опиши поломку техники",
+          "activityPattern": [],
+          "activities": 18
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Техника: Спроси про гарантию техники",
+          "activityPattern": [],
+          "activities": 19
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Техника: Расскажи о поломках техники",
+          "activityPattern": [],
+          "activities": 20
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Ресторан: Сделай заказ в ресторане",
+          "activityPattern": [],
+          "activities": 21
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Ресторан: Закажи столик",
+          "activityPattern": [],
+          "activities": 22
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Ресторан: Закажи блюдо в ресторане",
+          "activityPattern": [],
+          "activities": 23
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Ресторан: Посоветуй блюдо",
+          "activityPattern": [],
+          "activities": 24
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Ресторан: Попроси поменять блюдо",
+          "activityPattern": [],
+          "activities": 25
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Возврат: Объясни причину возврата",
+          "activityPattern": [],
+          "activities": 26
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Возврат: Позвони в магазин",
+          "activityPattern": [],
+          "activities": 27
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Возврат: Сообщи о проблеме с товаром",
+          "activityPattern": [],
+          "activities": 28
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Возврат: Спроси о возврате товара",
+          "activityPattern": [],
+          "activities": 29
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Возврат: Уточни условия возврата",
+          "activityPattern": [],
+          "activities": 30
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Покупки: Оценивай обслуживание",
+          "activityPattern": [],
+          "activities": 31
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Покупки: Спроси о возврате товара",
+          "activityPattern": [],
+          "activities": 32
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Покупки: Попроси заменить товар",
+          "activityPattern": [],
+          "activities": 33
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Покупки: Спроси о цене товара",
+          "activityPattern": [],
+          "activities": 34
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Покупки: Задавай вопросы о товаре",
+          "activityPattern": [],
+          "activities": 35
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Поездка: Расскажи о поездке",
+          "activityPattern": [],
+          "activities": 36
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Поездка: Расскажи о поездке с семьёй",
+          "activityPattern": [],
+          "activities": 37
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Поездка: Спроси о событиях в поездке",
+          "activityPattern": [],
+          "activities": 38
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Поездка: Опиши интересный район",
+          "activityPattern": [],
+          "activities": 39
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Поездка: Объясни состав блюда",
+          "activityPattern": [],
+          "activities": 40
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Природа: Задавай вопросы о животных",
+          "activityPattern": [],
+          "activities": 41
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Природа: Опиши явления природы",
+          "activityPattern": [],
+          "activities": 42
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Природа: Вырази заботу об экологии",
+          "activityPattern": [],
+          "activities": 43
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Природа: Опиши животных вокруг",
+          "activityPattern": [],
+          "activities": 44
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Природа: Расскажи о защите природы",
+          "activityPattern": [],
+          "activities": 45
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Искусство: Опиши работу ведущего",
+          "activityPattern": [],
+          "activities": 46
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Искусство: Расскажи о выставке",
+          "activityPattern": [],
+          "activities": 47
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Искусство: Спроси о любимом фильме",
+          "activityPattern": [],
+          "activities": 48
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Искусство: Расскажи о любимом фильме",
+          "activityPattern": [],
+          "activities": 49
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Искусство: Опиши картину",
+          "activityPattern": [],
+          "activities": 50
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Поездка: Опиши свою поездку",
+          "activityPattern": [],
+          "activities": 51
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Поездка: Расскажи о своей поездке",
+          "activityPattern": [],
+          "activities": 52
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Поездка: Опиши свой отель",
+          "activityPattern": [],
+          "activities": 53
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Поездка: Поделись воспоминаниями",
+          "activityPattern": [],
+          "activities": 54
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Поездка: Опиши задержку рейса",
+          "activityPattern": [],
+          "activities": 55
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Политика: Выскажи своё мнение",
+          "activityPattern": [],
+          "activities": 56
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Политика: Оценивай идеи других",
+          "activityPattern": [],
+          "activities": 57
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Политика: Обсуди идеи",
+          "activityPattern": [],
+          "activities": 58
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Политика: Обсуди права граждан",
+          "activityPattern": [],
+          "activities": 59
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Политика: Реагируй на идеи других",
+          "activityPattern": [],
+          "activities": 60
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Офис: Расскажи о своей работе",
+          "activityPattern": [],
+          "activities": 61
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Офис: Опиши свою работу",
+          "activityPattern": [],
+          "activities": 62
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Офис: Опиши коллег и начальство",
+          "activityPattern": [],
+          "activities": 63
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Офис: Опиши свою профессию",
+          "activityPattern": [],
+          "activities": 64
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Офис: Задавай вопросы о работе",
+          "activityPattern": [],
+          "activities": 65
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Эмоции: Опиши свои чувства",
+          "activityPattern": [],
+          "activities": 66
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Эмоции: Опиши свои эмоции",
+          "activityPattern": [],
+          "activities": 67
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Эмоции: Поделись своими сомнениями",
+          "activityPattern": [],
+          "activities": 68
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Эмоции: Поделись эмоциями",
+          "activityPattern": [],
+          "activities": 69
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Эмоции: Вырази эмоции в диалоге",
+          "activityPattern": [],
+          "activities": 70
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Брак: Расскажи о своей свадьбе",
+          "activityPattern": [],
+          "activities": 71
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Брак: Проси прощения",
+          "activityPattern": [],
+          "activities": 72
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Брак: Обсуди общие интересы",
+          "activityPattern": [],
+          "activities": 73
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Брак: Расскажи о браке",
+          "activityPattern": [],
+          "activities": 74
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Брак: Опиши свадьбу",
+          "activityPattern": [],
+          "activities": 75
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Больница: Опиши посещение больницы",
+          "activityPattern": [],
+          "activities": 76
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Больница: Сообщи о боли врачу",
+          "activityPattern": [],
+          "activities": 77
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Больница: Опиши врача или медсестру",
+          "activityPattern": [],
+          "activities": 78
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Больница: Опиши свои симптомы",
+          "activityPattern": [],
+          "activities": 79
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Больница: Спроси о лечении",
+          "activityPattern": [],
+          "activities": 80
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Бизнес: Обсуди успехи и неудачи",
+          "activityPattern": [],
+          "activities": 81
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Бизнес: Расскажи о доходах компании",
+          "activityPattern": [],
+          "activities": 82
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Бизнес: Опиши ресурсы компании",
+          "activityPattern": [],
+          "activities": 83
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Бизнес: Обсуди успех компании",
+          "activityPattern": [],
+          "activities": 84
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Бизнес: Обсуди банковский кредит",
+          "activityPattern": [],
+          "activities": 85
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Экстрим: Проверь машину",
+          "activityPattern": [],
+          "activities": 86
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Экстрим: Сообщи об опасности",
+          "activityPattern": [],
+          "activities": 87
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Экстрим: Позови на помощь",
+          "activityPattern": [],
+          "activities": 88
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Экстрим: Предупреди об опасности",
+          "activityPattern": [],
+          "activities": 89
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Экстрим: Расскажи о происшествии",
+          "activityPattern": [],
+          "activities": 90
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Благодарность: Скажи спасибо",
+          "activityPattern": [],
+          "activities": 91
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Благодарность: Поблагодари друга",
+          "activityPattern": [],
+          "activities": 92
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Благодарность: Ответь на спасибо",
+          "activityPattern": [],
+          "activities": 93
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Благодарность: Вырази признательность",
+          "activityPattern": [],
+          "activities": 94
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Благодарность: Поблагодари друга",
+          "activityPattern": [],
+          "activities": 95
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Дороги: Планируй поездку по городу",
+          "activityPattern": [],
+          "activities": 96
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Дороги: Дай совет по маршруту",
+          "activityPattern": [],
+          "activities": 97
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Дороги: Спроси о велодорожках",
+          "activityPattern": [],
+          "activities": 98
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Дороги: Опиши маршрут",
+          "activityPattern": [],
+          "activities": 99
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Дороги: Укажи нужный поворот",
+          "activityPattern": [],
+          "activities": 100
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Урок: Расскажи о своих оценках",
+          "activityPattern": [],
+          "activities": 101
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Урок: Опиши свой урок",
+          "activityPattern": [],
+          "activities": 102
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Урок: Расскажи о своей учёбе",
+          "activityPattern": [],
+          "activities": 103
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Урок: Расскажи о подготовке к уроку",
+          "activityPattern": [],
+          "activities": 104
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Урок: Расскажи о домашнем задании",
+          "activityPattern": [],
+          "activities": 105
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Преступления: Опиши преступление",
+          "activityPattern": [],
+          "activities": 106
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Преступления: Сообщи о взрыве",
+          "activityPattern": [],
+          "activities": 107
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Преступления: Перескажи новости",
+          "activityPattern": [],
+          "activities": 108
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Преступления: Вырази сомнение",
+          "activityPattern": [],
+          "activities": 109
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Преступления: Спроси о свидетелях",
+          "activityPattern": [],
+          "activities": 110
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Угощение: Предложи угощение",
+          "activityPattern": [],
+          "activities": 111
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Угощение: Опиши любимое угощение",
+          "activityPattern": [],
+          "activities": 112
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Угощение: Поделись рецептом блюда",
+          "activityPattern": [],
+          "activities": 113
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Угощение: Рекомендуй блюда",
+          "activityPattern": [],
+          "activities": 114
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Угощение: Спроси о вкусе блюда",
+          "activityPattern": [],
+          "activities": 115
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Победа: Поделись своим успехом",
+          "activityPattern": [],
+          "activities": 116
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Победа: Поздравь с победой",
+          "activityPattern": [],
+          "activities": 117
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Победа: Опиши свою победу",
+          "activityPattern": [],
+          "activities": 118
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Победа: Расскажи о своей победе",
+          "activityPattern": [],
+          "activities": 119
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Победа: Опиши чувство победы",
+          "activityPattern": [],
+          "activities": 120
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Быт: Попроси помощи по дому",
+          "activityPattern": [],
+          "activities": 121
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Быт: Опиши домашние вещи",
+          "activityPattern": [],
+          "activities": 122
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Быт: Опиши беспорядок дома",
+          "activityPattern": [],
+          "activities": 123
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Быт: Спроси о бытовых привычках",
+          "activityPattern": [],
+          "activities": 124
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Быт: Поделись советами по быту",
+          "activityPattern": [],
+          "activities": 125
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Квартира: Обсуди условия аренды",
+          "activityPattern": [],
+          "activities": 126
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Квартира: Опиши свою квартиру",
+          "activityPattern": [],
+          "activities": 127
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Квартира: Объясни выбор жилья",
+          "activityPattern": [],
+          "activities": 128
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Квартира: Попроси починить что-то",
+          "activityPattern": [],
+          "activities": 129
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Квартира: Расскажи о соседях",
+          "activityPattern": [],
+          "activities": 130
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Свидание: Расскажи о первом свидании",
+          "activityPattern": [],
+          "activities": 131
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Свидание: Расскажи о свидании",
+          "activityPattern": [],
+          "activities": 132
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Свидание: Опиши первую встречу",
+          "activityPattern": [],
+          "activities": 133
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Свидание: Пригласи на ужин",
+          "activityPattern": [],
+          "activities": 134
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Свидание: Опиши идеальное свидание",
+          "activityPattern": [],
+          "activities": 135
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Продукты: Дай совет по выбору еды",
+          "activityPattern": [],
+          "activities": 136
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Продукты: Попроси купить продукты",
+          "activityPattern": [],
+          "activities": 137
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Продукты: Делись рецептами",
+          "activityPattern": [],
+          "activities": 138
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Продукты: Опиши свежие овощи",
+          "activityPattern": [],
+          "activities": 139
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Продукты: Опиши любимые продукты",
+          "activityPattern": [],
+          "activities": 140
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Гаджеты: Опиши свои гаджеты",
+          "activityPattern": [],
+          "activities": 141
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Гаджеты: Расскажи о своих гаджетах",
+          "activityPattern": [],
+          "activities": 142
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Гаджеты: Сравни разные устройства",
+          "activityPattern": [],
+          "activities": 143
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Гаджеты: Опиши свой любимый гаджет",
+          "activityPattern": [],
+          "activities": 144
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Гаджеты: Покажи нужный значок",
+          "activityPattern": [],
+          "activities": 145
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Мастер: Спроси совета у мастера",
+          "activityPattern": [],
+          "activities": 146
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Мастер: Вызови мастера на дом",
+          "activityPattern": [],
+          "activities": 147
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Мастер: Попроси помощи у мастера",
+          "activityPattern": [],
+          "activities": 148
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Мастер: Спроси о стоимости работ",
+          "activityPattern": [],
+          "activities": 149
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Мастер: Опиши инструменты мастера",
+          "activityPattern": [],
+          "activities": 150
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Декор: Дай совет по декору",
+          "activityPattern": [],
+          "activities": 151
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Декор: Опиши мебель в комнате",
+          "activityPattern": [],
+          "activities": 152
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Декор: Подбери растения для дома",
+          "activityPattern": [],
+          "activities": 153
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Декор: Предложи идеи для декора",
+          "activityPattern": [],
+          "activities": 154
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Декор: Посоветуй, как расставить свечи",
+          "activityPattern": [],
+          "activities": 155
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Медицина: Узнай о медицинских услугах",
+          "activityPattern": [],
+          "activities": 156
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Медицина: Опиши свой план лечения",
+          "activityPattern": [],
+          "activities": 157
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Медицина: Объясни врачу свою аллергию",
+          "activityPattern": [],
+          "activities": 158
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Медицина: Опиши услуги в клинике",
+          "activityPattern": [],
+          "activities": 159
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Медицина: Расскажи о своём здоровье",
+          "activityPattern": [],
+          "activities": 160
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Разговор: Опиши любимую комедию",
+          "activityPattern": [],
+          "activities": 161
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Разговор: Обсуди новые знакомства",
+          "activityPattern": [],
+          "activities": 162
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Разговор: Обсуди интересную тему",
+          "activityPattern": [],
+          "activities": 163
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Разговор: Задавай вопросы собеседнику",
+          "activityPattern": [],
+          "activities": 164
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Разговор: Обсуди мечты и цели",
+          "activityPattern": [],
+          "activities": 165
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Праздник: Спроси о блюдах на праздник",
+          "activityPattern": [],
+          "activities": 166
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Праздник: Поделись историей праздника",
+          "activityPattern": [],
+          "activities": 167
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Праздник: Расскажи о традициях",
+          "activityPattern": [],
+          "activities": 168
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Праздник: Опиши праздничное блюдо",
+          "activityPattern": [],
+          "activities": 169
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Праздник: Спроси о традициях",
+          "activityPattern": [],
+          "activities": 170
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "События: Расскажи о недавних событиях",
+          "activityPattern": [],
+          "activities": 171
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "События: Опиши важные события",
+          "activityPattern": [],
+          "activities": 172
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "События: Расскажи о важном событии",
+          "activityPattern": [],
+          "activities": 173
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "События: Объясни причины событий",
+          "activityPattern": [],
+          "activities": 174
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "События: Опиши событие",
+          "activityPattern": [],
+          "activities": 175
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Поля: Спроси про урожай",
+          "activityPattern": [],
+          "activities": 176
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Поля: Спроси о вреде заморозков",
+          "activityPattern": [],
+          "activities": 177
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Поля: Опиши урожай на полях",
+          "activityPattern": [],
+          "activities": 178
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Поля: Расскажи о неурожае",
+          "activityPattern": [],
+          "activities": 179
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Поля: Обсуди урожай",
+          "activityPattern": [],
+          "activities": 180
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Магазин: Опиши товары в магазине",
+          "activityPattern": [],
+          "activities": 181
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Магазин: Спроси о скидках и акциях",
+          "activityPattern": [],
+          "activities": 182
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Магазин: Опиши товар",
+          "activityPattern": [],
+          "activities": 183
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Магазин: Пользуйся скидками",
+          "activityPattern": [],
+          "activities": 184
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Магазин: Опиши товары и цены",
+          "activityPattern": [],
+          "activities": 185
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Готовка: Спроси о кулинарном шоу",
+          "activityPattern": [],
+          "activities": 186
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Готовка: Опиши рецепт блюда",
+          "activityPattern": [],
+          "activities": 187
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Готовка: Объясни ошибки в рецепте",
+          "activityPattern": [],
+          "activities": 188
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Готовка: Расскажи, что кладёшь в суп",
+          "activityPattern": [],
+          "activities": 189
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Готовка: Вырази мнение о блюде",
+          "activityPattern": [],
+          "activities": 190
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Свобода: Обсуди значение свободы",
+          "activityPattern": [],
+          "activities": 191
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Свобода: Вырази своё мнение",
+          "activityPattern": [],
+          "activities": 192
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Свобода: Делись своим мнением",
+          "activityPattern": [],
+          "activities": 193
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Свобода: Объясни важность свободы",
+          "activityPattern": [],
+          "activities": 194
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Свобода: Выскажи мнение о свободе",
+          "activityPattern": [],
+          "activities": 195
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Отдых: Опиши свой отдых",
+          "activityPattern": [],
+          "activities": 196
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Отдых: Планируй поездку",
+          "activityPattern": [],
+          "activities": 197
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Отдых: Расскажи о приключении",
+          "activityPattern": [],
+          "activities": 198
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Отдых: Расскажи о своем отдыхе",
+          "activityPattern": [],
+          "activities": 199
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Отдых: Расскажи, как отдыхаешь",
+          "activityPattern": [],
+          "activities": 200
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Профессии: Опиши свою профессию",
+          "activityPattern": [],
+          "activities": 201
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Профессии: Опиши рабочий день",
+          "activityPattern": [],
+          "activities": 202
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Профессии: Сравни разные профессии",
+          "activityPattern": [],
+          "activities": 203
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Профессии: Объясни выбор работы",
+          "activityPattern": [],
+          "activities": 204
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Профессии: Расскажи о своём опыте",
+          "activityPattern": [],
+          "activities": 205
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Соседи: Расскажи о соседях",
+          "activityPattern": [],
+          "activities": 206
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Соседи: Опиши привычки соседей",
+          "activityPattern": [],
+          "activities": 207
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Соседи: Опиши соседей",
+          "activityPattern": [],
+          "activities": 208
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Соседи: Опиши своих соседей",
+          "activityPattern": [],
+          "activities": 209
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Соседи: Спроси о жильцах дома",
+          "activityPattern": [],
+          "activities": 210
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Родные: Расскажи о семейных встречах",
+          "activityPattern": [],
+          "activities": 211
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Родные: Опиши свою семью",
+          "activityPattern": [],
+          "activities": 212
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Родные: Расскажи о привычках в семье",
+          "activityPattern": [],
+          "activities": 213
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Родные: Расскажи о счастливом детстве",
+          "activityPattern": [],
+          "activities": 214
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Родные: Расскажи о родных",
+          "activityPattern": [],
+          "activities": 215
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Тело: Спроси о первой помощи",
+          "activityPattern": [],
+          "activities": 216
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Тело: Опиши свой рацион",
+          "activityPattern": [],
+          "activities": 217
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Тело: Опиши своё тело",
+          "activityPattern": [],
+          "activities": 218
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Тело: Опиши боль в теле",
+          "activityPattern": [],
+          "activities": 219
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Тело: Опиши симптомы",
+          "activityPattern": [],
+          "activities": 220
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Дело: Опиши случившееся",
+          "activityPattern": [],
+          "activities": 221
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Дело: Опиши расследование",
+          "activityPattern": [],
+          "activities": 222
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Дело: Опиши подозреваемого",
+          "activityPattern": [],
+          "activities": 223
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Дело: Спроси о деталях ограбления",
+          "activityPattern": [],
+          "activities": 224
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Дело: Вырази сомнения",
+          "activityPattern": [],
+          "activities": 225
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Сюрпризы: Опиши забавный сюрприз",
+          "activityPattern": [],
+          "activities": 226
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Сюрпризы: Расскажи о сюрпризе",
+          "activityPattern": [],
+          "activities": 227
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Сюрпризы: Спроси о необычных событиях",
+          "activityPattern": [],
+          "activities": 228
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Сюрпризы: Поделись своим впечатлением",
+          "activityPattern": [],
+          "activities": 229
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Сюрпризы: Расскажи веселую историю",
+          "activityPattern": [],
+          "activities": 230
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Школа: Объясни правила для детей",
+          "activityPattern": [],
+          "activities": 231
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Школа: Расскажи о своём классе",
+          "activityPattern": [],
+          "activities": 232
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Школа: Задай вопрос учителю",
+          "activityPattern": [],
+          "activities": 233
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Школа: Расскажи о своей школе",
+          "activityPattern": [],
+          "activities": 234
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Школа: Расскажи о школьных правилах",
+          "activityPattern": [],
+          "activities": 235
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "События: Расскажи о поездке",
+          "activityPattern": [],
+          "activities": 236
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "События: Опиши недавнее событие",
+          "activityPattern": [],
+          "activities": 237
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "События: Объясни причины изменений",
+          "activityPattern": [],
+          "activities": 238
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "События: Расскажи о спортивном событии",
+          "activityPattern": [],
+          "activities": 239
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "События: Расскажи о свадьбе",
+          "activityPattern": [],
+          "activities": 240
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Животные: Расскажи о животных",
+          "activityPattern": [],
+          "activities": 241
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Животные: Расскажи о любимых животных",
+          "activityPattern": [],
+          "activities": 242
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Животные: Опиши любимое животное",
+          "activityPattern": [],
+          "activities": 243
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Животные: Расскажи о питомцах",
+          "activityPattern": [],
+          "activities": 244
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Животные: Спроси о привычках животных",
+          "activityPattern": [],
+          "activities": 245
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Отношения: Обсудить слухи о знакомых",
+          "activityPattern": [],
+          "activities": 246
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Отношения: Расскажи про свои отношения",
+          "activityPattern": [],
+          "activities": 247
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Отношения: Расскажи о ссоре",
+          "activityPattern": [],
+          "activities": 248
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Отношения: Опиши семейные связи",
+          "activityPattern": [],
+          "activities": 249
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Отношения: Обсуди привычки семьи",
+          "activityPattern": [],
+          "activities": 250
+        }
+      ]
+    },
+    {
+      "sectionIndex": 7,
+      "unitCount": 180,
+      "title": ":",
+      "rawTitle": "CEFR B2:",
+      "cefr": "B2",
+      "units": [
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Разрешение: Проси разрешения",
+          "activityPattern": [],
+          "activities": 1
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Разрешение: Получи согласие",
+          "activityPattern": [],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Разрешение: Попроси разрешения",
+          "activityPattern": [],
+          "activities": 3
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Разрешение: Ответь на просьбу",
+          "activityPattern": [],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Разрешение: Спроси, почему нельзя",
+          "activityPattern": [],
+          "activities": 5
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Здоровье: Дай совет по здоровью",
+          "activityPattern": [],
+          "activities": 6
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Здоровье: Расскажи, как себя беречь",
+          "activityPattern": [],
+          "activities": 7
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Здоровье: Расскажи о своих привычках",
+          "activityPattern": [],
+          "activities": 8
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Здоровье: Опиши своё самочувствие",
+          "activityPattern": [],
+          "activities": 9
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Здоровье: Опиши свои симптомы",
+          "activityPattern": [],
+          "activities": 10
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Жилье: Опиши желаемое жилье",
+          "activityPattern": [],
+          "activities": 11
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Жилье: Опиши свой дом",
+          "activityPattern": [],
+          "activities": 12
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Жилье: Опиши дом мечты",
+          "activityPattern": [],
+          "activities": 13
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Жилье: Опиши свою квартиру",
+          "activityPattern": [],
+          "activities": 14
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Жилье: Опиши свое жилье",
+          "activityPattern": [],
+          "activities": 15
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Компания: Попроси оценить проект",
+          "activityPattern": [],
+          "activities": 16
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Компания: Рассчитай расходы компании",
+          "activityPattern": [],
+          "activities": 17
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Компания: Опиши свою компанию",
+          "activityPattern": [],
+          "activities": 18
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Компания: Расскажи о своей компании",
+          "activityPattern": [],
+          "activities": 19
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Компания: Определи цели компании",
+          "activityPattern": [],
+          "activities": 20
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Болезни: Опиши свои симптомы",
+          "activityPattern": [],
+          "activities": 21
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Болезни: Расскажи о симптомах",
+          "activityPattern": [],
+          "activities": 22
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Болезни: Опиши симптомы",
+          "activityPattern": [],
+          "activities": 23
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Болезни: Опиши симптомы болезни",
+          "activityPattern": [],
+          "activities": 24
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Болезни: Спроси о симптомах",
+          "activityPattern": [],
+          "activities": 25
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Авто: Позвони эвакуатору",
+          "activityPattern": [],
+          "activities": 26
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Авто: Спроси о ремонте машины",
+          "activityPattern": [],
+          "activities": 27
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Авто: Объясни проблему с машиной",
+          "activityPattern": [],
+          "activities": 28
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Авто: Опиши поломку машины",
+          "activityPattern": [],
+          "activities": 29
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Авто: Расскажи о ремонте авто",
+          "activityPattern": [],
+          "activities": 30
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Карьера: Расскажи о своих планах",
+          "activityPattern": [],
+          "activities": 31
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Карьера: Сравни профессии",
+          "activityPattern": [],
+          "activities": 32
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Карьера: Опиши свои карьерные планы",
+          "activityPattern": [],
+          "activities": 33
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Карьера: Опиши профессию мечты",
+          "activityPattern": [],
+          "activities": 34
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Карьера: Расскажи о своём опыте",
+          "activityPattern": [],
+          "activities": 35
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Люди: Опиши знакомого человека",
+          "activityPattern": [],
+          "activities": 36
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Люди: Опиши знакомых людей",
+          "activityPattern": [],
+          "activities": 37
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Люди: Опиши людей вокруг",
+          "activityPattern": [],
+          "activities": 38
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Люди: Опиши людей",
+          "activityPattern": [],
+          "activities": 39
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Люди: Сравни внешность людей",
+          "activityPattern": [],
+          "activities": 40
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Выборы: Опиши кандидатов",
+          "activityPattern": [],
+          "activities": 41
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Выборы: Обсуди стратегии",
+          "activityPattern": [],
+          "activities": 42
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Выборы: Узнай результаты выборов",
+          "activityPattern": [],
+          "activities": 43
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Выборы: Опиши ход выборов",
+          "activityPattern": [],
+          "activities": 44
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Выборы: Вырази свою позицию",
+          "activityPattern": [],
+          "activities": 45
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Экология: Вырази своё мнение",
+          "activityPattern": [],
+          "activities": 46
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Экология: Оценивай риски",
+          "activityPattern": [],
+          "activities": 47
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Экология: Объясни вред пластика",
+          "activityPattern": [],
+          "activities": 48
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Экология: Объясни пользу переработки",
+          "activityPattern": [],
+          "activities": 49
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Экология: Обсуди будущее планеты",
+          "activityPattern": [],
+          "activities": 50
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Ответственность: Не шуми на занятии",
+          "activityPattern": [],
+          "activities": 51
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Ответственность: Берись за учёбу",
+          "activityPattern": [],
+          "activities": 52
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Ответственность: Следи за порядком",
+          "activityPattern": [],
+          "activities": 53
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Ответственность: Предупреди о риске",
+          "activityPattern": [],
+          "activities": 54
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Ответственность: Признай свои ошибки",
+          "activityPattern": [],
+          "activities": 55
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Младенец: Спроси про усыновление",
+          "activityPattern": [],
+          "activities": 56
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Младенец: Опиши заботу о младенце",
+          "activityPattern": [],
+          "activities": 57
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Младенец: Попроси помощи с ребёнком",
+          "activityPattern": [],
+          "activities": 58
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Младенец: Расскажи о привычках малыша",
+          "activityPattern": [],
+          "activities": 59
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Младенец: Обсуди уход за младенцем",
+          "activityPattern": [],
+          "activities": 60
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Приметы: Расскажи о приметах",
+          "activityPattern": [],
+          "activities": 61
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Приметы: Поделись суевериями",
+          "activityPattern": [],
+          "activities": 62
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Приметы: Объясни значение приметы",
+          "activityPattern": [],
+          "activities": 63
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Приметы: Вырази сомнения в приметах",
+          "activityPattern": [],
+          "activities": 64
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Приметы: Расскажи о народных приметах",
+          "activityPattern": [],
+          "activities": 65
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Отношения: Объясни свои чувства",
+          "activityPattern": [],
+          "activities": 66
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Отношения: Обсуди недоразумение",
+          "activityPattern": [],
+          "activities": 67
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Отношения: Вырази сожаление",
+          "activityPattern": [],
+          "activities": 68
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Отношения: Попроси прощения у друга",
+          "activityPattern": [],
+          "activities": 69
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Отношения: Опиши ссору",
+          "activityPattern": [],
+          "activities": 70
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Учёба: Вырази своё мнение об учебе",
+          "activityPattern": [],
+          "activities": 71
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Учёба: Объясни ответ учителю",
+          "activityPattern": [],
+          "activities": 72
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Учёба: Объясни, что выбираешь",
+          "activityPattern": [],
+          "activities": 73
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Учёба: Опиши свой учебный день",
+          "activityPattern": [],
+          "activities": 74
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Учёба: Расскажи о своём обучении",
+          "activityPattern": [],
+          "activities": 75
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Воспоминания: Расскажи о детстве",
+          "activityPattern": [],
+          "activities": 76
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Воспоминания: Расскажи о ярмарках",
+          "activityPattern": [],
+          "activities": 77
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Воспоминания: Вспомни детство",
+          "activityPattern": [],
+          "activities": 78
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Воспоминания: Расскажи про костёр",
+          "activityPattern": [],
+          "activities": 79
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Воспоминания: Опиши своё лето",
+          "activityPattern": [],
+          "activities": 80
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Семья: Расскажи о своей семье",
+          "activityPattern": [],
+          "activities": 81
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Семья: Обсуди семейные блюда",
+          "activityPattern": [],
+          "activities": 82
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Семья: Опиши свою семью",
+          "activityPattern": [],
+          "activities": 83
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Семья: Расскажи о семье",
+          "activityPattern": [],
+          "activities": 84
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Семья: Опиши семейный обед",
+          "activityPattern": [],
+          "activities": 85
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Работа: Опиши ключевое решение",
+          "activityPattern": [],
+          "activities": 86
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Работа: Обсуди рабочие задачи",
+          "activityPattern": [],
+          "activities": 87
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Работа: Расскажи о своей работе",
+          "activityPattern": [],
+          "activities": 88
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Работа: Спроси о задачах на работе",
+          "activityPattern": [],
+          "activities": 89
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Работа: Опиши свой опыт работы",
+          "activityPattern": [],
+          "activities": 90
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Документы: Заполни документы",
+          "activityPattern": [],
+          "activities": 91
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Документы: Поясни условия поступления",
+          "activityPattern": [],
+          "activities": 92
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Документы: Спроси о подаче документов",
+          "activityPattern": [],
+          "activities": 93
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Документы: Проверяй срок действия",
+          "activityPattern": [],
+          "activities": 94
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Документы: Объясни правила оформления",
+          "activityPattern": [],
+          "activities": 95
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Здоровье: Опиши симптомы",
+          "activityPattern": [],
+          "activities": 96
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Здоровье: Опиши свои симптомы",
+          "activityPattern": [],
+          "activities": 97
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Здоровье: Опиши самочувствие",
+          "activityPattern": [],
+          "activities": 98
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Здоровье: Обсуди рекомендации врача",
+          "activityPattern": [],
+          "activities": 99
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Здоровье: Расскажи о витаминах",
+          "activityPattern": [],
+          "activities": 100
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Ремонт: Спроси про трещины в доме",
+          "activityPattern": [],
+          "activities": 101
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Ремонт: Попроси нужные материалы",
+          "activityPattern": [],
+          "activities": 102
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Ремонт: Расскажи о ремонте дома",
+          "activityPattern": [],
+          "activities": 103
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Ремонт: Спроси, что не так",
+          "activityPattern": [],
+          "activities": 104
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Ремонт: Опиши процесс ремонта",
+          "activityPattern": [],
+          "activities": 105
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Ссоры: Вырази недовольство",
+          "activityPattern": [],
+          "activities": 106
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Ссоры: Объясни причину конфликта",
+          "activityPattern": [],
+          "activities": 107
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Ссоры: Опиши причину ссоры",
+          "activityPattern": [],
+          "activities": 108
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Ссоры: Предложи альтернативу",
+          "activityPattern": [],
+          "activities": 109
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Ссоры: Отстаивай свою точку зрения",
+          "activityPattern": [],
+          "activities": 110
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Сюжет: Опиши сюжет",
+          "activityPattern": [],
+          "activities": 111
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Сюжет: Расскажи о героях сюжета",
+          "activityPattern": [],
+          "activities": 112
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Сюжет: Опиши поступки героев",
+          "activityPattern": [],
+          "activities": 113
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Сюжет: Опиши главных героев",
+          "activityPattern": [],
+          "activities": 114
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Сюжет: Опиши действия героев",
+          "activityPattern": [],
+          "activities": 115
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Жизнь: Расскажи о переменах в жизни",
+          "activityPattern": [],
+          "activities": 116
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Жизнь: Опиши изменения в городе",
+          "activityPattern": [],
+          "activities": 117
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Жизнь: Расскажи о возвращении домой",
+          "activityPattern": [],
+          "activities": 118
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Жизнь: Опиши свою повседневную жизнь",
+          "activityPattern": [],
+          "activities": 119
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Жизнь: Опиши свой опыт материнства",
+          "activityPattern": [],
+          "activities": 120
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Будни: Опиши свой рабочий день",
+          "activityPattern": [],
+          "activities": 121
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Будни: Расскажи о рабочем дне",
+          "activityPattern": [],
+          "activities": 122
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Будни: Расскажи о прошлых привычках",
+          "activityPattern": [],
+          "activities": 123
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Будни: Опиши обычный день",
+          "activityPattern": [],
+          "activities": 124
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Будни: Расскажи о своих буднях",
+          "activityPattern": [],
+          "activities": 125
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Отношения: Расскажи о соседях",
+          "activityPattern": [],
+          "activities": 126
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Отношения: Реагируй на чьи-то слова",
+          "activityPattern": [],
+          "activities": 127
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Отношения: Расскажи о чувствах",
+          "activityPattern": [],
+          "activities": 128
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Отношения: Объясни причину ссоры",
+          "activityPattern": [],
+          "activities": 129
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Отношения: Опиши семейные отношения",
+          "activityPattern": [],
+          "activities": 130
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Проблемы: Опиши свою проблему",
+          "activityPattern": [],
+          "activities": 131
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Проблемы: Объясни причину задержки",
+          "activityPattern": [],
+          "activities": 132
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Проблемы: Расскажи о проблеме",
+          "activityPattern": [],
+          "activities": 133
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Проблемы: Опиши проблему в отеле",
+          "activityPattern": [],
+          "activities": 134
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Проблемы: Опиши проблему",
+          "activityPattern": [],
+          "activities": 135
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Обычаи: Расскажи о своих обычаях",
+          "activityPattern": [],
+          "activities": 136
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Обычаи: Объясни традиции",
+          "activityPattern": [],
+          "activities": 137
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Обычаи: Сравни местные традиции",
+          "activityPattern": [],
+          "activities": 138
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Обычаи: Пробуй местные блюда",
+          "activityPattern": [],
+          "activities": 139
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Обычаи: Опиши культурные различия",
+          "activityPattern": [],
+          "activities": 140
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Посуда: Спроси о чистоте посуды",
+          "activityPattern": [],
+          "activities": 141
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Посуда: Расскажи о кухонной посуде",
+          "activityPattern": [],
+          "activities": 142
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Посуда: Опиши кухонную посуду",
+          "activityPattern": [],
+          "activities": 143
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Посуда: Объясни как использовать тёрку",
+          "activityPattern": [],
+          "activities": 144
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Посуда: Опиши кухонную утварь",
+          "activityPattern": [],
+          "activities": 145
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Чувства: Делись своими чувствами",
+          "activityPattern": [],
+          "activities": 146
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Чувства: Расскажи о своих чувствах",
+          "activityPattern": [],
+          "activities": 147
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Чувства: Расскажи о переменах в себе",
+          "activityPattern": [],
+          "activities": 148
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Чувства: Опиши свои чувства",
+          "activityPattern": [],
+          "activities": 149
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Чувства: Расскажи, что тебя волнует",
+          "activityPattern": [],
+          "activities": 150
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Эмоции: Опиши свои чувства",
+          "activityPattern": [],
+          "activities": 151
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Эмоции: Опиши свои эмоции",
+          "activityPattern": [],
+          "activities": 152
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Эмоции: Вырази свои чувства",
+          "activityPattern": [],
+          "activities": 153
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Эмоции: Утешай собеседника",
+          "activityPattern": [],
+          "activities": 154
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Эмоции: Попроси поддержки",
+          "activityPattern": [],
+          "activities": 155
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Разрыв: Утешь друга после разрыва",
+          "activityPattern": [],
+          "activities": 156
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Разрыв: Опиши свои чувства",
+          "activityPattern": [],
+          "activities": 157
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Разрыв: Поддержи друга",
+          "activityPattern": [],
+          "activities": 158
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Разрыв: Расскажи о своих чувствах",
+          "activityPattern": [],
+          "activities": 159
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Разрыв: Проси поддержки у друга",
+          "activityPattern": [],
+          "activities": 160
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Беседа: Выражай своё мнение",
+          "activityPattern": [],
+          "activities": 161
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Беседа: Переходи к новым темам",
+          "activityPattern": [],
+          "activities": 162
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Беседа: Начинай разговор",
+          "activityPattern": [],
+          "activities": 163
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Беседа: Переспроси собеседника",
+          "activityPattern": [],
+          "activities": 164
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Беседа: Предложи встретиться",
+          "activityPattern": [],
+          "activities": 165
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Стихии: Опиши стихийное бедствие",
+          "activityPattern": [],
+          "activities": 166
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Стихии: Расскажи о своей реакции",
+          "activityPattern": [],
+          "activities": 167
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Стихии: Расскажи, как пережил стихию",
+          "activityPattern": [],
+          "activities": 168
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Стихии: Опиши, что надо восстановить",
+          "activityPattern": [],
+          "activities": 169
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Стихии: Проверь, нужна ли помощь",
+          "activityPattern": [],
+          "activities": 170
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Доверие: Расскажи о доверии",
+          "activityPattern": [],
+          "activities": 171
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Доверие: Объясни, почему не веришь",
+          "activityPattern": [],
+          "activities": 172
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Доверие: Спроси о доверии",
+          "activityPattern": [],
+          "activities": 173
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Доверие: Благодари за доверие",
+          "activityPattern": [],
+          "activities": 174
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Доверие: Выражай свои чувства",
+          "activityPattern": [],
+          "activities": 175
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Кухня: Поделись кулинарными идеями",
+          "activityPattern": [],
+          "activities": 176
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Кухня: Обсуди способы готовки",
+          "activityPattern": [],
+          "activities": 177
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Кухня: Не сдавайся",
+          "activityPattern": [],
+          "activities": 178
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Кухня: Опиши процесс приготовления",
+          "activityPattern": [],
+          "activities": 179
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Кухня: Вырази мнение о еде",
+          "activityPattern": [],
+          "activities": 180
+        }
+      ]
+    },
+    {
+      "sectionIndex": 8,
+      "unitCount": 180,
+      "title": ":",
+      "rawTitle": "CEFR B2:",
+      "cefr": "B2",
+      "units": [
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Аттракцион: Дай причину посетить парк",
+          "activityPattern": [],
+          "activities": 1
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Аттракцион: Делись своими эмоциями",
+          "activityPattern": [],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Аттракцион: Объясни маме свой выбор",
+          "activityPattern": [],
+          "activities": 3
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Аттракцион: Попроси разрешение",
+          "activityPattern": [],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Аттракцион: Объясни почему не пускают",
+          "activityPattern": [],
+          "activities": 5
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Материалы: Обсуди формы и цвета",
+          "activityPattern": [],
+          "activities": 6
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Материалы: Опиши нужные материалы",
+          "activityPattern": [],
+          "activities": 7
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Материалы: Объясни выбор материала",
+          "activityPattern": [],
+          "activities": 8
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Материалы: Сравни разные материалы",
+          "activityPattern": [],
+          "activities": 9
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Материалы: Уточни качество материалов",
+          "activityPattern": [],
+          "activities": 10
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Возврат: Объясни причину возврата",
+          "activityPattern": [],
+          "activities": 11
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Возврат: Попроси вернуть товар",
+          "activityPattern": [],
+          "activities": 12
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Возврат: Попроси оформить возврат",
+          "activityPattern": [],
+          "activities": 13
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Возврат: Попроси вернуть деньги",
+          "activityPattern": [],
+          "activities": 14
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Возврат: Вырази своё недовольство",
+          "activityPattern": [],
+          "activities": 15
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Новости: Расскажи смешную новость",
+          "activityPattern": [],
+          "activities": 16
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Новости: Расскажи о научном открытии",
+          "activityPattern": [],
+          "activities": 17
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Новости: Расскажи о новостях дня",
+          "activityPattern": [],
+          "activities": 18
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Новости: Опиши, как используют отходы",
+          "activityPattern": [],
+          "activities": 19
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Новости: Опиши новость",
+          "activityPattern": [],
+          "activities": 20
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Права: Опиши разные виды неравенства",
+          "activityPattern": [],
+          "activities": 21
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Права: Расскажи о дискриминации",
+          "activityPattern": [],
+          "activities": 22
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Права: Опиши права женщин",
+          "activityPattern": [],
+          "activities": 23
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Права: Объясни значение равенства",
+          "activityPattern": [],
+          "activities": 24
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Права: Расскажи о правах женщин",
+          "activityPattern": [],
+          "activities": 25
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "искусство: Объясни значение картины",
+          "activityPattern": [],
+          "activities": 26
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "искусство: Опиши картину",
+          "activityPattern": [],
+          "activities": 27
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "искусство: Расскажи о роли искусства",
+          "activityPattern": [],
+          "activities": 28
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "искусство: Опиши стиль искусства",
+          "activityPattern": [],
+          "activities": 29
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "искусство: Объясни смысл произведения",
+          "activityPattern": [],
+          "activities": 30
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Борьба: Опиши бойцов",
+          "activityPattern": [],
+          "activities": 31
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Борьба: Опиши маску борца",
+          "activityPattern": [],
+          "activities": 32
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Борьба: Расскажи о знаменитых боях",
+          "activityPattern": [],
+          "activities": 33
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Борьба: Опиши костюмы борцов",
+          "activityPattern": [],
+          "activities": 34
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Борьба: Опиши приёмы борьбы",
+          "activityPattern": [],
+          "activities": 35
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Матч: Спроси о шансах команды",
+          "activityPattern": [],
+          "activities": 36
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Матч: Объясни счёт матча",
+          "activityPattern": [],
+          "activities": 37
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Матч: Оцени игроков матча",
+          "activityPattern": [],
+          "activities": 38
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Матч: Опиши ход матча",
+          "activityPattern": [],
+          "activities": 39
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Матч: Вырази своё мнение о матче",
+          "activityPattern": [],
+          "activities": 40
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Правила: Обсуди проблемы жильцов",
+          "activityPattern": [],
+          "activities": 41
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Правила: Опиши правила жильцов",
+          "activityPattern": [],
+          "activities": 42
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Правила: Объясни правило",
+          "activityPattern": [],
+          "activities": 43
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Правила: Задай вопрос о правилах",
+          "activityPattern": [],
+          "activities": 44
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Правила: Обсуди важность правил",
+          "activityPattern": [],
+          "activities": 45
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Стресс: Расскажи о случаях стресса",
+          "activityPattern": [],
+          "activities": 46
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Стресс: Объясни причину опоздания",
+          "activityPattern": [],
+          "activities": 47
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Стресс: Расскажи о трудном дне",
+          "activityPattern": [],
+          "activities": 48
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Стресс: Опиши тяжёлый день",
+          "activityPattern": [],
+          "activities": 49
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Стресс: Опиши свои эмоции",
+          "activityPattern": [],
+          "activities": 50
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Игры: Предложи игру семье",
+          "activityPattern": [],
+          "activities": 51
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Игры: Объясни правила игры",
+          "activityPattern": [],
+          "activities": 52
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Игры: Спроси о правилах",
+          "activityPattern": [],
+          "activities": 53
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Игры: Выбери игру для всех",
+          "activityPattern": [],
+          "activities": 54
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Игры: Расскажи о своей победе",
+          "activityPattern": [],
+          "activities": 55
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Детектив: Опиши улики",
+          "activityPattern": [],
+          "activities": 56
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Детектив: Объясни ход расследования",
+          "activityPattern": [],
+          "activities": 57
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Детектив: Делись уликами и мыслями",
+          "activityPattern": [],
+          "activities": 58
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Детектив: Обсуди гипотезы",
+          "activityPattern": [],
+          "activities": 59
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Детектив: Расскажи о подозреваемом",
+          "activityPattern": [],
+          "activities": 60
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Страхи: Расскажи страшную историю",
+          "activityPattern": [],
+          "activities": 61
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Страхи: Опиши свои страхи",
+          "activityPattern": [],
+          "activities": 62
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Страхи: Расскажи о своих страхах",
+          "activityPattern": [],
+          "activities": 63
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Страхи: Успокой друга",
+          "activityPattern": [],
+          "activities": 64
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Страхи: Опиши пугающее место",
+          "activityPattern": [],
+          "activities": 65
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Навыки: Опиши нужные навыки",
+          "activityPattern": [],
+          "activities": 66
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Навыки: Опиши свои навыки",
+          "activityPattern": [],
+          "activities": 67
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Навыки: Расскажи о своих навыках",
+          "activityPattern": [],
+          "activities": 68
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Навыки: Опиши свой опыт",
+          "activityPattern": [],
+          "activities": 69
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Навыки: Расскажи о своем опыте",
+          "activityPattern": [],
+          "activities": 70
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Церемония: Опиши гостя на церемонии",
+          "activityPattern": [],
+          "activities": 71
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Церемония: Опиши ход церемонии",
+          "activityPattern": [],
+          "activities": 72
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Церемония: Вырази мнение о событии",
+          "activityPattern": [],
+          "activities": 73
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Церемония: Объясни причину задержки",
+          "activityPattern": [],
+          "activities": 74
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Церемония: Объясни план церемонии",
+          "activityPattern": [],
+          "activities": 75
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Зомби: Опиши апокалипсис",
+          "activityPattern": [],
+          "activities": 76
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Зомби: Собери набор для выживания",
+          "activityPattern": [],
+          "activities": 77
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Зомби: Опиши убежище от зомби",
+          "activityPattern": [],
+          "activities": 78
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Зомби: Предлагай план спасения",
+          "activityPattern": [],
+          "activities": 79
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Зомби: Поговори с зомби",
+          "activityPattern": [],
+          "activities": 80
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Фокусы: Расскажи о волшебной палочке",
+          "activityPattern": [],
+          "activities": 81
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Фокусы: Объясни трюк",
+          "activityPattern": [],
+          "activities": 82
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Фокусы: Объясни неудачный трюк",
+          "activityPattern": [],
+          "activities": 83
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Фокусы: Обсуди трюк мага",
+          "activityPattern": [],
+          "activities": 84
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Фокусы: Опиши секрет трюка",
+          "activityPattern": [],
+          "activities": 85
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Свадьба: Опиши гостей на свадьбе",
+          "activityPattern": [],
+          "activities": 86
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Свадьба: Опиши платье невесты",
+          "activityPattern": [],
+          "activities": 87
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Свадьба: Опиши свадебный танец",
+          "activityPattern": [],
+          "activities": 88
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Свадьба: Поделись впечатлениями о еде",
+          "activityPattern": [],
+          "activities": 89
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Свадьба: Расскажи о свадьбе",
+          "activityPattern": [],
+          "activities": 90
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Перемены: Объясни причину переезда",
+          "activityPattern": [],
+          "activities": 91
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Перемены: Пожелай успехов",
+          "activityPattern": [],
+          "activities": 92
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Перемены: Оставайся на связи",
+          "activityPattern": [],
+          "activities": 93
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Перемены: Поделись своими ожиданиями",
+          "activityPattern": [],
+          "activities": 94
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Перемены: Желай успеха и счастья",
+          "activityPattern": [],
+          "activities": 95
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Питомцы: Расскажи о своем питомце",
+          "activityPattern": [],
+          "activities": 96
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Питомцы: Опиши любимого питомца",
+          "activityPattern": [],
+          "activities": 97
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Питомцы: Опиши своего питомца",
+          "activityPattern": [],
+          "activities": 98
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Питомцы: Вырази заботу о питомце",
+          "activityPattern": [],
+          "activities": 99
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Питомцы: Объясни, как выбрать питомца",
+          "activityPattern": [],
+          "activities": 100
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Будущее: Расскажи о своих планах",
+          "activityPattern": [],
+          "activities": 101
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Будущее: Опиши своё будущее",
+          "activityPattern": [],
+          "activities": 102
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Будущее: Опиши свои планы",
+          "activityPattern": [],
+          "activities": 103
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Будущее: Обсуди свои мечты",
+          "activityPattern": [],
+          "activities": 104
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Будущее: Поделись мечтами о будущем",
+          "activityPattern": [],
+          "activities": 105
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Экраны: Поделись историей поломки",
+          "activityPattern": [],
+          "activities": 106
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Экраны: Объясни, как починить экран",
+          "activityPattern": [],
+          "activities": 107
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Экраны: Объясни проблему с экраном",
+          "activityPattern": [],
+          "activities": 108
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Экраны: Сравни варианты экранов",
+          "activityPattern": [],
+          "activities": 109
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Экраны: Выбирай подходящий гаджет",
+          "activityPattern": [],
+          "activities": 110
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Проект: Выбери тему для проекта",
+          "activityPattern": [],
+          "activities": 111
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Проект: Делись идеями для проекта",
+          "activityPattern": [],
+          "activities": 112
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Проект: Обсуди шаги проекта",
+          "activityPattern": [],
+          "activities": 113
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Проект: Попроси помочь с проектом",
+          "activityPattern": [],
+          "activities": 114
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Проект: Распредели роли в проекте",
+          "activityPattern": [],
+          "activities": 115
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Тренировка: Дай совет по тренировке",
+          "activityPattern": [],
+          "activities": 116
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Тренировка: Опиши свою тренировку",
+          "activityPattern": [],
+          "activities": 117
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Тренировка: Следуй советам тренера",
+          "activityPattern": [],
+          "activities": 118
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Тренировка: Сравни виды упражнений",
+          "activityPattern": [],
+          "activities": 119
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Тренировка: Объясни важность здоровья",
+          "activityPattern": [],
+          "activities": 120
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Планы: Выбери, что делать",
+          "activityPattern": [],
+          "activities": 121
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Планы: Планируй выходные",
+          "activityPattern": [],
+          "activities": 122
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Планы: Обсуди планы на выходные",
+          "activityPattern": [],
+          "activities": 123
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Планы: Обсуди планы на день",
+          "activityPattern": [],
+          "activities": 124
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Планы: Выскажи мнение о планах",
+          "activityPattern": [],
+          "activities": 125
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Походы: Обсуди план похода",
+          "activityPattern": [],
+          "activities": 126
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Походы: Спроси у гида о маршруте",
+          "activityPattern": [],
+          "activities": 127
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Походы: Опиши маршрут похода",
+          "activityPattern": [],
+          "activities": 128
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Походы: Спроси о маршруте",
+          "activityPattern": [],
+          "activities": 129
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Походы: Расскажи о своих походах",
+          "activityPattern": [],
+          "activities": 130
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Дебаты: Объясни преимущества",
+          "activityPattern": [],
+          "activities": 131
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Дебаты: Выражай своё мнение",
+          "activityPattern": [],
+          "activities": 132
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Дебаты: Обоснуй свою точку зрения",
+          "activityPattern": [],
+          "activities": 133
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Дебаты: Отвечай на вопросы из зала",
+          "activityPattern": [],
+          "activities": 134
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Дебаты: Задавай вопросы оппоненту",
+          "activityPattern": [],
+          "activities": 135
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Проказы: Расскажи о проделках",
+          "activityPattern": [],
+          "activities": 136
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Проказы: Выдвигай версии",
+          "activityPattern": [],
+          "activities": 137
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Проказы: Учись на ошибках",
+          "activityPattern": [],
+          "activities": 138
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Проказы: Найди предателя",
+          "activityPattern": [],
+          "activities": 139
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Проказы: Опиши смешную проделку",
+          "activityPattern": [],
+          "activities": 140
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Сервис: Выбери подходящую машину",
+          "activityPattern": [],
+          "activities": 141
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Сервис: Опиши характеристики авто",
+          "activityPattern": [],
+          "activities": 142
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Сервис: Узнай о способах оплаты",
+          "activityPattern": [],
+          "activities": 143
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Сервис: Сообщи о поломке",
+          "activityPattern": [],
+          "activities": 144
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Сервис: Уточнять статус ремонта",
+          "activityPattern": [],
+          "activities": 145
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Погода: Расскажи о погоде",
+          "activityPattern": [],
+          "activities": 146
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Погода: Расскажи о погоде сегодня",
+          "activityPattern": [],
+          "activities": 147
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Погода: Задавай вопросы о погоде",
+          "activityPattern": [],
+          "activities": 148
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Погода: Объясни прогноз погоды",
+          "activityPattern": [],
+          "activities": 149
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Погода: Поделись прогнозом погоды",
+          "activityPattern": [],
+          "activities": 150
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Соревнование: Спроси о ходе игры",
+          "activityPattern": [],
+          "activities": 151
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Соревнование: Обсуди исход игр",
+          "activityPattern": [],
+          "activities": 152
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Соревнование: Предскажи результат",
+          "activityPattern": [],
+          "activities": 153
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Соревнование: Опиши победителя",
+          "activityPattern": [],
+          "activities": 154
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Соревнование: Расскажи о медалях",
+          "activityPattern": [],
+          "activities": 155
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Чувства: Опиши свои чувства",
+          "activityPattern": [],
+          "activities": 156
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Чувства: Объясни свою реакцию",
+          "activityPattern": [],
+          "activities": 157
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Чувства: Вырази сомнения",
+          "activityPattern": [],
+          "activities": 158
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Чувства: Вырази сочувствие",
+          "activityPattern": [],
+          "activities": 159
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Чувства: Спроси о причинах поведения",
+          "activityPattern": [],
+          "activities": 160
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Тема: Расскажи о новой идее",
+          "activityPattern": [],
+          "activities": 161
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Тема: Объясни рост производства",
+          "activityPattern": [],
+          "activities": 162
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Тема: Спроси о карьере собеседника",
+          "activityPattern": [],
+          "activities": 163
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Тема: Обсуди сложные темы",
+          "activityPattern": [],
+          "activities": 164
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Тема: Вырази облегчение",
+          "activityPattern": [],
+          "activities": 165
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Детство: Вспомни свое детство",
+          "activityPattern": [],
+          "activities": 166
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Детство: Расскажи о своём детстве",
+          "activityPattern": [],
+          "activities": 167
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Детство: Опиши школьные годы",
+          "activityPattern": [],
+          "activities": 168
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Детство: Вспомни истории из детства",
+          "activityPattern": [],
+          "activities": 169
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Детство: Расскажи о дружбе из детства",
+          "activityPattern": [],
+          "activities": 170
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Ситуации: Опиши сложную ситуацию",
+          "activityPattern": [],
+          "activities": 171
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Ситуации: Объясни свою ошибку",
+          "activityPattern": [],
+          "activities": 172
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Ситуации: Расскажи о неудаче с едой",
+          "activityPattern": [],
+          "activities": 173
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Ситуации: Спроси о чужих трудностях",
+          "activityPattern": [],
+          "activities": 174
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Ситуации: Поделиться опытом",
+          "activityPattern": [],
+          "activities": 175
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Обучение: Расскажи о своём обучении",
+          "activityPattern": [],
+          "activities": 176
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Обучение: Расскажи о своих методах",
+          "activityPattern": [],
+          "activities": 177
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Обучение: Опиши свой учебный график",
+          "activityPattern": [],
+          "activities": 178
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Обучение: Расскажи, как ты учишься",
+          "activityPattern": [],
+          "activities": 179
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Обучение: Опиши свой прогресс",
+          "activityPattern": [
+            2025,
+            12,
+            15
+          ],
+          "activities": 2052
+        }
+      ]
+    }
+  ]
+}

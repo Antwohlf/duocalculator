@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Unit Label Fix - Visual Demo</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            max-width: 900px;
+            margin: 40px auto;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        h1 { color: #2c3e50; }
+        h2 { 
+            color: #34495e; 
+            margin-top: 30px;
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 10px;
+        }
+        .comparison {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+            margin: 20px 0;
+        }
+        .before, .after {
+            padding: 15px;
+            border-radius: 8px;
+        }
+        .before {
+            background: #fee;
+            border: 2px solid #e74c3c;
+        }
+        .after {
+            background: #efe;
+            border: 2px solid #27ae60;
+        }
+        .label {
+            font-weight: bold;
+            margin-bottom: 10px;
+            text-transform: uppercase;
+            font-size: 0.9em;
+        }
+        .before .label { color: #c0392b; }
+        .after .label { color: #229954; }
+        select {
+            width: 100%;
+            padding: 8px;
+            font-size: 14px;
+            border: 2px solid #ccc;
+            border-radius: 4px;
+            background: white;
+        }
+        .status {
+            padding: 10px;
+            margin: 20px 0;
+            border-radius: 6px;
+            font-weight: bold;
+        }
+        .status.pass {
+            background: #d4edda;
+            color: #155724;
+            border: 2px solid #c3e6cb;
+        }
+        .emoji { font-size: 1.2em; }
+        code {
+            background: #f4f4f4;
+            padding: 2px 6px;
+            border-radius: 3px;
+            font-family: 'Monaco', 'Courier New', monospace;
+        }
+    </style>
+</head>
+<body>
+    <h1><span class="emoji">🎉</span> Unit Label Fix - Visual Demo</h1>
+
+    <div class="status pass">
+        <span class="emoji">✅</span> Fix Successfully Applied and Verified
+    </div>
+
+    <h2>Scenario 1: Synthetic Course (Generic Titles)</h2>
+    <p>When course data doesn't have descriptive unit names, titles are auto-generated as <code>"Unit 1"</code>, <code>"Unit 2"</code>, etc.</p>
+    
+    <div class="comparison">
+        <div class="before">
+            <div class="label">❌ Before (Duplicated)</div>
+            <select size="5">
+                <option>Unit 1: Unit 1 (10 lessons)</option>
+                <option>Unit 2: Unit 2 (10 lessons)</option>
+                <option>Unit 3: Unit 3 (10 lessons)</option>
+                <option>Unit 4: Unit 4 (10 lessons)</option>
+                <option>Unit 5: Unit 5 (10 lessons)</option>
+            </select>
+        </div>
+        <div class="after">
+            <div class="label">✅ After (Fixed)</div>
+            <select size="5">
+                <option>Unit 1 (10 lessons)</option>
+                <option>Unit 2 (10 lessons)</option>
+                <option>Unit 3 (10 lessons)</option>
+                <option>Unit 4 (10 lessons)</option>
+                <option>Unit 5 (10 lessons)</option>
+            </select>
+        </div>
+    </div>
+
+    <h2>Scenario 2: Real Course (Descriptive Titles)</h2>
+    <p>When course has real data with descriptive unit names from duolingodata.com, they display with the title.</p>
+    
+    <div class="comparison">
+        <div class="before">
+            <div class="label">✅ Before (Already Good)</div>
+            <select size="5">
+                <option>Unit 1: Basic Greetings (8 lessons)</option>
+                <option>Unit 2: Food and Drink (12 lessons)</option>
+                <option>Unit 3: Travel Basics (15 lessons)</option>
+                <option>Unit 4: Numbers and Time (11 lessons)</option>
+                <option>Unit 5: Family and Friends (13 lessons)</option>
+            </select>
+        </div>
+        <div class="after">
+            <div class="label">✅ After (Still Good)</div>
+            <select size="5">
+                <option>Unit 1: Basic Greetings (8 lessons)</option>
+                <option>Unit 2: Food and Drink (12 lessons)</option>
+                <option>Unit 3: Travel Basics (15 lessons)</option>
+                <option>Unit 4: Numbers and Time (11 lessons)</option>
+                <option>Unit 5: Family and Friends (13 lessons)</option>
+            </select>
+        </div>
+    </div>
+
+    <h2>Scenario 3: Mixed (Some Generic, Some Descriptive)</h2>
+    <p>Sometimes courses have a mix - the fix handles both intelligently.</p>
+    
+    <div class="comparison">
+        <div class="before">
+            <div class="label">⚠️ Before (Mixed Quality)</div>
+            <select size="5">
+                <option>Unit 1: Unit 1 (10 lessons)</option>
+                <option>Unit 2: Colors and Numbers (10 lessons)</option>
+                <option>Unit 3: unit 3 (10 lessons)</option>
+                <option>Unit 4: Daily Routines (12 lessons)</option>
+                <option>Unit 5: Unit 5 (10 lessons)</option>
+            </select>
+        </div>
+        <div class="after">
+            <div class="label">✅ After (All Clean)</div>
+            <select size="5">
+                <option>Unit 1 (10 lessons)</option>
+                <option>Unit 2: Colors and Numbers (10 lessons)</option>
+                <option>Unit 3 (10 lessons)</option>
+                <option>Unit 4: Daily Routines (12 lessons)</option>
+                <option>Unit 5 (10 lessons)</option>
+            </select>
+        </div>
+    </div>
+
+    <h2>Technical Details</h2>
+    <p><strong>Detection Logic:</strong> Uses regex <code>/^Unit\s+\d+$/i</code> to identify generic titles</p>
+    <p><strong>Case Insensitive:</strong> Handles "Unit 1", "unit 1", "UNIT 1" consistently</p>
+    <p><strong>Backward Compatible:</strong> Real course data with descriptive names unchanged</p>
+    <p><strong>File Modified:</strong> <code>app.js</code> → <code>populateUnits()</code> function</p>
+
+    <div style="margin-top: 40px; padding: 20px; background: #f8f9fa; border-left: 4px solid #3498db; border-radius: 4px;">
+        <strong>Test at:</strong> <a href="http://localhost:3000">http://localhost:3000</a><br>
+        <strong>View Fix Summary:</strong> <code>FIX-SUMMARY-UNIT-LABELS.md</code><br>
+        <strong>Run Verification:</strong> <code>node verify-fix.js</code>
+    </div>
+</body>
+</html>

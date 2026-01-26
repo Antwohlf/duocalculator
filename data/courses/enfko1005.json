@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "key": "enfko1005",
+    "courseTitle": "Korean → English",
+    "scrapedAt": "2026-01-26T02:42:01.712Z",
+    "sourceHash": "sha256:9fcf7b9d668d01d4",
+    "fromLang": "Korean",
+    "toLang": "English",
+    "fromCode": "ko",
+    "toCode": "en",
+    "level": null,
+    "levelShort": null,
+    "detailHref": "https://duolingodata.com/dat/enfko1005.html",
+    "detailHrefHash": "sha256:5e5efe9793f7a0e7",
+    "scrapeWarnings": [
+      "No sections parsed, using meta.unitsCount",
+      "No activities parsed, using meta.lessonsCount"
+    ],
+    "schemaVersion": "1.0.0"
+  },
+  "totals": {
+    "sections": 0,
+    "activities": 8239,
+    "units": 1005
+  },
+  "sections": []
+}

@@ -1,0 +1,894 @@
+{
+  "meta": {
+    "key": "rufes70v2",
+    "courseTitle": "Spanish → Russian",
+    "scrapedAt": "2026-01-26T02:42:01.712Z",
+    "sourceHash": "sha256:f7c7f29b180e70cc",
+    "fromLang": "Spanish",
+    "toLang": "Russian",
+    "fromCode": "es",
+    "toCode": "ru",
+    "level": "CEFR MCER INTRO",
+    "levelShort": "MCER INTRO",
+    "detailHref": "https://duolingodata.com/dat/rufes70v2.html",
+    "detailHrefHash": "sha256:5e0810d4a3430f4d",
+    "scrapeWarnings": [],
+    "schemaVersion": "1.0.0"
+  },
+  "totals": {
+    "sections": 3,
+    "activities": 2906,
+    "units": 70
+  },
+  "sections": [
+    {
+      "sectionIndex": 1,
+      "unitCount": 9,
+      "title": "CEFR Intro:",
+      "rawTitle": "CEFR Intro:",
+      "cefr": "INTRO:",
+      "units": [
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Reconoce palabras básicas",
+          "activityPattern": [
+            1,
+            1
+          ],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Usa frases útiles",
+          "activityPattern": [
+            1,
+            1
+          ],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Usa expresiones de cortesía",
+          "activityPattern": [
+            1,
+            1
+          ],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Indica pertenencia",
+          "activityPattern": [
+            2,
+            2
+          ],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Saluda y preséntate",
+          "activityPattern": [
+            2,
+            2
+          ],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Usa los plurales",
+          "activityPattern": [
+            5,
+            5,
+            2,
+            2,
+            1
+          ],
+          "activities": 15
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Indica la posición de objetos",
+          "activityPattern": [
+            5,
+            5,
+            2,
+            2,
+            1
+          ],
+          "activities": 15
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Describe animales",
+          "activityPattern": [
+            1,
+            1
+          ],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Usa el caso genitivo",
+          "activityPattern": [
+            1,
+            1
+          ],
+          "activities": 2
+        }
+      ]
+    },
+    {
+      "sectionIndex": 2,
+      "unitCount": 30,
+      "title": "MCER A1:",
+      "rawTitle": "MCER A1:",
+      "cefr": "A1",
+      "units": [
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Usa adjetivos posesivos",
+          "activityPattern": [
+            5,
+            5,
+            2,
+            2,
+            1
+          ],
+          "activities": 15
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Habla de cantidades",
+          "activityPattern": [
+            2,
+            2,
+            3,
+            1,
+            1
+          ],
+          "activities": 9
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Usa el objeto directo",
+          "activityPattern": [
+            5,
+            5,
+            3,
+            2,
+            1
+          ],
+          "activities": 16
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Usa el tiempo presente",
+          "activityPattern": [
+            1,
+            1
+          ],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Usa los infinitivos",
+          "activityPattern": [
+            4,
+            4,
+            3,
+            2,
+            1
+          ],
+          "activities": 14
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Sigue una receta",
+          "activityPattern": [
+            5,
+            5,
+            3,
+            2,
+            1
+          ],
+          "activities": 16
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Describe personas",
+          "activityPattern": [
+            1,
+            1
+          ],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Usa conjunciones",
+          "activityPattern": [
+            2,
+            2,
+            3,
+            1,
+            1
+          ],
+          "activities": 9
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Describe lugares",
+          "activityPattern": [
+            3,
+            3,
+            3,
+            1,
+            1
+          ],
+          "activities": 11
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Haz preguntas",
+          "activityPattern": [
+            4,
+            4,
+            3,
+            2,
+            1
+          ],
+          "activities": 14
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Habla de profesiones",
+          "activityPattern": [
+            1,
+            1
+          ],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Pide y da indicaciones",
+          "activityPattern": [
+            7,
+            7,
+            3,
+            3,
+            1
+          ],
+          "activities": 21
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Habla de viajes",
+          "activityPattern": [
+            5,
+            5,
+            3,
+            2,
+            1
+          ],
+          "activities": 16
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Usa el tiempo presente",
+          "activityPattern": [
+            2,
+            2
+          ],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Usa números del 1 al 20",
+          "activityPattern": [
+            9,
+            9,
+            3,
+            4,
+            1
+          ],
+          "activities": 26
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Describe a tu familia",
+          "activityPattern": [
+            5,
+            5,
+            3,
+            2,
+            1
+          ],
+          "activities": 16
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Describe relaciones",
+          "activityPattern": [
+            2,
+            2
+          ],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Describe el clima",
+          "activityPattern": [
+            6,
+            6,
+            3,
+            3,
+            1
+          ],
+          "activities": 19
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Habla de deportes",
+          "activityPattern": [
+            4,
+            4,
+            3,
+            2,
+            1
+          ],
+          "activities": 14
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Haz descripciones",
+          "activityPattern": [
+            2,
+            2
+          ],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Habla del pasado",
+          "activityPattern": [
+            7,
+            7,
+            3,
+            3,
+            1
+          ],
+          "activities": 21
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Realiza compras",
+          "activityPattern": [
+            6,
+            6,
+            3,
+            3,
+            1
+          ],
+          "activities": 19
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Usa el caso dativo",
+          "activityPattern": [
+            8,
+            8,
+            3,
+            4,
+            1
+          ],
+          "activities": 24
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Mantén una charla",
+          "activityPattern": [
+            3,
+            3,
+            3,
+            1,
+            1
+          ],
+          "activities": 11
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Cuenta qué has hecho",
+          "activityPattern": [
+            7,
+            7,
+            3,
+            3,
+            1
+          ],
+          "activities": 21
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Usa el caso instrumental",
+          "activityPattern": [
+            8,
+            8,
+            3,
+            4,
+            1
+          ],
+          "activities": 24
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Describe síntomas",
+          "activityPattern": [
+            6,
+            6,
+            3,
+            3,
+            1
+          ],
+          "activities": 19
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Haz descripciones",
+          "activityPattern": [
+            2,
+            2
+          ],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Describe objetos",
+          "activityPattern": [
+            3,
+            3
+          ],
+          "activities": 6
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Expresa estados de ánimo",
+          "activityPattern": [
+            6,
+            6,
+            3,
+            3,
+            1
+          ],
+          "activities": 19
+        }
+      ]
+    },
+    {
+      "sectionIndex": 3,
+      "unitCount": 31,
+      "title": "MCER A1:",
+      "rawTitle": "MCER A1:",
+      "cefr": "A1",
+      "units": [
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Habla de tus estudios",
+          "activityPattern": [
+            10,
+            10,
+            3,
+            5,
+            1
+          ],
+          "activities": 29
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Habla de viajes",
+          "activityPattern": [
+            6,
+            6,
+            3,
+            3,
+            1
+          ],
+          "activities": 19
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Describe tu casa",
+          "activityPattern": [
+            7,
+            7,
+            3,
+            3,
+            1
+          ],
+          "activities": 21
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Usa verbos pronominales",
+          "activityPattern": [
+            6,
+            6,
+            3,
+            3,
+            1
+          ],
+          "activities": 19
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Habla de la vida diaria",
+          "activityPattern": [
+            5,
+            5,
+            3,
+            2,
+            1
+          ],
+          "activities": 16
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Usa el imperativo",
+          "activityPattern": [
+            3,
+            3,
+            3,
+            1,
+            1
+          ],
+          "activities": 11
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Habla de transporte",
+          "activityPattern": [
+            7,
+            7,
+            3,
+            3,
+            1
+          ],
+          "activities": 21
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Describe una ciudad",
+          "activityPattern": [
+            6,
+            6,
+            3,
+            3,
+            1
+          ],
+          "activities": 19
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Da instrucciones",
+          "activityPattern": [
+            2,
+            2
+          ],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Usa pronombres indefinidos",
+          "activityPattern": [
+            4,
+            4,
+            3,
+            2,
+            1
+          ],
+          "activities": 14
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Habla de tecnología",
+          "activityPattern": [
+            8,
+            8,
+            3,
+            4,
+            1
+          ],
+          "activities": 24
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Habla del futuro",
+          "activityPattern": [
+            5,
+            5,
+            3,
+            2,
+            1
+          ],
+          "activities": 16
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Habla del trabajo",
+          "activityPattern": [
+            6,
+            6,
+            3,
+            3,
+            1
+          ],
+          "activities": 19
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Indica la posición de objetos",
+          "activityPattern": [
+            4,
+            4,
+            3,
+            2,
+            1
+          ],
+          "activities": 14
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Expresa preferencias",
+          "activityPattern": [
+            2,
+            2
+          ],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Elabora un argumento",
+          "activityPattern": [
+            2,
+            2
+          ],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Haz planes con amigos",
+          "activityPattern": [
+            4,
+            4,
+            3,
+            2,
+            1
+          ],
+          "activities": 14
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Usa el tiempo futuro",
+          "activityPattern": [
+            4,
+            4,
+            3,
+            2,
+            1
+          ],
+          "activities": 14
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Describe medios de transporte",
+          "activityPattern": [
+            2,
+            2
+          ],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Habla de arte",
+          "activityPattern": [
+            6,
+            6,
+            3,
+            3,
+            1
+          ],
+          "activities": 19
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Habla de pasatiempos",
+          "activityPattern": [
+            3,
+            3,
+            3,
+            1,
+            1
+          ],
+          "activities": 11
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Indica la fecha",
+          "activityPattern": [
+            2,
+            2
+          ],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Realiza descripciones",
+          "activityPattern": [
+            4,
+            4
+          ],
+          "activities": 8
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Habla de planes",
+          "activityPattern": [
+            3,
+            3,
+            3,
+            1,
+            1
+          ],
+          "activities": 11
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Usa preposiciones",
+          "activityPattern": [
+            2,
+            2
+          ],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Indica semejanzas",
+          "activityPattern": [
+            3,
+            3,
+            3,
+            1,
+            1
+          ],
+          "activities": 11
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Describe utensilios",
+          "activityPattern": [
+            4,
+            4,
+            3,
+            2,
+            1
+          ],
+          "activities": 14
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Usa unidades de medida",
+          "activityPattern": [
+            4,
+            4,
+            3,
+            2,
+            1
+          ],
+          "activities": 14
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Habla de negocios",
+          "activityPattern": [
+            5,
+            5,
+            3,
+            2,
+            1
+          ],
+          "activities": 16
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Usa prefijos",
+          "activityPattern": [
+            5,
+            5,
+            3,
+            2,
+            1
+          ],
+          "activities": 16
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Narra historias",
+          "activityPattern": [
+            2025,
+            7,
+            10
+          ],
+          "activities": 2042
+        }
+      ]
+    }
+  ]
+}

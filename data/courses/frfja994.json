@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "key": "frfja994",
+    "courseTitle": "Japanese → French",
+    "scrapedAt": "2026-01-26T02:42:01.712Z",
+    "sourceHash": "sha256:9d8d364360ce3dee",
+    "fromLang": "Japanese",
+    "toLang": "French",
+    "fromCode": "ja",
+    "toCode": "fr",
+    "level": null,
+    "levelShort": null,
+    "detailHref": "https://duolingodata.com/dat/frfja994.html",
+    "detailHrefHash": "sha256:60b35d85afe9377b",
+    "scrapeWarnings": [
+      "No sections parsed, using meta.unitsCount",
+      "No activities parsed, using meta.lessonsCount"
+    ],
+    "schemaVersion": "1.0.0"
+  },
+  "totals": {
+    "sections": 0,
+    "activities": 6440,
+    "units": 994
+  },
+  "sections": []
+}

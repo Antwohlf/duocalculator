@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "key": "enfte1009",
+    "courseTitle": "Telugu → English",
+    "scrapedAt": "2026-01-26T02:42:01.712Z",
+    "sourceHash": "sha256:2ae3a28792d9269f",
+    "fromLang": "Telugu",
+    "toLang": "English",
+    "fromCode": "te",
+    "toCode": "en",
+    "level": null,
+    "levelShort": null,
+    "detailHref": "https://duolingodata.com/dat/enfte1009.html",
+    "detailHrefHash": "sha256:4f70b9405cd6317d",
+    "scrapeWarnings": [
+      "No sections parsed, using meta.unitsCount",
+      "No activities parsed, using meta.lessonsCount"
+    ],
+    "schemaVersion": "1.0.0"
+  },
+  "totals": {
+    "sections": 0,
+    "activities": 7982,
+    "units": 1009
+  },
+  "sections": []
+}

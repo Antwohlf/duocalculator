@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "key": "itfko130",
+    "courseTitle": "Korean → Italian",
+    "scrapedAt": "2026-01-26T02:42:01.712Z",
+    "sourceHash": "sha256:642912b499d9f312",
+    "fromLang": "Korean",
+    "toLang": "Italian",
+    "fromCode": "ko",
+    "toCode": "it",
+    "level": null,
+    "levelShort": null,
+    "detailHref": "https://duolingodata.com/dat/itfko130.html",
+    "detailHrefHash": "sha256:a317b04bb5ccf10f",
+    "scrapeWarnings": [
+      "No sections parsed, using meta.unitsCount",
+      "No activities parsed, using meta.lessonsCount"
+    ],
+    "schemaVersion": "1.0.0"
+  },
+  "totals": {
+    "sections": 0,
+    "activities": 2735,
+    "units": 130
+  },
+  "sections": []
+}

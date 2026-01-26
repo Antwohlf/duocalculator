@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "key": "esfte131",
+    "courseTitle": "Telugu → Spanish",
+    "scrapedAt": "2026-01-26T02:42:01.712Z",
+    "sourceHash": "sha256:d93ee384dcf368dd",
+    "fromLang": "Telugu",
+    "toLang": "Spanish",
+    "fromCode": "te",
+    "toCode": "es",
+    "level": null,
+    "levelShort": null,
+    "detailHref": "https://duolingodata.com/dat/esfte131.html",
+    "detailHrefHash": "sha256:0b0dedb13928e817",
+    "scrapeWarnings": [
+      "No sections parsed, using meta.unitsCount",
+      "No activities parsed, using meta.lessonsCount"
+    ],
+    "schemaVersion": "1.0.0"
+  },
+  "totals": {
+    "sections": 0,
+    "activities": 2898,
+    "units": 131
+  },
+  "sections": []
+}

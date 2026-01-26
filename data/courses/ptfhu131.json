@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "key": "ptfhu131",
+    "courseTitle": "Hungarian → Portuguese",
+    "scrapedAt": "2026-01-26T02:42:01.712Z",
+    "sourceHash": "sha256:b8ea3f8747e859ab",
+    "fromLang": "Hungarian",
+    "toLang": "Portuguese",
+    "fromCode": "hu",
+    "toCode": "pt",
+    "level": null,
+    "levelShort": null,
+    "detailHref": "https://duolingodata.com/dat/ptfhu131.html",
+    "detailHrefHash": "sha256:136da97fd7f8e48b",
+    "scrapeWarnings": [
+      "No sections parsed, using meta.unitsCount",
+      "No activities parsed, using meta.lessonsCount"
+    ],
+    "schemaVersion": "1.0.0"
+  },
+  "totals": {
+    "sections": 0,
+    "activities": 2743,
+    "units": 131
+  },
+  "sections": []
+}

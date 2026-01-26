@@ -43,23 +43,6 @@
               How much per day for my goal?
             </button>
           </nav>
-          <button type="button" class="secondary-button button-sm bug-button" id="bug-report-trigger">
-            <span class="bug-icon" aria-hidden="true">
-              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                <path d="M8 16a4 4 0 0 0 8 0V9a4 4 0 0 0-8 0z" />
-                <path d="M12 2v2" />
-                <path d="m16 3 .88.88" />
-                <path d="M21 11h-2" />
-                <path d="M3 11h2" />
-                <path d="M8 3 7.12 3.88" />
-                <path d="m4 18 2-2" />
-                <path d="m20 18-2-2" />
-                <path d="M4 14h3" />
-                <path d="M17 14h3" />
-              </svg>
-            </span>
-            <span>Report bug</span>
-          </button>
         </div>
       </header>
       <main class="layout">
@@ -123,11 +106,12 @@
                 id="minutes-per-activity"
                 name="minutesPerActivity"
                 type="number"
-                min="1"
-                max="20"
-                step="0.1"
+                min="0.5"
+                max="30"
+                step="0.5"
                 value="3.5"
                 required
+                aria-describedby="minutes-help"
               />
               <div class="tooltip" role="tooltip" id="minutes-help">
                 Community reports average ~3–4 minutes per lesson. Adjust to match your pace.
@@ -148,7 +132,7 @@
                 name="minutesPerDay"
                 type="number"
                 min="1"
-                max="600"
+                max="1440"
                 step="1"
                 value="30"
                 required
@@ -222,6 +206,11 @@
 
           <div class="course-meta" id="course-meta"></div>
 
+          <div class="data-verified-badge" id="data-verified-badge">
+            <span class="badge-icon">✓</span>
+            <span class="badge-text">Data verified: <time id="last-updated-time">Jan 25, 2026</time></span>
+          </div>
+
           <section class="debug-panel" id="debug-panel" hidden>
             <h3>Debug data</h3>
             <pre id="debug-output"></pre>
@@ -237,6 +226,23 @@
               (updates vary by course). Times are estimates; adjust minutes per lesson to match your
           pace.
         </p>
+        <button type="button" class="secondary-button button-sm bug-button" id="bug-report-trigger">
+          <span class="bug-icon" aria-hidden="true">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M8 16a4 4 0 0 0 8 0V9a4 4 0 0 0-8 0z" />
+              <path d="M12 2v2" />
+              <path d="m16 3 .88.88" />
+              <path d="M21 11h-2" />
+              <path d="M3 11h2" />
+              <path d="M8 3 7.12 3.88" />
+              <path d="m4 18 2-2" />
+              <path d="m20 18-2-2" />
+              <path d="M4 14h3" />
+              <path d="M17 14h3" />
+            </svg>
+          </span>
+          <span>Report bug</span>
+        </button>
       </footer>
       <div class="bug-modal-backdrop" id="bug-modal-backdrop" hidden>
         <div

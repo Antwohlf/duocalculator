@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "key": "ptfte131",
+    "courseTitle": "Telugu → Portuguese",
+    "scrapedAt": "2026-01-26T02:42:01.712Z",
+    "sourceHash": "sha256:f74b7956c53420bd",
+    "fromLang": "Telugu",
+    "toLang": "Portuguese",
+    "fromCode": "te",
+    "toCode": "pt",
+    "level": null,
+    "levelShort": null,
+    "detailHref": "https://duolingodata.com/dat/ptfte131.html",
+    "detailHrefHash": "sha256:96670c21af23bd25",
+    "scrapeWarnings": [
+      "No sections parsed, using meta.unitsCount",
+      "No activities parsed, using meta.lessonsCount"
+    ],
+    "schemaVersion": "1.0.0"
+  },
+  "totals": {
+    "sections": 0,
+    "activities": 2747,
+    "units": 131
+  },
+  "sections": []
+}

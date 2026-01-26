@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "scrapedAt": "2026-01-25T21:38:15.075Z",
+    "totalCourses": 2,
+    "source": "https://duolingodata.com/",
+    "schemaVersion": "1.0.0"
+  },
+  "courses": [
+    {
+      "key": "https://duolingodata.com/esfen.html",
+      "title": "English → Spanish",
+      "fromLang": "English",
+      "toLang": "Spanish",
+      "fromCode": "en",
+      "toCode": "es",
+      "level": "B1",
+      "levelShort": "B1",
+      "unitsCount": 5,
+      "lessonsCount": 30,
+      "updated": "2024-01-01",
+      "detailHref": "https://duolingodata.com/esfen.html",
+      "hasDetail": true,
+      "courseId": "https://duolingodata.com/esfen.html",
+      "lastUpdated": "2026-01-25T21:38:15.075Z",
+      "detailKey": "esfen",
+      "detailAvailable": true
+    },
+    {
+      "key": "fallback:french::german::A2",
+      "title": "French → German",
+      "fromLang": "French",
+      "toLang": "German",
+      "fromCode": null,
+      "toCode": null,
+      "level": "A2",
+      "levelShort": "A2",
+      "unitsCount": 4,
+      "lessonsCount": 20,
+      "updated": "2024-02-02",
+      "detailHref": null,
+      "hasDetail": false,
+      "courseId": "fallback:french::german::A2",
+      "lastUpdated": "2026-01-25T21:38:15.075Z",
+      "detailKey": null,
+      "detailAvailable": false
+    }
+  ]
+}

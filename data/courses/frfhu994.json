@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "key": "frfhu994",
+    "courseTitle": "Hungarian → French",
+    "scrapedAt": "2026-01-26T02:42:01.712Z",
+    "sourceHash": "sha256:f2ff225398664d7b",
+    "fromLang": "Hungarian",
+    "toLang": "French",
+    "fromCode": "hu",
+    "toCode": "fr",
+    "level": null,
+    "levelShort": null,
+    "detailHref": "https://duolingodata.com/dat/frfhu994.html",
+    "detailHrefHash": "sha256:bf1abdd94d543c3b",
+    "scrapeWarnings": [
+      "No sections parsed, using meta.unitsCount",
+      "No activities parsed, using meta.lessonsCount"
+    ],
+    "schemaVersion": "1.0.0"
+  },
+  "totals": {
+    "sections": 0,
+    "activities": 6386,
+    "units": 994
+  },
+  "sections": []
+}

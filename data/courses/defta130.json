@@ -1,0 +1,975 @@
+{
+  "meta": {
+    "key": "defta130",
+    "courseTitle": "Tamil → German",
+    "scrapedAt": "2026-01-26T02:42:01.712Z",
+    "sourceHash": "sha256:36d67c5fc394f56b",
+    "fromLang": "Tamil",
+    "toLang": "German",
+    "fromCode": "ta",
+    "toCode": "de",
+    "level": "CEFR INTRO",
+    "levelShort": "INTRO",
+    "detailHref": "https://duolingodata.com/dat/defta130.html",
+    "detailHrefHash": "sha256:8722b80c5702045b",
+    "scrapeWarnings": [],
+    "schemaVersion": "1.0.0"
+  },
+  "totals": {
+    "sections": 4,
+    "activities": 4797,
+    "units": 130
+  },
+  "sections": [
+    {
+      "sectionIndex": 1,
+      "unitCount": 10,
+      "title": "CEFR Intro:",
+      "rawTitle": "CEFR Intro:",
+      "cefr": "INTRO:",
+      "units": [
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "கஃபேயில் ஆர்டர் செய்யுங்கள்",
+          "activityPattern": [],
+          "activities": 1
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "சுய அறிமுகம் மற்றும் பிறருடன் உரையாடுதல்",
+          "activityPattern": [],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "உங்கள் குடும்பத்தாரை அறிமுகப்படுத்தவும்",
+          "activityPattern": [],
+          "activities": 3
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "உணவைக் குறித்து பேசுங்கள்",
+          "activityPattern": [],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "வழி கேளுங்கள்",
+          "activityPattern": [],
+          "activities": 5
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "பணிகளைப் பற்றிப் பேசுங்கள்",
+          "activityPattern": [],
+          "activities": 6
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "நிகழ்கால சொற்களை பயன்படுத்துங்கள்",
+          "activityPattern": [],
+          "activities": 7
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "ஒரு பார்ட்டியைப் பற்றி பேசுங்கள்",
+          "activityPattern": [],
+          "activities": 8
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "உணவின் விலைகளைப் பற்றி பேசுங்கள்",
+          "activityPattern": [],
+          "activities": 9
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "உணவும் பானமும் பற்றி கருத்து சொல்லுங்கள்",
+          "activityPattern": [],
+          "activities": 10
+        }
+      ]
+    },
+    {
+      "sectionIndex": 2,
+      "unitCount": 30,
+      "title": ":",
+      "rawTitle": "CEFR A1:",
+      "cefr": "A1",
+      "units": [
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "கேள்விகள் கேளுங்கள்",
+          "activityPattern": [],
+          "activities": 1
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "குடும்ப விவரங்களை பேசுங்கள்",
+          "activityPattern": [],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "உங்கள் வீட்டை விவரித்துச் சொல்லுங்கள்",
+          "activityPattern": [],
+          "activities": 3
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "உடல்நலப் பிரச்சினைகளைப் பற்றி பேசுங்கள்",
+          "activityPattern": [],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "விமான நிலையத்தில் வழி தேடிச் செல்லுங்கள்",
+          "activityPattern": [],
+          "activities": 5
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "வேண்டுகோளுக்கு \"möchten\" பயன்படுத்தவும்",
+          "activityPattern": [],
+          "activities": 6
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "பொருட்களை வாங்கும் போது மதிப்பிடுங்கள்",
+          "activityPattern": [],
+          "activities": 7
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "பள்ளி வாழ்க்கையை வழிநடத்துங்கள்",
+          "activityPattern": [],
+          "activities": 8
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "வேலைகளில் உதவுங்கள்",
+          "activityPattern": [],
+          "activities": 9
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "வார இறுதி செயல்களை திட்டமிடுங்கள்",
+          "activityPattern": [],
+          "activities": 10
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "விருப்பங்களுக்கு வினைகள் பயன்படுத்தவும்",
+          "activityPattern": [],
+          "activities": 11
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "பொழுதுபோக்குகளைப் பற்றி பேசுங்கள்",
+          "activityPattern": [],
+          "activities": 12
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "நடன விருந்தை அனுபவித்து மகிழுங்கள்",
+          "activityPattern": [],
+          "activities": 13
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "உணர்வுகளை பற்றி கேளுங்கள்",
+          "activityPattern": [],
+          "activities": 14
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "ரயில் நிலையத்தில் வழி தேடிச் செல்லுங்கள்",
+          "activityPattern": [],
+          "activities": 15
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "ஹோட்டல் அறை பதிவு செய்யுங்கள்",
+          "activityPattern": [],
+          "activities": 16
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "நகரத்தை சுற்றிப் பார்த்து ஆராயவும்",
+          "activityPattern": [],
+          "activities": 17
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "வினை எச்சங்களுடன் \"können\" பயன்படுத்துக",
+          "activityPattern": [],
+          "activities": 18
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "வினை எச்சங்களுடன் \"wollen\" பயன்படுத்துக",
+          "activityPattern": [],
+          "activities": 19
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "வினை எச்சங்களுடன் \"müssen\" பயன்படுத்துக",
+          "activityPattern": [],
+          "activities": 20
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "பார்பிக்யூக்கு வாங்கச் செல்லுங்கள்",
+          "activityPattern": [],
+          "activities": 21
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "பல்கலைக்கழக வாழ்க்கையை விவாதிக்கவும்",
+          "activityPattern": [],
+          "activities": 22
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "சாலைப் பயணத்தில் வழி கேட்டுச் செல்லவும்",
+          "activityPattern": [],
+          "activities": 23
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "தினசரி செயல்களை நிர்வகிக்கவும்",
+          "activityPattern": [],
+          "activities": 24
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "சொந்தப் பெயர்ச்சொற்களை பயன்படுத்தவும்",
+          "activityPattern": [],
+          "activities": 25
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "உங்கள் அண்டைவர்களைப் பற்றி பேசுங்கள்",
+          "activityPattern": [],
+          "activities": 26
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "நகரத்தில் வழி கண்டுபிடித்து பயணிக்கவும்",
+          "activityPattern": [],
+          "activities": 27
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "வானிலை பற்றி விவாதியுங்கள்",
+          "activityPattern": [],
+          "activities": 28
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "பரிசுகள் வாங்கச் செல்லுங்கள்",
+          "activityPattern": [],
+          "activities": 29
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "உங்கள் நகரத்தைப் பற்றி பேசுங்கள்",
+          "activityPattern": [],
+          "activities": 30
+        }
+      ]
+    },
+    {
+      "sectionIndex": 3,
+      "unitCount": 30,
+      "title": ":",
+      "rawTitle": "CEFR A1:",
+      "cefr": "A1",
+      "units": [
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "இயக்கத்திற்காக \"in\" ஐ பயன்படுத்தவும்",
+          "activityPattern": [],
+          "activities": 1
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "பிறந்தநாட்களை கொண்டாடுங்கள்",
+          "activityPattern": [],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "புத்தகங்கள் மற்றும் பல கடனுக்கு எடுங்கள்",
+          "activityPattern": [],
+          "activities": 3
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "பணியிடத்தில் பிறருடன் தொடர்புகொள்ளுதல்",
+          "activityPattern": [],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "கடிதங்கள் மற்றும் பார்சல்கள் அனுப்பவும்",
+          "activityPattern": [],
+          "activities": 5
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "வகுப்பில் பங்கேற்கவும்",
+          "activityPattern": [],
+          "activities": 6
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "\"ich\"க்கான உருபுப் பெயர் பயன்படுத்தவும்",
+          "activityPattern": [],
+          "activities": 7
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "ஒரு பேக்கிங் போட்டியில் பங்கேற்கவும்",
+          "activityPattern": [],
+          "activities": 8
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "உங்கள் உடன்பிறந்தவர்களைப் பற்றி பேசவும்",
+          "activityPattern": [],
+          "activities": 9
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "ஆரோக்கியத்திற்கான செயல்களை திட்டமிடவும்",
+          "activityPattern": [],
+          "activities": 10
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "ஒரு வேலை பணியை முடிக்கவும்",
+          "activityPattern": [],
+          "activities": 11
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "உங்கள் நாளை திட்டமிடுங்கள்",
+          "activityPattern": [],
+          "activities": 12
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "உங்கள் குழந்தைப் பருவத்தை பற்றி பேசவும்",
+          "activityPattern": [],
+          "activities": 13
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "விளையாட்டு இரவுகளைப் பற்றி பேசுங்கள்",
+          "activityPattern": [],
+          "activities": 14
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "பிரிவு-வினைச்சொற்கள் நிகழ்காலத்தில்",
+          "activityPattern": [],
+          "activities": 15
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "மருத்துவச் சந்திப்புகளை நிர்வகிக்கவும்",
+          "activityPattern": [],
+          "activities": 16
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "சிரமங்களை, உணர்வுகளை வெளிப்படுத்துக",
+          "activityPattern": [],
+          "activities": 17
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "சாக்குபோக்கு காரணம் கூறுங்கள்",
+          "activityPattern": [],
+          "activities": 18
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "பார்ட்டிக்கான உடை வாங்கச் செல்லுங்கள்",
+          "activityPattern": [],
+          "activities": 19
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "உங்கள் ஓய்வுநேரத்தைப் பற்றி பேசுங்கள்",
+          "activityPattern": [],
+          "activities": 20
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "ஒரு கடற்கரை பயணம் திட்டமிடுங்கள்",
+          "activityPattern": [],
+          "activities": 21
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "கடந்தகாலத்துக்கு முற்று பெற்ற நிகழ்காலம்",
+          "activityPattern": [],
+          "activities": 22
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "முறைசார் கட்டளைகளை பயன்படுத்துங்கள்",
+          "activityPattern": [],
+          "activities": 23
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "சுய-பராமரிப்பு பழகுங்கள்",
+          "activityPattern": [],
+          "activities": 24
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "ஆடை நன்கொடைகளைப் பற்றி விவாதியுங்கள்",
+          "activityPattern": [],
+          "activities": 25
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "மாணவர் வாழ்க்கையை வழிநடத்துங்கள்",
+          "activityPattern": [],
+          "activities": 26
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "உங்கள் வீட்டை விவரித்துச் சொல்லுங்கள்",
+          "activityPattern": [],
+          "activities": 27
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "தொலைந்த பொருட்களை கண்டுபிடியுங்கள்",
+          "activityPattern": [],
+          "activities": 28
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "குழப்பமான சூழ்நிலைகளை கையாளுங்கள்",
+          "activityPattern": [],
+          "activities": 29
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "வாக்கியங்களில் மறுப்பு பயன்படுத்தவும்",
+          "activityPattern": [],
+          "activities": 30
+        }
+      ]
+    },
+    {
+      "sectionIndex": 4,
+      "unitCount": 60,
+      "title": ":",
+      "rawTitle": "CEFR A2:",
+      "cefr": "A2",
+      "units": [
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "பயண அனுபவம் பற்றி பேசுக",
+          "activityPattern": [],
+          "activities": 1
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "வாழ்க்கை மாற்றங்களை விவரித்திடுக",
+          "activityPattern": [],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "நீச்சல்குளத்தில் செய்பவை பற்றி பேசு",
+          "activityPattern": [],
+          "activities": 3
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Ikea ஃபர்னிச்சர்களை விவரித்திடுக",
+          "activityPattern": [],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "ஆடைகளை ஜெர்மனில் விவரித்திடுக",
+          "activityPattern": [],
+          "activities": 5
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "ஒரு பாடல் குழுவில் சேர்க",
+          "activityPattern": [],
+          "activities": 6
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "\"புதிய ஊழியர்\" தகுதிகள் பற்றி பேசுக",
+          "activityPattern": [],
+          "activities": 7
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "கல்வி குறிக்கோள்களைப் பேசுக",
+          "activityPattern": [],
+          "activities": 8
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "டாக்டர் சந்திப்பைத் திட்டமிடுக",
+          "activityPattern": [],
+          "activities": 9
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "நண்பர்களுடன் திட்டங்களைத் தீட்டுக",
+          "activityPattern": [],
+          "activities": 10
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "வேலை, வீடு இருக்கும் இடங்கள் பற்றி பேசுக",
+          "activityPattern": [],
+          "activities": 11
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "பிறருக்குச் சொந்தமானவைப் பற்றி பேசுக",
+          "activityPattern": [],
+          "activities": 12
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "தியேட்டர் திட்டம், கருத்து பற்றி பேசுக",
+          "activityPattern": [],
+          "activities": 13
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "கணினி பிரச்சினைகள் பற்றி விளக்குக",
+          "activityPattern": [],
+          "activities": 14
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "வீடு வாடகைக்கு எடுப்பது பற்றி பேசுங்கள்",
+          "activityPattern": [],
+          "activities": 15
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "நண்பர்களுடன் திறமைகள் பற்றிப் பேசுக",
+          "activityPattern": [],
+          "activities": 16
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "காலை சுகாதாரப் பழக்கங்கள் பற்றி விவரி",
+          "activityPattern": [],
+          "activities": 17
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "குற்ற நிகழ்வை விவரித்திடுக",
+          "activityPattern": [],
+          "activities": 18
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "பாட்டி-தாத்தா கதைகளைப் பகிர்க",
+          "activityPattern": [],
+          "activities": 19
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "பயணத் திட்டத்தை அமைத்திடுக",
+          "activityPattern": [],
+          "activities": 20
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "நகரத்தின் முக்கிய இடங்களை விவரித்திடுக",
+          "activityPattern": [],
+          "activities": 21
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "வணிக பயணத்திற்கு பேக் செய்யுங்கள்",
+          "activityPattern": [],
+          "activities": 22
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "பலவகை உணவுக்குப் பாராட்டுதல்",
+          "activityPattern": [],
+          "activities": 23
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "சமீபத்தில் வாங்கியவற்றை விவரியுங்கள்",
+          "activityPattern": [],
+          "activities": 24
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "பயிற்சியில் உத்தரவைப் பின்பற்றுக",
+          "activityPattern": [],
+          "activities": 25
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "விருந்தில் அக்கம்பக்கத்தினரைக் கண்டறிக",
+          "activityPattern": [],
+          "activities": 26
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "அரசியல் கருத்துகளைப் பகிர்ந்து கொள்க",
+          "activityPattern": [],
+          "activities": 27
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "அலுவலக நண்பர்களை அறிமுகம் செய்க",
+          "activityPattern": [],
+          "activities": 28
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "மிருகங்களை விவரியுங்கள்",
+          "activityPattern": [],
+          "activities": 29
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "டேட்டிங் செயலியில் உரையாடுங்கள்",
+          "activityPattern": [],
+          "activities": 30
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "ஒக்டோபர்ஃபெஸ்ட்டில் கேள்விகள் கேட்டிடுக",
+          "activityPattern": [],
+          "activities": 31
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "வாராந்திரப் பழக்கங்கள் மற்றும் வானிலை",
+          "activityPattern": [],
+          "activities": 32
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "ஜெர்மனிக்கு குடிபெயர்ந்ததை விவரித்திடுக",
+          "activityPattern": [],
+          "activities": 33
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "திருமணப் பிரச்சனையை விவரியுங்கள்",
+          "activityPattern": [],
+          "activities": 34
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "வங்கி கணக்கைத் திறந்திடுக",
+          "activityPattern": [],
+          "activities": 35
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "மரியாதையுடன் ஆலோசனை கேளுங்கள்",
+          "activityPattern": [],
+          "activities": 36
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "பொதுப் போக்குவரத்து விதிகளைப் பேசுக",
+          "activityPattern": [],
+          "activities": 37
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "படிப்பிற்கான விண்ணப்பத்தை எழுதுக",
+          "activityPattern": [],
+          "activities": 38
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "வீடியோ அழைப்பில் உரையாடுக",
+          "activityPattern": [],
+          "activities": 39
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "மருத்துவமனையில் உத்தரவைப் பின்பற்றுக",
+          "activityPattern": [],
+          "activities": 40
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "முக்கிய உரையைப் பேசுக",
+          "activityPattern": [],
+          "activities": 41
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "ஒரே நாளில் நிகழ்ந்த வரலாற்று நிகழ்வுகள்",
+          "activityPattern": [],
+          "activities": 42
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "பட்டம் பெறும் நாளைக் கொண்டாடுங்கள்",
+          "activityPattern": [],
+          "activities": 43
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "கலைஞர்கள், படைப்புகள் பற்றி பேசுக",
+          "activityPattern": [],
+          "activities": 44
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "உணவுகள், மக்களை விவரித்திடுக",
+          "activityPattern": [],
+          "activities": 45
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "மருத்துவ சிகிச்சைகளை விவரித்திடுக",
+          "activityPattern": [],
+          "activities": 46
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "புத்தாண்டு தீர்மானங்களைப் பகிர்க",
+          "activityPattern": [],
+          "activities": 47
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "விழாவில் \"Spargel\" பற்றி பேசுக",
+          "activityPattern": [],
+          "activities": 48
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "பிரிக்க முடியாத வினைச்சொல் பேசுக",
+          "activityPattern": [],
+          "activities": 49
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "சமையல் தவறுகளைப் பேசுக",
+          "activityPattern": [],
+          "activities": 50
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "பொருட்களின் இடங்களை விவரித்திடுக",
+          "activityPattern": [],
+          "activities": 51
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "பிரிவுக்குப் பின் உணர்வை வெளிப்படுத்துக",
+          "activityPattern": [],
+          "activities": 52
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "தூங்கும் முன் செய்யக்கூடிய பழக்கங்கள்",
+          "activityPattern": [],
+          "activities": 53
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "உடைகள் மற்றும் பரிசுகளை வாங்குங்கள்",
+          "activityPattern": [],
+          "activities": 54
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "ஜெர்மனி இன் \"Kanzler\" ஆக இருத்தல்",
+          "activityPattern": [],
+          "activities": 55
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "ஜெர்மன் கற்றல் முன்னேற்றம் பற்றி பேசுக",
+          "activityPattern": [],
+          "activities": 56
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "அறிவியல் கருவிகள் பற்றிப் பேசுக",
+          "activityPattern": [],
+          "activities": 57
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "திகில் படத்தைப் பற்றிப் பேசுக",
+          "activityPattern": [],
+          "activities": 58
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "சுற்றுச்சூழலில் நடப்பவற்றைப் பேசுக",
+          "activityPattern": [],
+          "activities": 59
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "கார்னிவல் ஊர்வலத்துக்கு திட்டமிடுக",
+          "activityPattern": [
+            2025,
+            12,
+            5
+          ],
+          "activities": 2042
+        }
+      ]
+    }
+  ]
+}

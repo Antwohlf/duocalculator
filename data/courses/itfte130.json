@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "key": "itfte130",
+    "courseTitle": "Telugu → Italian",
+    "scrapedAt": "2026-01-26T02:42:01.712Z",
+    "sourceHash": "sha256:7903e838d3857869",
+    "fromLang": "Telugu",
+    "toLang": "Italian",
+    "fromCode": "te",
+    "toCode": "it",
+    "level": null,
+    "levelShort": null,
+    "detailHref": "https://duolingodata.com/dat/itfte130.html",
+    "detailHrefHash": "sha256:49856eeb986f3b7e",
+    "scrapeWarnings": [
+      "No sections parsed, using meta.unitsCount",
+      "No activities parsed, using meta.lessonsCount"
+    ],
+    "schemaVersion": "1.0.0"
+  },
+  "totals": {
+    "sections": 0,
+    "activities": 2698,
+    "units": 130
+  },
+  "sections": []
+}

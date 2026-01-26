@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "key": "enfhu1005",
+    "courseTitle": "Hungarian → English",
+    "scrapedAt": "2026-01-26T02:42:01.712Z",
+    "sourceHash": "sha256:82262fd10d5ea0c9",
+    "fromLang": "Hungarian",
+    "toLang": "English",
+    "fromCode": "hu",
+    "toCode": "en",
+    "level": null,
+    "levelShort": null,
+    "detailHref": "https://duolingodata.com/dat/enfhu1005.html",
+    "detailHrefHash": "sha256:42b2aed3ad7b9436",
+    "scrapeWarnings": [
+      "No sections parsed, using meta.unitsCount",
+      "No activities parsed, using meta.lessonsCount"
+    ],
+    "schemaVersion": "1.0.0"
+  },
+  "totals": {
+    "sections": 0,
+    "activities": 8272,
+    "units": 1005
+  },
+  "sections": []
+}

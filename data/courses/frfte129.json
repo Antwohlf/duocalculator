@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "key": "frfte129",
+    "courseTitle": "Telugu → French",
+    "scrapedAt": "2026-01-26T02:42:01.712Z",
+    "sourceHash": "sha256:b52947c6682e1022",
+    "fromLang": "Telugu",
+    "toLang": "French",
+    "fromCode": "te",
+    "toCode": "fr",
+    "level": null,
+    "levelShort": null,
+    "detailHref": "https://duolingodata.com/dat/frfte129.html",
+    "detailHrefHash": "sha256:c550c70b06ee6535",
+    "scrapeWarnings": [
+      "No sections parsed, using meta.unitsCount",
+      "No activities parsed, using meta.lessonsCount"
+    ],
+    "schemaVersion": "1.0.0"
+  },
+  "totals": {
+    "sections": 0,
+    "activities": 3100,
+    "units": 129
+  },
+  "sections": []
+}

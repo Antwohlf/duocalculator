@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "key": "defja130",
+    "courseTitle": "Japanese → German",
+    "scrapedAt": "2026-01-26T02:42:01.712Z",
+    "sourceHash": "sha256:9f201ff2f31bfde6",
+    "fromLang": "Japanese",
+    "toLang": "German",
+    "fromCode": "ja",
+    "toCode": "de",
+    "level": null,
+    "levelShort": null,
+    "detailHref": "https://duolingodata.com/dat/defja130.html",
+    "detailHrefHash": "sha256:a271bb5a11a9352e",
+    "scrapeWarnings": [
+      "No sections parsed, using meta.unitsCount",
+      "No activities parsed, using meta.lessonsCount"
+    ],
+    "schemaVersion": "1.0.0"
+  },
+  "totals": {
+    "sections": 0,
+    "activities": 2617,
+    "units": 130
+  },
+  "sections": []
+}

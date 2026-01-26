@@ -11,12 +11,28 @@
   --color-muted: rgba(75, 75, 75, 0.7);
   --color-border: rgba(75, 75, 75, 0.18);
   --color-warning: #89e219;
-  --shadow-soft: 0 16px 40px rgba(75, 75, 75, 0.18);
+  --shadow-soft: 0 4px 12px rgba(0, 0, 0, 0.08);
   --radius-large: 24px;
   --radius-medium: 16px;
   --radius-small: 12px;
   --transition: 200ms ease;
   font-size: 16px;
+}
+
+/* Ensure all interactive elements have visible focus states */
+:focus-visible {
+  outline: 3px solid var(--color-accent);
+  outline-offset: 2px;
+}
+
+/* More specific focus styles for form elements */
+select:focus-visible,
+input:focus-visible,
+textarea:focus-visible {
+  outline: 3px solid var(--color-accent);
+  outline-offset: 0;
+  border-color: var(--color-accent);
+  box-shadow: 0 0 0 4px rgba(88, 204, 2, 0.2);
 }
 
 *,
@@ -29,9 +45,7 @@ body {
   margin: 0;
   min-height: 100vh;
   font-family: "Nunito", "Baloo 2", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
-  background: radial-gradient(circle at 25% 25%, rgba(88, 204, 2, 0.25) 0%, rgba(88, 204, 2, 0) 42%),
-    radial-gradient(circle at 78% 12%, rgba(88, 204, 2, 0.18) 0%, rgba(88, 204, 2, 0) 48%),
-    linear-gradient(180deg, #e2e6ea 0%, #d6dce2 50%, #e9edf1 100%);
+  background: linear-gradient(135deg, rgba(245, 255, 230, 1) 0%, rgba(220, 235, 200, 0.6) 100%);
   color: var(--color-text);
   display: flex;
   align-items: stretch;
@@ -65,7 +79,7 @@ body {
   align-items: center;
   justify-content: space-between;
   gap: 24px;
-  border: 3px solid rgba(88, 204, 2, 0.55);
+  border: 1px solid rgba(88, 204, 2, 0.35);
   color: #ffffff;
 }
 
@@ -86,7 +100,7 @@ body {
 .brand-mascot {
   width: 64px;
   height: 64px;
-  filter: drop-shadow(0 6px 14px rgba(43, 43, 43, 0.25));
+  filter: drop-shadow(0 2px 6px rgba(0, 0, 0, 0.1));
 }
 
 .brand-text {
@@ -141,22 +155,26 @@ body {
 
 .layout {
   display: grid;
-  grid-template-columns: minmax(0, 420px) minmax(0, 1fr);
+  grid-template-columns: minmax(0, 1fr);
   gap: 24px;
   align-items: start;
+}
+
+@media (min-width: 768px) {
+  .layout {
+    grid-template-columns: minmax(320px, 420px) minmax(0, 1fr);
+  }
 }
 
 .card {
   background: var(--color-surface);
   border-radius: var(--radius-large);
-  box-shadow:
-    0 16px 40px rgba(88, 204, 2, 0.08),
-    0 18px 36px rgba(0, 0, 0, 0.25);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
   padding: 28px clamp(24px, 5vw, 44px);
   display: flex;
   flex-direction: column;
   gap: 24px;
-  border: 3px solid rgba(88, 204, 2, 0.5);
+  border: 1px solid rgba(88, 204, 2, 0.35);
 }
 
 .card-title {
@@ -204,7 +222,8 @@ form {
 }
 
 .swap-button {
-  border: 2px solid rgba(75, 75, 75, 0.2);
+  position: relative;
+  border: 1px solid rgba(75, 75, 75, 0.15);
   border-radius: 50%;
   background: rgba(255, 255, 255, 0.95);
   color: var(--color-grey);
@@ -217,7 +236,7 @@ form {
   justify-content: center;
   cursor: pointer;
   transition: transform var(--transition), box-shadow var(--transition), background var(--transition);
-  box-shadow: 0 4px 12px rgba(43, 43, 43, 0.15);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
 }
 
 .swap-button:hover:not(:disabled) {
@@ -226,8 +245,33 @@ form {
 }
 
 .swap-button:disabled {
-  opacity: 0.4;
+  opacity: 0.35;
   cursor: not-allowed;
+  background: rgba(200, 200, 200, 0.3);
+  border-color: rgba(75, 75, 75, 0.1);
+  color: rgba(75, 75, 75, 0.4);
+}
+
+.swap-button[disabled]::after {
+  content: "Select both languages to swap";
+  position: absolute;
+  bottom: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 4px 8px;
+  background: var(--color-grey);
+  color: white;
+  font-size: 0.75rem;
+  border-radius: 4px;
+  white-space: nowrap;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.2s;
+  margin-bottom: 4px;
+}
+
+.swap-button[disabled]:hover::after {
+  opacity: 1;
 }
 
 .swap-button:focus-visible {
@@ -248,7 +292,7 @@ input,
 select {
   font: inherit;
   border-radius: var(--radius-small);
-  border: 2px solid rgba(75, 75, 75, 0.18);
+  border: 1px solid rgba(75, 75, 75, 0.12);
   padding: 12px 14px;
   background: rgba(255, 255, 255, 0.85);
   transition: border-color var(--transition), box-shadow var(--transition);
@@ -270,7 +314,8 @@ input:focus,
 select:focus {
   border-color: var(--color-accent);
   box-shadow: 0 0 0 4px rgba(137, 226, 25, 0.25);
-  outline: none;
+  outline: 3px solid var(--color-accent);
+  outline-offset: 0;
 }
 
 .field-hint {
@@ -282,12 +327,27 @@ select:focus {
 .tooltip-trigger {
   border: none;
   background: transparent;
-  color: var(--color-accent);
+  color: var(--color-accent-dark);
   font-size: 0.85rem;
-  font-weight: 700;
+  font-weight: 600;
   cursor: pointer;
   line-height: 1;
   text-decoration: underline;
+  text-decoration-style: dotted;
+  text-underline-offset: 2px;
+  padding: 2px 4px;
+  border-radius: 4px;
+  transition: background var(--transition), color var(--transition);
+}
+
+.tooltip-trigger:hover {
+  background: rgba(88, 204, 2, 0.1);
+  color: var(--color-accent);
+}
+
+.tooltip-trigger:focus-visible {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 1px;
 }
 
 .tooltip {
@@ -295,10 +355,10 @@ select:focus {
   font-size: 0.8rem;
   background: var(--color-surface);
   border-radius: var(--radius-small);
-  border: 1px solid var(--color-border);
+  border: 1px solid rgba(88, 204, 2, 0.15);
   padding: 10px 12px;
   max-width: 300px;
-  box-shadow: 0 10px 26px rgba(75, 75, 75, 0.2);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
 }
 
 .tooltip[data-visible="true"] {
@@ -327,24 +387,31 @@ select:focus {
   align-items: center;
   gap: 8px;
   white-space: nowrap;
-  background: rgba(255, 255, 255, 0.14);
-  border: 2px solid rgba(255, 255, 255, 0.9);
-  color: #ffffff;
-  box-shadow: 0 8px 18px rgba(0, 0, 0, 0.15);
 }
 
 .bug-icon svg {
   display: block;
 }
 
-.bug-button:hover {
-  background: rgba(255, 255, 255, 0.2);
-  transform: translateY(-2px);
-  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.2);
+/* Footer bug button - solid button style for high contrast on light footer */
+/* Higher specificity to override .bug-button.secondary-button */
+.app-footer .bug-button.secondary-button {
+  background: rgba(88, 204, 2, 0.25) !important;
+  border: 2px solid rgba(59, 153, 1, 0.7) !important;
+  color: #000000 !important;
+  font-weight: 700;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
 }
 
-.bug-button:focus-visible {
-  outline: 3px solid rgba(255, 255, 255, 0.9);
+.app-footer .bug-button.secondary-button:hover {
+  background: rgba(88, 204, 2, 0.35) !important;
+  border-color: rgba(59, 153, 1, 0.85) !important;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.18);
+}
+
+.app-footer .bug-button.secondary-button:focus-visible {
+  outline: 3px solid rgba(88, 204, 2, 0.5);
   outline-offset: 3px;
 }
 
@@ -357,19 +424,19 @@ select:focus {
   padding: 12px 24px;
   cursor: pointer;
   transition: transform var(--transition), box-shadow var(--transition), background var(--transition);
-  box-shadow: 0 10px 18px rgba(88, 204, 2, 0.35);
+  box-shadow: 0 4px 12px rgba(88, 204, 2, 0.2);
 }
 
 .secondary-button {
-  border: 2px solid rgba(75, 75, 75, 0.25);
+  border: 1px solid rgba(75, 75, 75, 0.15);
   border-radius: 999px;
-  background: rgba(75, 75, 75, 0.12);
+  background: rgba(75, 75, 75, 0.08);
   color: var(--color-grey);
   font-weight: 700;
   padding: 12px 24px;
   cursor: pointer;
   transition: background var(--transition), transform var(--transition), box-shadow var(--transition);
-  box-shadow: 0 6px 14px rgba(43, 43, 43, 0.15);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.06);
 }
 
 .bug-button.secondary-button {
@@ -436,10 +503,10 @@ select:focus {
 
 .stat {
   background: rgba(255, 255, 255, 0.85);
-  border: 2px solid rgba(88, 204, 2, 0.25);
+  border: 1px solid rgba(88, 204, 2, 0.2);
   border-radius: var(--radius-medium);
   padding: 12px;
-  box-shadow: 0 8px 16px rgba(43, 43, 43, 0.12);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
   display: flex;
   flex-direction: column;
   gap: 4px;
@@ -493,10 +560,10 @@ select:focus {
 
 .progress-bar {
   height: 16px;
-  background: rgba(137, 226, 25, 0.2);
+  background: rgba(137, 226, 25, 0.15);
   border-radius: 999px;
   overflow: hidden;
-  border: 2px solid rgba(88, 204, 2, 0.3);
+  border: 1px solid rgba(88, 204, 2, 0.15);
 }
 
 .progress-bar-fill {
@@ -517,12 +584,75 @@ select:focus {
   color: var(--color-muted);
   display: flex;
   flex-direction: column;
-  gap: 6px;
+  gap: 8px;
 }
 
-.course-meta a {
-  color: inherit;
+.meta-stats {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+}
+
+.meta-item {
+  display: inline-flex;
+  gap: 4px;
+}
+
+.meta-label {
+  color: var(--color-muted);
+}
+
+.meta-value {
+  font-weight: 600;
+  color: var(--color-text);
+}
+
+.meta-separator {
+  color: var(--color-border);
+  margin: 0 4px;
+}
+
+.meta-updated {
+  font-size: 0.8rem;
+  color: var(--color-muted);
+}
+
+.course-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  color: var(--color-accent-dark);
   text-decoration: underline;
+  font-weight: 600;
+}
+
+.course-link:hover {
+  color: var(--color-accent);
+}
+
+.data-verified-badge {
+  margin-top: 16px;
+  padding: 10px 12px;
+  background: rgba(88, 204, 2, 0.12);
+  border: 1px solid rgba(88, 204, 2, 0.25);
+  border-radius: var(--radius-small);
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 0.8rem;
+  color: var(--color-accent-dark);
+  font-weight: 500;
+}
+
+.badge-icon {
+  font-size: 0.9rem;
+  line-height: 1;
+  color: var(--color-accent);
+}
+
+.badge-text {
+  font-weight: 600;
 }
 
 .card-note {
@@ -558,20 +688,27 @@ select:focus {
 }
 
 .app-footer {
-  background: linear-gradient(180deg, rgba(137, 226, 25, 0.05) 0%, rgba(137, 226, 25, 0) 100%);
+  background: linear-gradient(180deg, rgba(137, 226, 25, 0.08) 0%, rgba(137, 226, 25, 0) 100%);
   text-align: center;
-  font-size: 0.85rem;
-  color: var(--color-muted);
-  padding: 12px 16px 8px;
+  font-size: 0.9rem;
+  color: var(--color-text);
+  padding: 16px 20px 12px;
+  line-height: 1.5;
+}
+
+.app-footer p {
+  margin: 0 0 12px;
+  max-width: 600px;
+  margin-inline: auto;
 }
 
 .app-footer a {
-  color: var(--color-accent);
+  color: var(--color-accent-dark);
   font-weight: 600;
 }
 
 .icon-button {
-  border: 2px solid rgba(75, 75, 75, 0.2);
+  border: 1px solid rgba(75, 75, 75, 0.15);
   background: rgba(255, 255, 255, 0.95);
   color: var(--color-grey);
   border-radius: 50%;
@@ -583,7 +720,7 @@ select:focus {
   cursor: pointer;
   font-weight: 700;
   transition: transform var(--transition), box-shadow var(--transition), background var(--transition);
-  box-shadow: 0 6px 12px rgba(43, 43, 43, 0.15);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
 }
 
 .icon-button:hover {
@@ -606,7 +743,7 @@ select:focus {
 
 .toast {
   background: var(--color-surface);
-  border: 2px solid rgba(88, 204, 2, 0.35);
+  border: 1px solid rgba(88, 204, 2, 0.2);
   padding: 12px 16px;
   border-radius: var(--radius-medium);
   box-shadow: var(--shadow-soft);
@@ -616,9 +753,17 @@ select:focus {
   gap: 8px;
   align-items: center;
   margin-top: 8px;
-  opacity: 1;
-  transform: translateY(0);
+  opacity: 0;
+  transform: translateY(12px);
   transition: opacity var(--transition), transform var(--transition);
+  animation: toast-in 0.3s ease forwards;
+}
+
+@keyframes toast-in {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }
 
 .toast::before {
@@ -646,8 +791,8 @@ select:focus {
 .bug-modal {
   background: var(--color-surface);
   border-radius: var(--radius-medium);
-  border: 3px solid rgba(88, 204, 2, 0.45);
-  box-shadow: 0 22px 60px rgba(24, 36, 16, 0.32);
+  border: 1px solid rgba(88, 204, 2, 0.25);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
   width: min(520px, 94vw);
   padding: 20px clamp(18px, 4vw, 28px);
   display: flex;
@@ -691,7 +836,7 @@ select:focus {
 textarea {
   font: inherit;
   border-radius: var(--radius-small);
-  border: 2px solid rgba(75, 75, 75, 0.18);
+  border: 1px solid rgba(75, 75, 75, 0.12);
   padding: 12px 14px;
   background: rgba(255, 255, 255, 0.85);
   transition: border-color var(--transition), box-shadow var(--transition);
@@ -707,7 +852,8 @@ textarea:hover {
 textarea:focus {
   border-color: var(--color-accent);
   box-shadow: 0 0 0 4px rgba(137, 226, 25, 0.25);
-  outline: none;
+  outline: 3px solid var(--color-accent);
+  outline-offset: 0;
 }
 
 .field-meta {
@@ -752,17 +898,128 @@ body.modal-open {
   overflow: hidden;
 }
 
-@media (max-width: 980px) {
-  body {
-    padding: 24px;
-  }
+.card.loading {
+  position: relative;
+  pointer-events: none;
+}
 
-  .layout {
+.card.loading::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(255, 255, 255, 0.7);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: inherit;
+}
+
+.spinner {
+  width: 24px;
+  height: 24px;
+  border: 3px solid var(--color-border);
+  border-top-color: var(--color-accent);
+  border-radius: 50%;
+  animation: spin 0.8s linear infinite;
+}
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+
+/* Mobile-first base (< 480px) */
+@media (max-width: 479px) {
+  body {
+    padding: 16px;
+  }
+  
+  .app {
+    gap: 16px;
+  }
+  
+  .app-header {
+    padding: 20px 16px;
+    border-radius: var(--radius-medium);
+  }
+  
+  .brand-mascot {
+    width: 48px;
+    height: 48px;
+  }
+  
+  .brand-name {
+    font-size: 1.4rem;
+  }
+  
+  .tabs {
+    width: 100%;
+    flex-direction: column;
+    border-radius: var(--radius-medium);
+  }
+  
+  .tab-button {
+    width: 100%;
+    text-align: center;
+    padding: 12px 16px;
+    font-size: 0.85rem;
+  }
+  
+  .card {
+    padding: 20px 16px;
+    border-radius: var(--radius-medium);
+  }
+  
+  .result-stats {
     grid-template-columns: 1fr;
   }
+  
+  .stat {
+    padding: 10px;
+  }
+}
 
+/* Small tablets (480-767px) */
+@media (min-width: 480px) and (max-width: 767px) {
+  body {
+    padding: 20px;
+  }
+  
+  .tabs {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .tab-button {
+    flex: 1 1 auto;
+    min-width: 180px;
+  }
+  
+  .result-stats {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* Tablets (768-979px) */
+@media (min-width: 768px) and (max-width: 979px) {
+  .layout {
+    grid-template-columns: minmax(300px, 380px) minmax(0, 1fr);
+    gap: 20px;
+  }
+}
+
+@media (max-width: 979px) {
   .app-header {
+    flex-direction: column;
     align-items: stretch;
+    text-align: center;
+  }
+  
+  .brand {
+    justify-content: center;
+  }
+  
+  .header-controls {
+    justify-content: center;
   }
 
   .progress-label {

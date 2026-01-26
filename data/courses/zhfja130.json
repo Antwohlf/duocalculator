@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "key": "zhfja130",
+    "courseTitle": "Japanese → Chinese",
+    "scrapedAt": "2026-01-26T02:42:01.712Z",
+    "sourceHash": "sha256:01e4c9de33b0b3c4",
+    "fromLang": "Japanese",
+    "toLang": "Chinese",
+    "fromCode": "ja",
+    "toCode": "zh",
+    "level": null,
+    "levelShort": null,
+    "detailHref": "https://duolingodata.com/dat/zhfja130.html",
+    "detailHrefHash": "sha256:3c86af3271a34aea",
+    "scrapeWarnings": [
+      "No sections parsed, using meta.unitsCount",
+      "No activities parsed, using meta.lessonsCount"
+    ],
+    "schemaVersion": "1.0.0"
+  },
+  "totals": {
+    "sections": 0,
+    "activities": 2627,
+    "units": 130
+  },
+  "sections": []
+}

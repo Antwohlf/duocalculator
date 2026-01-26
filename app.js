@@ -35,8 +35,11 @@ const LANGUAGE_NAME_OVERRIDES = {
   ga: "Irish",
   gd: "Scottish Gaelic",
   gl: "Galician",
+  gn: "Guarani",
   gu: "Gujarati",
-  kl: "Greenlandic",
+  hk: "Cantonese",
+  ht: "Haitian Creole",
+  kl: "Klingon",
   nb: "Norwegian Bokmål",
   nv: "Navajo",
   he: "Hebrew",
@@ -82,6 +85,7 @@ const LANGUAGE_NAME_OVERRIDES = {
   ta: "Tamil",
   te: "Telugu",
   th: "Thai",
+  tl: "Tagalog",
   tr: "Turkish",
   uk: "Ukrainian",
   ur: "Urdu",
@@ -129,13 +133,17 @@ const LANGUAGE_FLAGS = {
   el: "🇬🇷",
   ga: "🇮🇪",
   eo: "🌍",
+  gd: "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+  gn: "🇵🇾",
+  hk: "🇭🇰",
+  ht: "🇭🇹",
   te: "🇮🇳",
   sw: "🇹🇿",
   zu: "🇿🇦",
   yi: "🇮🇱",
   hv: "🐉",
   hw: "🌺",
-  kl: "🇬🇱",
+  kl: "🖖",
   nb: "🇳🇴",
   nv: "🇺🇸",
   af: "🇿🇦",
@@ -147,23 +155,19 @@ const LANGUAGE_FLAGS = {
   bs: "🇧🇦",
   ceb: "🇵🇭",
   co: "🇫🇷",
-  cs: "🇨🇿",
   cy: "🏴",
-  eo: "🌍",
   et: "🇪🇪",
   eu: "🇪🇸",
   fa: "🇮🇷",
   gl: "🇪🇸",
   gu: "🇮🇳",
-  he: "🇮🇱",
   hr: "🇭🇷",
-  hu: "🇭🇺",
   hy: "🇦🇲",
-  id: "🇮🇩",
   ig: "🇳🇬",
   is: "🇮🇸",
   ka: "🇬🇪",
   kk: "🇰🇿",
+  la: "🏛️",
   lb: "🇱🇺",
   lt: "🇱🇹",
   lv: "🇱🇻",
@@ -176,9 +180,7 @@ const LANGUAGE_FLAGS = {
   mt: "🇲🇹",
   my: "🇲🇲",
   ne: "🇳🇵",
-  pl: "🇵🇱",
   qu: "🇵🇪",
-  ro: "🇷🇴",
   sh: "🇷🇸",
   si: "🇱🇰",
   sk: "🇸🇰",
@@ -186,15 +188,10 @@ const LANGUAGE_FLAGS = {
   sq: "🇦🇱",
   sr: "🇷🇸",
   ta: "🇮🇳",
-  th: "🇹🇭",
-  tr: "🇹🇷",
-  uk: "🇺🇦",
+  tl: "🇵🇭",
   ur: "🇵🇰",
   uz: "🇺🇿",
-  vi: "🇻🇳",
   xh: "🇿🇦",
-  yi: "🇮🇱",
-  zu: "🇿🇦",
 };
 
 const dom = {
@@ -216,6 +213,7 @@ const dom = {
   progressCounts: document.getElementById("progress-counts"),
   progressFill: document.getElementById("progress-bar-fill"),
   courseMeta: document.getElementById("course-meta"),
+  lastUpdatedTime: document.getElementById("last-updated-time"),
   sectionCEFRHint: document.getElementById("section-cefr-hint"),
   statFinishDate: document.getElementById("stat-finish-date"),
   statLessonsLeft: document.getElementById("stat-lessons-left"),
@@ -236,6 +234,20 @@ const dom = {
   bugSubmit: document.getElementById("bug-submit"),
   bugCancel: document.getElementById("bug-cancel"),
 };
+
+const VALIDATION = {
+  minutesPerActivity: { min: 0.5, max: 30, default: 3.5 },
+  minutesPerDay: { min: 1, max: 1440, default: 30 },
+  targetDays: { min: 1, max: 3650, default: 90 },
+};
+
+function validateAndClamp(value, { min, max, default: defaultVal }) {
+  const num = Number(value);
+  if (!Number.isFinite(num)) return defaultVal;
+  if (num < min) return min;
+  if (num > max) return max;
+  return num;
+}
 
 const state = {
   activeTab: "finish",
@@ -281,6 +293,7 @@ function init() {
   setupReset();
   setupBugReport();
   renderStoredInputs();
+  updateLastVerifiedTime();
   loadCourses();
   setActiveTab(state.activeTab);
 }
@@ -421,16 +434,16 @@ function setupForm() {
   });
 
   dom.minutesPerActivity.addEventListener("input", () => {
-    const value = Number(dom.minutesPerActivity.value);
-    if (!Number.isFinite(value) || value <= 0) return;
+    const raw = dom.minutesPerActivity.value;
+    const value = validateAndClamp(raw, VALIDATION.minutesPerActivity);
     state.minutesPerActivity = value;
     saveState();
     computeAndRender();
   });
 
   dom.minutesPerDay.addEventListener("input", () => {
-    const value = Number(dom.minutesPerDay.value);
-    if (!Number.isFinite(value) || value <= 0) return;
+    const raw = dom.minutesPerDay.value;
+    const value = validateAndClamp(raw, VALIDATION.minutesPerDay);
     state.minutesPerDay = value;
     saveState();
     if (state.activeTab === "finish") {
@@ -439,13 +452,28 @@ function setupForm() {
   });
 
   dom.targetDays.addEventListener("input", () => {
-    const value = Number(dom.targetDays.value);
-    if (!Number.isFinite(value) || value <= 0) return;
+    const raw = dom.targetDays.value;
+    const value = validateAndClamp(raw, VALIDATION.targetDays);
     state.targetDays = value;
     saveState();
     if (state.activeTab === "pace") {
       computeAndRender();
     }
+  });
+
+  // Add blur handlers to show corrected values
+  [dom.minutesPerActivity, dom.minutesPerDay, dom.targetDays].forEach((input) => {
+    const key = input.name;
+    const config = VALIDATION[key];
+    if (!config) return;
+    
+    input.addEventListener("blur", () => {
+      const corrected = validateAndClamp(input.value, config);
+      if (Number(input.value) !== corrected) {
+        input.value = corrected;
+        showToast(`Value adjusted to valid range (${config.min}-${config.max})`);
+      }
+    });
   });
 }
 
@@ -453,9 +481,8 @@ function setupReset() {
   if (!dom.resetButtons || dom.resetButtons.length === 0) return;
   dom.resetButtons.forEach((button) => {
     button.addEventListener("click", () => {
-      localStorage.removeItem(STORAGE_KEY);
-      showToast("Saved selections cleared.");
-      window.location.reload();
+      localStorage.clear();
+      location.reload();
     });
   });
 }
@@ -722,7 +749,16 @@ function populateToLanguageSelect(fromLang) {
       }
       return true;
     })
-    .sort((a, b) => a.toLang.localeCompare(b.toLang));
+    .sort((a, b) => {
+      // Sort by language name first, then by level (no level first)
+      const nameCompare = a.toLang.localeCompare(b.toLang);
+      if (nameCompare !== 0) return nameCompare;
+      // Courses without level come first
+      if (!a.levelShort && b.levelShort) return -1;
+      if (a.levelShort && !b.levelShort) return 1;
+      // Sort levels alphabetically (A1 < A2 < B1 < B2)
+      return (a.levelShort || '').localeCompare(b.levelShort || '');
+    });
   const duplicateCounts = targets.reduce((map, course) => {
     const key = course.toLang.toLowerCase();
     map.set(key, (map.get(key) || 0) + 1);
@@ -733,18 +769,23 @@ function populateToLanguageSelect(fromLang) {
     const count = duplicateCounts.get(course.toLang.toLowerCase()) || 0;
     const flag = getLanguageFlag(course.toCode, course.toLang);
     const descriptors = [];
+    
+    // Always show distinguishing info for duplicates
     if (count > 1) {
+      // Primary differentiator: CEFR level
       if (course.levelShort) {
-        descriptors.push(`CEFR ${course.levelShort.toUpperCase()}`);
+        descriptors.push(course.levelShort.toUpperCase());
+      } else {
+        descriptors.push("Standard");  // Label for courses without level
       }
-      if (!descriptors.length && course.unitsCount) {
+      
+      // Secondary info: unit count (always show for duplicates if available)
+      if (typeof course.unitsCount === "number" && course.unitsCount > 0) {
         descriptors.push(`${course.unitsCount} units`);
       }
-      if (!descriptors.length && course.updated) {
-        descriptors.push(course.updated);
-      }
     }
-    const descriptorText = descriptors.length ? ` • ${descriptors.join(" · ")}` : "";
+    
+    const descriptorText = descriptors.length ? ` (${descriptors.join(" • ")})` : "";
     options.push(`<option value="${course.key}">${flag} ${course.toLang}${descriptorText}</option>`);
   });
   dom.toLangSelect.innerHTML = options.join("");
@@ -817,7 +858,9 @@ function populateSections({ autoSelect = false } = {}) {
   const options = course.sections
     .map((section, index) => {
       const descriptor = section.units.length ? ` (${section.units.length} units)` : "";
-      const titleText = section.title ? `: ${section.title}` : "";
+      // Only show title if it's non-empty and not just whitespace/colon
+      const cleanTitle = (section.title || "").replace(/^[\s:]+|[\s:]+$/g, "").trim();
+      const titleText = cleanTitle ? `: ${cleanTitle}` : "";
       return `<option value="${index}">Section ${section.sectionIndex}${titleText}${descriptor}</option>`;
     })
     .join("");
@@ -863,7 +906,16 @@ function populateUnits({ autoSelect = false } = {}) {
     .map((unit, index) => {
       const status =
         typeof unit.activities === "number" ? `${unit.activities} lessons` : "lessons estimated";
-      return `<option value="${index}">Unit ${unit.unitIndex}: ${unit.title} (${status})</option>`;
+      
+      // Check if title is just "Unit X" (redundant with unitIndex)
+      const isGenericTitle = /^Unit\s+\d+$/i.test(unit.title?.trim() || '');
+      
+      // Build label: avoid duplication if title is just "Unit X"
+      const label = isGenericTitle 
+        ? `Unit ${unit.unitIndex}` 
+        : `Unit ${unit.unitIndex}: ${unit.title}`;
+      
+      return `<option value="${index}">${label} (${status})</option>`;
     })
     .join("");
 
@@ -915,23 +967,39 @@ function renderCourseMeta(detail) {
     resetStats();
     return;
   }
+  
   const { meta, totals } = detail;
-  const metaLines = [];
-  if (meta.updated) {
-    metaLines.push(`Updated: ${meta.updated}`);
-  }
-  metaLines.push(`Total sections: ${detail.sections.length}`);
-  metaLines.push(`Total units: ${totals.units}`);
+  const metaItems = [];
+  
+  metaItems.push({ label: "Sections", value: detail.sections.length });
+  metaItems.push({ label: "Units", value: totals.units });
+  
   if (typeof totals.activities === "number") {
-    metaLines.push(`Total lessons: ${totals.activities}`);
+    metaItems.push({ label: "Lessons", value: totals.activities.toLocaleString() });
   }
+  
   if (meta.level) {
-    metaLines.push(`CEFR: ${meta.level}`);
+    metaItems.push({ label: "CEFR", value: meta.level });
   }
-  metaLines.push(
-    `<a href="${meta.detailHref}" target="_blank" rel="noopener">Open course detail</a>`,
-  );
-  dom.courseMeta.innerHTML = metaLines.map((line) => `<span>${line}</span>`).join("");
+  
+  // Build HTML with proper structure
+  const statsHtml = metaItems
+    .map(item => `<span class="meta-item"><span class="meta-label">${item.label}:</span> <span class="meta-value">${item.value}</span></span>`)
+    .join('<span class="meta-separator">•</span>');
+  
+  const linkHtml = meta.detailHref 
+    ? `<a href="${meta.detailHref}" target="_blank" rel="noopener noreferrer" class="course-link">Open course detail ↗</a>`
+    : '';
+  
+  const updatedHtml = meta.updated 
+    ? `<span class="meta-updated">Updated: ${meta.updated}</span>`
+    : '';
+  
+  dom.courseMeta.innerHTML = `
+    <div class="meta-stats">${statsHtml}</div>
+    ${updatedHtml}
+    ${linkHtml}
+  `;
 }
 
 function computeAndRender({ force = false } = {}) {
@@ -1358,13 +1426,55 @@ function codeToFlag(code) {
 }
 
 function getLanguageFlag(code, name) {
+  // First try direct code lookup
   const normalized = normalizeLanguageCode(code);
   if (normalized && LANGUAGE_FLAGS[normalized]) {
     return LANGUAGE_FLAGS[normalized];
   }
+  
+  // Try to extract base language from name (handles "German B1", "Japanese A2", etc.)
+  if (name) {
+    const baseName = name
+      .replace(/\s+[A-C][0-3](?:\+|-)?$/i, '')  // Remove CEFR level suffix
+      .replace(/\s+•.*$/, '')                     // Remove bullet descriptors
+      .trim()
+      .toLowerCase();
+    
+    // Look up in name overrides to find code
+    for (const [langCode, langName] of Object.entries(LANGUAGE_NAME_OVERRIDES)) {
+      if (langName.toLowerCase() === baseName) {
+        if (LANGUAGE_FLAGS[langCode]) {
+          return LANGUAGE_FLAGS[langCode];
+        }
+      }
+    }
+    
+    // Special cases by name
+    const nameFlags = {
+      'english': '🇺🇸',
+      'spanish': '🇪🇸',
+      'french': '🇫🇷',
+      'german': '🇩🇪',
+      'italian': '🇮🇹',
+      'portuguese': '🇵🇹',
+      'japanese': '🇯🇵',
+      'korean': '🇰🇷',
+      'chinese': '🇨🇳',
+      'dutch': '🇳🇱',
+      'cantonese': '🇭🇰',
+    };
+    
+    if (nameFlags[baseName]) {
+      return nameFlags[baseName];
+    }
+  }
+  
+  // Try to derive from code
   const derived = normalized ? codeToFlag(normalized) : null;
   if (derived) return derived;
-  return name && name.toLowerCase().includes("english") ? "🇺🇸" : "🌐";
+  
+  // Fallback
+  return '🌐';
 }
 
 function buildSyntheticDetail(meta) {
@@ -1755,4 +1865,16 @@ function formatDate(date) {
     day: "numeric",
     year: "numeric",
   }).format(date);
+}
+
+function updateLastVerifiedTime() {
+  if (!dom.lastUpdatedTime) return;
+  const now = new Date();
+  const formatted = new Intl.DateTimeFormat("en-US", {
+    month: "short",
+    day: "numeric",
+    year: "numeric",
+  }).format(now);
+  dom.lastUpdatedTime.textContent = formatted;
+  dom.lastUpdatedTime.dateTime = now.toISOString();
 }

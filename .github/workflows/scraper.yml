@@ -1,0 +1,43 @@
+name: Scrape duolingodata
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 3 * * 0'
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+          cache-dependency-path: scripts/scraper/package-lock.json
+
+      - name: Install scraper dependencies
+        working-directory: scripts/scraper
+        run: npm ci
+
+      - name: Run scraper tests
+        working-directory: scripts/scraper
+        run: npm test
+
+      - name: Run scraper
+        working-directory: scripts/scraper
+        run: |
+          node index.js \
+            --output ../../data \
+            --rate-limit 500 \
+            --full-refresh ${{ inputs.full_refresh || 'false' }}
+        env:
+          USER_AGENT: 'duocalculator-scraper/1.0 (+https://github.com/duocalculator)'
+
+      - name: Validate scraped data
+        run: |
+          node scripts/scraper/validate.js --data data/ --error-threshold 10

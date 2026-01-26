@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "key": "zhfte130",
+    "courseTitle": "Telugu → Chinese",
+    "scrapedAt": "2026-01-26T02:42:01.712Z",
+    "sourceHash": "sha256:59d64e3462683ec8",
+    "fromLang": "Telugu",
+    "toLang": "Chinese",
+    "fromCode": "te",
+    "toCode": "zh",
+    "level": null,
+    "levelShort": null,
+    "detailHref": "https://duolingodata.com/dat/zhfte130.html",
+    "detailHrefHash": "sha256:a7111b382a500a39",
+    "scrapeWarnings": [
+      "No sections parsed, using meta.unitsCount",
+      "No activities parsed, using meta.lessonsCount"
+    ],
+    "schemaVersion": "1.0.0"
+  },
+  "totals": {
+    "sections": 0,
+    "activities": 2572,
+    "units": 130
+  },
+  "sections": []
+}

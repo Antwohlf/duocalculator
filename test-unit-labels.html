@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Unit Label Test</title>
+</head>
+<body>
+    <h1>Unit Label Fix Test</h1>
+    <div id="results"></div>
+
+    <script>
+        // Test the fix logic
+        function testUnitLabels() {
+            const testCases = [
+                { unitIndex: 1, title: "Unit 1", expected: "Unit 1" },
+                { unitIndex: 2, title: "Unit 2", expected: "Unit 2" },
+                { unitIndex: 1, title: "Basic Greetings", expected: "Unit 1: Basic Greetings" },
+                { unitIndex: 3, title: "Food and Drink", expected: "Unit 3: Food and Drink" },
+                { unitIndex: 5, title: "unit 5", expected: "Unit 5" },
+                { unitIndex: 10, title: "Unit 10", expected: "Unit 10" },
+            ];
+
+            const results = testCases.map(test => {
+                const isGenericTitle = /^Unit\s+\d+$/i.test(test.title?.trim() || '');
+                const label = isGenericTitle 
+                    ? `Unit ${test.unitIndex}` 
+                    : `Unit ${test.unitIndex}: ${test.title}`;
+                
+                const pass = label === test.expected;
+                return {
+                    ...test,
+                    actual: label,
+                    pass
+                };
+            });
+
+            const html = results.map(r => `
+                <div style="padding: 10px; margin: 5px; background: ${r.pass ? '#d4edda' : '#f8d7da'};">
+                    <strong>${r.pass ? '✓ PASS' : '✗ FAIL'}</strong><br>
+                    Input: unitIndex=${r.unitIndex}, title="${r.title}"<br>
+                    Expected: "${r.expected}"<br>
+                    Actual: "${r.actual}"
+                </div>
+            `).join('');
+
+            document.getElementById('results').innerHTML = html;
+
+            const allPass = results.every(r => r.pass);
+            console.log(allPass ? '✓ All tests passed!' : '✗ Some tests failed');
+            return allPass;
+        }
+
+        testUnitLabels();
+    </script>
+</body>
+</html>

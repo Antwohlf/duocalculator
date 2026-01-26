@@ -1,0 +1,7038 @@
+{
+  "meta": {
+    "key": "esfsv991",
+    "courseTitle": "Swedish → Spanish",
+    "scrapedAt": "2026-01-26T02:42:01.712Z",
+    "sourceHash": "sha256:3635dcba37496bb3",
+    "fromLang": "Swedish",
+    "toLang": "Spanish",
+    "fromCode": "sv",
+    "toCode": "es",
+    "level": "CEFR INTRO",
+    "levelShort": "INTRO",
+    "detailHref": "https://duolingodata.com/dat/esfsv991.html",
+    "detailHrefHash": "sha256:d8a25f8504bdc538",
+    "scrapeWarnings": [],
+    "schemaVersion": "1.0.0"
+  },
+  "totals": {
+    "sections": 8,
+    "activities": 100051,
+    "units": 991
+  },
+  "sections": [
+    {
+      "sectionIndex": 1,
+      "unitCount": 10,
+      "title": "CEFR Intro:",
+      "rawTitle": "CEFR Intro:",
+      "cefr": "INTRO:",
+      "units": [
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Beställ på ett café",
+          "activityPattern": [],
+          "activities": 1
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Hälsa och säg hejdå",
+          "activityPattern": [],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Använd ”ser de” för att ange ursprung",
+          "activityPattern": [],
+          "activities": 3
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Presentera familj och vänner",
+          "activityPattern": [],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Beskriv personligheter",
+          "activityPattern": [],
+          "activities": 5
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Använd ”estar” för platser",
+          "activityPattern": [],
+          "activities": 6
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Prata om platser i staden",
+          "activityPattern": [],
+          "activities": 7
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Prata om språk",
+          "activityPattern": [],
+          "activities": 8
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Använd ”hace” för att beskriva väder",
+          "activityPattern": [],
+          "activities": 9
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Handla frukt",
+          "activityPattern": [],
+          "activities": 10
+        }
+      ]
+    },
+    {
+      "sectionIndex": 2,
+      "unitCount": 31,
+      "title": ":",
+      "rawTitle": "CEFR A1:",
+      "cefr": "A1",
+      "units": [
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Beskriv ditt hem",
+          "activityPattern": [],
+          "activities": 1
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Använd presens för vanor",
+          "activityPattern": [],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Prata om sport",
+          "activityPattern": [],
+          "activities": 3
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Prata om hobbyer",
+          "activityPattern": [],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Delta på lektionen",
+          "activityPattern": [],
+          "activities": 5
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Prata om mat",
+          "activityPattern": [],
+          "activities": 6
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Utvärdera mat och service",
+          "activityPattern": [],
+          "activities": 7
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Be om vägbeskrivningar",
+          "activityPattern": [],
+          "activities": 8
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Handla kläder",
+          "activityPattern": [],
+          "activities": 9
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Prata om jobbet",
+          "activityPattern": [],
+          "activities": 10
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Använd obestämda artiklar",
+          "activityPattern": [],
+          "activities": 11
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Utför hushållssysslor",
+          "activityPattern": [],
+          "activities": 12
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Diskutera ett skolprojekt",
+          "activityPattern": [],
+          "activities": 13
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Fråga hur någon mår",
+          "activityPattern": [],
+          "activities": 14
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Be om vägbeskrivningar",
+          "activityPattern": [],
+          "activities": 15
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Fråga om ingredienser",
+          "activityPattern": [],
+          "activities": 16
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Presentera dig själv på en fest",
+          "activityPattern": [],
+          "activities": 17
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Beskriv utseenden",
+          "activityPattern": [],
+          "activities": 18
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Bestämd artikel med tidsuttryck",
+          "activityPattern": [],
+          "activities": 19
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Presentera dig på ett formellt sätt",
+          "activityPattern": [],
+          "activities": 20
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Uttryck dina känslor",
+          "activityPattern": [],
+          "activities": 21
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Prata om din kost",
+          "activityPattern": [],
+          "activities": 22
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Prata om djur",
+          "activityPattern": [],
+          "activities": 23
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Använd reflexiva verb för rutiner",
+          "activityPattern": [],
+          "activities": 24
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Prata om andras liv",
+          "activityPattern": [],
+          "activities": 25
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Prata om dina intressen",
+          "activityPattern": [],
+          "activities": 26
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Prata om musiksmaker",
+          "activityPattern": [],
+          "activities": 27
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Prata om aktiviteter som du gillar",
+          "activityPattern": [],
+          "activities": 28
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Använd indirekta objektpronomen",
+          "activityPattern": [],
+          "activities": 29
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Berätta hur du arbetspendlar",
+          "activityPattern": [],
+          "activities": 30
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Prata om födelsedagar",
+          "activityPattern": [],
+          "activities": 31
+        }
+      ]
+    },
+    {
+      "sectionIndex": 3,
+      "unitCount": 30,
+      "title": ":",
+      "rawTitle": "CEFR A1:",
+      "cefr": "A1",
+      "units": [
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Handla kläder",
+          "activityPattern": [],
+          "activities": 1
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Prata om aktiviteter",
+          "activityPattern": [],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Planera hälsoaktiviteter",
+          "activityPattern": [],
+          "activities": 3
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Använd konditionalis i presens",
+          "activityPattern": [],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Planera en resa",
+          "activityPattern": [],
+          "activities": 5
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Planera en överraskningsfest",
+          "activityPattern": [],
+          "activities": 6
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Utforska staden",
+          "activityPattern": [],
+          "activities": 7
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Beskriv resesituationer",
+          "activityPattern": [],
+          "activities": 8
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Använd demonstrativa adjektiv",
+          "activityPattern": [],
+          "activities": 9
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Ha kul på en fest",
+          "activityPattern": [],
+          "activities": 10
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Handla kläder",
+          "activityPattern": [],
+          "activities": 11
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Sköta uppgifter som barnvakt",
+          "activityPattern": [],
+          "activities": 12
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Prata om din hälsa",
+          "activityPattern": [],
+          "activities": 13
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Använd obestämda adjektiv",
+          "activityPattern": [],
+          "activities": 14
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Hantera arbetsplatsproblem",
+          "activityPattern": [],
+          "activities": 15
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Välj varor när du handlar",
+          "activityPattern": [],
+          "activities": 16
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Prata om filmer",
+          "activityPattern": [],
+          "activities": 17
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Använd indirekta objektpronomen",
+          "activityPattern": [],
+          "activities": 18
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Skicka och ta emot post",
+          "activityPattern": [],
+          "activities": 19
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Njut av en utekväll",
+          "activityPattern": [],
+          "activities": 20
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Prata om vädret",
+          "activityPattern": [],
+          "activities": 21
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Fråga hur folk mår",
+          "activityPattern": [],
+          "activities": 22
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Leta efter ett borttappat husdjur",
+          "activityPattern": [],
+          "activities": 23
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Använd kvantifikatorer med substantiv",
+          "activityPattern": [],
+          "activities": 24
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Chatta online",
+          "activityPattern": [],
+          "activities": 25
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Prata om sport",
+          "activityPattern": [],
+          "activities": 26
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Utför hushållssysslor",
+          "activityPattern": [],
+          "activities": 27
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Hantera en nödsituation",
+          "activityPattern": [],
+          "activities": 28
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Lös problem på postkontoret",
+          "activityPattern": [],
+          "activities": 29
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Använd ”por” och ”para”",
+          "activityPattern": [],
+          "activities": 30
+        }
+      ]
+    },
+    {
+      "sectionIndex": 4,
+      "unitCount": 60,
+      "title": ":",
+      "rawTitle": "CEFR A2:",
+      "cefr": "A2",
+      "units": [
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Planera sociala aktiviteter",
+          "activityPattern": [],
+          "activities": 1
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Lös tekniska problem",
+          "activityPattern": [],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Beskriv din omgivning",
+          "activityPattern": [],
+          "activities": 3
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Recensera underhållning",
+          "activityPattern": [],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Prata om familjedrag",
+          "activityPattern": [],
+          "activities": 5
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Använd superlativ med adjektiv",
+          "activityPattern": [],
+          "activities": 6
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Kommunicera på jobbet",
+          "activityPattern": [],
+          "activities": 7
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Använd dåtid",
+          "activityPattern": [],
+          "activities": 8
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Arbeta som volontär",
+          "activityPattern": [],
+          "activities": 9
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Hitta dina saker",
+          "activityPattern": [],
+          "activities": 10
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Handla matvaror",
+          "activityPattern": [],
+          "activities": 11
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Prata om presenter",
+          "activityPattern": [],
+          "activities": 12
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Använd \"saber\" i presens",
+          "activityPattern": [],
+          "activities": 13
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Umgås på ett evenemang",
+          "activityPattern": [],
+          "activities": 14
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Utvärdera bostadsförhållanden",
+          "activityPattern": [],
+          "activities": 15
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Hantera arbetsuppgifter",
+          "activityPattern": [],
+          "activities": 16
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Prata om relationer och känslor",
+          "activityPattern": [],
+          "activities": 17
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Navigera med vägbeskrivningar",
+          "activityPattern": [],
+          "activities": 18
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Använd kommandon",
+          "activityPattern": [],
+          "activities": 19
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Använd objektpronomen med kommandon",
+          "activityPattern": [],
+          "activities": 20
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Gör hushållssysslor",
+          "activityPattern": [],
+          "activities": 21
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Dela din livshistoria",
+          "activityPattern": [],
+          "activities": 22
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Prata om shoppingupplevelser",
+          "activityPattern": [],
+          "activities": 23
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Använd imperfekt tempus",
+          "activityPattern": [],
+          "activities": 24
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Prata om boendekostnader",
+          "activityPattern": [],
+          "activities": 25
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Planera din resa",
+          "activityPattern": [],
+          "activities": 26
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Dela reseupplevelser",
+          "activityPattern": [],
+          "activities": 27
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Prata om grannskapsfrågor",
+          "activityPattern": [],
+          "activities": 28
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Använd perfekt tempus",
+          "activityPattern": [],
+          "activities": 29
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Planera en social tillställning",
+          "activityPattern": [],
+          "activities": 30
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Uttryck åsikter om hälsa",
+          "activityPattern": [],
+          "activities": 31
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Dela tidigare upplevelser",
+          "activityPattern": [],
+          "activities": 32
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Prata om filmer och serier",
+          "activityPattern": [],
+          "activities": 33
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Fira framgångar",
+          "activityPattern": [],
+          "activities": 34
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Prata om möbler och hemmet",
+          "activityPattern": [],
+          "activities": 35
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Klaga på resan",
+          "activityPattern": [],
+          "activities": 36
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Sök hjälp efter en olycka",
+          "activityPattern": [],
+          "activities": 37
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Prata om firanden",
+          "activityPattern": [],
+          "activities": 38
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Använd \"hacer\" i preteritum",
+          "activityPattern": [],
+          "activities": 39
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Identifiera tillhörigheter",
+          "activityPattern": [],
+          "activities": 40
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Hantera matproblem",
+          "activityPattern": [],
+          "activities": 41
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Prata om personliga prestationer",
+          "activityPattern": [],
+          "activities": 42
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Prata om kulturella bakgrunder",
+          "activityPattern": [],
+          "activities": 43
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Förklara varför du inte kan göra något",
+          "activityPattern": [],
+          "activities": 44
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Använd siffror i olika sammanhang",
+          "activityPattern": [],
+          "activities": 45
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Diskutera politik och samhälle",
+          "activityPattern": [],
+          "activities": 46
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Utvärdera varor och tjänster",
+          "activityPattern": [],
+          "activities": 47
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Använd jämförelser med mängder",
+          "activityPattern": [],
+          "activities": 48
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Identifiera stulna föremål",
+          "activityPattern": [],
+          "activities": 49
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Ta hand om husdjur",
+          "activityPattern": [],
+          "activities": 50
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Prata om nyheterna",
+          "activityPattern": [],
+          "activities": 51
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Ansök till universitetet",
+          "activityPattern": [],
+          "activities": 52
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Prata om konst",
+          "activityPattern": [],
+          "activities": 53
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Prata om hälsosam mat",
+          "activityPattern": [],
+          "activities": 54
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Använd dåtid",
+          "activityPattern": [],
+          "activities": 55
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Prata om hälsobekymmer",
+          "activityPattern": [],
+          "activities": 56
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Utforska kulturplatser",
+          "activityPattern": [],
+          "activities": 57
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Diskutera politiska åsikter",
+          "activityPattern": [],
+          "activities": 58
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Prata om hälsoaktiviteter",
+          "activityPattern": [],
+          "activities": 59
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Anmäl ett brott",
+          "activityPattern": [],
+          "activities": 60
+        }
+      ]
+    },
+    {
+      "sectionIndex": 5,
+      "unitCount": 250,
+      "title": ":",
+      "rawTitle": "CEFR B1:",
+      "cefr": "B1",
+      "units": [
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Stadsdel: Beskriv din stadsdel",
+          "activityPattern": [],
+          "activities": 1
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Stadsdel: Berätta om din stadsdel",
+          "activityPattern": [],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Stadsdel: Berätta om butiker i området",
+          "activityPattern": [],
+          "activities": 3
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Stadsdel: Beskriv ditt område",
+          "activityPattern": [],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Stadsdel: Tipsa om bra platser",
+          "activityPattern": [],
+          "activities": 5
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Litteratur: Beskriv en bok du läser",
+          "activityPattern": [],
+          "activities": 6
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Litteratur: Berätta om din bok",
+          "activityPattern": [],
+          "activities": 7
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Litteratur: Beskriv huvudpersonen",
+          "activityPattern": [],
+          "activities": 8
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Litteratur: Berätta om favoritböcker",
+          "activityPattern": [],
+          "activities": 9
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Litteratur: Beskriv en författare",
+          "activityPattern": [],
+          "activities": 10
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Media: Beskriv en webbsida",
+          "activityPattern": [],
+          "activities": 11
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Media: Beskriv dina medievanor",
+          "activityPattern": [],
+          "activities": 12
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Media: Dela dina tekniktips",
+          "activityPattern": [],
+          "activities": 13
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Media: Berätta om din blogg",
+          "activityPattern": [],
+          "activities": 14
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Media: Beskriv en digital enhet",
+          "activityPattern": [],
+          "activities": 15
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Kärlek: Beskriv en dejt",
+          "activityPattern": [],
+          "activities": 16
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Kärlek: Berätta om en första dejt",
+          "activityPattern": [],
+          "activities": 17
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Kärlek: Berätta om din första kärlek",
+          "activityPattern": [],
+          "activities": 18
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Kärlek: Berätta om ett bröllop",
+          "activityPattern": [],
+          "activities": 19
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Kärlek: Beskriv ett kärleksminne",
+          "activityPattern": [],
+          "activities": 20
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Områden: Beskriv olika områden",
+          "activityPattern": [],
+          "activities": 21
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Områden: Beskriv ett område",
+          "activityPattern": [],
+          "activities": 22
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Områden: Beskriv problem i området",
+          "activityPattern": [],
+          "activities": 23
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Områden: Berätta om ditt område",
+          "activityPattern": [],
+          "activities": 24
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Områden: Fråga om befolkningen",
+          "activityPattern": [],
+          "activities": 25
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Läxor: Sammanfatta en bok",
+          "activityPattern": [],
+          "activities": 26
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Läxor: Beskriv dina läxor",
+          "activityPattern": [],
+          "activities": 27
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Läxor: Be om anteckningar",
+          "activityPattern": [],
+          "activities": 28
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Läxor: Be om hjälp med läxan",
+          "activityPattern": [],
+          "activities": 29
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Läxor: Be om hjälp med uppgiften",
+          "activityPattern": [],
+          "activities": 30
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Hälsan: Boka tid på klinik",
+          "activityPattern": [],
+          "activities": 31
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Hälsan: Beskriv dina hälsovanor",
+          "activityPattern": [],
+          "activities": 32
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Hälsan: Beskriv en skada",
+          "activityPattern": [],
+          "activities": 33
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Hälsan: Beskriv hur du mår",
+          "activityPattern": [],
+          "activities": 34
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Hälsan: Beskriv dina symtom",
+          "activityPattern": [],
+          "activities": 35
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Åsikter: Dela med dig av dina åsikter",
+          "activityPattern": [],
+          "activities": 36
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Åsikter: Dela dina åsikter",
+          "activityPattern": [],
+          "activities": 37
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Åsikter: Uttryck egna åsikter",
+          "activityPattern": [],
+          "activities": 38
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Åsikter: Ge din syn på saken",
+          "activityPattern": [],
+          "activities": 39
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Åsikter: Dela med dig av erfarenheter",
+          "activityPattern": [],
+          "activities": 40
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Butiken: Fråga om varor i butiken",
+          "activityPattern": [],
+          "activities": 41
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Butiken: Beskriv kläder du provar",
+          "activityPattern": [],
+          "activities": 42
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Butiken: Fråga om butikens utbud",
+          "activityPattern": [],
+          "activities": 43
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Butiken: Fråga efter rätt storlek",
+          "activityPattern": [],
+          "activities": 44
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Butiken: Berätta vad du köper",
+          "activityPattern": [],
+          "activities": 45
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Ingrediens: Hämta vad du behöver",
+          "activityPattern": [],
+          "activities": 46
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Ingrediens: Be om en ingrediens",
+          "activityPattern": [],
+          "activities": 47
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Ingrediens: Använd det du har",
+          "activityPattern": [],
+          "activities": 48
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Ingrediens: Välj dina tillbehör",
+          "activityPattern": [],
+          "activities": 49
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Ingrediens: Be om det du vill ha",
+          "activityPattern": [],
+          "activities": 50
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Skydd: Varna för farligt väder",
+          "activityPattern": [],
+          "activities": 51
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Skydd: Skydda dig från dåligt vatten",
+          "activityPattern": [],
+          "activities": 52
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Skydd: Varna för faror",
+          "activityPattern": [],
+          "activities": 53
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Skydd: Visa upp ditt ID",
+          "activityPattern": [],
+          "activities": 54
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Skydd: Ge råd om säkerhet",
+          "activityPattern": [],
+          "activities": 55
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Varning: Säg vad man inte ska göra",
+          "activityPattern": [],
+          "activities": 56
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Varning: Ge en varning",
+          "activityPattern": [],
+          "activities": 57
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Varning: Säg vad som är farligt",
+          "activityPattern": [],
+          "activities": 58
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Varning: Förklara en risk",
+          "activityPattern": [],
+          "activities": 59
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Varning: Svara på en varning",
+          "activityPattern": [],
+          "activities": 60
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Resmål: Fråga om flygtider",
+          "activityPattern": [],
+          "activities": 61
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Resmål: Fråga om vägbeskrivning",
+          "activityPattern": [],
+          "activities": 62
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Resmål: Beskriv länder du vill besöka",
+          "activityPattern": [],
+          "activities": 63
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Resmål: Berätta om ett resmål",
+          "activityPattern": [],
+          "activities": 64
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Resmål: Fråga om lokala maträtter",
+          "activityPattern": [],
+          "activities": 65
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Möbler: Beskriv dina möbler",
+          "activityPattern": [],
+          "activities": 66
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Möbler: Fråga om möbelpriser",
+          "activityPattern": [],
+          "activities": 67
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Möbler: Beskriv ditt nya rum",
+          "activityPattern": [],
+          "activities": 68
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Möbler: Berätta var saker står",
+          "activityPattern": [],
+          "activities": 69
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Möbler: Välj rätt möbel",
+          "activityPattern": [],
+          "activities": 70
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Rutiner: Beskriv dina rutiner",
+          "activityPattern": [],
+          "activities": 71
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Rutiner: Jämför dina vanor",
+          "activityPattern": [],
+          "activities": 72
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Rutiner: Beskriv din morgonrutin",
+          "activityPattern": [],
+          "activities": 73
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Rutiner: Berätta om dina vardagsvanor",
+          "activityPattern": [],
+          "activities": 74
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Rutiner: Berätta om dina rutiner",
+          "activityPattern": [],
+          "activities": 75
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Drömmar: Beskriv dina drömmar",
+          "activityPattern": [],
+          "activities": 76
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Drömmar: Berätta om dina framtidsplaner",
+          "activityPattern": [],
+          "activities": 77
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Drömmar: Uttryck dina mål",
+          "activityPattern": [],
+          "activities": 78
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Drömmar: Berätta om dina drömmar",
+          "activityPattern": [],
+          "activities": 79
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Drömmar: Dela dina drömmar",
+          "activityPattern": [],
+          "activities": 80
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Kontoret: Berätta om yrkesval",
+          "activityPattern": [],
+          "activities": 81
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Kontoret: Beskriv din roll på kontoret",
+          "activityPattern": [],
+          "activities": 82
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Kontoret: Beskriv kollegor",
+          "activityPattern": [],
+          "activities": 83
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Kontoret: Fråga om produkter på kontoret",
+          "activityPattern": [],
+          "activities": 84
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Kontoret: Beskriv ditt kontor",
+          "activityPattern": [],
+          "activities": 85
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Samhälle: Beskriv demokrati",
+          "activityPattern": [],
+          "activities": 86
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Samhälle: Beskriv dina rättigheter",
+          "activityPattern": [],
+          "activities": 87
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Samhälle: Beskriv ditt samhälle",
+          "activityPattern": [],
+          "activities": 88
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Samhälle: Uttryck dina åsikter",
+          "activityPattern": [],
+          "activities": 89
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Samhälle: Beskriv lokala val",
+          "activityPattern": [],
+          "activities": 90
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Upplevelse: Berätta om en upplevelse",
+          "activityPattern": [],
+          "activities": 91
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Upplevelse: Beskriv din skolupplevelse",
+          "activityPattern": [],
+          "activities": 92
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Upplevelse: Dela dina boktips",
+          "activityPattern": [],
+          "activities": 93
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Upplevelse: Dela din upplevelse",
+          "activityPattern": [],
+          "activities": 94
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Upplevelse: Berätta om smaker du gillar",
+          "activityPattern": [],
+          "activities": 95
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Personlighet: Beskriv någons personlighet",
+          "activityPattern": [],
+          "activities": 96
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Personlighet: Berätta om någon du litar på",
+          "activityPattern": [],
+          "activities": 97
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Personlighet: Jämför personliga drag",
+          "activityPattern": [],
+          "activities": 98
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Personlighet: Jämför olika personligheter",
+          "activityPattern": [],
+          "activities": 99
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Personlighet: Svara på frågor om personer",
+          "activityPattern": [],
+          "activities": 100
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Barndom: Berätta om din barndom",
+          "activityPattern": [],
+          "activities": 101
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Barndom: Beskriv ditt barndomshem",
+          "activityPattern": [],
+          "activities": 102
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Barndom: Berätta om gamla vänner",
+          "activityPattern": [],
+          "activities": 103
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Barndom: Förklara vardagen som barn",
+          "activityPattern": [],
+          "activities": 104
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Barndom: Beskriv din gamla skola",
+          "activityPattern": [],
+          "activities": 105
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Världen: Prata om sportevenemang",
+          "activityPattern": [],
+          "activities": 106
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Världen: Beskriv en historisk period",
+          "activityPattern": [],
+          "activities": 107
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Världen: Dela dina idéer om världen",
+          "activityPattern": [],
+          "activities": 108
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Världen: Förklara vad som händer",
+          "activityPattern": [],
+          "activities": 109
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Världen: Beskriv dina resplaner",
+          "activityPattern": [],
+          "activities": 110
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Hushåll: Be om hushållsprodukter",
+          "activityPattern": [],
+          "activities": 111
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Hushåll: Beskriv saker i hemmet",
+          "activityPattern": [],
+          "activities": 112
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Hushåll: Beskriv hushållssysslor",
+          "activityPattern": [],
+          "activities": 113
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Hushåll: Jämför hushållsarbetet",
+          "activityPattern": [],
+          "activities": 114
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Hushåll: Beskriv hemmet",
+          "activityPattern": [],
+          "activities": 115
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Fantasi: Beskriv en magisk plats",
+          "activityPattern": [],
+          "activities": 116
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Fantasi: Beskriv din fantasivärld",
+          "activityPattern": [],
+          "activities": 117
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Fantasi: Dela med dig av drömmar",
+          "activityPattern": [],
+          "activities": 118
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Fantasi: Berätta om en fantasivärld",
+          "activityPattern": [],
+          "activities": 119
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Fantasi: Dela påhittade berättelser",
+          "activityPattern": [],
+          "activities": 120
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Arbete: Beskriv dina arbetsuppgifter",
+          "activityPattern": [],
+          "activities": 121
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Arbete: Beskriv ditt arbete",
+          "activityPattern": [],
+          "activities": 122
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Arbete: Beskriv din arbetsdag",
+          "activityPattern": [],
+          "activities": 123
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Arbete: Berätta om ditt jobb",
+          "activityPattern": [],
+          "activities": 124
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Arbete: Skicka jobbansökningar",
+          "activityPattern": [],
+          "activities": 125
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Lektion: Be om en förklaring",
+          "activityPattern": [],
+          "activities": 126
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Lektion: Be om hjälp under lektionen",
+          "activityPattern": [],
+          "activities": 127
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Lektion: Läs instruktionerna",
+          "activityPattern": [],
+          "activities": 128
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Lektion: Berätta om lektionens regler",
+          "activityPattern": [],
+          "activities": 129
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Lektion: Ställ frågor i lektionen",
+          "activityPattern": [],
+          "activities": 130
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Tid: Beskriv när något börjar",
+          "activityPattern": [],
+          "activities": 131
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Tid: Dela din dagliga rutin",
+          "activityPattern": [],
+          "activities": 132
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Tid: Förklara när något hände",
+          "activityPattern": [],
+          "activities": 133
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Tid: Berätta om tidigare händelser",
+          "activityPattern": [],
+          "activities": 134
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Tid: Ställ frågor om tid",
+          "activityPattern": [],
+          "activities": 135
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Berättelse: Berätta en semesterhistoria",
+          "activityPattern": [],
+          "activities": 136
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Berättelse: Berätta om en upplevelse",
+          "activityPattern": [],
+          "activities": 137
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Berättelse: Berätta om en resa",
+          "activityPattern": [],
+          "activities": 138
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Berättelse: Beskriv vad som hände",
+          "activityPattern": [],
+          "activities": 139
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Berättelse: Dela en oväntad händelse",
+          "activityPattern": [],
+          "activities": 140
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Tradition: Berätta om matvanor",
+          "activityPattern": [],
+          "activities": 141
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Tradition: Beskriv en tradition",
+          "activityPattern": [],
+          "activities": 142
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Tradition: Berätta om firanden",
+          "activityPattern": [],
+          "activities": 143
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Tradition: Berätta om en tradition",
+          "activityPattern": [],
+          "activities": 144
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Tradition: Beskriv en typisk fest",
+          "activityPattern": [],
+          "activities": 145
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Rädsla: Berätta om dina rädslor",
+          "activityPattern": [],
+          "activities": 146
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Rädsla: Beskriv dina rädslor",
+          "activityPattern": [],
+          "activities": 147
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Rädsla: Beskriv läskiga ljud",
+          "activityPattern": [],
+          "activities": 148
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Rädsla: Beskriv vad du är rädd för",
+          "activityPattern": [],
+          "activities": 149
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Rädsla: Reagera på spökhistorier",
+          "activityPattern": [],
+          "activities": 150
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Sjukdom: Beskriv dina symtom",
+          "activityPattern": [],
+          "activities": 151
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Sjukdom: Förklara hur du mår",
+          "activityPattern": [],
+          "activities": 152
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Sjukdom: Fråga om medicin",
+          "activityPattern": [],
+          "activities": 153
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Sjukdom: Berätta om symtom",
+          "activityPattern": [],
+          "activities": 154
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Sjukdom: Beskriv symtom",
+          "activityPattern": [],
+          "activities": 155
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Vägar: Be om vägbeskrivning",
+          "activityPattern": [],
+          "activities": 156
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Vägar: Beskriv trafikläget",
+          "activityPattern": [],
+          "activities": 157
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Vägar: Använd GPS för att hitta rätt",
+          "activityPattern": [],
+          "activities": 158
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Vägar: Ge råd om trafikregler",
+          "activityPattern": [],
+          "activities": 159
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Vägar: Förklara en trafikregel",
+          "activityPattern": [],
+          "activities": 160
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Utflykt: Planera en utflykt",
+          "activityPattern": [],
+          "activities": 161
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Utflykt: Välj var ni ska gå",
+          "activityPattern": [],
+          "activities": 162
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Utflykt: Boka din utflykt",
+          "activityPattern": [],
+          "activities": 163
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Utflykt: Beskriv resmålet",
+          "activityPattern": [],
+          "activities": 164
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Utflykt: Berätta om en utflykt",
+          "activityPattern": [],
+          "activities": 165
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Önskan: Be om något du vill ha",
+          "activityPattern": [],
+          "activities": 166
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Önskan: Säg vad du hoppas på",
+          "activityPattern": [],
+          "activities": 167
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Önskan: Uttryck önskningar",
+          "activityPattern": [],
+          "activities": 168
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Önskan: Berätta vad du vill lära dig",
+          "activityPattern": [],
+          "activities": 169
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Önskan: Säg vad du vill läsa",
+          "activityPattern": [],
+          "activities": 170
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Teknik: Be om wifi-lösenordet",
+          "activityPattern": [],
+          "activities": 171
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Teknik: Förklara hur teknik fungerar",
+          "activityPattern": [],
+          "activities": 172
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Teknik: Be om teknikhjälp",
+          "activityPattern": [],
+          "activities": 173
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Teknik: Beskriv teknik i hemmet",
+          "activityPattern": [],
+          "activities": 174
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Teknik: Beskriv en teknisk lösning",
+          "activityPattern": [],
+          "activities": 175
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Kontoret: Beskriv mötesrummet",
+          "activityPattern": [],
+          "activities": 176
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Kontoret: Beskriv din chef",
+          "activityPattern": [],
+          "activities": 177
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Kontoret: Beskriv kollegor och yrken",
+          "activityPattern": [],
+          "activities": 178
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Kontoret: Beskriv en kollega",
+          "activityPattern": [],
+          "activities": 179
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Kontoret: Beskriv ditt kontor",
+          "activityPattern": [],
+          "activities": 180
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Museibesök: Beskriv konstverk",
+          "activityPattern": [],
+          "activities": 181
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Museibesök: Beskriv besökare på museet",
+          "activityPattern": [],
+          "activities": 182
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Museibesök: Ge din åsikt om utställningen",
+          "activityPattern": [],
+          "activities": 183
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Museibesök: Beskriv utställningen",
+          "activityPattern": [],
+          "activities": 184
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Museibesök: Uttryck åsikter om museet",
+          "activityPattern": [],
+          "activities": 185
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Kurser: Beskriv dina kurser",
+          "activityPattern": [],
+          "activities": 186
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Kurser: Fråga om kursuppgifter",
+          "activityPattern": [],
+          "activities": 187
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Kurser: Välj ämnen för terminen",
+          "activityPattern": [],
+          "activities": 188
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Kurser: Sammanfatta kursmaterial",
+          "activityPattern": [],
+          "activities": 189
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Kurser: Anmäl dig till en kurs",
+          "activityPattern": [],
+          "activities": 190
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Middag: Beskriv din middag",
+          "activityPattern": [],
+          "activities": 191
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Middag: Välj huvudrätt",
+          "activityPattern": [],
+          "activities": 192
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Middag: Ge beröm efter en god middag",
+          "activityPattern": [],
+          "activities": 193
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Middag: Beställ mat till middagen",
+          "activityPattern": [],
+          "activities": 194
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Middag: Berätta om din middag",
+          "activityPattern": [],
+          "activities": 195
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Meddelande: Förklara vad du fick veta",
+          "activityPattern": [],
+          "activities": 196
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Meddelande: Berätta om ett löfte",
+          "activityPattern": [],
+          "activities": 197
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Meddelande: Skicka ett meddelande",
+          "activityPattern": [],
+          "activities": 198
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Meddelande: Dela ett viktigt meddelande",
+          "activityPattern": [],
+          "activities": 199
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Meddelande: Berätta om ett firande",
+          "activityPattern": [],
+          "activities": 200
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Ligan: Följ de senaste händelserna",
+          "activityPattern": [],
+          "activities": 201
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Ligan: Berätta om ligans vinnare",
+          "activityPattern": [],
+          "activities": 202
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Ligan: Berätta om kandidaterna",
+          "activityPattern": [],
+          "activities": 203
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Ligan: Prata om olyckor",
+          "activityPattern": [],
+          "activities": 204
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Ligan: Berätta om en turnering",
+          "activityPattern": [],
+          "activities": 205
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Händelser: Beskriv en händelse",
+          "activityPattern": [],
+          "activities": 206
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Händelser: Berätta om en händelse",
+          "activityPattern": [],
+          "activities": 207
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Händelser: Förklara vad som hände",
+          "activityPattern": [],
+          "activities": 208
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Händelser: Dela dina bästa minnen",
+          "activityPattern": [],
+          "activities": 209
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Händelser: Beskriv vad som hände",
+          "activityPattern": [],
+          "activities": 210
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Sport: Beskriv en sporthändelse",
+          "activityPattern": [],
+          "activities": 211
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Sport: Berätta om ditt lag",
+          "activityPattern": [],
+          "activities": 212
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Sport: Uppmuntra lagkamrater",
+          "activityPattern": [],
+          "activities": 213
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Sport: Beskriv ditt favoritlag",
+          "activityPattern": [],
+          "activities": 214
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Sport: Berätta om en idrottsstjärna",
+          "activityPattern": [],
+          "activities": 215
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Kultur: Prata om böcker",
+          "activityPattern": [],
+          "activities": 216
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Kultur: Beskriv en konsertupplevelse",
+          "activityPattern": [],
+          "activities": 217
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Kultur: Beskriv en favoritfilm",
+          "activityPattern": [],
+          "activities": 218
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Kultur: Beskriv en konstutställning",
+          "activityPattern": [],
+          "activities": 219
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Kultur: Berätta om en artist",
+          "activityPattern": [],
+          "activities": 220
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Banken: Byt sedlar mot mynt",
+          "activityPattern": [],
+          "activities": 221
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Banken: Öppna ett bankkonto",
+          "activityPattern": [],
+          "activities": 222
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Banken: Fråga om uttagsgräns",
+          "activityPattern": [],
+          "activities": 223
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Banken: Betala dina räkningar",
+          "activityPattern": [],
+          "activities": 224
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Banken: Gör en insättning",
+          "activityPattern": [],
+          "activities": 225
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Vädret: Beskriv vädret",
+          "activityPattern": [],
+          "activities": 226
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Vädret: Reagera på åskväder",
+          "activityPattern": [],
+          "activities": 227
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Vädret: Berätta om vädret",
+          "activityPattern": [],
+          "activities": 228
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Vädret: Beskriv vädret idag",
+          "activityPattern": [],
+          "activities": 229
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Vädret: Beskriv dagens väder",
+          "activityPattern": [],
+          "activities": 230
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Oenighet: Uttryck din åsikt",
+          "activityPattern": [],
+          "activities": 231
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Oenighet: Förklara din syn på saken",
+          "activityPattern": [],
+          "activities": 232
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Oenighet: Förklara varför du blev arg",
+          "activityPattern": [],
+          "activities": 233
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Oenighet: Uttryck en annan åsikt",
+          "activityPattern": [],
+          "activities": 234
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Oenighet: Säg att du inte håller med",
+          "activityPattern": [],
+          "activities": 235
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Kärlek: Beskriv någon du älskar",
+          "activityPattern": [],
+          "activities": 236
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Kärlek: Beskriv dina relationer",
+          "activityPattern": [],
+          "activities": 237
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Kärlek: Ge romantiska råd",
+          "activityPattern": [],
+          "activities": 238
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Kärlek: Beskriv din syn på kärlek",
+          "activityPattern": [],
+          "activities": 239
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Kärlek: Beskriv vad kärlek är",
+          "activityPattern": [],
+          "activities": 240
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Arbete: Föreslå lösningar på jobbet",
+          "activityPattern": [],
+          "activities": 241
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Arbete: Beskriv ditt arbete",
+          "activityPattern": [],
+          "activities": 242
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Arbete: Be om hjälp på jobbet",
+          "activityPattern": [],
+          "activities": 243
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Arbete: Beskriv dina arbetsmål",
+          "activityPattern": [],
+          "activities": 244
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Arbete: Ge råd om jobbet",
+          "activityPattern": [],
+          "activities": 245
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Fotboll: Beskriv din tränare",
+          "activityPattern": [],
+          "activities": 246
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Fotboll: Beskriv ett fotbollsstraff",
+          "activityPattern": [],
+          "activities": 247
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Fotboll: Uppmuntra lagkamrater",
+          "activityPattern": [],
+          "activities": 248
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Fotboll: Beskriv en fotbollsmatch",
+          "activityPattern": [],
+          "activities": 249
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Fotboll: Prata om att rädda straffar",
+          "activityPattern": [],
+          "activities": 250
+        }
+      ]
+    },
+    {
+      "sectionIndex": 6,
+      "unitCount": 250,
+      "title": ":",
+      "rawTitle": "CEFR B1:",
+      "cefr": "B1",
+      "units": [
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Accessoar: Jämför olika accessoarer",
+          "activityPattern": [],
+          "activities": 1
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Accessoar: Välj en accessoar",
+          "activityPattern": [],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Accessoar: Prata om skosnören",
+          "activityPattern": [],
+          "activities": 3
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Accessoar: Beskriv en accessoar",
+          "activityPattern": [],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Accessoar: Fråga om andras stil",
+          "activityPattern": [],
+          "activities": 5
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Hygien: Be om hygienprodukter",
+          "activityPattern": [],
+          "activities": 6
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Hygien: Fråga om rakprodukter",
+          "activityPattern": [],
+          "activities": 7
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Hygien: Be om tips för rakning",
+          "activityPattern": [],
+          "activities": 8
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Hygien: Beskriv din nagelrutin",
+          "activityPattern": [],
+          "activities": 9
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Hygien: Beskriv dina hygienvanor",
+          "activityPattern": [],
+          "activities": 10
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Kläder: Visa vad du har köpt",
+          "activityPattern": [],
+          "activities": 11
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Kläder: Beskriv dina kläder",
+          "activityPattern": [],
+          "activities": 12
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Kläder: Fråga om reor",
+          "activityPattern": [],
+          "activities": 13
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Kläder: Fråga om accessoarer",
+          "activityPattern": [],
+          "activities": 14
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Kläder: Beskriv kläder du gillar",
+          "activityPattern": [],
+          "activities": 15
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Garanti: Fråga om garanti",
+          "activityPattern": [],
+          "activities": 16
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Garanti: Förklara vad som hänt",
+          "activityPattern": [],
+          "activities": 17
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Garanti: Beskriv en skada",
+          "activityPattern": [],
+          "activities": 18
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Garanti: Beskriv ett garantiärende",
+          "activityPattern": [],
+          "activities": 19
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Garanti: Förklara ett problem med varan",
+          "activityPattern": [],
+          "activities": 20
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Restaurang: Beställ mat och dryck",
+          "activityPattern": [],
+          "activities": 21
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Restaurang: Be om ett bord",
+          "activityPattern": [],
+          "activities": 22
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Restaurang: Beställ mat till bordet",
+          "activityPattern": [],
+          "activities": 23
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Restaurang: Be om något vid bordet",
+          "activityPattern": [],
+          "activities": 24
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Restaurang: Beställ dryck och mat",
+          "activityPattern": [],
+          "activities": 25
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Butiken: Be om hjälp i butiken",
+          "activityPattern": [],
+          "activities": 26
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Butiken: Fråga efter hjälp i butiken",
+          "activityPattern": [],
+          "activities": 27
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Butiken: Be om återbetalning",
+          "activityPattern": [],
+          "activities": 28
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Butiken: Fråga efter kvittot",
+          "activityPattern": [],
+          "activities": 29
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Butiken: Fråga om produkter",
+          "activityPattern": [],
+          "activities": 30
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Reklamation: Lämna in ett klagomål",
+          "activityPattern": [],
+          "activities": 31
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Reklamation: Reklamera en vara",
+          "activityPattern": [],
+          "activities": 32
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Reklamation: Beskriv problemet med varan",
+          "activityPattern": [],
+          "activities": 33
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Reklamation: Reklamera trasig vara",
+          "activityPattern": [],
+          "activities": 34
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Reklamation: Byt ut en vara",
+          "activityPattern": [],
+          "activities": 35
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Vardag: Fråga om andras erfarenheter",
+          "activityPattern": [],
+          "activities": 36
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Vardag: Fråga om någons syskon",
+          "activityPattern": [],
+          "activities": 37
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Vardag: Berätta om dina vanor",
+          "activityPattern": [],
+          "activities": 38
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Vardag: Beskriv ditt område",
+          "activityPattern": [],
+          "activities": 39
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Vardag: Be om dagens rätt",
+          "activityPattern": [],
+          "activities": 40
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Djur: Beskriv djur du har sett",
+          "activityPattern": [],
+          "activities": 41
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Djur: Beskriv djur i naturen",
+          "activityPattern": [],
+          "activities": 42
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Djur: Beskriv hotade djur",
+          "activityPattern": [],
+          "activities": 43
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Djur: Beskriv olika djur",
+          "activityPattern": [],
+          "activities": 44
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Djur: Ställ frågor om djur",
+          "activityPattern": [],
+          "activities": 45
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Konstliv: Beskriv en presentatör",
+          "activityPattern": [],
+          "activities": 46
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Konstliv: Jämför utställningar",
+          "activityPattern": [],
+          "activities": 47
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Konstliv: Fråga om konstpriser",
+          "activityPattern": [],
+          "activities": 48
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Konstliv: Reagera på applåder",
+          "activityPattern": [],
+          "activities": 49
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Konstliv: Diskutera balett och film",
+          "activityPattern": [],
+          "activities": 50
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Flygresa: Berätta om din flygresa",
+          "activityPattern": [],
+          "activities": 51
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Flygresa: Beskriv din flygresa",
+          "activityPattern": [],
+          "activities": 52
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Flygresa: Fråga om incheckning",
+          "activityPattern": [],
+          "activities": 53
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Flygresa: Uttryck känslor inför resor",
+          "activityPattern": [],
+          "activities": 54
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Flygresa: Jämför olika flygupplevelser",
+          "activityPattern": [],
+          "activities": 55
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Debatt: Håll med eller säg emot",
+          "activityPattern": [],
+          "activities": 56
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Debatt: Reagera på argument",
+          "activityPattern": [],
+          "activities": 57
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Debatt: Uttryck dina åsikter",
+          "activityPattern": [],
+          "activities": 58
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Debatt: Svara på andras argument",
+          "activityPattern": [],
+          "activities": 59
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Debatt: Säg vad du tycker",
+          "activityPattern": [],
+          "activities": 60
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Jobb: Fråga om företaget",
+          "activityPattern": [],
+          "activities": 61
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Jobb: Fråga om arbetsuppgifter",
+          "activityPattern": [],
+          "activities": 62
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Jobb: Fråga om lön",
+          "activityPattern": [],
+          "activities": 63
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Jobb: Berätta om din arbetsplats",
+          "activityPattern": [],
+          "activities": 64
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Jobb: Beskriv ditt jobb",
+          "activityPattern": [],
+          "activities": 65
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Relation: Visa omtanke",
+          "activityPattern": [],
+          "activities": 66
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Relation: Hantera ilska",
+          "activityPattern": [],
+          "activities": 67
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Relation: Prata om löften",
+          "activityPattern": [],
+          "activities": 68
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Relation: Uttryck förvirring",
+          "activityPattern": [],
+          "activities": 69
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Relation: Beskriv en relation",
+          "activityPattern": [],
+          "activities": 70
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Relationer: Ge råd om relationer",
+          "activityPattern": [],
+          "activities": 71
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Relationer: Ge råd till en vän",
+          "activityPattern": [],
+          "activities": 72
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Relationer: Beskriv dina relationer",
+          "activityPattern": [],
+          "activities": 73
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Relationer: Uttryck åsikter om äktenskap",
+          "activityPattern": [],
+          "activities": 74
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Relationer: Berätta om glada stunder",
+          "activityPattern": [],
+          "activities": 75
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Hälsa: Fråga om barnets vikt",
+          "activityPattern": [],
+          "activities": 76
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Hälsa: Beskriv symtom",
+          "activityPattern": [],
+          "activities": 77
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Hälsa: Beskriv din hälsa",
+          "activityPattern": [],
+          "activities": 78
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Hälsa: Beskriv dina symtom",
+          "activityPattern": [],
+          "activities": 79
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Hälsa: Be om råd om hälsa",
+          "activityPattern": [],
+          "activities": 80
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Företag: Beskriv ett företag",
+          "activityPattern": [],
+          "activities": 81
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Företag: Beskriv företagets ekonomi",
+          "activityPattern": [],
+          "activities": 82
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Företag: Beskriv företagets resurser",
+          "activityPattern": [],
+          "activities": 83
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Företag: Berätta om ett företag",
+          "activityPattern": [],
+          "activities": 84
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Företag: Beskriv företagets utrustning",
+          "activityPattern": [],
+          "activities": 85
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Nödfall: Ge råd vid en nödsituation",
+          "activityPattern": [],
+          "activities": 86
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Nödfall: Beskriv en nödsituation",
+          "activityPattern": [],
+          "activities": 87
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Nödfall: Be om hjälp i nödfall",
+          "activityPattern": [],
+          "activities": 88
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Nödfall: Be om medicinsk hjälp",
+          "activityPattern": [],
+          "activities": 89
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Nödfall: Beskriv skador och symtom",
+          "activityPattern": [],
+          "activities": 90
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Tack: Tacka för presenter",
+          "activityPattern": [],
+          "activities": 91
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Tack: Visa uppskattning",
+          "activityPattern": [],
+          "activities": 92
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Tack: Uttryck tacksamhet",
+          "activityPattern": [],
+          "activities": 93
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Tack: Tacka någon för hjälpen",
+          "activityPattern": [],
+          "activities": 94
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Tack: Visa uppskattning",
+          "activityPattern": [],
+          "activities": 95
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Trafik: Beskriv trafiksituationer",
+          "activityPattern": [],
+          "activities": 96
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Trafik: Be om vägbeskrivning",
+          "activityPattern": [],
+          "activities": 97
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Trafik: Föreslå en mötesplats",
+          "activityPattern": [],
+          "activities": 98
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Trafik: Ge väganvisningar",
+          "activityPattern": [],
+          "activities": 99
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Trafik: Beskriv trafikregler",
+          "activityPattern": [],
+          "activities": 100
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Studier: Beskriv dina studier",
+          "activityPattern": [],
+          "activities": 101
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Studier: Prata om dina studier",
+          "activityPattern": [],
+          "activities": 102
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Studier: Berätta hur det går",
+          "activityPattern": [],
+          "activities": 103
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Studier: Berätta om ett prov",
+          "activityPattern": [],
+          "activities": 104
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Studier: Beskriv din skolgång",
+          "activityPattern": [],
+          "activities": 105
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Brott: Beskriv en brottsplats",
+          "activityPattern": [],
+          "activities": 106
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Brott: Beskriv ett brott",
+          "activityPattern": [],
+          "activities": 107
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Brott: Beskriv brottet",
+          "activityPattern": [],
+          "activities": 108
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Brott: Berätta vad som hände",
+          "activityPattern": [],
+          "activities": 109
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Brott: Fråga om vittnen",
+          "activityPattern": [],
+          "activities": 110
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Mat: Beskriv din frukost",
+          "activityPattern": [],
+          "activities": 111
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Mat: Berätta om dina favoriträtter",
+          "activityPattern": [],
+          "activities": 112
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Mat: Beskriv hemlagad mat",
+          "activityPattern": [],
+          "activities": 113
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Mat: Beskriv din favoritmat",
+          "activityPattern": [],
+          "activities": 114
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Mat: Beskriv smaker",
+          "activityPattern": [],
+          "activities": 115
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Segrar: Berätta om en seger",
+          "activityPattern": [],
+          "activities": 116
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Segrar: Fira en vinst",
+          "activityPattern": [],
+          "activities": 117
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Segrar: Fira en vinst",
+          "activityPattern": [],
+          "activities": 118
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Segrar: Trösta en kompis",
+          "activityPattern": [],
+          "activities": 119
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Segrar: Beskriv en seger",
+          "activityPattern": [],
+          "activities": 120
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Hemmet: Be om hjälp hemma",
+          "activityPattern": [],
+          "activities": 121
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Hemmet: Berätta om ditt hem",
+          "activityPattern": [],
+          "activities": 122
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Hemmet: Beskriv ditt hem",
+          "activityPattern": [],
+          "activities": 123
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Hemmet: Beskriv hur du städar hemma",
+          "activityPattern": [],
+          "activities": 124
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Hemmet: Beskriv problem hemma",
+          "activityPattern": [],
+          "activities": 125
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Bostad: Fråga om hyresvillkor",
+          "activityPattern": [],
+          "activities": 126
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Bostad: Beskriv bostaden",
+          "activityPattern": [],
+          "activities": 127
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Bostad: Beskriv din bostad",
+          "activityPattern": [],
+          "activities": 128
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Bostad: Beskriv ditt boende",
+          "activityPattern": [],
+          "activities": 129
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Bostad: Beskriv ditt hem",
+          "activityPattern": [],
+          "activities": 130
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Vänskap: Beskriv dina vänner",
+          "activityPattern": [],
+          "activities": 131
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Vänskap: Berätta om vänner",
+          "activityPattern": [],
+          "activities": 132
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Vänskap: Dela med dig av hemligheter",
+          "activityPattern": [],
+          "activities": 133
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Vänskap: Beskriv en vän",
+          "activityPattern": [],
+          "activities": 134
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Vänskap: Berätta om roliga minnen",
+          "activityPattern": [],
+          "activities": 135
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Grönsaker: Beskriv olika grönsaker",
+          "activityPattern": [],
+          "activities": 136
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Grönsaker: Be om grönsaker i affären",
+          "activityPattern": [],
+          "activities": 137
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Grönsaker: Berätta om grönsaker",
+          "activityPattern": [],
+          "activities": 138
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Grönsaker: Prata om smaker",
+          "activityPattern": [],
+          "activities": 139
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Grönsaker: Beskriv grönsaker",
+          "activityPattern": [],
+          "activities": 140
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Enheter: Fråga om wifi och signal",
+          "activityPattern": [],
+          "activities": 141
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Enheter: Be om hjälp med mobilen",
+          "activityPattern": [],
+          "activities": 142
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Enheter: Berätta vad din enhet kan göra",
+          "activityPattern": [],
+          "activities": 143
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Enheter: Beskriv din mobil",
+          "activityPattern": [],
+          "activities": 144
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Enheter: Dela filer mellan enheter",
+          "activityPattern": [],
+          "activities": 145
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Reparation: Beskriv en reparation",
+          "activityPattern": [],
+          "activities": 146
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Reparation: Föreslå en lösning",
+          "activityPattern": [],
+          "activities": 147
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Reparation: Berätta om en reparation",
+          "activityPattern": [],
+          "activities": 148
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Reparation: Fråga om arbetskostnad",
+          "activityPattern": [],
+          "activities": 149
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Reparation: Förklara hur du byter kablar",
+          "activityPattern": [],
+          "activities": 150
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Inredning: Beskriv ditt hem",
+          "activityPattern": [],
+          "activities": 151
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Inredning: Beskriv möbler och mått",
+          "activityPattern": [],
+          "activities": 152
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Inredning: Förklara hur du inreder",
+          "activityPattern": [],
+          "activities": 153
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Inredning: Beskriv ditt vardagsrum",
+          "activityPattern": [],
+          "activities": 154
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Inredning: Beskriv din inredning",
+          "activityPattern": [],
+          "activities": 155
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Vård: Beskriv din vårdplan",
+          "activityPattern": [],
+          "activities": 156
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Vård: Fråga om sjukförsäkring",
+          "activityPattern": [],
+          "activities": 157
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Vård: Förklara dina allergier",
+          "activityPattern": [],
+          "activities": 158
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Vård: Fråga om medicinsk hjälp",
+          "activityPattern": [],
+          "activities": 159
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Vård: Fråga om mediciner",
+          "activityPattern": [],
+          "activities": 160
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Kändisar: Berätta om en kändis",
+          "activityPattern": [],
+          "activities": 161
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Kändisar: Beskriv en kändis",
+          "activityPattern": [],
+          "activities": 162
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Kändisar: Ge din åsikt om kändisar",
+          "activityPattern": [],
+          "activities": 163
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Kändisar: Ställ frågor om kändisar",
+          "activityPattern": [],
+          "activities": 164
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Kändisar: Diskutera varför folk blir kända",
+          "activityPattern": [],
+          "activities": 165
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Högtider: Beskriv en högtid",
+          "activityPattern": [],
+          "activities": 166
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Högtider: Berätta om dina högtider",
+          "activityPattern": [],
+          "activities": 167
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Högtider: Beskriv firandet utomhus",
+          "activityPattern": [],
+          "activities": 168
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Högtider: Beskriv festtraditioner",
+          "activityPattern": [],
+          "activities": 169
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Högtider: Dela högtidsminnen",
+          "activityPattern": [],
+          "activities": 170
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Ledare: Beskriv en ledare",
+          "activityPattern": [],
+          "activities": 171
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Ledare: Presentera en ambassadör",
+          "activityPattern": [],
+          "activities": 172
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Ledare: Berätta om en president",
+          "activityPattern": [],
+          "activities": 173
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Ledare: Beskriv deras beslut",
+          "activityPattern": [],
+          "activities": 174
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Ledare: Sammanfatta en ledares åsikt",
+          "activityPattern": [],
+          "activities": 175
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Natur: Berätta om dina växter",
+          "activityPattern": [],
+          "activities": 176
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Natur: Berätta om dina odlingar",
+          "activityPattern": [],
+          "activities": 177
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Natur: Beskriv väder och klimat",
+          "activityPattern": [],
+          "activities": 178
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Natur: Beskriv vädret",
+          "activityPattern": [],
+          "activities": 179
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Natur: Berätta om naturkatastrofer",
+          "activityPattern": [],
+          "activities": 180
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Erbjudande: Beskriv ett erbjudande",
+          "activityPattern": [],
+          "activities": 181
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Erbjudande: Ge ett köptips",
+          "activityPattern": [],
+          "activities": 182
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Erbjudande: Fråga om erbjudanden",
+          "activityPattern": [],
+          "activities": 183
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Erbjudande: Tipsa om en produkt",
+          "activityPattern": [],
+          "activities": 184
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Erbjudande: Svara på ett erbjudande",
+          "activityPattern": [],
+          "activities": 185
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Recept: Beskriv ett recept",
+          "activityPattern": [],
+          "activities": 186
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Recept: Ge tips om ingredienser",
+          "activityPattern": [],
+          "activities": 187
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Recept: Berätta hur du lagar mat",
+          "activityPattern": [],
+          "activities": 188
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Recept: Berätta om ett recept",
+          "activityPattern": [],
+          "activities": 189
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Recept: Ge tips för matlagning",
+          "activityPattern": [],
+          "activities": 190
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Nyheter: Prata om nyheter",
+          "activityPattern": [],
+          "activities": 191
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Nyheter: Beskriv politiska händelser",
+          "activityPattern": [],
+          "activities": 192
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Nyheter: Berätta om en händelse",
+          "activityPattern": [],
+          "activities": 193
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Nyheter: Beskriv nyhetsartiklar",
+          "activityPattern": [],
+          "activities": 194
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Nyheter: Dela din åsikt om nyheter",
+          "activityPattern": [],
+          "activities": 195
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Vardagen: Berätta om din vardag",
+          "activityPattern": [],
+          "activities": 196
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Vardagen: Berätta om dina vardagsrutiner",
+          "activityPattern": [],
+          "activities": 197
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Vardagen: Dela dina erfarenheter",
+          "activityPattern": [],
+          "activities": 198
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Vardagen: Beskriv vad du gör på fritiden",
+          "activityPattern": [],
+          "activities": 199
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Vardagen: Beskriv dagliga rutiner",
+          "activityPattern": [],
+          "activities": 200
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Jobb: Beskriv ditt arbete",
+          "activityPattern": [],
+          "activities": 201
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Jobb: Beskriv ett jobb",
+          "activityPattern": [],
+          "activities": 202
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Jobb: Beskriv ditt drömjobb",
+          "activityPattern": [],
+          "activities": 203
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Jobb: Beskriv olika jobb",
+          "activityPattern": [],
+          "activities": 204
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Jobb: Jämför olika yrken",
+          "activityPattern": [],
+          "activities": 205
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Grannar: Beskriv dina grannar",
+          "activityPattern": [],
+          "activities": 206
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Grannar: Dela åsikter om grannar",
+          "activityPattern": [],
+          "activities": 207
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Grannar: Berätta om vad grannarna gör",
+          "activityPattern": [],
+          "activities": 208
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Grannar: Berätta om grannarnas djur",
+          "activityPattern": [],
+          "activities": 209
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Grannar: Reagera på grannars beteende",
+          "activityPattern": [],
+          "activities": 210
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Vanor: Beskriv dina vanor",
+          "activityPattern": [],
+          "activities": 211
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Vanor: Prata om förväntningar",
+          "activityPattern": [],
+          "activities": 212
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Vanor: Berätta om dina vanor",
+          "activityPattern": [],
+          "activities": 213
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Vanor: Föreslå en ny vana",
+          "activityPattern": [],
+          "activities": 214
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Vanor: Berätta om hur du slappnar av",
+          "activityPattern": [],
+          "activities": 215
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Sjukdom: Beskriv symtom på sjukdom",
+          "activityPattern": [],
+          "activities": 216
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Sjukdom: Beskriv symtom",
+          "activityPattern": [],
+          "activities": 217
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Sjukdom: Beskriv dina symtom",
+          "activityPattern": [],
+          "activities": 218
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Sjukdom: Beskriv en skada",
+          "activityPattern": [],
+          "activities": 219
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Sjukdom: Ge råd vid sjukdom",
+          "activityPattern": [],
+          "activities": 220
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Brott: Beskriv ett brott",
+          "activityPattern": [],
+          "activities": 221
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Brott: Berätta om en misstänkt",
+          "activityPattern": [],
+          "activities": 222
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Brott: Berätta om ett brott",
+          "activityPattern": [],
+          "activities": 223
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Brott: Förklara vad som hände",
+          "activityPattern": [],
+          "activities": 224
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Brott: Uttryck misstankar",
+          "activityPattern": [],
+          "activities": 225
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Ögonblick: Beskriv oväntade ögonblick",
+          "activityPattern": [],
+          "activities": 226
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Ögonblick: Beskriv roliga ögonblick",
+          "activityPattern": [],
+          "activities": 227
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Ögonblick: Beskriv dina bästa resminnen",
+          "activityPattern": [],
+          "activities": 228
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Ögonblick: Uttryck din förvåning",
+          "activityPattern": [],
+          "activities": 229
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Ögonblick: Berätta om ett speciellt ögonblick",
+          "activityPattern": [],
+          "activities": 230
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Skolan: Berätta om förskolan",
+          "activityPattern": [],
+          "activities": 231
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Skolan: Beskriv din skoldag",
+          "activityPattern": [],
+          "activities": 232
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Skolan: Berätta om dina lektioner",
+          "activityPattern": [],
+          "activities": 233
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Skolan: Prata om skolämnen",
+          "activityPattern": [],
+          "activities": 234
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Skolan: Berätta om klassrummet",
+          "activityPattern": [],
+          "activities": 235
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Vänner: Beskriv en väns resa",
+          "activityPattern": [],
+          "activities": 236
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Vänner: Beskriv dina vänner",
+          "activityPattern": [],
+          "activities": 237
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Vänner: Beskriv hur din vän mår",
+          "activityPattern": [],
+          "activities": 238
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Vänner: Prata om vad vänner gör",
+          "activityPattern": [],
+          "activities": 239
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Vänner: Berätta om dina vänner",
+          "activityPattern": [],
+          "activities": 240
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Husdjur: Beskriv ditt husdjur",
+          "activityPattern": [],
+          "activities": 241
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Husdjur: Berätta om djur du är rädd för",
+          "activityPattern": [],
+          "activities": 242
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Husdjur: Förklara varför du gillar djur",
+          "activityPattern": [],
+          "activities": 243
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Husdjur: Berätta om dina husdjur",
+          "activityPattern": [],
+          "activities": 244
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Husdjur: Berätta varför du gillar husdjur",
+          "activityPattern": [],
+          "activities": 245
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Samtal: Uttryck dina åsikter",
+          "activityPattern": [],
+          "activities": 246
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Samtal: Dela med dig av dina känslor",
+          "activityPattern": [],
+          "activities": 247
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Samtal: Berätta om en hemlighet",
+          "activityPattern": [],
+          "activities": 248
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Samtal: Berätta vad du har hört",
+          "activityPattern": [],
+          "activities": 249
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Samtal: Reagera på nyheter",
+          "activityPattern": [],
+          "activities": 250
+        }
+      ]
+    },
+    {
+      "sectionIndex": 7,
+      "unitCount": 180,
+      "title": ":",
+      "rawTitle": "CEFR B2:",
+      "cefr": "B2",
+      "units": [
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Regler: Fråga om regler",
+          "activityPattern": [],
+          "activities": 1
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Regler: Beskriv en regel",
+          "activityPattern": [],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Regler: Svara på förfrågningar",
+          "activityPattern": [],
+          "activities": 3
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Regler: Be om lov",
+          "activityPattern": [],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Regler: Förklara en regel",
+          "activityPattern": [],
+          "activities": 5
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Råd: Ge hälsoråd",
+          "activityPattern": [],
+          "activities": 6
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Råd: Uppmuntra någon att vila",
+          "activityPattern": [],
+          "activities": 7
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Råd: Berätta om erfarenheter",
+          "activityPattern": [],
+          "activities": 8
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Råd: Dela med dig av tips",
+          "activityPattern": [],
+          "activities": 9
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Råd: Ge råd om hälsa",
+          "activityPattern": [],
+          "activities": 10
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Hus: Tipsa om bostadsbyte",
+          "activityPattern": [],
+          "activities": 11
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Hus: Beskriv ditt drömhus",
+          "activityPattern": [],
+          "activities": 12
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Hus: Ge din åsikt om renovering",
+          "activityPattern": [],
+          "activities": 13
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Hus: Föreslå förbättringar i huset",
+          "activityPattern": [],
+          "activities": 14
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Hus: Prata om nya möbler",
+          "activityPattern": [],
+          "activities": 15
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Teamwork: Be om hjälp i gruppen",
+          "activityPattern": [],
+          "activities": 16
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Teamwork: Be om hjälp med uppgifter",
+          "activityPattern": [],
+          "activities": 17
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Teamwork: Beskriv hur ni samarbetar",
+          "activityPattern": [],
+          "activities": 18
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Teamwork: Beskriv ditt lagarbete",
+          "activityPattern": [],
+          "activities": 19
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Teamwork: Bestäm mål tillsammans",
+          "activityPattern": [],
+          "activities": 20
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Symptom: Beskriv dina symtom",
+          "activityPattern": [],
+          "activities": 21
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Symptom: Fråga om vaccinering",
+          "activityPattern": [],
+          "activities": 22
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Symptom: Fråga om medicin",
+          "activityPattern": [],
+          "activities": 23
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Symptom: Berätta om lindriga besvär",
+          "activityPattern": [],
+          "activities": 24
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Symptom: Fråga om biverkningar",
+          "activityPattern": [],
+          "activities": 25
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Bilverkstad: Beskriv bilproblem",
+          "activityPattern": [],
+          "activities": 26
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Bilverkstad: Fråga om verkstadens tjänster",
+          "activityPattern": [],
+          "activities": 27
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Bilverkstad: Be om kostnadsförslag",
+          "activityPattern": [],
+          "activities": 28
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Bilverkstad: Be om hjälp med bilen",
+          "activityPattern": [],
+          "activities": 29
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Bilverkstad: Berätta om bilreparationer",
+          "activityPattern": [],
+          "activities": 30
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Karriär: Beskriv dina karriärmål",
+          "activityPattern": [],
+          "activities": 31
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Karriär: Jämför olika yrken",
+          "activityPattern": [],
+          "activities": 32
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Karriär: Beskriv olika yrken",
+          "activityPattern": [],
+          "activities": 33
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Karriär: Beskriv din drömkarriär",
+          "activityPattern": [],
+          "activities": 34
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Karriär: Berätta om din karriär",
+          "activityPattern": [],
+          "activities": 35
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Familj: Berätta om din familj",
+          "activityPattern": [],
+          "activities": 36
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Familj: Beskriv en släkting",
+          "activityPattern": [],
+          "activities": 37
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Familj: Beskriv släktingars bakgrund",
+          "activityPattern": [],
+          "activities": 38
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Familj: Beskriv familjemedlemmar",
+          "activityPattern": [],
+          "activities": 39
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Familj: Beskriv din familj",
+          "activityPattern": [],
+          "activities": 40
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Valet: Fråga om valresultat",
+          "activityPattern": [],
+          "activities": 41
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Valet: Beskriv kampanjstrategier",
+          "activityPattern": [],
+          "activities": 42
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Valet: Beskriv valkampanjen",
+          "activityPattern": [],
+          "activities": 43
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Valet: Beskriv valresultatet",
+          "activityPattern": [],
+          "activities": 44
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Valet: Förklara varför ni vann",
+          "activityPattern": [],
+          "activities": 45
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Miljö: Beskriv miljöproblem",
+          "activityPattern": [],
+          "activities": 46
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Miljö: Ge orsaker till klimatförändring",
+          "activityPattern": [],
+          "activities": 47
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Miljö: Föreslå lösningar",
+          "activityPattern": [],
+          "activities": 48
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Miljö: Föreslå miljövänliga idéer",
+          "activityPattern": [],
+          "activities": 49
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Miljö: Beskriv miljöförändringar",
+          "activityPattern": [],
+          "activities": 50
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Ansvar: Visa ansvar i vardagen",
+          "activityPattern": [],
+          "activities": 51
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Ansvar: Beskriv ditt ansvar",
+          "activityPattern": [],
+          "activities": 52
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Ansvar: Kommentera andras ansvar",
+          "activityPattern": [],
+          "activities": 53
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Ansvar: Ge råd om säkerhet",
+          "activityPattern": [],
+          "activities": 54
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Ansvar: Ge råd om ansvar",
+          "activityPattern": [],
+          "activities": 55
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Familjeliv: Prata om att adoptera barn",
+          "activityPattern": [],
+          "activities": 56
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Familjeliv: Beskriv vardagen med barn",
+          "activityPattern": [],
+          "activities": 57
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Familjeliv: Be om hjälp hemma",
+          "activityPattern": [],
+          "activities": 58
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Familjeliv: Beskriv barnets utveckling",
+          "activityPattern": [],
+          "activities": 59
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Familjeliv: Berätta om ditt familjeliv",
+          "activityPattern": [],
+          "activities": 60
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Myter: Berätta om en myt",
+          "activityPattern": [],
+          "activities": 61
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Myter: Beskriv en vidskepelse",
+          "activityPattern": [],
+          "activities": 62
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Myter: Beskriv gamla huskurer",
+          "activityPattern": [],
+          "activities": 63
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Myter: Beskriv huskurer",
+          "activityPattern": [],
+          "activities": 64
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Myter: Beskriv en myt",
+          "activityPattern": [],
+          "activities": 65
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Försoning: Förklara ett missförstånd",
+          "activityPattern": [],
+          "activities": 66
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Försoning: Förklara vad som hände",
+          "activityPattern": [],
+          "activities": 67
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Försoning: Be om förlåtelse",
+          "activityPattern": [],
+          "activities": 68
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Försoning: Beskriv dina känslor",
+          "activityPattern": [],
+          "activities": 69
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Försoning: Uttryck ånger",
+          "activityPattern": [],
+          "activities": 70
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Studier: Fråga om prov och betyg",
+          "activityPattern": [],
+          "activities": 71
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Studier: Säg om något är oklart",
+          "activityPattern": [],
+          "activities": 72
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Studier: Svara på frågor om studier",
+          "activityPattern": [],
+          "activities": 73
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Studier: Beskriv dina studier",
+          "activityPattern": [],
+          "activities": 74
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Studier: Ge råd om studier",
+          "activityPattern": [],
+          "activities": 75
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Minnen: Dela barndomsminnen",
+          "activityPattern": [],
+          "activities": 76
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Minnen: Berätta om ett barndomsminne",
+          "activityPattern": [],
+          "activities": 77
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Minnen: Berätta om gamla minnen",
+          "activityPattern": [],
+          "activities": 78
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Minnen: Beskriv en strandkväll",
+          "activityPattern": [],
+          "activities": 79
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Minnen: Dela roliga minnen",
+          "activityPattern": [],
+          "activities": 80
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Kulturer: Berätta om din kultur",
+          "activityPattern": [],
+          "activities": 81
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Kulturer: Dela ett recept",
+          "activityPattern": [],
+          "activities": 82
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Kulturer: Prata om traditioner",
+          "activityPattern": [],
+          "activities": 83
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Kulturer: Dela en kulturupplevelse",
+          "activityPattern": [],
+          "activities": 84
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Kulturer: Reagera på ovanliga maträtter",
+          "activityPattern": [],
+          "activities": 85
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Jobbet: Planera arbetsmöten",
+          "activityPattern": [],
+          "activities": 86
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Jobbet: Beskriv din arbetsdag",
+          "activityPattern": [],
+          "activities": 87
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Jobbet: Beskriv din roll på jobbet",
+          "activityPattern": [],
+          "activities": 88
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Jobbet: Fråga om månadsrapporten",
+          "activityPattern": [],
+          "activities": 89
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Jobbet: Beskriv ett jobberbjudande",
+          "activityPattern": [],
+          "activities": 90
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Byråkrati: Förklara en administrativ process",
+          "activityPattern": [],
+          "activities": 91
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Byråkrati: Beskriv ett byråkratiskt problem",
+          "activityPattern": [],
+          "activities": 92
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Byråkrati: Boka tid på konsulatet",
+          "activityPattern": [],
+          "activities": 93
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Byråkrati: Beskriv ett ärende",
+          "activityPattern": [],
+          "activities": 94
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Byråkrati: Be om hjälp med intyg",
+          "activityPattern": [],
+          "activities": 95
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Skador: Beskriv dina skador",
+          "activityPattern": [],
+          "activities": 96
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Skador: Beskriv en skada",
+          "activityPattern": [],
+          "activities": 97
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Skador: Förklara hur du skadade dig",
+          "activityPattern": [],
+          "activities": 98
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Skador: Berätta vad läkaren sa",
+          "activityPattern": [],
+          "activities": 99
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Skador: Beskriv symptom",
+          "activityPattern": [],
+          "activities": 100
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Huset: Beskriv huset",
+          "activityPattern": [],
+          "activities": 101
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Huset: Prata om problem hemma",
+          "activityPattern": [],
+          "activities": 102
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Huset: Beskriv problem i huset",
+          "activityPattern": [],
+          "activities": 103
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Huset: Fråga om skador i huset",
+          "activityPattern": [],
+          "activities": 104
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Huset: Förklara hur saker fungerar",
+          "activityPattern": [],
+          "activities": 105
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Känslor: Beskriv dina känslor",
+          "activityPattern": [],
+          "activities": 106
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Känslor: Uttryck hur du känner",
+          "activityPattern": [],
+          "activities": 107
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Känslor: Beskriv hur du känner",
+          "activityPattern": [],
+          "activities": 108
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Känslor: Dela dina tvivel",
+          "activityPattern": [],
+          "activities": 109
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Känslor: Uttryck dina känslor",
+          "activityPattern": [],
+          "activities": 110
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Dramatik: Beskriv handlingen",
+          "activityPattern": [],
+          "activities": 111
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Dramatik: Beskriv en rollfigur",
+          "activityPattern": [],
+          "activities": 112
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Dramatik: Beskriv en dramatisk scen",
+          "activityPattern": [],
+          "activities": 113
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Dramatik: Uttryck starka känslor",
+          "activityPattern": [],
+          "activities": 114
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Dramatik: Beskriv karaktärernas val",
+          "activityPattern": [],
+          "activities": 115
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Förändring: Beskriv hur någon förändrats",
+          "activityPattern": [],
+          "activities": 116
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Förändring: Beskriv förändringar i staden",
+          "activityPattern": [],
+          "activities": 117
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Förändring: Berätta om förändringar",
+          "activityPattern": [],
+          "activities": 118
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Förändring: Beskriv en förändring",
+          "activityPattern": [],
+          "activities": 119
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Förändring: Jämför då och nu",
+          "activityPattern": [],
+          "activities": 120
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Rutinen: Berätta om att komma för sent",
+          "activityPattern": [],
+          "activities": 121
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Rutinen: Beskriv din rutin",
+          "activityPattern": [],
+          "activities": 122
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Rutinen: Minska stress kring mat",
+          "activityPattern": [],
+          "activities": 123
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Rutinen: Uttryck vad som känns tråkigt",
+          "activityPattern": [],
+          "activities": 124
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Rutinen: Berätta om frustrerande dagar",
+          "activityPattern": [],
+          "activities": 125
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Fester: Berätta om en fest",
+          "activityPattern": [],
+          "activities": 126
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Fester: Reagera på kommentarer om dig",
+          "activityPattern": [],
+          "activities": 127
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Fester: Prata om jobbiga gäster",
+          "activityPattern": [],
+          "activities": 128
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Fester: Förklara vad som hände på festen",
+          "activityPattern": [],
+          "activities": 129
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Fester: Reagera på andras kommentarer",
+          "activityPattern": [],
+          "activities": 130
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Resan: Berätta om oväntade problem",
+          "activityPattern": [],
+          "activities": 131
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Resan: Berätta om resplanen",
+          "activityPattern": [],
+          "activities": 132
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Resan: Fråga om vägen",
+          "activityPattern": [],
+          "activities": 133
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Resan: Beskriv hotellupplevelsen",
+          "activityPattern": [],
+          "activities": 134
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Resan: Berätta om en misslyckad resa",
+          "activityPattern": [],
+          "activities": 135
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Kultur: Beskriv kulturella skillnader",
+          "activityPattern": [],
+          "activities": 136
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Kultur: Berätta om kulturvanor",
+          "activityPattern": [],
+          "activities": 137
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Kultur: Berätta om nya seder",
+          "activityPattern": [],
+          "activities": 138
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Kultur: Berätta om kulturella matvanor",
+          "activityPattern": [],
+          "activities": 139
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Kultur: Berätta om en kulturupplevelse",
+          "activityPattern": [],
+          "activities": 140
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Köket: Be om köksredskap",
+          "activityPattern": [],
+          "activities": 141
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Köket: Beskriv köksredskap",
+          "activityPattern": [],
+          "activities": 142
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Köket: Förklara hur du gör en smoothie",
+          "activityPattern": [],
+          "activities": 143
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Köket: Förklara hur du hackar lök",
+          "activityPattern": [],
+          "activities": 144
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Köket: Ge råd om disk och städ",
+          "activityPattern": [],
+          "activities": 145
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Tonårstid: Beskriv dina tonår",
+          "activityPattern": [],
+          "activities": 146
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Tonårstid: Beskriv hur du förändrats",
+          "activityPattern": [],
+          "activities": 147
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Tonårstid: Dela minnen från tonåren",
+          "activityPattern": [],
+          "activities": 148
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Tonårstid: Berätta om hinder du mött",
+          "activityPattern": [],
+          "activities": 149
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Tonårstid: Berätta om dina tonårsdrömmar",
+          "activityPattern": [],
+          "activities": 150
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Känslor: Beskriv dina känslor",
+          "activityPattern": [],
+          "activities": 151
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Känslor: Berätta hur du känner",
+          "activityPattern": [],
+          "activities": 152
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Känslor: Uttryck dina känslor",
+          "activityPattern": [],
+          "activities": 153
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Känslor: Berätta vad som stör dig",
+          "activityPattern": [],
+          "activities": 154
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Känslor: Prata om vad som gör dig glad",
+          "activityPattern": [],
+          "activities": 155
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Relation: Ge råd vid uppbrott",
+          "activityPattern": [],
+          "activities": 156
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Relation: Ge stöd vid sorg",
+          "activityPattern": [],
+          "activities": 157
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Relation: Prata om problem",
+          "activityPattern": [],
+          "activities": 158
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Relation: Beskriv en relation",
+          "activityPattern": [],
+          "activities": 159
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Relation: Skåla för vänskap",
+          "activityPattern": [],
+          "activities": 160
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Samtal: Uttryck din oenighet",
+          "activityPattern": [],
+          "activities": 161
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Samtal: Byt samtalsämne",
+          "activityPattern": [],
+          "activities": 162
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Samtal: Starta ett samtal",
+          "activityPattern": [],
+          "activities": 163
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Samtal: Återuppta samtalet",
+          "activityPattern": [],
+          "activities": 164
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Samtal: Planera nästa middag",
+          "activityPattern": [],
+          "activities": 165
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Katastrof: Beskriv vad som hände",
+          "activityPattern": [],
+          "activities": 166
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Katastrof: Beskriv vad du såg",
+          "activityPattern": [],
+          "activities": 167
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Katastrof: Uttryck oro för andra",
+          "activityPattern": [],
+          "activities": 168
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Katastrof: Fråga om skador",
+          "activityPattern": [],
+          "activities": 169
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Katastrof: Erbjud hjälp på platsen",
+          "activityPattern": [],
+          "activities": 170
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Syskon: Beskriv dina syskon",
+          "activityPattern": [],
+          "activities": 171
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Syskon: Reagera på syskons påhopp",
+          "activityPattern": [],
+          "activities": 172
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Syskon: Be om privatliv",
+          "activityPattern": [],
+          "activities": 173
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Syskon: Be om att låna saker",
+          "activityPattern": [],
+          "activities": 174
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Syskon: Säg förlåt till ditt syskon",
+          "activityPattern": [],
+          "activities": 175
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Matlagning: Ge tips till kocken",
+          "activityPattern": [],
+          "activities": 176
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Matlagning: Ge tips om matlagning",
+          "activityPattern": [],
+          "activities": 177
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Matlagning: Beskriv hur du lagar mat",
+          "activityPattern": [],
+          "activities": 178
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Matlagning: Förklara hur du kryddar maten",
+          "activityPattern": [],
+          "activities": 179
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Matlagning: Ge din åsikt om mat",
+          "activityPattern": [],
+          "activities": 180
+        }
+      ]
+    },
+    {
+      "sectionIndex": 8,
+      "unitCount": 180,
+      "title": ":",
+      "rawTitle": "CEFR B2:",
+      "cefr": "B2",
+      "units": [
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Tillstånd: Be om tillstånd",
+          "activityPattern": [],
+          "activities": 1
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Tillstånd: Be om lov",
+          "activityPattern": [],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Tillstånd: Förklara varför du säger nej",
+          "activityPattern": [],
+          "activities": 3
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Tillstånd: Be om lov på olika sätt",
+          "activityPattern": [],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Tillstånd: Säg nej tydligt",
+          "activityPattern": [],
+          "activities": 5
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Byggnad: Beskriv din byggidé",
+          "activityPattern": [],
+          "activities": 6
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Byggnad: Ge förslag på ändringar",
+          "activityPattern": [],
+          "activities": 7
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Byggnad: Beskriv byggnaden",
+          "activityPattern": [],
+          "activities": 8
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Byggnad: Beskriv byggmaterial",
+          "activityPattern": [],
+          "activities": 9
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Byggnad: Prata om byggmaterial",
+          "activityPattern": [],
+          "activities": 10
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Butik: Be om att få byta en vara",
+          "activityPattern": [],
+          "activities": 11
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Butik: Be om att få prata med ansvarig",
+          "activityPattern": [],
+          "activities": 12
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Butik: Fråga om butikens returregler",
+          "activityPattern": [],
+          "activities": 13
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Butik: Be om återbetalning",
+          "activityPattern": [],
+          "activities": 14
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Butik: Berätta om dålig service",
+          "activityPattern": [],
+          "activities": 15
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Nyheter: Berätta om nyheter",
+          "activityPattern": [],
+          "activities": 16
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Nyheter: Beskriv nya upptäckter",
+          "activityPattern": [],
+          "activities": 17
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Nyheter: Prata om roliga dagar",
+          "activityPattern": [],
+          "activities": 18
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Nyheter: Berätta om hållbara idéer",
+          "activityPattern": [],
+          "activities": 19
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Nyheter: Kommentera politiska nyheter",
+          "activityPattern": [],
+          "activities": 20
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Rättigheter: Fråga om rättvisa och orättvisor",
+          "activityPattern": [],
+          "activities": 21
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Rättigheter: Beskriv olika rättigheter",
+          "activityPattern": [],
+          "activities": 22
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Rättigheter: Berätta om orättvisor",
+          "activityPattern": [],
+          "activities": 23
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Rättigheter: Förklara jämställdhet",
+          "activityPattern": [],
+          "activities": 24
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Rättigheter: Beskriv rättigheter på jobbet",
+          "activityPattern": [],
+          "activities": 25
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Konst: Beskriv en konstnärs stil",
+          "activityPattern": [],
+          "activities": 26
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Konst: Berätta om konstverk",
+          "activityPattern": [],
+          "activities": 27
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Konst: Beskriv konstverk",
+          "activityPattern": [],
+          "activities": 28
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Konst: Beskriv konststilar",
+          "activityPattern": [],
+          "activities": 29
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Konst: Uttryck tankar om konst",
+          "activityPattern": [],
+          "activities": 30
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Brottning: Beskriv en brottningsmatch",
+          "activityPattern": [],
+          "activities": 31
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Brottning: Beskriv en maskerad brottare",
+          "activityPattern": [],
+          "activities": 32
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Brottning: Beskriv kända brottare",
+          "activityPattern": [],
+          "activities": 33
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Brottning: Beskriv brottarens klädsel",
+          "activityPattern": [],
+          "activities": 34
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Brottning: Jämför brottares styrka",
+          "activityPattern": [],
+          "activities": 35
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Matchen: Säg vad du tror om matchen",
+          "activityPattern": [],
+          "activities": 36
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Matchen: Beskriv matchens händelser",
+          "activityPattern": [],
+          "activities": 37
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Matchen: Beskriv spelarna",
+          "activityPattern": [],
+          "activities": 38
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Matchen: Beskriv spelets slut",
+          "activityPattern": [],
+          "activities": 39
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Matchen: Beskriv matchens resultat",
+          "activityPattern": [],
+          "activities": 40
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Regler: Beskriv reglerna hemma",
+          "activityPattern": [],
+          "activities": 41
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Regler: Förklara en regel",
+          "activityPattern": [],
+          "activities": 42
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Regler: Fråga om regler",
+          "activityPattern": [],
+          "activities": 43
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Regler: Prata om begränsningar",
+          "activityPattern": [],
+          "activities": 44
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Regler: Reagera på problem",
+          "activityPattern": [],
+          "activities": 45
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Utmaningar: Berätta om vardagsproblem",
+          "activityPattern": [],
+          "activities": 46
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Utmaningar: Beskriv dagens problem",
+          "activityPattern": [],
+          "activities": 47
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Utmaningar: Beskriv en utmaning",
+          "activityPattern": [],
+          "activities": 48
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Utmaningar: Berätta om en jobbig dag",
+          "activityPattern": [],
+          "activities": 49
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Utmaningar: Berätta om svårigheter",
+          "activityPattern": [],
+          "activities": 50
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Spel: Föreslå ett spel",
+          "activityPattern": [],
+          "activities": 51
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Spel: Beskriv dina spelpjäser",
+          "activityPattern": [],
+          "activities": 52
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Spel: Beskriv spelets regler",
+          "activityPattern": [],
+          "activities": 53
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Spel: Välj vilket spel du vill spela",
+          "activityPattern": [],
+          "activities": 54
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Spel: Håll med eller säg emot",
+          "activityPattern": [],
+          "activities": 55
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Brottet: Beskriv vad som hände",
+          "activityPattern": [],
+          "activities": 56
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Brottet: Beskriv misstänkta",
+          "activityPattern": [],
+          "activities": 57
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Brottet: Ange ett alibi",
+          "activityPattern": [],
+          "activities": 58
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Brottet: Ställ frågor om bevisen",
+          "activityPattern": [],
+          "activities": 59
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Brottet: Förklara vad som hände",
+          "activityPattern": [],
+          "activities": 60
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Mysterier: Berätta en spökhistoria",
+          "activityPattern": [],
+          "activities": 61
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Mysterier: Berätta om ett mysterium",
+          "activityPattern": [],
+          "activities": 62
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Mysterier: Berätta om en läskig upplevelse",
+          "activityPattern": [],
+          "activities": 63
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Mysterier: Berätta om en rädsla",
+          "activityPattern": [],
+          "activities": 64
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Mysterier: Berätta om mystiska platser",
+          "activityPattern": [],
+          "activities": 65
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Egenskaper: Berätta om dina styrkor",
+          "activityPattern": [],
+          "activities": 66
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Egenskaper: Beskriv dina egenskaper",
+          "activityPattern": [],
+          "activities": 67
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Egenskaper: Fråga om någons styrkor",
+          "activityPattern": [],
+          "activities": 68
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Egenskaper: Förklara vad som är viktigt",
+          "activityPattern": [],
+          "activities": 69
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Egenskaper: Svara på frågor om dig själv",
+          "activityPattern": [],
+          "activities": 70
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Fester: Beskriv bröllopsförberedelser",
+          "activityPattern": [],
+          "activities": 71
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Fester: Fråga om vem som saknas",
+          "activityPattern": [],
+          "activities": 72
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Fester: Berätta om en fest",
+          "activityPattern": [],
+          "activities": 73
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Fester: Beskriv stämningen på festen",
+          "activityPattern": [],
+          "activities": 74
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Fester: Beskriv en fest",
+          "activityPattern": [],
+          "activities": 75
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Fara: Beskriv farliga situationer",
+          "activityPattern": [],
+          "activities": 76
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Fara: Skaffa rätt utrustning",
+          "activityPattern": [],
+          "activities": 77
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Fara: Beskriv faror runt dig",
+          "activityPattern": [],
+          "activities": 78
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Fara: Berätta om farliga situationer",
+          "activityPattern": [],
+          "activities": 79
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Fara: Prata med en zombie",
+          "activityPattern": [],
+          "activities": 80
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Magiker: Beskriv en magikers trick",
+          "activityPattern": [],
+          "activities": 81
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Magiker: Presentera en magishow",
+          "activityPattern": [],
+          "activities": 82
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Magiker: Beskriv magiska trick",
+          "activityPattern": [],
+          "activities": 83
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Magiker: Förklara vad som händer",
+          "activityPattern": [],
+          "activities": 84
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Magiker: Fråga om magins hemligheter",
+          "activityPattern": [],
+          "activities": 85
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Fest: Jämför olika outfits",
+          "activityPattern": [],
+          "activities": 86
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Fest: Kommentera kläder och smink",
+          "activityPattern": [],
+          "activities": 87
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Fest: Beskriv festen",
+          "activityPattern": [],
+          "activities": 88
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Fest: Beskriv maten på festen",
+          "activityPattern": [],
+          "activities": 89
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Fest: Berätta om maten på festen",
+          "activityPattern": [],
+          "activities": 90
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Lycka: Beskriv vad som gör dig lycklig",
+          "activityPattern": [],
+          "activities": 91
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Lycka: Önska någon lycka till",
+          "activityPattern": [],
+          "activities": 92
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Lycka: Visa att du bryr dig",
+          "activityPattern": [],
+          "activities": 93
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Lycka: Beskriv hur du känner dig",
+          "activityPattern": [],
+          "activities": 94
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Lycka: Uttryck tacksamhet",
+          "activityPattern": [],
+          "activities": 95
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Husdjur: Beskriv ditt husdjur",
+          "activityPattern": [],
+          "activities": 96
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Husdjur: Berätta om husdjurets vanor",
+          "activityPattern": [],
+          "activities": 97
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Husdjur: Berätta om ett husdjur",
+          "activityPattern": [],
+          "activities": 98
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Husdjur: Beskriv vad ditt djur gör",
+          "activityPattern": [],
+          "activities": 99
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Husdjur: Beskriv ett favoritdjur",
+          "activityPattern": [],
+          "activities": 100
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Framtid: Beskriv dina framtidsplaner",
+          "activityPattern": [],
+          "activities": 101
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Framtid: Beskriv din framtid",
+          "activityPattern": [],
+          "activities": 102
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Framtid: Berätta om dina mål",
+          "activityPattern": [],
+          "activities": 103
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Framtid: Berätta om framtidsplaner",
+          "activityPattern": [],
+          "activities": 104
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Framtid: Dela dina drömmar",
+          "activityPattern": [],
+          "activities": 105
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Teknik: Berätta om trasiga prylar",
+          "activityPattern": [],
+          "activities": 106
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Teknik: Ge tips om enklare reparationer",
+          "activityPattern": [],
+          "activities": 107
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Teknik: Beskriv teknikproblem",
+          "activityPattern": [],
+          "activities": 108
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Teknik: Be om råd om teknik",
+          "activityPattern": [],
+          "activities": 109
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Teknik: Ställ frågor om teknik",
+          "activityPattern": [],
+          "activities": 110
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Projekt: Välj projektgrupp",
+          "activityPattern": [],
+          "activities": 111
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Projekt: Dela upp uppgifter",
+          "activityPattern": [],
+          "activities": 112
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Projekt: Fråga om någon är klar",
+          "activityPattern": [],
+          "activities": 113
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Projekt: Planera projektet",
+          "activityPattern": [],
+          "activities": 114
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Projekt: Planera vem som gör vad",
+          "activityPattern": [],
+          "activities": 115
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Träning: Beskriv din träning",
+          "activityPattern": [],
+          "activities": 116
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Träning: Beskriv dina träningsvanor",
+          "activityPattern": [],
+          "activities": 117
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Träning: Dela med dig av träningstips",
+          "activityPattern": [],
+          "activities": 118
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Träning: Berätta om din träning",
+          "activityPattern": [],
+          "activities": 119
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Träning: Ge tips om övningar",
+          "activityPattern": [],
+          "activities": 120
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Evenemang: Föreslå en aktivitet",
+          "activityPattern": [],
+          "activities": 121
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Evenemang: Berätta om ett evenemang",
+          "activityPattern": [],
+          "activities": 122
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Evenemang: Fråga vad som händer",
+          "activityPattern": [],
+          "activities": 123
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Evenemang: Föreslå ett evenemang",
+          "activityPattern": [],
+          "activities": 124
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Evenemang: Dela dina helgplaner",
+          "activityPattern": [],
+          "activities": 125
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Naturen: Planera naturutflykten",
+          "activityPattern": [],
+          "activities": 126
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Naturen: Fråga om vandringsleder",
+          "activityPattern": [],
+          "activities": 127
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Naturen: Beskriv naturupplevelser",
+          "activityPattern": [],
+          "activities": 128
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Naturen: Beskriv naturen runt dig",
+          "activityPattern": [],
+          "activities": 129
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Naturen: Tipsa om utflykter",
+          "activityPattern": [],
+          "activities": 130
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Politik: Beskriv politiska framsteg",
+          "activityPattern": [],
+          "activities": 131
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Politik: Reagera på motsägelser",
+          "activityPattern": [],
+          "activities": 132
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Politik: Uttryck åsikter om politik",
+          "activityPattern": [],
+          "activities": 133
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Politik: Presentera politiska förslag",
+          "activityPattern": [],
+          "activities": 134
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Politik: Reagera på politiska löften",
+          "activityPattern": [],
+          "activities": 135
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Busstreck: Beskriv barnens hyss",
+          "activityPattern": [],
+          "activities": 136
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Busstreck: Prata om vem som gjort det",
+          "activityPattern": [],
+          "activities": 137
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Busstreck: Beskriv ett busstreck",
+          "activityPattern": [],
+          "activities": 138
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Busstreck: Svara på anklagelser",
+          "activityPattern": [],
+          "activities": 139
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Busstreck: Berätta om ett hyss",
+          "activityPattern": [],
+          "activities": 140
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Bilar: Fråga om bilmodeller",
+          "activityPattern": [],
+          "activities": 141
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Bilar: Beskriv bilen du vill ha",
+          "activityPattern": [],
+          "activities": 142
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Bilar: Ställ frågor om bilköp",
+          "activityPattern": [],
+          "activities": 143
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Bilar: Beskriv bilproblem",
+          "activityPattern": [],
+          "activities": 144
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Bilar: Förklara felet på bilen",
+          "activityPattern": [],
+          "activities": 145
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Händelser: Fråga om väderprognoser",
+          "activityPattern": [],
+          "activities": 146
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Händelser: Berätta om en händelse",
+          "activityPattern": [],
+          "activities": 147
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Händelser: Fråga om vad som har hänt",
+          "activityPattern": [],
+          "activities": 148
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Händelser: Beskriv en händelse",
+          "activityPattern": [],
+          "activities": 149
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Händelser: Berätta om viktiga händelser",
+          "activityPattern": [],
+          "activities": 150
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Idrott: Kommentera en match",
+          "activityPattern": [],
+          "activities": 151
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Idrott: Berätta om medaljvinnare",
+          "activityPattern": [],
+          "activities": 152
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Idrott: Analysera lagets insats",
+          "activityPattern": [],
+          "activities": 153
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Idrott: Intervjua idrottare",
+          "activityPattern": [],
+          "activities": 154
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Idrott: Beskriv en idrottsprestation",
+          "activityPattern": [],
+          "activities": 155
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Dejten: Berätta om din dejt",
+          "activityPattern": [],
+          "activities": 156
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Dejten: Ge råd om dejten",
+          "activityPattern": [],
+          "activities": 157
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Dejten: Beskriv vad som hände på dejten",
+          "activityPattern": [],
+          "activities": 158
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Dejten: Prata om känslor efter dejten",
+          "activityPattern": [],
+          "activities": 159
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Dejten: Förklara vad som hände",
+          "activityPattern": [],
+          "activities": 160
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Möjligheter: Beskriv möjliga lösningar",
+          "activityPattern": [],
+          "activities": 161
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Möjligheter: Prata om tillväxt",
+          "activityPattern": [],
+          "activities": 162
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Möjligheter: Dela dina erfarenheter",
+          "activityPattern": [],
+          "activities": 163
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Möjligheter: Tala med nya personer",
+          "activityPattern": [],
+          "activities": 164
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Möjligheter: Ge råd om att våga mer",
+          "activityPattern": [],
+          "activities": 165
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Relationer: Berätta om gamla vänner",
+          "activityPattern": [],
+          "activities": 166
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Relationer: Berätta om barndomsminnen",
+          "activityPattern": [],
+          "activities": 167
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Relationer: Jämför olika relationer",
+          "activityPattern": [],
+          "activities": 168
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Relationer: Berätta om en dejt",
+          "activityPattern": [],
+          "activities": 169
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Relationer: Beskriv dina relationer",
+          "activityPattern": [],
+          "activities": 170
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Problem: Beskriv olyckor",
+          "activityPattern": [],
+          "activities": 171
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Problem: Berätta om ett problem",
+          "activityPattern": [],
+          "activities": 172
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Problem: Beskriv vad som gick fel",
+          "activityPattern": [],
+          "activities": 173
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Problem: Förklara vad som hände",
+          "activityPattern": [],
+          "activities": 174
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Problem: Förklara vad som gick fel",
+          "activityPattern": [],
+          "activities": 175
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Språkresa: Dela din språkupplevelse",
+          "activityPattern": [],
+          "activities": 176
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Språkresa: Dela dina studietips",
+          "activityPattern": [],
+          "activities": 177
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Språkresa: Dela med dig av studietips",
+          "activityPattern": [],
+          "activities": 178
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Språkresa: Prata om vad du lär dig",
+          "activityPattern": [],
+          "activities": 179
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Språkresa: Berätta om dina framsteg",
+          "activityPattern": [
+            2025,
+            12,
+            18
+          ],
+          "activities": 2055
+        }
+      ]
+    }
+  ]
+}

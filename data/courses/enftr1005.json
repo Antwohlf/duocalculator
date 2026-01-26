@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "key": "enftr1005",
+    "courseTitle": "Turkish → English",
+    "scrapedAt": "2026-01-26T02:42:01.712Z",
+    "sourceHash": "sha256:409ee32bf71d30ad",
+    "fromLang": "Turkish",
+    "toLang": "English",
+    "fromCode": "tr",
+    "toCode": "en",
+    "level": null,
+    "levelShort": null,
+    "detailHref": "https://duolingodata.com/dat/enftr1005.html",
+    "detailHrefHash": "sha256:5f7fdead82a3f754",
+    "scrapeWarnings": [
+      "No sections parsed, using meta.unitsCount",
+      "No activities parsed, using meta.lessonsCount"
+    ],
+    "schemaVersion": "1.0.0"
+  },
+  "totals": {
+    "sections": 0,
+    "activities": 8063,
+    "units": 1005
+  },
+  "sections": []
+}

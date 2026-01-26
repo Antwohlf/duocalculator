@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "key": "ptfko131",
+    "courseTitle": "Korean → Portuguese",
+    "scrapedAt": "2026-01-26T02:42:01.712Z",
+    "sourceHash": "sha256:fc1cd1d5ed03dfa5",
+    "fromLang": "Korean",
+    "toLang": "Portuguese",
+    "fromCode": "ko",
+    "toCode": "pt",
+    "level": null,
+    "levelShort": null,
+    "detailHref": "https://duolingodata.com/dat/ptfko131.html",
+    "detailHrefHash": "sha256:ba70cd6b6201b7c2",
+    "scrapeWarnings": [
+      "No sections parsed, using meta.unitsCount",
+      "No activities parsed, using meta.lessonsCount"
+    ],
+    "schemaVersion": "1.0.0"
+  },
+  "totals": {
+    "sections": 0,
+    "activities": 2748,
+    "units": 131
+  },
+  "sections": []
+}

@@ -1,0 +1,20 @@
+{
+  "meta": {
+    "scrapedAt": "2024-01-01T00:00:00.000Z",
+    "totalCourses": 10,
+    "source": "https://duolingodata.com/",
+    "schemaVersion": "1.0.0"
+  },
+  "courses": [
+    {
+      "courseId": "esfen",
+      "key": "esfen",
+      "title": "English → Spanish",
+      "fromLang": "English",
+      "toLang": "Spanish",
+      "lastUpdated": "2024-01-01T00:00:00.000Z",
+      "detailAvailable": true,
+      "detailKey": "esfen"
+    }
+  ]
+}

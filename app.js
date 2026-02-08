@@ -293,7 +293,7 @@ function init() {
   setupReset();
   setupBugReport();
   renderStoredInputs();
-  updateLastVerifiedTime();
+  void updateLastVerifiedTime();
   loadCourses();
   setActiveTab(state.activeTab);
 }
@@ -562,12 +562,19 @@ async function loadCourses() {
   dom.toLangSelect.disabled = true;
   dom.fromLangSelect.innerHTML = `<option value="">Loading languages…</option>`;
   dom.toLangSelect.innerHTML = `<option value="">Loading…</option>`;
+
   try {
-    const { body } = await fetchViaProxy("/");
-    const courses = parseCourseList(body);
-    if (!courses.length) {
-      throw new Error("No courses found on DuolingoData.com.");
+    let courses = await loadCourseListFromStatic();
+
+    if (!courses) {
+      const { body } = await fetchViaProxy("/");
+      courses = parseCourseList(body);
     }
+
+    if (!courses || !courses.length) {
+      throw new Error("No courses found.");
+    }
+
     state.courses = courses;
     state.courseMap = new Map(courses.map((course) => [course.key, course]));
 
@@ -642,8 +649,22 @@ async function ensureCourseDetail(courseKey) {
     refreshLevelLabel(courseKey, state.currentCourseData.meta);
     return;
   }
+
   const meta = state.courseMap.get(courseKey);
+
   try {
+    const staticDetail = await loadCourseDetailFromStatic(meta);
+    if (staticDetail) {
+      state.courseDetailCache.set(courseKey, staticDetail);
+      state.currentCourseData = staticDetail;
+      renderCourseMeta(staticDetail);
+      refreshLevelLabel(courseKey, staticDetail.meta);
+      if (state.debug) {
+        renderDebug(staticDetail);
+      }
+      return;
+    }
+
     if (!meta.detailHref) {
       const synthetic = buildSyntheticDetail(meta);
       state.courseDetailCache.set(courseKey, synthetic);
@@ -652,6 +673,7 @@ async function ensureCourseDetail(courseKey) {
       refreshLevelLabel(courseKey, synthetic.meta);
       return;
     }
+
     const { body } = await fetchViaProxy(meta.detailHref);
     let detail = parseCourseDetail(body, meta);
     if (!detail.sections || detail.sections.length === 0) {
@@ -821,18 +843,20 @@ function findCourseKey(fromLang, toLang, levelShort) {
   );
   if (!matches.length) return null;
   if (matches.length === 1) return matches[0].key;
+  // When there are multiple courses for the same language pair (e.g., different CEFR levels),
+  // prefer matching by levelShort if provided
   if (levelShort) {
     const exact = matches.find((course) => (course.levelShort || "").toUpperCase() === levelShort.toUpperCase());
     if (exact) return exact.key;
   }
+  // Fall back to the first match
   return matches[0].key;
 }
 
 function updateSwapButton() {
   if (!dom.swapButton) return;
-  const fromLang = dom.fromLangSelect.value;
   const toValue = dom.toLangSelect.value;
-  if (!fromLang || !toValue || !state.courseMap.has(toValue)) {
+  if (!toValue || !state.courseMap.has(toValue)) {
     dom.swapButton.disabled = true;
     return;
   }
@@ -1230,6 +1254,162 @@ async function fetchViaProxy(target) {
   }
 
   return payload;
+}
+
+async function loadCourseListFromStatic() {
+  try {
+    const response = await fetch("/data/courses.json", {
+      headers: { Accept: "application/json" },
+    });
+    if (!response.ok) return null;
+
+    const payload = await response.json();
+    if (!payload || !Array.isArray(payload.courses)) return null;
+
+    return payload.courses.filter(Boolean);
+  } catch (error) {
+    console.warn("Static course list unavailable, falling back to proxy.", error);
+    return null;
+  }
+}
+
+function deriveDetailKeyFromHref(detailHref) {
+  if (!detailHref || typeof detailHref !== "string") return null;
+  try {
+    const url = new URL(detailHref);
+    const fileName = url.pathname.split("/").pop() || "";
+    const base = fileName.replace(/\.[^.]+$/, "");
+    return base || null;
+  } catch (error) {
+    return null;
+  }
+}
+
+async function loadCourseDetailFromStatic(courseMeta) {
+  const detailKey = courseMeta?.detailKey || deriveDetailKeyFromHref(courseMeta?.detailHref);
+  if (!detailKey) return null;
+
+  try {
+    const response = await fetch(`/data/courses/${encodeURIComponent(detailKey)}.json`, {
+      headers: { Accept: "application/json" },
+    });
+    if (!response.ok) return null;
+
+    const payload = await response.json();
+    return normalizeCourseDetailFromJson(payload, courseMeta);
+  } catch (error) {
+    console.warn(`Static course detail unavailable for ${detailKey}.`, error);
+    return null;
+  }
+}
+
+function normalizeCourseDetailFromJson(payload, courseMeta) {
+  const sectionsRaw = Array.isArray(payload?.sections) ? payload.sections : [];
+  const courseLevel = payload?.meta?.level ?? courseMeta?.level ?? null;
+  const courseLevelShort =
+    payload?.meta?.levelShort ?? courseMeta?.levelShort ?? normalizeLevel(courseLevel) ?? null;
+
+  const mergedMeta = {
+    ...courseMeta,
+    fromLang: payload?.meta?.fromLang ?? courseMeta?.fromLang,
+    toLang: payload?.meta?.toLang ?? courseMeta?.toLang,
+    fromCode: payload?.meta?.fromCode ?? courseMeta?.fromCode,
+    toCode: payload?.meta?.toCode ?? courseMeta?.toCode,
+    level: courseLevel,
+    levelShort: courseLevelShort,
+    detailHref: payload?.meta?.detailHref ?? courseMeta?.detailHref,
+    updated: courseMeta?.updated ?? "",
+  };
+
+  const fallbackLessons =
+    typeof mergedMeta.lessonsCount === "number" &&
+    typeof mergedMeta.unitsCount === "number" &&
+    mergedMeta.unitsCount > 0
+      ? Math.max(1, Math.round(mergedMeta.lessonsCount / mergedMeta.unitsCount))
+      : 10;
+
+  let hadMissing = false;
+
+  const sections = sectionsRaw
+    .map((section, sectionArrayIndex) => {
+      const sectionIndex =
+        typeof section?.sectionIndex === "number" && Number.isFinite(section.sectionIndex)
+          ? section.sectionIndex
+          : sectionArrayIndex + 1;
+
+      const unitsRaw = Array.isArray(section?.units) ? section.units : [];
+
+      const units = unitsRaw
+        .map((unit, unitArrayIndex) => {
+          const activities =
+            typeof unit?.activities === "number" && unit.activities > 0 ? unit.activities : null;
+          if (!activities) {
+            hadMissing = true;
+          }
+
+          return {
+            sectionIndex,
+            unitIndex:
+              typeof unit?.unitIndex === "number" && Number.isFinite(unit.unitIndex)
+                ? unit.unitIndex
+                : unitArrayIndex + 1,
+            title:
+              typeof unit?.title === "string" && unit.title.trim()
+                ? unit.title
+                : `Unit ${unitArrayIndex + 1}`,
+            activityPattern: Array.isArray(unit?.activityPattern)
+              ? unit.activityPattern
+                  .map((value) => Number(value))
+                  .filter((value) => Number.isFinite(value) && value > 0)
+              : [],
+            activities: activities || fallbackLessons,
+          };
+        })
+        .filter(Boolean);
+
+      return {
+        sectionIndex,
+        unitCount:
+          typeof section?.unitCount === "number" && Number.isFinite(section.unitCount)
+            ? section.unitCount
+            : units.length,
+        title: typeof section?.title === "string" ? section.title : "",
+        rawTitle: typeof section?.rawTitle === "string" ? section.rawTitle : section?.title || "",
+        cefr: typeof section?.cefr === "string" ? section.cefr : "",
+        units,
+      };
+    })
+    .filter((section) => section.units.length > 0);
+
+  const totals = sections.reduce(
+    (acc, section) => {
+      section.units.forEach((unit) => {
+        acc.units += 1;
+        acc.activities += typeof unit.activities === "number" ? unit.activities : 0;
+      });
+      return acc;
+    },
+    { units: 0, activities: 0 },
+  );
+
+  const totalsMerged = {
+    ...payload?.totals,
+    sections: sections.length,
+    units: payload?.totals?.units || totals.units,
+    activities: payload?.totals?.activities || totals.activities,
+    estimated: hadMissing,
+  };
+
+  return {
+    meta: {
+      ...mergedMeta,
+      title: `${mergedMeta.fromLang} → ${mergedMeta.toLang}`,
+      fallbackLessons,
+      levelShort: mergedMeta.levelShort || normalizeLevel(mergedMeta.level),
+    },
+    sections,
+    totals: totalsMerged,
+  };
 }
 
 function parseCourseList(html) {
@@ -1867,14 +2047,37 @@ function formatDate(date) {
   }).format(date);
 }
 
-function updateLastVerifiedTime() {
+async function updateLastVerifiedTime() {
   if (!dom.lastUpdatedTime) return;
-  const now = new Date();
-  const formatted = new Intl.DateTimeFormat("en-US", {
-    month: "short",
-    day: "numeric",
-    year: "numeric",
-  }).format(now);
-  dom.lastUpdatedTime.textContent = formatted;
-  dom.lastUpdatedTime.dateTime = now.toISOString();
+
+  const formatDateShort = (date) =>
+    new Intl.DateTimeFormat("en-US", {
+      month: "short",
+      day: "numeric",
+      year: "numeric",
+    }).format(date);
+
+  try {
+    const response = await fetch("/data/manifest.json", {
+      headers: { Accept: "application/json" },
+    });
+    if (!response.ok) {
+      throw new Error(`Manifest request failed (${response.status})`);
+    }
+
+    const manifest = await response.json();
+    const scrapedAtRaw = manifest?.scrapedAt;
+    const scrapedAt = scrapedAtRaw ? new Date(scrapedAtRaw) : null;
+    if (!scrapedAt || Number.isNaN(scrapedAt.getTime())) {
+      throw new Error("Manifest missing scrapedAt timestamp.");
+    }
+
+    dom.lastUpdatedTime.textContent = formatDateShort(scrapedAt);
+    dom.lastUpdatedTime.dateTime = scrapedAt.toISOString();
+  } catch (error) {
+    console.warn("Unable to load /data/manifest.json for verified badge.", error);
+    const now = new Date();
+    dom.lastUpdatedTime.textContent = formatDateShort(now);
+    dom.lastUpdatedTime.dateTime = now.toISOString();
+  }
 }

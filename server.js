@@ -52,13 +52,22 @@ loadEnvFile();
 const PORT = Number(process.env.PORT) || 3000;
 
 async function serveStatic(url, res) {
-  let filePath = decodeURIComponent(url.pathname);
+  let filePath;
+  try {
+    filePath = decodeURIComponent(url.pathname);
+  } catch (error) {
+    res.statusCode = 400;
+    res.end("Bad request");
+    return;
+  }
+
   if (filePath === "/") {
     filePath = "/index.html";
   }
 
-  const fullPath = path.join(ROOT_DIR, filePath);
-  if (!fullPath.startsWith(ROOT_DIR)) {
+  const fullPath = path.resolve(ROOT_DIR, `.${filePath}`);
+  const rootPrefix = ROOT_DIR.endsWith(path.sep) ? ROOT_DIR : `${ROOT_DIR}${path.sep}`;
+  if (!fullPath.startsWith(rootPrefix)) {
     res.statusCode = 403;
     res.end("Forbidden");
     return;
@@ -68,9 +77,19 @@ async function serveStatic(url, res) {
     const file = await fs.readFile(fullPath);
     const ext = path.extname(fullPath).toLowerCase();
     const type = MIME_TYPES[ext] || "application/octet-stream";
+
+    let cacheControl = "public, max-age=60";
+    if (ext === ".html") {
+      cacheControl = "no-cache";
+    } else if (ext === ".css" || ext === ".js" || ext === ".svg" || ext === ".png" || ext === ".jpg" || ext === ".jpeg" || ext === ".webp" || ext === ".ico") {
+      cacheControl = "public, max-age=3600";
+    } else if (ext === ".json") {
+      cacheControl = "public, max-age=300";
+    }
+
     res.writeHead(200, {
       "Content-Type": type,
-      "Cache-Control": "public, max-age=60",
+      "Cache-Control": cacheControl,
     });
     res.end(file);
   } catch (error) {

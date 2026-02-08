@@ -43,7 +43,15 @@ async function main() {
 
   const outputDir = resolve(__dirname, args.output);
   const coursesDir = join(outputDir, 'courses');
-  const rateLimit = parseInt(args['rate-limit'], 10);
+
+  const rateLimitRaw = args['rate-limit'];
+  const rateLimit = Number.parseInt(rateLimitRaw, 10);
+  if (!Number.isFinite(rateLimit) || rateLimit < 0) {
+    throw new Error(
+      `Invalid --rate-limit value: ${rateLimitRaw}. Expected a non-negative integer (milliseconds).`,
+    );
+  }
+
   const fullRefresh = args['full-refresh'] === 'true';
 
   const startTime = Date.now();

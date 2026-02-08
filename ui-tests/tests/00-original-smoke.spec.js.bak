@@ -1,0 +1,134 @@
+const { test, expect } = require('@playwright/test');
+const fs = require('fs/promises');
+const path = require('path');
+
+const { readBaseUrl } = require('../test-utils/server');
+const { writeFailureArtifacts } = require('../test-utils/artifacts');
+
+test.describe('duocalculator UI smoke', () => {
+  test.beforeEach(async ({ page }, testInfo) => {
+    const consoleLines = [];
+
+    page.on('console', (msg) => {
+      const loc = msg.location();
+      const where = loc && loc.url ? ` (${loc.url}:${loc.lineNumber ?? 0}:${loc.columnNumber ?? 0})` : '';
+      consoleLines.push(`[console:${msg.type()}] ${msg.text()}${where}`);
+    });
+
+    page.on('pageerror', (err) => {
+      consoleLines.push(`[pageerror] ${String(err && err.stack ? err.stack : err)}`);
+    });
+
+    testInfo._duoConsoleLines = consoleLines;
+  });
+
+  test.afterEach(async ({ page }, testInfo) => {
+    if (testInfo.status === 'failed' || testInfo.status === 'timedOut') {
+      const consoleLines = testInfo._duoConsoleLines || [];
+      await writeFailureArtifacts({ page, testInfo, consoleLines });
+    }
+  });
+
+  test('Home loads; language dropdown populated (static data, no proxy)', async ({ page }) => {
+    const baseUrl = await readBaseUrl();
+    const proxyCalls = [];
+
+    await page.route('**/api/proxy**', async (route) => {
+      proxyCalls.push(route.request().url());
+      await route.fulfill({
+        status: 500,
+        contentType: 'application/json',
+        body: JSON.stringify({ error: 'Proxy blocked by UI test' }),
+      });
+    });
+
+    await page.goto(`${baseUrl}/`, { waitUntil: 'domcontentloaded' });
+
+    const fromSelect = page.locator('#from-lang-select');
+    await expect(fromSelect).toBeEnabled();
+
+    await expect
+      .poll(async () => fromSelect.locator('option').count())
+      .toBeGreaterThan(5);
+
+    // Ensure we did not need proxy fallbacks to populate languages.
+    expect(proxyCalls, 'Expected /api/proxy not to be called for language list').toHaveLength(0);
+  });
+
+  test('Selecting a course loads details and renders key metrics', async ({ page }) => {
+    const baseUrl = await readBaseUrl();
+
+    // Enforce the "static data" path for both list and details.
+    await page.route('**/api/proxy**', async (route) => {
+      await route.abort();
+    });
+
+    await page.goto(`${baseUrl}/`, { waitUntil: 'domcontentloaded' });
+
+    await expect(page.locator('#from-lang-select')).toBeEnabled();
+
+    const firstFromLang = await page
+      .locator('#from-lang-select option:not([value=""])')
+      .first()
+      .getAttribute('value');
+    expect(firstFromLang).toBeTruthy();
+
+    await page.selectOption('#from-lang-select', firstFromLang);
+
+    const toSelect = page.locator('#to-lang-select');
+    await expect(toSelect).toBeEnabled();
+
+    const firstCourseKey = await page
+      .locator('#to-lang-select option:not([value=""])')
+      .first()
+      .getAttribute('value');
+    expect(firstCourseKey).toBeTruthy();
+
+    await page.selectOption('#to-lang-select', firstCourseKey);
+
+    await expect(page.locator('#section-select')).toBeEnabled();
+    await expect(page.locator('#unit-select')).toBeEnabled();
+
+    await expect(page.locator('#course-meta')).toContainText('Sections');
+
+    // Stats should no longer be placeholders after a course is loaded.
+    await expect(page.locator('#stat-lessons-left')).not.toHaveText('—');
+    await expect(page.locator('#stat-minutes-day')).not.toHaveText('—');
+  });
+
+  test('Missing /data/manifest.json triggers verified badge fallback timestamp', async ({ page }) => {
+    const baseUrl = await readBaseUrl();
+    const manifestPath = path.resolve(__dirname, '..', '..', 'data', 'manifest.json');
+    const manifest = JSON.parse(await fs.readFile(manifestPath, 'utf8'));
+    const expectedScrapedAt = manifest?.scrapedAt;
+    let manifestRequested = false;
+
+    await page.route('**/data/manifest.json', async (route) => {
+      manifestRequested = true;
+      await route.fulfill({ status: 404, body: 'Not found' });
+    });
+
+    await page.goto(`${baseUrl}/`, { waitUntil: 'domcontentloaded' });
+
+    const timeEl = page.locator('#last-updated-time');
+    await expect(timeEl).toBeVisible();
+
+    // Wait until JS has attempted to set the datetime attribute.
+    await expect
+      .poll(async () => (await timeEl.getAttribute('datetime')) || '')
+      .not.toBe('');
+
+    const dateTime = await timeEl.getAttribute('datetime');
+    expect(manifestRequested).toBeTruthy();
+    expect(dateTime).toBeTruthy();
+    expect(expectedScrapedAt).toBeTruthy();
+
+    // When manifest fails, code falls back to "now" instead of manifest.scrapedAt.
+    expect(dateTime).not.toBe(expectedScrapedAt);
+
+    const parsed = new Date(dateTime);
+    expect(Number.isNaN(parsed.getTime())).toBeFalsy();
+    const deltaMs = Math.abs(Date.now() - parsed.getTime());
+    expect(deltaMs).toBeLessThan(5 * 60 * 1000);
+  });
+});

@@ -1,3 +1,13 @@
 node_modules/
 .env
 *.log
+
+# Playwright / UI tests
+ui-tests/artifacts/
+ui-tests/test-results/
+ui-tests/playwright-report/
+ui-tests/.tmp/
+
+# scraper artifacts
+scripts/scraper/tmp/
+scripts/scraper/var/

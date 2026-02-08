@@ -1,0 +1,16 @@
+{
+  "name": "duocalculator-ui-tests",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Playwright UI tests for duocalculator",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:debug": "PWDEBUG=1 playwright test",
+    "install:browsers": "playwright install chromium",
+    "postinstall": "playwright install chromium"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.50.1"
+  }
+}

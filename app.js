@@ -639,6 +639,12 @@ async function handleCourseSelection(courseKey, { restoreProgress = false } = {}
     state.selection = { sectionIndex: null, unitIndex: null };
   }
   await ensureCourseDetail(courseKey);
+  
+  // Abort if user changed from-language while we were loading
+  if (state.currentCourseKey !== courseKey) {
+    return;
+  }
+  
   const autoSelect = !restoreProgress;
   const sectionsReady = populateSections({ autoSelect });
   if (sectionsReady) {

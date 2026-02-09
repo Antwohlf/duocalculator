@@ -588,7 +588,15 @@ async function loadCourses() {
 
       let targetCourseKey = null;
       if (state.currentCourseKey && state.courseMap.has(state.currentCourseKey)) {
-        targetCourseKey = state.currentCourseKey;
+        const meta = state.courseMap.get(state.currentCourseKey);
+        // Only restore if from-language still matches (prevents race condition)
+        if (meta.fromLang === state.selectedFromLang) {
+          targetCourseKey = state.currentCourseKey;
+        } else {
+          // From-language changed while loading, clear stale course
+          state.currentCourseKey = null;
+          state.currentCourseData = null;
+        }
       } else if (state.selectedToLang) {
         const match = courses.find(
           (course) =>

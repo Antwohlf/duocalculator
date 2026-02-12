@@ -11,3 +11,6 @@ ui-tests/.tmp/
 # scraper artifacts
 scripts/scraper/tmp/
 scripts/scraper/var/
+
+# Playwright prod run artifacts
+ui-tests/test-results-prod/

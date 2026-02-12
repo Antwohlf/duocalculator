@@ -89,8 +89,23 @@ async function startServer() {
 }
 
 async function readBaseUrl() {
-  const text = await fs.readFile(baseUrlFilePath(), 'utf8');
-  return text.trim();
+  // In production mode, use PROD_URL environment variable
+  if (process.env.PROD_URL) {
+    return process.env.PROD_URL;
+  }
+  
+  // In local mode, read from temp file created by global-setup
+  try {
+    const text = await fs.readFile(baseUrlFilePath(), 'utf8');
+    return text.trim();
+  } catch (err) {
+    throw new Error(
+      'Could not read baseURL. ' +
+      'Make sure to either:\n' +
+      '1. Run with PROD_URL env var (e.g., PROD_URL=https://www.duocalculator.com npm test)\n' +
+      '2. Or use the standard local test flow which starts a server automatically'
+    );
+  }
 }
 
 async function stopServer() {

@@ -2,8 +2,8 @@
   "meta": {
     "key": "ptfen131",
     "courseTitle": "English → Portuguese",
-    "scrapedAt": "2026-01-26T02:42:01.712Z",
-    "sourceHash": "sha256:9893fde7b9fdcda6",
+    "scrapedAt": "2026-02-15T03:53:57.603Z",
+    "sourceHash": "sha256:a403efc3650639a3",
     "fromLang": "English",
     "toLang": "Portuguese",
     "fromCode": "en",
@@ -17,7 +17,7 @@
   },
   "totals": {
     "sections": 4,
-    "activities": 4818,
+    "activities": 4804,
     "units": 131
   },
   "sections": [
@@ -970,10 +970,11 @@
           "unitIndex": 4,
           "title": "Describe a crime scene",
           "activityPattern": [
-            2025,
-            27
+            2026,
+            2,
+            10
           ],
-          "activities": 2052
+          "activities": 2038
         }
       ]
     }

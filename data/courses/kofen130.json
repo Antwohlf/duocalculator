@@ -2,8 +2,8 @@
   "meta": {
     "key": "kofen130",
     "courseTitle": "English → Korean",
-    "scrapedAt": "2026-01-26T02:42:01.712Z",
-    "sourceHash": "sha256:6a86f3a5426c2655",
+    "scrapedAt": "2026-02-15T03:53:57.603Z",
+    "sourceHash": "sha256:60a1044b5c13586c",
     "fromLang": "English",
     "toLang": "Korean",
     "fromCode": "en",
@@ -17,7 +17,7 @@
   },
   "totals": {
     "sections": 4,
-    "activities": 4797,
+    "activities": 4812,
     "units": 130
   },
   "sections": [
@@ -80,14 +80,14 @@
         {
           "sectionIndex": 1,
           "unitIndex": 1,
-          "title": "Find your way at the airport",
+          "title": "Talk about your hobbies",
           "activityPattern": [],
           "activities": 8
         },
         {
           "sectionIndex": 1,
           "unitIndex": 1,
-          "title": "Talk about your hobbies",
+          "title": "Ask for directions",
           "activityPattern": [],
           "activities": 9
         },
@@ -110,7 +110,7 @@
         {
           "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "Ask for directions",
+          "title": "Find your way at the airport",
           "activityPattern": [],
           "activities": 1
         },
@@ -964,10 +964,10 @@
           "title": "Share personal experiences and anecdotes",
           "activityPattern": [
             2025,
-            10,
-            7
+            12,
+            20
           ],
-          "activities": 2042
+          "activities": 2057
         }
       ]
     }

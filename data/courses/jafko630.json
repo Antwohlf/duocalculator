@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "key": "jafko630",
+    "courseTitle": "Korean → Japanese",
+    "scrapedAt": "2026-02-15T03:53:57.603Z",
+    "sourceHash": "sha256:341e21cc560fda68",
+    "fromLang": "Korean",
+    "toLang": "Japanese",
+    "fromCode": "ko",
+    "toCode": "ja",
+    "level": null,
+    "levelShort": null,
+    "detailHref": "https://duolingodata.com/dat/jafko630.html",
+    "detailHrefHash": "sha256:afdf3fadf4d05af1",
+    "scrapeWarnings": [
+      "No sections parsed, using meta.unitsCount",
+      "No activities parsed, using meta.lessonsCount"
+    ],
+    "schemaVersion": "1.0.0"
+  },
+  "totals": {
+    "sections": 0,
+    "activities": 4607,
+    "units": 630
+  },
+  "sections": []
+}

@@ -2,8 +2,8 @@
   "meta": {
     "key": "frfen994",
     "courseTitle": "English → French",
-    "scrapedAt": "2026-03-01T03:53:54.037Z",
-    "sourceHash": "sha256:26319bce302be7b8",
+    "scrapedAt": "2026-03-08T03:48:45.507Z",
+    "sourceHash": "sha256:1154d6a05d67f016",
     "fromLang": "English",
     "toLang": "French",
     "fromCode": "en",
@@ -17,7 +17,7 @@
   },
   "totals": {
     "sections": 8,
-    "activities": 100925,
+    "activities": 100906,
     "units": 994
   },
   "sections": [
@@ -7048,10 +7048,10 @@
           "title": "Willpower: Share your goals",
           "activityPattern": [
             2026,
-            2,
-            27
+            3,
+            7
           ],
-          "activities": 2055
+          "activities": 2036
         }
       ]
     }

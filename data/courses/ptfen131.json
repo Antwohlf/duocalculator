@@ -2,8 +2,8 @@
   "meta": {
     "key": "ptfen131",
     "courseTitle": "English → Portuguese",
-    "scrapedAt": "2026-03-08T03:48:45.507Z",
-    "sourceHash": "sha256:a403efc3650639a3",
+    "scrapedAt": "2026-03-15T03:59:41.990Z",
+    "sourceHash": "sha256:9884c2645906cb63",
     "fromLang": "English",
     "toLang": "Portuguese",
     "fromCode": "en",
@@ -17,7 +17,7 @@
   },
   "totals": {
     "sections": 4,
-    "activities": 4804,
+    "activities": 4814,
     "units": 131
   },
   "sections": [
@@ -972,9 +972,9 @@
           "activityPattern": [
             2026,
             2,
-            10
+            20
           ],
-          "activities": 2038
+          "activities": 2048
         }
       ]
     }

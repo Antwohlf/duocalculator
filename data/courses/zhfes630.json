@@ -1,940 +1,967 @@
 {
   "meta": {
-    "key": "zhfja630",
-    "courseTitle": "Japanese → Chinese",
+    "key": "zhfes630",
+    "courseTitle": "Spanish → Chinese",
     "scrapedAt": "2026-03-15T03:59:41.990Z",
-    "sourceHash": "sha256:270d2a6284b7a2de",
-    "fromLang": "Japanese",
+    "sourceHash": "sha256:88685b994b3b6fb1",
+    "fromLang": "Spanish",
     "toLang": "Chinese",
-    "fromCode": "ja",
+    "fromCode": "es",
     "toCode": "zh",
-    "level": "CEFR B1",
-    "levelShort": "B1",
-    "detailHref": "https://duolingodata.com/dat/zhfja630.html",
-    "detailHrefHash": "sha256:d186e2293576a5dc",
+    "level": "CEFR MCER INTRO",
+    "levelShort": "MCER INTRO",
+    "detailHref": "https://duolingodata.com/dat/zhfes630.html",
+    "detailHrefHash": "sha256:f2dbaaf1e06dc983",
     "scrapeWarnings": [],
     "schemaVersion": "1.0.0"
   },
   "totals": {
-    "sections": 3,
-    "activities": 65590,
+    "sections": 6,
+    "activities": 67384,
     "units": 630
   },
   "sections": [
     {
-      "sectionIndex": 6,
-      "unitCount": 245,
-      "title": "CEFR B1",
-      "rawTitle": "CEFR B1",
-      "cefr": "B1",
+      "sectionIndex": 1,
+      "unitCount": 10,
+      "title": "MCER Intro:",
+      "rawTitle": "MCER Intro:",
+      "cefr": "MCER INTRO:",
       "units": [
         {
-          "sectionIndex": 6,
+          "sectionIndex": 1,
           "unitIndex": 1,
-          "title": "食べ物と飲み物の名前を言う",
+          "title": "Nombra comidas y bebidas",
           "activityPattern": [],
           "activities": 1
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 1,
           "unitIndex": 1,
-          "title": "国籍について話す",
+          "title": "Habla sobre nacionalidades",
           "activityPattern": [],
           "activities": 2
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 1,
           "unitIndex": 1,
-          "title": "職業について話す",
+          "title": "Habla sobre profesiones",
           "activityPattern": [],
           "activities": 3
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 1,
           "unitIndex": 1,
-          "title": "コースについて話す",
+          "title": "Habla sobre tus cursos",
           "activityPattern": [],
           "activities": 4
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 1,
           "unitIndex": 1,
-          "title": "所有代名詞を使う",
+          "title": "Usa pronombres posesivos",
           "activityPattern": [],
           "activities": 5
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 1,
           "unitIndex": 1,
-          "title": "訪れる場所について話す",
+          "title": "Habla sobre lugares que visitas",
           "activityPattern": [],
           "activities": 6
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 1,
           "unitIndex": 1,
-          "title": "飲み物を注文する",
+          "title": "Ordena bebidas",
           "activityPattern": [],
           "activities": 7
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 1,
           "unitIndex": 1,
-          "title": "旅行に必要な持ち物を探す",
+          "title": "Encuentra objetos esenciales de viaje",
           "activityPattern": [],
           "activities": 8
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 1,
           "unitIndex": 1,
-          "title": "自己紹介と授業の紹介をする",
+          "title": "Preséntate y habla de tus clases",
           "activityPattern": [],
           "activities": 9
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 1,
           "unitIndex": 1,
-          "title": "スポーツの好みについて話す",
+          "title": "Habla sobre preferencias deportivas",
           "activityPattern": [],
           "activities": 10
-        },
+        }
+      ]
+    },
+    {
+      "sectionIndex": 2,
+      "unitCount": 30,
+      "title": "MCER A1:",
+      "rawTitle": "MCER A1:",
+      "cefr": "A1",
+      "units": [
         {
-          "sectionIndex": 6,
+          "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "形容詞を使って説明する",
+          "title": "Usa adjetivos para describir",
           "activityPattern": [],
           "activities": 1
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "北京を探検する",
+          "title": "Explora Beijing",
           "activityPattern": [],
           "activities": 2
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "提案を表す助詞を使う",
+          "title": "Usa partículas de sugerencia",
           "activityPattern": [],
           "activities": 3
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "命令表現を使う",
+          "title": "Usa comandos",
           "activityPattern": [],
           "activities": 4
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "可能を表す助動詞を使う",
+          "title": "Usa verbos modales al expresar habilidad",
           "activityPattern": [],
           "activities": 5
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "許可を求める",
+          "title": "Pide permiso",
           "activityPattern": [],
           "activities": 6
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "家を掃除して整理する",
+          "title": "Limpia y organiza tu casa",
           "activityPattern": [],
           "activities": 7
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "現在進行形を使う",
+          "title": "Usa el presente progresivo",
           "activityPattern": [],
           "activities": 8
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "医者に診てもらう",
+          "title": "Busca ayuda médica",
           "activityPattern": [],
           "activities": 9
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "誕生日パーティーを計画する",
+          "title": "Organiza una fiesta de cumpleaños",
           "activityPattern": [],
           "activities": 10
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "キャンパスで道を尋ねる",
+          "title": "Pide direcciones en el campus",
           "activityPattern": [],
           "activities": 11
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "比較表現を使う",
+          "title": "Usa comparativos",
           "activityPattern": [],
           "activities": 12
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "子供時代について話す",
+          "title": "Habla sobre tu infancia",
           "activityPattern": [],
           "activities": 13
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "予定を立てる",
+          "title": "Planifica tus actividades",
           "activityPattern": [],
           "activities": 14
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "時間表現を使う",
+          "title": "Usa expresiones de tiempo",
           "activityPattern": [],
           "activities": 15
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "服を買いに行く",
+          "title": "Compra ropa",
           "activityPattern": [],
           "activities": 16
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "コンサートに行く",
+          "title": "Asiste a un concierto",
           "activityPattern": [],
           "activities": 17
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "質問をする",
+          "title": "Haz preguntas",
           "activityPattern": [],
           "activities": 18
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "所有を表現する",
+          "title": "Expresa posesión",
           "activityPattern": [],
           "activities": 19
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "感情を表現する",
+          "title": "Expresa tus sentimientos",
           "activityPattern": [],
           "activities": 20
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "天気について話す",
+          "title": "Habla sobre el clima",
           "activityPattern": [],
           "activities": 21
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "友達について話す",
+          "title": "Habla sobre amigos",
           "activityPattern": [],
           "activities": 22
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "日課について話す",
+          "title": "Describe tu rutina diaria",
           "activityPattern": [],
           "activities": 23
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "日常のタスクをこなす",
+          "title": "Gestiona las tareas diarias",
           "activityPattern": [],
           "activities": 24
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "オンラインで買い物をする",
+          "title": "Compra en línea",
           "activityPattern": [],
           "activities": 25
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "賃貸の詳細を話し合う",
+          "title": "Habla sobre detalles de alquiler",
           "activityPattern": [],
           "activities": 26
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "間接目的語を使う",
+          "title": "Usa objetos indirectos",
           "activityPattern": [],
           "activities": 27
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "道を尋ねる",
+          "title": "Pide direcciones",
           "activityPattern": [],
           "activities": 28
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "スポーツの感動について話す",
+          "title": "Habla sobre la emoción deportiva",
           "activityPattern": [],
           "activities": 29
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "緊急事態に対処する",
+          "title": "Gestiona una emergencia",
           "activityPattern": [],
           "activities": 30
-        },
+        }
+      ]
+    },
+    {
+      "sectionIndex": 3,
+      "unitCount": 30,
+      "title": "MCER A1:",
+      "rawTitle": "MCER A1:",
+      "cefr": "A1",
+      "units": [
         {
-          "sectionIndex": 6,
+          "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "街を案内する",
+          "title": "Explora la ciudad",
           "activityPattern": [],
           "activities": 1
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "健康食品を買う",
+          "title": "Compra productos de salud",
           "activityPattern": [],
           "activities": 2
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "卒業式に参加する",
+          "title": "Asiste a una graduación",
           "activityPattern": [],
           "activities": 3
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "問題を報告する",
+          "title": "Informa de un problema",
           "activityPattern": [],
           "activities": 4
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "留学を検討する",
+          "title": "Explora estudiar en el extranjero",
           "activityPattern": [],
           "activities": 5
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "映画について話す",
+          "title": "Habla sobre películas",
           "activityPattern": [],
           "activities": 6
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "イベントの時間を伝える",
+          "title": "Usa expresiones de tiempo para eventos",
           "activityPattern": [],
           "activities": 7
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "説明を求める",
+          "title": "Pide aclaraciones",
           "activityPattern": [],
           "activities": 8
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "新しい人と知り合う",
+          "title": "Conoce gente nueva",
           "activityPattern": [],
           "activities": 9
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "課外活動に参加する",
+          "title": "Únete a actividades",
           "activityPattern": [],
           "activities": 10
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "はい・いいえで答える質問を作る",
+          "title": "Haz preguntas de sí o no",
           "activityPattern": [],
           "activities": 11
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "比較表現を使う",
+          "title": "Usa comparativos",
           "activityPattern": [],
           "activities": 12
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "食べ物と飲み物を評価する",
+          "title": "Evalúa comida y bebidas",
           "activityPattern": [],
           "activities": 13
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "食料品を買う",
+          "title": "Compra alimentos",
           "activityPattern": [],
           "activities": 14
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "レシピを見て料理する",
+          "title": "Cocina con recetas",
           "activityPattern": [],
           "activities": 15
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "音楽フェスを楽しむ",
+          "title": "Disfruta de un festival de música",
           "activityPattern": [],
           "activities": 16
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "友達と近況報告をする",
+          "title": "Ponte al día con amigos",
           "activityPattern": [],
           "activities": 17
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "逆説表現で複雑な文を作る",
+          "title": "Crea oraciones complejas con contraste",
           "activityPattern": [],
           "activities": 18
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "家を整える",
+          "title": "Organiza tu hogar",
           "activityPattern": [],
           "activities": 19
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "仕事の問題を解決する",
+          "title": "Resuelve problemas laborales",
           "activityPattern": [],
           "activities": 20
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "過去の出来事を詳しく説明する",
+          "title": "Destaca detalles de eventos pasados",
           "activityPattern": [],
           "activities": 21
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "自分の人生を語る",
+          "title": "Comparte tu historia de vida",
           "activityPattern": [],
           "activities": 22
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "方向表現と質問文を使う",
+          "title": "Usa frases y preguntas de dirección",
           "activityPattern": [],
           "activities": 23
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "プライベートな話題で盛り上がる",
+          "title": "Habla sobre detalles personales",
           "activityPattern": [],
           "activities": 24
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "近所の人と趣味について話す",
+          "title": "Habla de intereses con vecinos",
           "activityPattern": [],
           "activities": 25
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "接続詞を使って複文を作る",
+          "title": "Usa oraciones complejas con conjunciones",
           "activityPattern": [],
           "activities": 26
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "ショッピングモールを歩き回る",
+          "title": "Recorre un centro comercial",
           "activityPattern": [],
           "activities": 27
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "緊急事態に対処する",
+          "title": "Gestiona una emergencia",
           "activityPattern": [],
           "activities": 28
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "言い訳をする",
+          "title": "Inventa excusas",
           "activityPattern": [],
           "activities": 29
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "用事を済ませる",
+          "title": "Haz mandados",
           "activityPattern": [],
           "activities": 30
-        },
+        }
+      ]
+    },
+    {
+      "sectionIndex": 4,
+      "unitCount": 60,
+      "title": "MCER A2:",
+      "rawTitle": "MCER A2:",
+      "cefr": "A2",
+      "units": [
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "忙しい一週間について話す",
+          "title": "Comparte sobre una semana ocupada",
           "activityPattern": [],
           "activities": 1
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "学校の思い出を振り返る",
+          "title": "Recuerda memorias escolares",
           "activityPattern": [],
           "activities": 2
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "デジタル機器なしで過ごした日について話す",
+          "title": "Describe un día sin tecnología",
           "activityPattern": [],
           "activities": 3
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "ストレスで参っている友達を慰める",
+          "title": "Consuela a un amigo estresado",
           "activityPattern": [],
           "activities": 4
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "中国の伝統行事を祝う",
+          "title": "Celebra festivales chinos tradicionales",
           "activityPattern": [],
           "activities": 5
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "セール期間中に買い物する",
+          "title": "Compra en rebajas de festivales",
           "activityPattern": [],
           "activities": 6
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "レストランでの嫌な体験を話す",
+          "title": "Describe un mal restaurante",
           "activityPattern": [],
           "activities": 7
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "クライアントとのプロジェクト詳細を話し合う",
+          "title": "Habla sobre detalles del proyecto",
           "activityPattern": [],
           "activities": 8
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "キッチンに関する単語を使う",
+          "title": "Usa vocabulario de cocina",
           "activityPattern": [],
           "activities": 9
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "交換留学のアドバイスを求める",
+          "title": "Pide consejo de intercambio",
           "activityPattern": [],
           "activities": 10
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "過去の旅行トラブルを話す",
+          "title": "Describe accidentes de viaje pasados",
           "activityPattern": [],
           "activities": 11
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "旅行中に家に電話する",
+          "title": "Llama a casa durante tus viajes",
           "activityPattern": [],
           "activities": 12
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "オフィスの謎を解く",
+          "title": "Resuelve un misterio de la oficina",
           "activityPattern": [],
           "activities": 13
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "美術品を説明する",
+          "title": "Describe obras de arte",
           "activityPattern": [],
           "activities": 14
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "旅行の体験をVlogで発信する",
+          "title": "Haz un Vlog sobre experiencias de viaje",
           "activityPattern": [],
           "activities": 15
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "新年の抱負を立てる",
+          "title": "Haz propósitos de año nuevo",
           "activityPattern": [],
           "activities": 16
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "チームの業績評価について話し合う",
+          "title": "Habla de evaluaciones del equipo",
           "activityPattern": [],
           "activities": 17
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "芸術祭の公演を比較する",
+          "title": "Compara actuaciones del festival",
           "activityPattern": [],
           "activities": 18
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "学校の課題のために調査する",
+          "title": "Haz investigaciones para la escuela",
           "activityPattern": [],
           "activities": 19
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "旅行中に質問する",
+          "title": "Haz preguntas al viajar",
           "activityPattern": [],
           "activities": 20
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "人や出来事について話す",
+          "title": "Habla de personas y eventos",
           "activityPattern": [],
           "activities": 21
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "プロポーズの相談をする",
+          "title": "Debate sobre proponer matrimonio",
           "activityPattern": [],
           "activities": 22
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "両親に電話する",
+          "title": "Llama a tus padres",
           "activityPattern": [],
           "activities": 23
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "楽しい夜を計画する",
+          "title": "Planea una noche divertida",
           "activityPattern": [],
           "activities": 24
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "一緒に旅行を計画する",
+          "title": "Planea un viaje juntos",
           "activityPattern": [],
           "activities": 25
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "健康的な生活習慣について話す",
+          "title": "Habla de opciones saludables",
           "activityPattern": [],
           "activities": 26
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "引っ越し祝いのパーティを開く",
+          "title": "Organiza una fiesta de inauguración",
           "activityPattern": [],
           "activities": 27
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "家族アルバムについて話す",
+          "title": "Habla del álbum de fotos familiares",
           "activityPattern": [],
           "activities": 28
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "好きな有名人について話す",
+          "title": "Habla de celebridades favoritas",
           "activityPattern": [],
           "activities": 29
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "子供の成績について話す",
+          "title": "Habla del informe de tu hijo",
           "activityPattern": [],
           "activities": 30
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "昔と今の田舎を比べる",
+          "title": "Compara el campo de antes y ahora",
           "activityPattern": [],
           "activities": 31
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "スーパーで食材を買う",
+          "title": "Compra víveres en el supermercado",
           "activityPattern": [],
           "activities": 32
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "好きなテレビ番組について話す",
+          "title": "Habla de series favoritas",
           "activityPattern": [],
           "activities": 33
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "家の購入交渉をする",
+          "title": "Negocia para comprar casa",
           "activityPattern": [],
           "activities": 34
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "友達に自分の気持ちを伝える",
+          "title": "Habla de sentimientos con amigos",
           "activityPattern": [],
           "activities": 35
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "週の予定を話す",
+          "title": "Habla de tu agenda semanal",
           "activityPattern": [],
           "activities": 36
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "中国の都市を巡る",
+          "title": "Explora ciudades de China",
           "activityPattern": [],
           "activities": 37
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "医者に症状を伝える",
+          "title": "Describe síntomas al doctor",
           "activityPattern": [],
           "activities": 38
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "旧友と再会する",
+          "title": "Reencuéntrate con amigos antiguos",
           "activityPattern": [],
           "activities": 39
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "西安の歴史を学ぶ",
+          "title": "Conoce la historia de Xi'an",
           "activityPattern": [],
           "activities": 40
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "旅行の失敗談を共有する",
+          "title": "Comparte percances de viaje pasados",
           "activityPattern": [],
           "activities": 41
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "スポーツトレーニングに参加する",
+          "title": "Únete a entrenamiento deportivo",
           "activityPattern": [],
           "activities": 42
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "動物園の動物を説明する",
+          "title": "Describe animales del zoológico",
           "activityPattern": [],
           "activities": 43
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "家具の状態を説明する",
+          "title": "Describe el estado del mobiliario",
           "activityPattern": [],
           "activities": 44
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "友達をお祝いのパーティーに招待する",
+          "title": "Invita a tus amigos a una celebración",
           "activityPattern": [],
           "activities": 45
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "好きな映画のシーンについて話し合う",
+          "title": "Habla de momentos favoritos de cine",
           "activityPattern": [],
           "activities": 46
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "奇妙な音を説明する",
+          "title": "Describe un ruido extraño",
           "activityPattern": [],
           "activities": 47
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "セール中の買い物について話す",
+          "title": "Habla de compras en rebajas",
           "activityPattern": [],
           "activities": 48
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "近所の人に自己紹介する",
+          "title": "Preséntate con tus vecinos",
           "activityPattern": [],
           "activities": 49
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "同僚とリモートで連絡を取る",
+          "title": "Comunícate con colegas a distancia",
           "activityPattern": [],
           "activities": 50
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "医者の予約を取る",
+          "title": "Programa una cita médica",
           "activityPattern": [],
           "activities": 51
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "チームビルディングについて話し合う",
+          "title": "Habla de actividades de equipo",
           "activityPattern": [],
           "activities": 52
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "読書会で本について語り合う",
+          "title": "Habla de libros en el club",
           "activityPattern": [],
           "activities": 53
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "銀行口座を開設する",
+          "title": "Abre una cuenta bancaria",
           "activityPattern": [],
           "activities": 54
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "家族の夕食の習慣について話す",
+          "title": "Habla de tradiciones de cena familiar",
           "activityPattern": [],
           "activities": 55
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "テーマパークで何をするか決める",
+          "title": "Decide actividades de parque temático",
           "activityPattern": [],
           "activities": 56
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "事業の変化と将来について話し合う",
+          "title": "Habla de cambios del negocio y futuro",
           "activityPattern": [],
           "activities": 57
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "有名人にインタビューする",
+          "title": "Entrevista a una celebridad",
           "activityPattern": [],
           "activities": 58
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "警察に電話する",
+          "title": "Llama a la policía",
           "activityPattern": [],
           "activities": 59
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "文化的背景の違いについて話す",
+          "title": "Habla sobre culturas distintas",
           "activityPattern": [],
           "activities": 60
         }
@@ -943,1792 +970,1792 @@
     {
       "sectionIndex": 5,
       "unitCount": 255,
-      "title": ":",
-      "rawTitle": "CEFR B1:",
+      "title": "MCER B1:",
+      "rawTitle": "MCER B1:",
       "cefr": "B1",
       "units": [
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "成長：強みを伝える",
+          "title": "Habilidad: Habla de tus logros",
           "activityPattern": [],
           "activities": 1
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "成長：自分の成長を説明する",
+          "title": "Habilidad: Habla de tus habilidades",
           "activityPattern": [],
           "activities": 2
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "成長：自分の強みを伝える",
+          "title": "Habilidad: Explica tus logros",
           "activityPattern": [],
           "activities": 3
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "成長：自分の経験を話す",
+          "title": "Habilidad: Expresa lo que sabes hacer",
           "activityPattern": [],
           "activities": 4
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "成長：成長の目標を述べる",
+          "title": "Habilidad: Cuenta tu experiencia",
           "activityPattern": [],
           "activities": 5
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "アウトドア：気持ちの変化を話す",
+          "title": "Naturaleza: Cuenta cómo te relajas",
           "activityPattern": [],
           "activities": 6
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "アウトドア：テラスでリラックスする",
+          "title": "Naturaleza: Describe el paisaje que ves",
           "activityPattern": [],
           "activities": 7
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "アウトドア：自然体験を共有する",
+          "title": "Naturaleza: Disfruta el aire libre",
           "activityPattern": [],
           "activities": 8
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "アウトドア：湖での過ごし方を話す",
+          "title": "Naturaleza: Haz planes al aire libre",
           "activityPattern": [],
           "activities": 9
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "アウトドア：登山計画を立てる",
+          "title": "Naturaleza: Habla de tus planes al aire libre",
           "activityPattern": [],
           "activities": 10
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "人物：クラスの人を紹介する",
+          "title": "Apariencia: Describe la apariencia de alguien",
           "activityPattern": [],
           "activities": 11
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "人物：有名人について話す",
+          "title": "Apariencia: Habla sobre un famoso",
           "activityPattern": [],
           "activities": 12
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "人物：人物を説明する",
+          "title": "Apariencia: Explica el cambio de apariencia",
           "activityPattern": [],
           "activities": 13
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "人物：友達の特徴を比べる",
+          "title": "Apariencia: Describe a una persona",
           "activityPattern": [],
           "activities": 14
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "人物：うわさを聞こう",
+          "title": "Apariencia: Describe un gesto elegante",
           "activityPattern": [],
           "activities": 15
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "余暇：授業後の過ごし方を話す",
+          "title": "Rutina: Habla de tu rutina diaria",
           "activityPattern": [],
           "activities": 16
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "余暇：余暇の過ごし方を話す",
+          "title": "Rutina: Comenta tus hábitos actuales",
           "activityPattern": [],
           "activities": 17
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "余暇：助けが必要なら頼もう",
+          "title": "Rutina: Pide ayuda con la rutina",
           "activityPattern": [],
           "activities": 18
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "余暇：余暇の予定を話す",
+          "title": "Rutina: Describe tu rutina de ocio",
           "activityPattern": [],
           "activities": 19
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "余暇：おすすめの過ごし方を伝える",
+          "title": "Rutina: Comparte formas de relajarte",
           "activityPattern": [],
           "activities": 20
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "旅行計画：旅行先を決める",
+          "title": "Viaje: Habla de precios de vuelos",
           "activityPattern": [],
           "activities": 21
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "旅行計画：行き先を決める",
+          "title": "Viaje: Habla sobre destinos de viaje",
           "activityPattern": [],
           "activities": 22
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "旅行計画：行きたい場所を伝える",
+          "title": "Viaje: Organiza tu itinerario de viaje",
           "activityPattern": [],
           "activities": 23
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "旅行計画：特産品を紹介する",
+          "title": "Viaje: Pregunta por productos locales",
           "activityPattern": [],
           "activities": 24
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "旅行計画：旅行の予定を立てる",
+          "title": "Viaje: Organiza un viaje con amigos",
           "activityPattern": [],
           "activities": 25
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "会議：会議の内容を伝える",
+          "title": "Oficina: Organiza una reunión",
           "activityPattern": [],
           "activities": 26
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "会議：要点を簡単に説明する",
+          "title": "Oficina: Toma notas de la reunión",
           "activityPattern": [],
           "activities": 27
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "会議：会議の役割を分担する",
+          "title": "Oficina: Pregunta por tareas pendientes",
           "activityPattern": [],
           "activities": 28
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "会議：自分の意見を述べる",
+          "title": "Oficina: Expón tu punto de vista",
           "activityPattern": [],
           "activities": 29
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "会議：会議について話す",
+          "title": "Oficina: Presenta a tu equipo",
           "activityPattern": [],
           "activities": 30
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "引っ越し：家具や荷物を説明する",
+          "title": "Mudanza: Ayuda a mover cajas",
           "activityPattern": [],
           "activities": 31
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "引っ越し：必要な道具を確認する",
+          "title": "Mudanza: Pide ayuda para mudarte",
           "activityPattern": [],
           "activities": 32
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "引っ越し：必要なものを準備する",
+          "title": "Mudanza: Pide ayuda para empacar",
           "activityPattern": [],
           "activities": 33
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "引っ越し：家具の配置を決める",
+          "title": "Mudanza: Organiza los muebles",
           "activityPattern": [],
           "activities": 34
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "引っ越し：新しい家について話す",
+          "title": "Mudanza: Habla de tu mudanza",
           "activityPattern": [],
           "activities": 35
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "救急：状況を判断する",
+          "title": "Emergencia: Evalúa los riesgos",
           "activityPattern": [],
           "activities": 36
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "救急：けがの対処法を説明する",
+          "title": "Emergencia: Describe una emergencia",
           "activityPattern": [],
           "activities": 37
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "救急：事故を説明する",
+          "title": "Emergencia: Informa sobre un accidente",
           "activityPattern": [],
           "activities": 38
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "救急：けがを説明する",
+          "title": "Emergencia: Describe un accidente escolar",
           "activityPattern": [],
           "activities": 39
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "救急：応急処置を説明する",
+          "title": "Emergencia: Evalúa a un paciente",
           "activityPattern": [],
           "activities": 40
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "思い出：経験を語る",
+          "title": "Excusas: Comparte tus razones",
           "activityPattern": [],
           "activities": 41
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "思い出：思い出を語る",
+          "title": "Excusas: Da excusas en clase",
           "activityPattern": [],
           "activities": 42
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "思い出：勇気を出した経験を話す",
+          "title": "Excusas: Da una excusa creíble",
           "activityPattern": [],
           "activities": 43
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "思い出：つらい時を振り返る",
+          "title": "Excusas: Cuenta una excusa personal",
           "activityPattern": [],
           "activities": 44
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "思い出：失敗した話をする",
+          "title": "Excusas: Explica tus motivos",
           "activityPattern": [],
           "activities": 45
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "レストラン：座席を選ぶ",
+          "title": "Restaurante: Expresa tu opinión del menú",
           "activityPattern": [],
           "activities": 46
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "レストラン：メニューを選ぶ",
+          "title": "Restaurante: Habla sobre platos del menú",
           "activityPattern": [],
           "activities": 47
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "レストラン：テーブルの大きさを確認する",
+          "title": "Restaurante: Elige una mesa",
           "activityPattern": [],
           "activities": 48
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "レストラン：料理をおすすめする",
+          "title": "Restaurante: Da tu opinión sobre el menú",
           "activityPattern": [],
           "activities": 49
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "レストラン：料理を注文する",
+          "title": "Restaurante: Habla sobre el menú",
           "activityPattern": [],
           "activities": 50
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "美容院：理想の髪型を伝える",
+          "title": "Peluquería: Pide un corte de pelo",
           "activityPattern": [],
           "activities": 51
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "美容院：髪型を相談する",
+          "title": "Peluquería: Describe tu peinado ideal",
           "activityPattern": [],
           "activities": 52
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "美容院：おすすめを尋ねる",
+          "title": "Peluquería: Describe tu corte de pelo",
           "activityPattern": [],
           "activities": 53
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "美容院：美容法を説明する",
+          "title": "Peluquería: Explica tu rutina de afeitado",
           "activityPattern": [],
           "activities": 54
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "美容院：美容師に髪型を相談する",
+          "title": "Peluquería: Habla de colores de cabello",
           "activityPattern": [],
           "activities": 55
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "習慣：自分の習慣を話す",
+          "title": "Estilo: Elige una forma de comunicarte",
           "activityPattern": [],
           "activities": 56
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "習慣：友達の習慣を聞く",
+          "title": "Estilo: Describe tu estilo",
           "activityPattern": [],
           "activities": 57
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "習慣：他人の習慣に共感する",
+          "title": "Estilo: Compara estilos de líderes",
           "activityPattern": [],
           "activities": 58
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "習慣：服の色を選ぼう",
+          "title": "Estilo: Describe tu ropa favorita",
           "activityPattern": [],
           "activities": 59
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "習慣：メリットとデメリットを述べる",
+          "title": "Estilo: Describe tu chaqueta de invierno",
           "activityPattern": [],
           "activities": 60
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "チーム：チームを紹介する",
+          "title": "Equipo: Describe el trabajo en equipo",
           "activityPattern": [],
           "activities": 61
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "チーム：上達方法を共有する",
+          "title": "Equipo: Evalúa el progreso del grupo",
           "activityPattern": [],
           "activities": 62
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "チーム：仲間をほめる",
+          "title": "Equipo: Describe a tus compañeros",
           "activityPattern": [],
           "activities": 63
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "チーム：チームの作戦を話す",
+          "title": "Equipo: Explica tu táctica para ganar",
           "activityPattern": [],
           "activities": 64
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "チーム：チームの役割を決める",
+          "title": "Equipo: Describe a un buen líder",
           "activityPattern": [],
           "activities": 65
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "昼ごはん：昼ごはんの習慣を話す",
+          "title": "Merienda: Prepara una merienda fácil",
           "activityPattern": [],
           "activities": 66
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "昼ごはん：スイーツの感想を言う",
+          "title": "Merienda: Describe una pastelería",
           "activityPattern": [],
           "activities": 67
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "昼ごはん：昼ごはんを選ぶ",
+          "title": "Merienda: Prueba diferentes bebidas",
           "activityPattern": [],
           "activities": 68
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "昼ごはん：主食を比べる",
+          "title": "Merienda: Elige tus comidas favoritas",
           "activityPattern": [],
           "activities": 69
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "昼ごはん：好きな昼ごはんを紹介する",
+          "title": "Merienda: Comparte ideas de merienda",
           "activityPattern": [],
           "activities": 70
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "通勤：通勤時間を確認する",
+          "title": "Tráfico: Pregunta por el tráfico",
           "activityPattern": [],
           "activities": 71
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "通勤：遅刻の理由を説明する",
+          "title": "Tráfico: Habla del tráfico diario",
           "activityPattern": [],
           "activities": 72
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "通勤：通勤中の朝食について話す",
+          "title": "Tráfico: Cuenta cómo fue tu trayecto",
           "activityPattern": [],
           "activities": 73
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "通勤：通勤手段を尋ねる",
+          "title": "Tráfico: Cuenta cómo enfrentas el tráfico",
           "activityPattern": [],
           "activities": 74
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "通勤：通勤について話す",
+          "title": "Tráfico: Expresa tus quejas por el tráfico",
           "activityPattern": [],
           "activities": 75
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "気持ち：感想を伝える",
+          "title": "Amistad: Felicita a un amigo por su logro",
           "activityPattern": [],
           "activities": 76
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "気持ち：気持ちを伝える",
+          "title": "Amistad: Habla de amigos del pasado",
           "activityPattern": [],
           "activities": 77
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "気持ち：写真を見て感想を言う",
+          "title": "Amistad: Comenta fotos de tus amigos",
           "activityPattern": [],
           "activities": 78
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "気持ち：気持ちを表現する",
+          "title": "Amistad: Comparte recuerdos de amistad",
           "activityPattern": [],
           "activities": 79
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "気持ち：感謝を表す",
+          "title": "Amistad: Comparte noticias con amigos",
           "activityPattern": [],
           "activities": 80
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "天気：異常気象を説明する",
+          "title": "Clima: Describe el clima actual",
           "activityPattern": [],
           "activities": 81
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "天気：天気について話す",
+          "title": "Clima: Habla sobre el clima",
           "activityPattern": [],
           "activities": 82
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "天気：感想を伝える",
+          "title": "Clima: Habla de un tifón reciente",
           "activityPattern": [],
           "activities": 83
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "天気：天気の変化を説明する",
+          "title": "Clima: Describe el clima reciente",
           "activityPattern": [],
           "activities": 84
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "天気：災害について話そう",
+          "title": "Clima: Habla sobre el clima extremo",
           "activityPattern": [],
           "activities": 85
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "協力：意見を交換する",
+          "title": "Apoyo: Ofrece apoyo a compañeros",
           "activityPattern": [],
           "activities": 86
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "協力：協力を求める",
+          "title": "Apoyo: Pide ayuda al entrenador",
           "activityPattern": [],
           "activities": 87
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "協力：チームで協力する",
+          "title": "Apoyo: Comparte consejos con el grupo",
           "activityPattern": [],
           "activities": 88
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "協力：協力して話し合う",
+          "title": "Apoyo: Habla de accesibilidad",
           "activityPattern": [],
           "activities": 89
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "協力：友達に助けを頼む",
+          "title": "Apoyo: Pide ayuda en la biblioteca",
           "activityPattern": [],
           "activities": 90
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "趣味：自分の趣味を紹介する",
+          "title": "Arte: Cuenta por qué te gusta el arte",
           "activityPattern": [],
           "activities": 91
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "趣味：趣味を語る",
+          "title": "Arte: Describe tu colección",
           "activityPattern": [],
           "activities": 92
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "趣味：趣味を紹介する",
+          "title": "Arte: Explica cómo aprendiste un arte",
           "activityPattern": [],
           "activities": 93
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "趣味：作品の感想を伝える",
+          "title": "Arte: Comenta obras de arte",
           "activityPattern": [],
           "activities": 94
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "趣味：友達に趣味をすすめる",
+          "title": "Arte: Comenta un espectáculo en vivo",
           "activityPattern": [],
           "activities": 95
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "物語：夢の内容を説明する",
+          "title": "Cuentos: Cuenta un sueño",
           "activityPattern": [],
           "activities": 96
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "物語：映画の展開を説明する",
+          "title": "Cuentos: Cuenta el final de la historia",
           "activityPattern": [],
           "activities": 97
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "物語：好きな物語を話す",
+          "title": "Cuentos: Cuenta tu cuento favorito",
           "activityPattern": [],
           "activities": 98
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "物語：物語に感想を述べる",
+          "title": "Cuentos: Relaciona películas y cuentos",
           "activityPattern": [],
           "activities": 99
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "物語：結末を予想する",
+          "title": "Cuentos: Comenta el final de un cuento",
           "activityPattern": [],
           "activities": 100
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "スポーツ：新しいスポーツを選ぶ",
+          "title": "Deporte: Expresa tus intereses deportivos",
           "activityPattern": [],
           "activities": 101
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "スポーツ：選手の魅力を語る",
+          "title": "Deporte: Comenta sobre atletas famosos",
           "activityPattern": [],
           "activities": 102
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "スポーツ：試合の感想を伝える",
+          "title": "Deporte: Habla sobre deportes",
           "activityPattern": [],
           "activities": 103
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "スポーツ：運動の感想を話す",
+          "title": "Deporte: Comenta sobre los atletas",
           "activityPattern": [],
           "activities": 104
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "スポーツ：好きな選手を紹介する",
+          "title": "Deporte: Describe a los jugadores",
           "activityPattern": [],
           "activities": 105
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "行事：行事を準備する",
+          "title": "Fiesta: Prepara la decoración",
           "activityPattern": [],
           "activities": 106
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "行事：行事の場所を決める",
+          "title": "Fiesta: Organiza una fiesta en el hotel",
           "activityPattern": [],
           "activities": 107
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "行事：行事について話そう",
+          "title": "Fiesta: Expresa tus deseos de Año Nuevo",
           "activityPattern": [],
           "activities": 108
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "行事：贈り物を選ぶ",
+          "title": "Fiesta: Entrega regalos a tus amigos",
           "activityPattern": [],
           "activities": 109
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "行事：イベント情報を伝える",
+          "title": "Fiesta: Organiza una fiesta escolar",
           "activityPattern": [],
           "activities": 110
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "交通：交通状況を説明する",
+          "title": "Carretera: Describe atascos en tu zona",
           "activityPattern": [],
           "activities": 111
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "交通：道順を説明する",
+          "title": "Carretera: Describe señales de tráfico",
           "activityPattern": [],
           "activities": 112
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "交通：旅の計画を立てる",
+          "title": "Carretera: Habla sobre la ruta",
           "activityPattern": [],
           "activities": 113
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "交通：交通ルールを説明する",
+          "title": "Carretera: Explica las normas de tráfico",
           "activityPattern": [],
           "activities": 114
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "交通：交通安全について話す",
+          "title": "Carretera: Habla de seguridad vial",
           "activityPattern": [],
           "activities": 115
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "家族：家族を紹介する",
+          "title": "Familia: Comparte planes familiares",
           "activityPattern": [],
           "activities": 116
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "家族：家族写真を説明する",
+          "title": "Familia: Habla sobre tu familia",
           "activityPattern": [],
           "activities": 117
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "家族：家族の思い出を語ろう",
+          "title": "Familia: Habla sobre la amistad familiar",
           "activityPattern": [],
           "activities": 118
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "家族：家族について話す",
+          "title": "Familia: Describe a tus padres e hijos",
           "activityPattern": [],
           "activities": 119
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "家族：家族への感謝を表す",
+          "title": "Familia: Comparte historias familiares",
           "activityPattern": [],
           "activities": 120
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "家族関係：家族の役割を説明する",
+          "title": "Apoyo familiar: Cuenta quién ayuda en casa",
           "activityPattern": [],
           "activities": 121
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "家族関係：家族について話す",
+          "title": "Apoyo familiar: Habla de roles familiares",
           "activityPattern": [],
           "activities": 122
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "家族関係：家庭の思い出を語る",
+          "title": "Apoyo familiar: Habla del apoyo en tu hogar",
           "activityPattern": [],
           "activities": 123
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "家族関係：家族の思い出を共有する",
+          "title": "Apoyo familiar: Habla de la ayuda en casa",
           "activityPattern": [],
           "activities": 124
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "家族関係：家族を紹介する",
+          "title": "Apoyo familiar: Presenta a tu familia",
           "activityPattern": [],
           "activities": 125
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "道案内：道を尋ねる",
+          "title": "Ubicación: Pide direcciones",
           "activityPattern": [],
           "activities": 126
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "道案内：道をたずねる",
+          "title": "Ubicación: Pregunta cómo llegar",
           "activityPattern": [],
           "activities": 127
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "道案内：行き方を説明する",
+          "title": "Ubicación: Indica dónde estás",
           "activityPattern": [],
           "activities": 128
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "道案内：場所を説明する",
+          "title": "Ubicación: Describe un lugar de encuentro",
           "activityPattern": [],
           "activities": 129
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "道案内：道順を説明する",
+          "title": "Ubicación: Indica tu ubicación",
           "activityPattern": [],
           "activities": 130
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "部屋：好きな家具を説明する",
+          "title": "Hogar: Describe tu espacio ideal",
           "activityPattern": [],
           "activities": 131
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "部屋：部屋を説明する",
+          "title": "Hogar: Habla del diseño del hogar",
           "activityPattern": [],
           "activities": 132
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "部屋：部屋を整理する",
+          "title": "Hogar: Propón mejoras para el hogar",
           "activityPattern": [],
           "activities": 133
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "部屋：部屋を紹介する",
+          "title": "Hogar: Describe tu casa",
           "activityPattern": [],
           "activities": 134
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "部屋：部屋の特徴を話す",
+          "title": "Hogar: Habla de tus rutinas en casa",
           "activityPattern": [],
           "activities": 135
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "目標：行動目標を立てる",
+          "title": "Esperanza: Propón nuevas ideas",
           "activityPattern": [],
           "activities": 136
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "目標：目標を話し合う",
+          "title": "Esperanza: Habla de proyectos ecológicos",
           "activityPattern": [],
           "activities": 137
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "目標：未来の目標を話す",
+          "title": "Esperanza: Expresa tu esperanza",
           "activityPattern": [],
           "activities": 138
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "目標：目標を決める",
+          "title": "Esperanza: Crea un club escolar",
           "activityPattern": [],
           "activities": 139
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "目標：計画を説明する",
+          "title": "Esperanza: Comparte tus sueños",
           "activityPattern": [],
           "activities": 140
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "結婚式：招待状について話す",
+          "title": "Boda: Habla sobre la invitación",
           "activityPattern": [],
           "activities": 141
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "結婚式：結婚式の予定を話す",
+          "title": "Boda: Habla de tu boda",
           "activityPattern": [],
           "activities": 142
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "結婚式：結婚式の準備を手伝う",
+          "title": "Boda: Sugiere ideas para la boda",
           "activityPattern": [],
           "activities": 143
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "結婚式：式場を見学する",
+          "title": "Boda: Explica los planes de la boda",
           "activityPattern": [],
           "activities": 144
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "結婚式：式の準備を説明する",
+          "title": "Boda: Sugiere un estilista para la boda",
           "activityPattern": [],
           "activities": 145
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "集まり：みんなを誘う",
+          "title": "Actividades: Organiza planes con amigos",
           "activityPattern": [],
           "activities": 146
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "集まり：感想や考えを共有する",
+          "title": "Actividades: Sugiere una idea para hoy",
           "activityPattern": [],
           "activities": 147
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "集まり：自由時間の過ごし方を共有する",
+          "title": "Actividades: Di qué te gusta hacer",
           "activityPattern": [],
           "activities": 148
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "集まり：展覧会に誘う",
+          "title": "Actividades: Expresa interés en el arte",
           "activityPattern": [],
           "activities": 149
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "集まり：友達を家に招く",
+          "title": "Actividades: Cuenta quién ganó el juego",
           "activityPattern": [],
           "activities": 150
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "コミュニティ：地域の行事を紹介する",
+          "title": "Vecindad: Habla con tus vecinos",
           "activityPattern": [],
           "activities": 151
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "コミュニティ：地域の活動を案内する",
+          "title": "Vecindad: Organiza una reunión vecinal",
           "activityPattern": [],
           "activities": 152
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "コミュニティ：近所の人を紹介する",
+          "title": "Vecindad: Ayuda a tus vecinos",
           "activityPattern": [],
           "activities": 153
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "コミュニティ：新しい隣人と話す",
+          "title": "Vecindad: Pregunta por actividades",
           "activityPattern": [],
           "activities": 154
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "コミュニティ：掲示板について話す",
+          "title": "Vecindad: Lee el tablero de anuncios",
           "activityPattern": [],
           "activities": 155
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "日常用品：日用品を説明する",
+          "title": "Oficina: Limpia el escritorio",
           "activityPattern": [],
           "activities": 156
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "日常用品：置き場所をたずねる",
+          "title": "Oficina: Organiza los materiales de oficina",
           "activityPattern": [],
           "activities": 157
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "日常用品：日用品の使い方を説明する",
+          "title": "Oficina: Explica cómo usar objetos",
           "activityPattern": [],
           "activities": 158
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "日常用品：身の回りを整理する",
+          "title": "Oficina: Describe tu espacio de trabajo",
           "activityPattern": [],
           "activities": 159
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "日常用品：身の回りの物を説明する",
+          "title": "Oficina: Organiza las tareas del día",
           "activityPattern": [],
           "activities": 160
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "環境：リサイクルについて話す",
+          "title": "Medioambiente: Recicla botellas y latas",
           "activityPattern": [],
           "activities": 161
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "環境：環境について意見を述べる",
+          "title": "Medioambiente: Da tu opinión sobre reciclar",
           "activityPattern": [],
           "activities": 162
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "環境：環境について話す",
+          "title": "Medioambiente: Habla sobre el aire limpio",
           "activityPattern": [],
           "activities": 163
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "環境：環境をきれいにする",
+          "title": "Medioambiente: Di qué ves en el río",
           "activityPattern": [],
           "activities": 164
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "環境：ごみの分別を説明しよう",
+          "title": "Medioambiente: Ahorra agua y luz",
           "activityPattern": [],
           "activities": 165
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "会議：意見を交換する",
+          "title": "Reunión: Comparte nuevas ideas",
           "activityPattern": [],
           "activities": 166
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "会議：丁寧にメールを書く",
+          "title": "Reunión: Escribe un correo de trabajo",
           "activityPattern": [],
           "activities": 167
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "会議：役割を決める",
+          "title": "Reunión: Comparte ideas con tu equipo",
           "activityPattern": [],
           "activities": 168
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "会議：会議の役割を説明する",
+          "title": "Reunión: Expón tus ideas en la reunión",
           "activityPattern": [],
           "activities": 169
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "会議：会議に参加する",
+          "title": "Reunión: Habla con tu gerente",
           "activityPattern": [],
           "activities": 170
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "運動習慣：自分の運動習慣を話す",
+          "title": "Ejercicio: Habla de tu rutina de ejercicio",
           "activityPattern": [],
           "activities": 171
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "運動習慣：運動のやり方を説明する",
+          "title": "Ejercicio: Cuenta cómo te motivas",
           "activityPattern": [],
           "activities": 172
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "運動習慣：運動の感想を伝える",
+          "title": "Ejercicio: Explica por qué haces ejercicio",
           "activityPattern": [],
           "activities": 173
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "運動習慣：運動の目標を共有する",
+          "title": "Ejercicio: Describe tus ejercicios favoritos",
           "activityPattern": [],
           "activities": 174
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "運動習慣：基本動作を説明する",
+          "title": "Ejercicio: Motiva a un amigo a entrenar",
           "activityPattern": [],
           "activities": 175
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "育児：子どもの様子を伝える",
+          "title": "Niñez: Explica cómo cuidar a un niño",
           "activityPattern": [],
           "activities": 176
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "育児：親に相談する",
+          "title": "Niñez: Habla sobre reglas familiares",
           "activityPattern": [],
           "activities": 177
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "育児：子どもの世話をする",
+          "title": "Niñez: Comparte tus recuerdos de infancia",
           "activityPattern": [],
           "activities": 178
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "育児：子育てについて話す",
+          "title": "Niñez: Habla de tu niñez",
           "activityPattern": [],
           "activities": 179
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "育児：子どもの行動を説明する",
+          "title": "Niñez: Describe a los niños",
           "activityPattern": [],
           "activities": 180
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "緊急時：緊急時の対策を話す",
+          "title": "Emergencia: Pide ayuda si la necesitas",
           "activityPattern": [],
           "activities": 181
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "緊急時：事故原因を説明する",
+          "title": "Emergencia: Actúa en una emergencia",
           "activityPattern": [],
           "activities": 182
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "緊急時：緊急時の道具を使う",
+          "title": "Emergencia: Sal del aula sin correr",
           "activityPattern": [],
           "activities": 183
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "緊急時：安全な場所を探す",
+          "title": "Emergencia: Explica el problema eléctrico",
           "activityPattern": [],
           "activities": 184
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "緊急時：状況を説明する",
+          "title": "Emergencia: Informa sobre un problema",
           "activityPattern": [],
           "activities": 185
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "診察：診察を受ける",
+          "title": "Salud: Describe tu estado de salud",
           "activityPattern": [],
           "activities": 186
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "診察：薬の相談をする",
+          "title": "Salud: Habla de alergias",
           "activityPattern": [],
           "activities": 187
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "診察：医師に結果を尋ねる",
+          "title": "Salud: Pregunta por tus resultados",
           "activityPattern": [],
           "activities": 188
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "診察：薬の使い方を説明する",
+          "title": "Salud: Explica una receta médica",
           "activityPattern": [],
           "activities": 189
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "診察：症状を説明する",
+          "title": "Salud: Habla de tomar medicamentos",
           "activityPattern": [],
           "activities": 190
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "評価：努力を認める",
+          "title": "Objetivos: Habla sobre tus metas",
           "activityPattern": [],
           "activities": 191
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "評価：意見を述べる",
+          "title": "Objetivos: Presenta tus objetivos",
           "activityPattern": [],
           "activities": 192
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "評価：担当者に意見を伝える",
+          "title": "Objetivos: Explica los objetivos del evento",
           "activityPattern": [],
           "activities": 193
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "評価：チームの成果を伝える",
+          "title": "Objetivos: Comparte planes para el año",
           "activityPattern": [],
           "activities": 194
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "評価：満足度を伝える",
+          "title": "Objetivos: Pregunta por recomendaciones",
           "activityPattern": [],
           "activities": 195
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "授業：本の表紙を説明しよう",
+          "title": "Clases: Participa en la lectura interactiva",
           "activityPattern": [],
           "activities": 196
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "授業：授業の準備をする",
+          "title": "Clases: Pide ayuda con tareas",
           "activityPattern": [],
           "activities": 197
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "授業：授業の問題を解く",
+          "title": "Clases: Habla sobre tu tarea",
           "activityPattern": [],
           "activities": 198
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "授業：先生に質問する",
+          "title": "Clases: Invita a jugar ajedrez",
           "activityPattern": [],
           "activities": 199
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "授業：本を数えてみよう",
+          "title": "Clases: Cuenta objetos en clase",
           "activityPattern": [],
           "activities": 200
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "協力：他の人に助けを求める",
+          "title": "Voluntario: Habla de tu experiencia",
           "activityPattern": [],
           "activities": 201
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "協力：手伝いを頼む",
+          "title": "Voluntario: Sugiere juegos para niños",
           "activityPattern": [],
           "activities": 202
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "協力：みんなでイベントを進める",
+          "title": "Voluntario: Ayuda a organizar actividades",
           "activityPattern": [],
           "activities": 203
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "協力：協力して学んだことを話す",
+          "title": "Voluntario: Habla sobre tu voluntariado",
           "activityPattern": [],
           "activities": 204
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "協力：協力する理由を話す",
+          "title": "Voluntario: Expresa tus motivaciones",
           "activityPattern": [],
           "activities": 205
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "会場：会場を案内する",
+          "title": "Comunidad: Pregunta cómo llegar al evento",
           "activityPattern": [],
           "activities": 206
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "会場：会場で声をかける",
+          "title": "Comunidad: Pide ayuda en la reunión",
           "activityPattern": [],
           "activities": 207
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "会場：会場で友達と交流する",
+          "title": "Comunidad: Preséntate a otros",
           "activityPattern": [],
           "activities": 208
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "会場：会場で友達と話す",
+          "title": "Comunidad: Habla con tus vecinos",
           "activityPattern": [],
           "activities": 209
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "会場：集合場所を決める",
+          "title": "Comunidad: Organiza una reunión",
           "activityPattern": [],
           "activities": 210
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "旅行計画：都市と田舎を比べる",
+          "title": "Naturaleza: Describe la vida rural y urbana",
           "activityPattern": [],
           "activities": 211
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "旅行計画：旅行先を選ぶ",
+          "title": "Naturaleza: Habla de vivir en la naturaleza",
           "activityPattern": [],
           "activities": 212
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "旅行計画：旅行先を提案する",
+          "title": "Naturaleza: Sugiere lugares para visitar",
           "activityPattern": [],
           "activities": 213
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "旅行計画：冬休みの予定を話そう",
+          "title": "Naturaleza: Comparte lo que te gusta hacer",
           "activityPattern": [],
           "activities": 214
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "旅行計画：公園の景色を説明する",
+          "title": "Naturaleza: Describe paisajes naturales",
           "activityPattern": [],
           "activities": 215
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "製品案内：製品の使い方を説明する",
+          "title": "Productos: Describe los productos",
           "activityPattern": [],
           "activities": 216
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "製品案内：製品を説明する",
+          "title": "Productos: Describe un producto útil",
           "activityPattern": [],
           "activities": 217
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "製品案内：商品の詳細を説明する",
+          "title": "Productos: Pregunta sobre detalles",
           "activityPattern": [],
           "activities": 218
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "製品案内：製品の特徴を説明する",
+          "title": "Productos: Compara diferentes productos",
           "activityPattern": [],
           "activities": 219
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "製品案内：おすすめ商品を紹介する",
+          "title": "Productos: Pregunta por productos nuevos",
           "activityPattern": [],
           "activities": 220
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "科学：実験結果を説明する",
+          "title": "Ciencia: Describe un experimento",
           "activityPattern": [],
           "activities": 221
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "科学：自分の意見を述べる",
+          "title": "Ciencia: Comparte tus ideas científicas",
           "activityPattern": [],
           "activities": 222
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "科学：最新の発見を紹介する",
+          "title": "Ciencia: Describe un planeta",
           "activityPattern": [],
           "activities": 223
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "科学：発表を聞いて意見を言う",
+          "title": "Ciencia: Comenta una presentación",
           "activityPattern": [],
           "activities": 224
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "科学：理論を説明する",
+          "title": "Ciencia: Explica un nuevo descubrimiento",
           "activityPattern": [],
           "activities": 225
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "芸術作品：感想を話す",
+          "title": "Arte: Describe una obra de arte",
           "activityPattern": [],
           "activities": 226
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "芸術作品：感想を伝える",
+          "title": "Arte: Describe una pintura",
           "activityPattern": [],
           "activities": 227
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "芸術作品：作品について感想を言う",
+          "title": "Arte: Da tu opinión sobre esculturas",
           "activityPattern": [],
           "activities": 228
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "芸術作品：作品の特徴を説明する",
+          "title": "Arte: Describe un retrato",
           "activityPattern": [],
           "activities": 229
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "芸術作品：芸術作品について話す",
+          "title": "Arte: Pregunta sobre técnicas artísticas",
           "activityPattern": [],
           "activities": 230
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "経験：自分の体験を話す",
+          "title": "Familia: Habla de tu enfermedad",
           "activityPattern": [],
           "activities": 231
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "経験：危機をどう乗り越えたか説明する",
+          "title": "Familia: Cuenta una crisis familiar",
           "activityPattern": [],
           "activities": 232
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "経験：家族の思い出を話す",
+          "title": "Familia: Cuenta anécdotas de familia",
           "activityPattern": [],
           "activities": 233
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "経験：印象に残ったことを共有する",
+          "title": "Familia: Describe a tu familia",
           "activityPattern": [],
           "activities": 234
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "経験：将来の夢を共有する",
+          "title": "Familia: Preséntate a tu familia",
           "activityPattern": [],
           "activities": 235
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "トラブル：問題を伝える",
+          "title": "Problemas: Describe un problema",
           "activityPattern": [],
           "activities": 236
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "トラブル：問題の原因を伝える",
+          "title": "Problemas: Explica la causa del fallo",
           "activityPattern": [],
           "activities": 237
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "トラブル：困った時に助けを求める",
+          "title": "Problemas: Sugiere soluciones posibles",
           "activityPattern": [],
           "activities": 238
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "トラブル：スマホのトラブルを相談する",
+          "title": "Problemas: Describe un problema técnico",
           "activityPattern": [],
           "activities": 239
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "トラブル：音量を調整する",
+          "title": "Problemas: Elige un tono para mensajes",
           "activityPattern": [],
           "activities": 240
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "関係：友情を大切にする",
+          "title": "Amistad: Mantén el contacto",
           "activityPattern": [],
           "activities": 241
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "関係：感想を共有する",
+          "title": "Amistad: Expresa qué valoras en amigos",
           "activityPattern": [],
           "activities": 242
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "関係：親しい人を紹介する",
+          "title": "Amistad: Habla sobre tus amistades",
           "activityPattern": [],
           "activities": 243
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "関係：家族を紹介する",
+          "title": "Amistad: Explica qué es el respeto",
           "activityPattern": [],
           "activities": 244
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "関係：気持ちを伝える",
+          "title": "Amistad: Despídete de un amigo cercano",
           "activityPattern": [],
           "activities": 245
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "思い出：思い出を語る",
+          "title": "Objetos: Pregunta por objetos perdidos",
           "activityPattern": [],
           "activities": 246
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "思い出：冒険を振り返る",
+          "title": "Objetos: Decide si volver",
           "activityPattern": [],
           "activities": 247
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "思い出：思い出を共有する",
+          "title": "Objetos: Describe objetos a tu alrededor",
           "activityPattern": [],
           "activities": 248
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "思い出：失くした物について話す",
+          "title": "Objetos: Cuenta cuántos objetos hay",
           "activityPattern": [],
           "activities": 249
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "思い出：楽しかったことを語る",
+          "title": "Objetos: Busca objetos en el parque",
           "activityPattern": [],
           "activities": 250
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "ツール：オンラインで相談する",
+          "title": "Tecnología: Pide ayuda en línea",
           "activityPattern": [],
           "activities": 251
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "ツール：ツールを使いこなす",
+          "title": "Tecnología: Usa una nueva herramienta",
           "activityPattern": [],
           "activities": 252
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "ツール：使い方を説明する",
+          "title": "Tecnología: Saluda a tu equipo",
           "activityPattern": [],
           "activities": 253
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "ツール：ファイルをアップロードする",
+          "title": "Tecnología: Explica cómo subir archivos",
           "activityPattern": [],
           "activities": 254
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "ツール：便利なツールを説明する",
+          "title": "Tecnología: Explica herramientas digitales",
           "activityPattern": [],
           "activities": 255
         }
@@ -2737,1724 +2764,1728 @@
     {
       "sectionIndex": 6,
       "unitCount": 245,
-      "title": ":",
-      "rawTitle": "CEFR B1:",
+      "title": "MCER B1:",
+      "rawTitle": "MCER B1:",
       "cefr": "B1",
       "units": [
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "式典：式典であいさつする",
+          "title": "Tradición: Saluda en una ocasión formal",
           "activityPattern": [],
           "activities": 1
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "式典：必要書類を確認する",
+          "title": "Tradición: Llena el formulario",
           "activityPattern": [],
           "activities": 2
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "式典：式の感想を伝える",
+          "title": "Tradición: Expresa buenos deseos",
           "activityPattern": [],
           "activities": 3
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "式典：式典について話す",
+          "title": "Tradición: Describe una boda",
           "activityPattern": [],
           "activities": 4
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "式典：後代への思いを述べる",
+          "title": "Tradición: Habla sobre una tradición",
           "activityPattern": [],
           "activities": 5
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "環境問題：解決策を提案する",
+          "title": "Recursos: Propón soluciones al grupo",
           "activityPattern": [],
           "activities": 6
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "環境問題：環境対策を提案する",
+          "title": "Recursos: Propón ideas para reciclar",
           "activityPattern": [],
           "activities": 7
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "環境問題：環境への意見を述べる",
+          "title": "Recursos: Sugiere cómo usar recursos",
           "activityPattern": [],
           "activities": 8
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "環境問題：環境団体について話す",
+          "title": "Recursos: Únete a una iniciativa local",
           "activityPattern": [],
           "activities": 9
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "環境問題：地球の未来を考える",
+          "title": "Recursos: Explica el uso de la gasolina",
           "activityPattern": [],
           "activities": 10
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "証明書：学位を申請しよう",
+          "title": "Suerte: Cuenta tus logros",
           "activityPattern": [],
           "activities": 11
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "証明書：デザインを見てみよう",
+          "title": "Suerte: Da tu opinión sobre tecnología",
           "activityPattern": [],
           "activities": 12
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "証明書：証明書を見せる",
+          "title": "Suerte: Describe objetos de la suerte",
           "activityPattern": [],
           "activities": 13
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "証明書：証明書について説明しよう",
+          "title": "Suerte: Habla de un sorteo",
           "activityPattern": [],
           "activities": 14
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "証明書：証明書の番号を伝える",
+          "title": "Suerte: Comenta el resultado",
           "activityPattern": [],
           "activities": 15
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "リサイクル：再利用方法を提案する",
+          "title": "Reciclaje: Sugiere ideas de reciclaje",
           "activityPattern": [],
           "activities": 16
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "リサイクル：回収方法を説明する",
+          "title": "Reciclaje: Pregunta dónde reciclar",
           "activityPattern": [],
           "activities": 17
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "リサイクル：金属を回収しよう",
+          "title": "Reciclaje: Sugiere cómo reciclar",
           "activityPattern": [],
           "activities": 18
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "リサイクル：大事な情報を伝える",
+          "title": "Reciclaje: Explica cómo reciclar",
           "activityPattern": [],
           "activities": 19
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "リサイクル：ごみ削減を提案する",
+          "title": "Reciclaje: Describe medidas de reciclaje",
           "activityPattern": [],
           "activities": 20
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "料理：料理を注文する",
+          "title": "Ingredientes: Elige ingredientes sanos",
           "activityPattern": [],
           "activities": 21
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "料理：材料を説明する",
+          "title": "Ingredientes: Sugiere un ingrediente extra",
           "activityPattern": [],
           "activities": 22
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "料理：料理のコツを教える",
+          "title": "Ingredientes: Nombra ingredientes clave",
           "activityPattern": [],
           "activities": 23
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "料理：デザートの作り方を伝える",
+          "title": "Ingredientes: Elige líquidos para cocinar",
           "activityPattern": [],
           "activities": 24
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "料理：味の感想を伝える",
+          "title": "Ingredientes: Sugiere platos para probar",
           "activityPattern": [],
           "activities": 25
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "指示：指示を守る",
+          "title": "Seguridad: Desinfecta tus manos",
           "activityPattern": [],
           "activities": 26
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "指示：安全について伝える",
+          "title": "Seguridad: Explica reglas de seguridad",
           "activityPattern": [],
           "activities": 27
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "指示：実験の指示を出す",
+          "title": "Seguridad: Habla de normas de seguridad",
           "activityPattern": [],
           "activities": 28
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "指示：安全な使い方を説明する",
+          "title": "Seguridad: Explica cuándo detenerte",
           "activityPattern": [],
           "activities": 29
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "指示：指示に従う",
+          "title": "Seguridad: Describe un objeto dañado",
           "activityPattern": [],
           "activities": 30
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "手作り：手作りの贈り物を説明する",
+          "title": "Regalos: Elige un regalo para alguien",
           "activityPattern": [],
           "activities": 31
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "手作り：作り方を説明する",
+          "title": "Regalos: Decora el envoltorio del regalo",
           "activityPattern": [],
           "activities": 32
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "手作り：手作りの楽しさを語る",
+          "title": "Regalos: Haz un regalo creativo",
           "activityPattern": [],
           "activities": 33
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "手作り：手作りのコツを伝える",
+          "title": "Regalos: Pide ayuda para empacar",
           "activityPattern": [],
           "activities": 34
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "手作り：作り方を教える",
+          "title": "Regalos: Describe un regalo hecho a mano",
           "activityPattern": [],
           "activities": 35
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "資料整理：資料を整理する",
+          "title": "Material: Pide materiales necesarios",
           "activityPattern": [],
           "activities": 36
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "資料整理：資料を分類する",
+          "title": "Material: Organiza documentos del club",
           "activityPattern": [],
           "activities": 37
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "資料整理：優先事項を決める",
+          "title": "Material: Organiza el material del grupo",
           "activityPattern": [],
           "activities": 38
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "資料整理：資料をまとめる",
+          "title": "Material: Organiza los materiales",
           "activityPattern": [],
           "activities": 39
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "資料整理：進捗をまとめる",
+          "title": "Material: Solicita ayuda con el material",
           "activityPattern": [],
           "activities": 40
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "音楽：音楽クラブを紹介する",
+          "title": "Música: Habla de tus gustos musicales",
           "activityPattern": [],
           "activities": 41
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "音楽：歌手について話す",
+          "title": "Música: Da tu opinión sobre una canción",
           "activityPattern": [],
           "activities": 42
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "音楽：楽器の違いを説明する",
+          "title": "Música: Habla de tus músicos favoritos",
           "activityPattern": [],
           "activities": 43
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "音楽：憧れの音楽家を紹介する",
+          "title": "Música: Comenta sobre los músicos",
           "activityPattern": [],
           "activities": 44
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "音楽：音楽サイトを紹介する",
+          "title": "Música: Recomienda canciones a amigos",
           "activityPattern": [],
           "activities": 45
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "権利：意見を出す",
+          "title": "Comunidad: Explica el aviso a otros",
           "activityPattern": [],
           "activities": 46
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "権利：意見を述べる",
+          "title": "Comunidad: Propón ideas realistas",
           "activityPattern": [],
           "activities": 47
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "権利：意見を伝えよう",
+          "title": "Comunidad: Habla de noticias recientes",
           "activityPattern": [],
           "activities": 48
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "権利：権利について話そう",
+          "title": "Comunidad: Habla sobre tus derechos",
           "activityPattern": [],
           "activities": 49
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "権利：自分の考えを述べる",
+          "title": "Comunidad: Ayuda a limpiar tu barrio",
           "activityPattern": [],
           "activities": 50
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "恋愛関係：思い出を共有する",
+          "title": "Relaciones: Expresa gratitud a alguien",
           "activityPattern": [],
           "activities": 51
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "恋愛関係：理想の相手を語る",
+          "title": "Relaciones: Habla de tus relaciones",
           "activityPattern": [],
           "activities": 52
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "恋愛関係：気持ちを伝える",
+          "title": "Relaciones: Cuenta tu historia de amor",
           "activityPattern": [],
           "activities": 53
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "恋愛関係：気持ちを説明する",
+          "title": "Relaciones: Describe cómo te sientes",
           "activityPattern": [],
           "activities": 54
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "恋愛関係：相手に謝る",
+          "title": "Relaciones: Explica un malentendido",
           "activityPattern": [],
           "activities": 55
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "社会：平等について話そう",
+          "title": "Valores: Comparte tus valores",
           "activityPattern": [],
           "activities": 56
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "社会：社会問題について話す",
+          "title": "Valores: Comenta reglas y sanciones",
           "activityPattern": [],
           "activities": 57
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "社会：結婚観を述べる",
+          "title": "Valores: Da tu opinión sobre el matrimonio",
           "activityPattern": [],
           "activities": 58
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "社会：市民の権利を説明する",
+          "title": "Valores: Habla de derechos civiles",
           "activityPattern": [],
           "activities": 59
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "社会：才能について意見を言う",
+          "title": "Valores: Comparte tu punto de vista",
           "activityPattern": [],
           "activities": 60
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "文学：詩を朗読する",
+          "title": "Lectura: Lee un texto en voz alta",
           "activityPattern": [],
           "activities": 61
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "文学：文学の授業について話す",
+          "title": "Lectura: Habla sobre tus libros",
           "activityPattern": [],
           "activities": 62
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "文学：文学作品を分析する",
+          "title": "Lectura: Usa el diccionario al leer",
           "activityPattern": [],
           "activities": 63
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "文学：作家について語る",
+          "title": "Lectura: Comparte tus libros favoritos",
           "activityPattern": [],
           "activities": 64
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "文学：作品の感想を話す",
+          "title": "Lectura: Comenta la visión del autor",
           "activityPattern": [],
           "activities": 65
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "名所巡り：おすすめの名所を紹介する",
+          "title": "Ciudad: Pregunta por lugares en la ciudad",
           "activityPattern": [],
           "activities": 66
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "名所巡り：名所について話す",
+          "title": "Ciudad: Habla sobre lugares famosos",
           "activityPattern": [],
           "activities": 67
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "名所巡り：人気スポットを案内する",
+          "title": "Ciudad: Describe un lugar céntrico",
           "activityPattern": [],
           "activities": 68
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "名所巡り：名所を紹介する",
+          "title": "Ciudad: Describe una ciudad",
           "activityPattern": [],
           "activities": 69
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "名所巡り：写真を撮って伝える",
+          "title": "Ciudad: Describe los edificios",
           "activityPattern": [],
           "activities": 70
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "買い物：生活費を計算する",
+          "title": "Compras: Pregunta por precios",
           "activityPattern": [],
           "activities": 71
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "買い物：商品について質問する",
+          "title": "Compras: Compara productos",
           "activityPattern": [],
           "activities": 72
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "買い物：商品を比べる",
+          "title": "Compras: Compara precios en la tienda",
           "activityPattern": [],
           "activities": 73
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "買い物：食材の値段を計算する",
+          "title": "Compras: Comenta precios de productos",
           "activityPattern": [],
           "activities": 74
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "買い物：値段を比べる",
+          "title": "Compras: Compara precios en el mercado",
           "activityPattern": [],
           "activities": 75
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "洋服：服を選ぶ",
+          "title": "Moda: Pregunta por ofertas de ropa",
           "activityPattern": [],
           "activities": 76
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "洋服：服の感想を伝える",
+          "title": "Moda: Describe ropa de un desfile",
           "activityPattern": [],
           "activities": 77
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "洋服：新しい服を選ぶ",
+          "title": "Moda: Elige tus estilos favoritos",
           "activityPattern": [],
           "activities": 78
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "洋服：服の好みを話す",
+          "title": "Moda: Describe tu estilo personal",
           "activityPattern": [],
           "activities": 79
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "洋服：試着した感想を伝える",
+          "title": "Moda: Habla de tus marcas favoritas",
           "activityPattern": [],
           "activities": 80
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "将来設計：目標を語る",
+          "title": "Desafíos: Habla de tus retos",
           "activityPattern": [],
           "activities": 81
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "将来設計：将来の夢を語る",
+          "title": "Desafíos: Comparte tus desafíos",
           "activityPattern": [],
           "activities": 82
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "将来設計：将来の計画を話す",
+          "title": "Desafíos: Explica cómo enfrentas retos",
           "activityPattern": [],
           "activities": 83
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "将来設計：進路について相談する",
+          "title": "Desafíos: Comparte tus metas personales",
           "activityPattern": [],
           "activities": 84
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "将来設計：自分の目標を話す",
+          "title": "Desafíos: Expresa tus logros",
           "activityPattern": [],
           "activities": 85
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "都市生活：都市の改善案を提案する",
+          "title": "Gestión: Propón formas de cooperar",
           "activityPattern": [],
           "activities": 86
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "都市生活：改革案について意見を述べる",
+          "title": "Gestión: Expón tus ideas sobre reformas",
           "activityPattern": [],
           "activities": 87
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "都市生活：資源の使い方を考える",
+          "title": "Gestión: Organiza tareas del grupo",
           "activityPattern": [],
           "activities": 88
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "都市生活：交通政策について話す",
+          "title": "Gestión: Da tu opinión sobre el transporte",
           "activityPattern": [],
           "activities": 89
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "都市生活：新しい技術を説明する",
+          "title": "Gestión: Pregunta por cambios recientes",
           "activityPattern": [],
           "activities": 90
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "健康習慣：食生活を見直す",
+          "title": "Hábitos: Comparte tus hábitos diarios",
           "activityPattern": [],
           "activities": 91
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "健康習慣：運動習慣について伝える",
+          "title": "Hábitos: Habla de rutinas saludables",
           "activityPattern": [],
           "activities": 92
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "健康習慣：健康計画を立てる",
+          "title": "Hábitos: Habla de tu rutina de estudio",
           "activityPattern": [],
           "activities": 93
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "健康習慣：朝の習慣を共有する",
+          "title": "Hábitos: Compara diferentes hábitos",
           "activityPattern": [],
           "activities": 94
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "健康習慣：食生活を説明する",
+          "title": "Hábitos: Describe tu dieta habitual",
           "activityPattern": [],
           "activities": 95
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "地形：地形を説明する",
+          "title": "Paisaje: Describe un paisaje",
           "activityPattern": [],
           "activities": 96
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "地形：地形について話す",
+          "title": "Paisaje: Describe el paisaje de la ciudad",
           "activityPattern": [],
           "activities": 97
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "地形：地形を比べる",
+          "title": "Paisaje: Explica el turismo en la región",
           "activityPattern": [],
           "activities": 98
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "地形：地形の特徴を比べる",
+          "title": "Paisaje: Compara paisajes distintos",
           "activityPattern": [],
           "activities": 99
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "地形：地形について説明する",
+          "title": "Paisaje: Nombra tipos de paisajes",
           "activityPattern": [],
           "activities": 100
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "健康生活：気分転換の方法を紹介する",
+          "title": "Salud: Habla de tu bienestar mental",
           "activityPattern": [],
           "activities": 101
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "健康生活：健康的な食事を勧める",
+          "title": "Salud: Habla sobre hábitos saludables",
           "activityPattern": [],
           "activities": 102
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "健康生活：健康習慣を説明する",
+          "title": "Salud: Comparte consejos de salud",
           "activityPattern": [],
           "activities": 103
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "健康生活：生活習慣を比べる",
+          "title": "Salud: Adopta buenos hábitos",
           "activityPattern": [],
           "activities": 104
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "健康生活：食生活を見直す",
+          "title": "Salud: Habla de tus hábitos alimenticios",
           "activityPattern": [],
           "activities": 105
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "社会制度：自分の考えを述べる",
+          "title": "Política: Comparte tus ideas políticas",
           "activityPattern": [],
           "activities": 106
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "社会制度：社会制度について話す",
+          "title": "Política: Explica la función del gobierno",
           "activityPattern": [],
           "activities": 107
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "社会制度：愛国心について話す",
+          "title": "Política: Describe sistemas de gobierno",
           "activityPattern": [],
           "activities": 108
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "社会制度：自分の意見を伝える",
+          "title": "Política: Elige un sistema político",
           "activityPattern": [],
           "activities": 109
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "社会制度：規則を説明する",
+          "title": "Política: Pregunta por procesos de votación",
           "activityPattern": [],
           "activities": 110
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "家事分担：家事を分担する",
+          "title": "Tareas: Organiza las tareas en casa",
           "activityPattern": [],
           "activities": 111
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "家事分担：役割を分担する",
+          "title": "Tareas: Sugiere cómo limpiar juntos",
           "activityPattern": [],
           "activities": 112
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "家事分担：家事分担を話し合う",
+          "title": "Tareas: Comparte responsabilidades",
           "activityPattern": [],
           "activities": 113
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "家事分担：手伝いをお願いする",
+          "title": "Tareas: Reparte las tareas",
           "activityPattern": [],
           "activities": 114
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "家事分担：掃除の時間を決める",
+          "title": "Tareas: Sugiere repartir las tareas",
           "activityPattern": [],
           "activities": 115
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "通勤：通勤方法を選ぶ",
+          "title": "Transporte: Sugiere una ruta alternativa",
           "activityPattern": [],
           "activities": 116
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "通勤：エコな移動を提案する",
+          "title": "Transporte: Pregunta cómo llegar en metro",
           "activityPattern": [],
           "activities": 117
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "通勤：交通トラブルに対応する",
+          "title": "Transporte: Explica cómo usar el metro",
           "activityPattern": [],
           "activities": 118
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "通勤：駅で飲み物を買う",
+          "title": "Transporte: Habla de ahorrar en transporte",
           "activityPattern": [],
           "activities": 119
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "通勤：同僚の様子を伝える",
+          "title": "Transporte: Habla de tu viaje al trabajo",
           "activityPattern": [],
           "activities": 120
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "庭園：花や野菜を選ぶ",
+          "title": "Jardín: Comenta ideas para el jardín",
           "activityPattern": [],
           "activities": 121
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "庭園：庭のルールを説明する",
+          "title": "Jardín: Habla de tareas en el jardín",
           "activityPattern": [],
           "activities": 122
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "庭園：庭園について話す",
+          "title": "Jardín: Pregunta sobre flores del jardín",
           "activityPattern": [],
           "activities": 123
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "庭園：水やりについて話す",
+          "title": "Jardín: Pide consejos para el jardín",
           "activityPattern": [],
           "activities": 124
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "庭園：庭の花を選ぶ",
+          "title": "Jardín: Comparte reglas del jardín",
           "activityPattern": [],
           "activities": 125
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "健康：体の不調を伝える",
+          "title": "Salud: Sigue consejos médicos",
           "activityPattern": [],
           "activities": 126
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "健康：健康について話す",
+          "title": "Salud: Habla sobre el estrés",
           "activityPattern": [],
           "activities": 127
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "健康：症状を伝える",
+          "title": "Salud: Explica cómo te sientes",
           "activityPattern": [],
           "activities": 128
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "健康：健康について相談する",
+          "title": "Salud: Explica tus síntomas",
           "activityPattern": [],
           "activities": 129
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "健康：体調の変化を話す",
+          "title": "Salud: Habla sobre visitas al doctor",
           "activityPattern": [],
           "activities": 130
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "予算：予算を相談する",
+          "title": "Organización: Organiza un evento",
           "activityPattern": [],
           "activities": 131
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "予算：予算を説明する",
+          "title": "Organización: Explica detalles de la reunión",
           "activityPattern": [],
           "activities": 132
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "予算：予算について相談する",
+          "title": "Organización: Propón un plan inicial",
           "activityPattern": [],
           "activities": 133
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "予算：予算を決める",
+          "title": "Organización: Estima costos y tiempos",
           "activityPattern": [],
           "activities": 134
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "予算：費用を説明する",
+          "title": "Organización: Organiza los gastos",
           "activityPattern": [],
           "activities": 135
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "会議：意見を述べる",
+          "title": "Proyectos: Comparte ideas en clase",
           "activityPattern": [],
           "activities": 136
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "会議：議題を提案する",
+          "title": "Proyectos: Habla sobre tus proyectos",
           "activityPattern": [],
           "activities": 137
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "会議：発表の準備を進める",
+          "title": "Proyectos: Organiza tareas del proyecto",
           "activityPattern": [],
           "activities": 138
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "会議：最近の変化を話す",
+          "title": "Proyectos: Compara logros recientes",
           "activityPattern": [],
           "activities": 139
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "会議：締切を確認する",
+          "title": "Proyectos: Organiza tus proyectos",
           "activityPattern": [],
           "activities": 140
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "経済：経済について意見を述べる",
+          "title": "Economía: Explica el sistema económico",
           "activityPattern": [],
           "activities": 141
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "経済：経済について話す",
+          "title": "Economía: Habla de bancos y quiebras",
           "activityPattern": [],
           "activities": 142
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "経済：経済政策を比べる",
+          "title": "Economía: Explica cambios del mercado",
           "activityPattern": [],
           "activities": 143
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "経済：経済の変化を説明する",
+          "title": "Economía: Explica datos económicos",
           "activityPattern": [],
           "activities": 144
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "経済：経済政策を説明する",
+          "title": "Economía: Describe políticas económicas",
           "activityPattern": [],
           "activities": 145
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "ペット：飼う前に相談する",
+          "title": "Cuidado: Alimenta a los animales",
           "activityPattern": [],
           "activities": 146
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "ペット：世話のコツを共有する",
+          "title": "Cuidado: Habla sobre cuidar mascotas",
           "activityPattern": [],
           "activities": 147
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "ペット：ペットを紹介する",
+          "title": "Cuidado: Pide consejos prácticos",
           "activityPattern": [],
           "activities": 148
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "ペット：動物病院で相談する",
+          "title": "Cuidado: Habla del cuidado de mascotas",
           "activityPattern": [],
           "activities": 149
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "ペット：ペットの体調を伝える",
+          "title": "Cuidado: Aclara dudas sobre gastos",
           "activityPattern": [],
           "activities": 150
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "家事：家事を分担する",
+          "title": "Limpieza: Pide ayuda con la limpieza",
           "activityPattern": [],
           "activities": 151
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "家事：掃除の順番を話し合う",
+          "title": "Limpieza: Organiza tareas de limpieza",
           "activityPattern": [],
           "activities": 152
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "家事：家事の分担を相談する",
+          "title": "Limpieza: Pide ayuda en la casa",
           "activityPattern": [],
           "activities": 153
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "家事：必要な物をリストアップする",
+          "title": "Limpieza: Describe tu rutina de limpieza",
           "activityPattern": [],
           "activities": 154
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "家事：掃除の時間を決める",
+          "title": "Limpieza: Reparte responsabilidades",
           "activityPattern": [],
           "activities": 155
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "家族関係：家族について話す",
+          "title": "Familia: Describe la relación con tu padre",
           "activityPattern": [],
           "activities": 156
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "家族関係：家族の思い出を共有する",
+          "title": "Familia: Habla de tu madre",
           "activityPattern": [],
           "activities": 157
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "家族関係：試験の結果を伝える",
+          "title": "Familia: Pregunta por las notas del colegio",
           "activityPattern": [],
           "activities": 158
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "家族関係：育児の経験を共有する",
+          "title": "Familia: Da consejos sobre crianza",
           "activityPattern": [],
           "activities": 159
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "家族関係：子どもの失敗を理解する",
+          "title": "Familia: Comparte cómo resolver peleas",
           "activityPattern": [],
           "activities": 160
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "就職活動：自分の考えを伝える",
+          "title": "Trabajo: Habla de tus metas laborales",
           "activityPattern": [],
           "activities": 161
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "就職活動：職探しの悩みを共有する",
+          "title": "Trabajo: Describe tu búsqueda de trabajo",
           "activityPattern": [],
           "activities": 162
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "就職活動：将来の夢を語る",
+          "title": "Trabajo: Explica tu trabajo ideal",
           "activityPattern": [],
           "activities": 163
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "就職活動：自分の志望業界を話す",
+          "title": "Trabajo: Menciona empresas de interés",
           "activityPattern": [],
           "activities": 164
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "就職活動：理想の職場を語る",
+          "title": "Trabajo: Habla de buscar trabajo",
           "activityPattern": [],
           "activities": 165
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "会話：映画の予定を相談する",
+          "title": "Opiniones: Comparte tus opiniones",
           "activityPattern": [],
           "activities": 166
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "会話：予定を相談する",
+          "title": "Opiniones: Expresa tu opinión",
           "activityPattern": [],
           "activities": 167
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "会話：意見を言う",
+          "title": "Opiniones: Pregunta qué opinan los demás",
           "activityPattern": [],
           "activities": 168
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "会話：支払いについて話す",
+          "title": "Opiniones: Da tu opinión sobre el tema",
           "activityPattern": [],
           "activities": 169
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "会話：ガーデニングについて話す",
+          "title": "Opiniones: Da tu opinión sobre huertos",
           "activityPattern": [],
           "activities": 170
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "朝の公園：目撃したことを伝える",
+          "title": "Pistas: Describe lo que viste",
           "activityPattern": [],
           "activities": 171
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "朝の公園：公園で友達を紹介する",
+          "title": "Pistas: Habla de tus hábitos de correr",
           "activityPattern": [],
           "activities": 172
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "朝の公園：警察に話しかける",
+          "title": "Pistas: Encuentra una pista",
           "activityPattern": [],
           "activities": 173
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "朝の公園：公園の変化を比べる",
+          "title": "Pistas: Pregunta por horarios de apertura",
           "activityPattern": [],
           "activities": 174
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "朝の公園：自己紹介をする",
+          "title": "Pistas: Reacciona a señales y gestos",
           "activityPattern": [],
           "activities": 175
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "気持ち：気持ちを表す",
+          "title": "Inspiración: Describe lo que ves",
           "activityPattern": [],
           "activities": 176
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "気持ち：気持ちを分かち合う",
+          "title": "Inspiración: Comparte lo que te inspira",
           "activityPattern": [],
           "activities": 177
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "気持ち：気持ちを伝える",
+          "title": "Inspiración: Describe cambios en tu vida",
           "activityPattern": [],
           "activities": 178
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "気持ち：気持ちの変化を説明する",
+          "title": "Inspiración: Cuenta qué te inspira",
           "activityPattern": [],
           "activities": 179
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "気持ち：感想を伝える",
+          "title": "Inspiración: Comparte ideas útiles",
           "activityPattern": [],
           "activities": 180
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "家族：家族の予定を伝える",
+          "title": "Visita: Organiza tu horario de visita",
           "activityPattern": [],
           "activities": 181
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "家族：家族の仕事を紹介する",
+          "title": "Visita: Pregunta sobre el trabajo rural",
           "activityPattern": [],
           "activities": 182
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "家族：家族について話す",
+          "title": "Visita: Habla sobre una visita a la granja",
           "activityPattern": [],
           "activities": 183
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "家族：家族を紹介する",
+          "title": "Visita: Describe un restaurante local",
           "activityPattern": [],
           "activities": 184
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "家族：家族の思い出を話す",
+          "title": "Visita: Comparte recuerdos familiares",
           "activityPattern": [],
           "activities": 185
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "文化体験：宿泊先を探す",
+          "title": "Eventos: Busca alojamiento cercano",
           "activityPattern": [],
           "activities": 186
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "文化体験：旅の感想を伝える",
+          "title": "Eventos: Describe el evento en la playa",
           "activityPattern": [],
           "activities": 187
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "文化体験：開幕式を振り返る",
+          "title": "Eventos: Comparte tus fotos del evento",
           "activityPattern": [],
           "activities": 188
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "文化体験：旅行の思い出を語る",
+          "title": "Eventos: Habla de tus eventos favoritos",
           "activityPattern": [],
           "activities": 189
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "文化体験：現地の風習を紹介する",
+          "title": "Eventos: Describe costumbres locales",
           "activityPattern": [],
           "activities": 190
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "宣伝：特徴を紹介する",
+          "title": "Publicidad: Explica beneficios a usuarios",
           "activityPattern": [],
           "activities": 191
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "宣伝：特典情報を紹介する",
+          "title": "Publicidad: Comparte ofertas en redes",
           "activityPattern": [],
           "activities": 192
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "宣伝：広告について話す",
+          "title": "Publicidad: Describe tipos de publicidad",
           "activityPattern": [],
           "activities": 193
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "宣伝：話題の商品を勧める",
+          "title": "Publicidad: Habla de tendencias populares",
           "activityPattern": [],
           "activities": 194
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "宣伝：キャッチコピーを考える",
+          "title": "Publicidad: Comparte ideas para eslóganes",
           "activityPattern": [],
           "activities": 195
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "クラス：新しい友達を紹介する",
+          "title": "Experiencia: Habla de desafíos",
           "activityPattern": [],
           "activities": 196
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "クラス：家族について話す",
+          "title": "Experiencia: Describe un desafío vivido",
           "activityPattern": [],
           "activities": 197
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "クラス：手伝いをお願いする",
+          "title": "Experiencia: Sugiere quién puede ayudar",
           "activityPattern": [],
           "activities": 198
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "クラス：クラス活動を説明する",
+          "title": "Experiencia: Habla de amistades nuevas",
           "activityPattern": [],
           "activities": 199
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "クラス：思い出を語る",
+          "title": "Experiencia: Comenta sobre tu año escolar",
           "activityPattern": [],
           "activities": 200
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "話題：データで主張を支える",
+          "title": "Noticias: Comenta cambios en el clima",
           "activityPattern": [],
           "activities": 201
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "話題：次の展開を予想する",
+          "title": "Noticias: Comenta una noticia",
           "activityPattern": [],
           "activities": 202
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "話題：相手の考えを聞く",
+          "title": "Noticias: Expresa tu opinión sobre el clima",
           "activityPattern": [],
           "activities": 203
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "話題：経済動向について話す",
+          "title": "Noticias: Comenta noticias recientes",
           "activityPattern": [],
           "activities": 204
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "話題：旅行先を選ぶ",
+          "title": "Noticias: Comparte noticias de viajes",
           "activityPattern": [],
           "activities": 205
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "ビジネス：意見を述べる",
+          "title": "Debate: Pregunta por detalles",
           "activityPattern": [],
           "activities": 206
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "ビジネス：コストを確認する",
+          "title": "Debate: Propón soluciones al grupo",
           "activityPattern": [],
           "activities": 207
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "ビジネス：業務内容を説明する",
+          "title": "Debate: Debate ideas en la reunión",
           "activityPattern": [],
           "activities": 208
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "ビジネス：習慣や法律について話す",
+          "title": "Debate: Habla sobre costumbres y leyes",
           "activityPattern": [],
           "activities": 209
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "ビジネス：新しい事業を提案する",
+          "title": "Debate: Expón tu punto de vista",
           "activityPattern": [],
           "activities": 210
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "季節：景色を説明する",
+          "title": "Estaciones: Habla de los cambios de clima",
           "activityPattern": [],
           "activities": 211
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "季節：季節の特徴を述べる",
+          "title": "Estaciones: Compara las estaciones",
           "activityPattern": [],
           "activities": 212
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "季節：季節を比べる",
+          "title": "Estaciones: Describe los cambios del clima",
           "activityPattern": [],
           "activities": 213
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "季節：春の様子を紹介する",
+          "title": "Estaciones: Comenta sobre la luz y el clima",
           "activityPattern": [],
           "activities": 214
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "季節：季節について話す",
+          "title": "Estaciones: Describe tu estación favorita",
           "activityPattern": [],
           "activities": 215
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "劇場：劇場のチケットを買う",
+          "title": "Concierto: Pregunta por los asientos",
           "activityPattern": [],
           "activities": 216
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "劇場：集合時間を決める",
+          "title": "Concierto: Habla de ensayar canciones",
           "activityPattern": [],
           "activities": 217
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "劇場：感想を伝える",
+          "title": "Concierto: Comenta el espectáculo",
           "activityPattern": [],
           "activities": 218
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "劇場：難しかったことを伝える",
+          "title": "Concierto: Hazte una foto con amigos",
           "activityPattern": [],
           "activities": 219
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "劇場：公演の流れを説明する",
+          "title": "Concierto: Pregunta por la hora de inicio",
           "activityPattern": [],
           "activities": 220
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "歴史：歴史的な出来事を話す",
+          "title": "Historia: Comenta un suceso histórico",
           "activityPattern": [],
           "activities": 221
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "歴史：戦争の結果を考える",
+          "title": "Historia: Cuenta hechos importantes",
           "activityPattern": [],
           "activities": 222
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "歴史：軍隊について説明する",
+          "title": "Historia: Cuenta una batalla famosa",
           "activityPattern": [],
           "activities": 223
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "歴史：歴史について話す",
+          "title": "Historia: Comenta eventos históricos",
           "activityPattern": [],
           "activities": 224
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "歴史：事件の背景を説明する",
+          "title": "Historia: Describe un evento histórico",
           "activityPattern": [],
           "activities": 225
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "料理：材料を確認する",
+          "title": "Cocina: Verifica los ingredientes",
           "activityPattern": [],
           "activities": 226
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "料理：料理の香りを表現する",
+          "title": "Cocina: Habla de tu rutina en la cocina",
           "activityPattern": [],
           "activities": 227
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "料理：レシピを説明する",
+          "title": "Cocina: Pregunta sobre ingredientes",
           "activityPattern": [],
           "activities": 228
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "料理：材料を決める",
+          "title": "Cocina: Describe tu receta favorita",
           "activityPattern": [],
           "activities": 229
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "料理：新しいレシピを紹介する",
+          "title": "Cocina: Comparte una receta nueva",
           "activityPattern": [],
           "activities": 230
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "価値観：自分の価値観を話す",
+          "title": "Valores: Describe valores importantes",
           "activityPattern": [],
           "activities": 231
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "価値観：意見を伝える",
+          "title": "Valores: Explica conceptos clave",
           "activityPattern": [],
           "activities": 232
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "価値観：自分の価値観を伝える",
+          "title": "Valores: Expresa tus valores",
           "activityPattern": [],
           "activities": 233
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "価値観：意見を共有する",
+          "title": "Valores: Comparte tus valores",
           "activityPattern": [],
           "activities": 234
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "価値観：意見を述べる",
+          "title": "Valores: Habla de tus valores",
           "activityPattern": [],
           "activities": 235
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "展示：化石を紹介する",
+          "title": "Museo: Comenta sobre fósiles",
           "activityPattern": [],
           "activities": 236
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "展示：展示内容を紹介する",
+          "title": "Museo: Cuenta lo que aprendiste",
           "activityPattern": [],
           "activities": 237
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "展示：作品の感想を述べる",
+          "title": "Museo: Describe una obra de arte",
           "activityPattern": [],
           "activities": 238
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "展示：展示の感想を伝える",
+          "title": "Museo: Pregunta sobre las exhibiciones",
           "activityPattern": [],
           "activities": 239
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "展示：展示品を説明する",
+          "title": "Museo: Describe una exhibición",
           "activityPattern": [],
           "activities": 240
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "文化遺産：伝統を紹介する",
+          "title": "Tradición: Comparte historias de tu familia",
           "activityPattern": [],
           "activities": 241
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "文化遺産：時代の違いを比べる",
+          "title": "Tradición: Habla de experiencias pasadas",
           "activityPattern": [],
           "activities": 242
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "文化遺産：多文化体験を共有する",
+          "title": "Tradición: Opina sobre trabajar en equipo",
           "activityPattern": [],
           "activities": 243
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "文化遺産：文化遺産について話す",
+          "title": "Tradición: Acepta nuevas costumbres",
           "activityPattern": [],
           "activities": 244
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "文化遺産：各国の文化遺産を紹介する",
-          "activityPattern": [],
-          "activities": 245
+          "title": "Tradición: Comparte tradiciones de tu país",
+          "activityPattern": [
+            2026,
+            3,
+            10
+          ],
+          "activities": 2039
         }
       ]
     }

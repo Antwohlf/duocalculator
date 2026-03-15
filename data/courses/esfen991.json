@@ -2,8 +2,8 @@
   "meta": {
     "key": "esfen991",
     "courseTitle": "English → Spanish",
-    "scrapedAt": "2026-03-08T03:48:45.507Z",
-    "sourceHash": "sha256:dc8dd81f2a9270bc",
+    "scrapedAt": "2026-03-15T03:59:41.990Z",
+    "sourceHash": "sha256:18d5971cb6323d95",
     "fromLang": "English",
     "toLang": "Spanish",
     "fromCode": "en",
@@ -17,7 +17,7 @@
   },
   "totals": {
     "sections": 8,
-    "activities": 100051,
+    "activities": 100027,
     "units": 991
   },
   "sections": [
@@ -7027,10 +7027,10 @@
           "title": "Learning: Share how you learn",
           "activityPattern": [
             2026,
-            2,
-            27
+            3,
+            2
           ],
-          "activities": 2055
+          "activities": 2031
         }
       ]
     }

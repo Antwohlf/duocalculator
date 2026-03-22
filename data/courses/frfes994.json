@@ -2,8 +2,8 @@
   "meta": {
     "key": "frfes994",
     "courseTitle": "Spanish → French",
-    "scrapedAt": "2026-03-15T03:59:41.990Z",
-    "sourceHash": "sha256:0a9ec4d5ad2295f4",
+    "scrapedAt": "2026-03-22T03:51:30.493Z",
+    "sourceHash": "sha256:1a96e53992e9fc68",
     "fromLang": "Spanish",
     "toLang": "French",
     "fromCode": "es",
@@ -17,7 +17,7 @@
   },
   "totals": {
     "sections": 8,
-    "activities": 100908,
+    "activities": 100919,
     "units": 994
   },
   "sections": [
@@ -7048,10 +7048,10 @@
           "title": "Motivación: Expresa tus motivaciones",
           "activityPattern": [
             2026,
-            2,
-            10
+            3,
+            20
           ],
-          "activities": 2038
+          "activities": 2049
         }
       ]
     }

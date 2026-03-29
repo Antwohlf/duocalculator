@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "key": "enfzh990",
+    "courseTitle": "Chinese → English",
+    "scrapedAt": "2026-03-29T04:02:07.920Z",
+    "sourceHash": "sha256:3a51f2bef31bdcde",
+    "fromLang": "Chinese",
+    "toLang": "English",
+    "fromCode": "zh",
+    "toCode": "en",
+    "level": null,
+    "levelShort": null,
+    "detailHref": "https://duolingodata.com/dat/enfzh990.html",
+    "detailHrefHash": "sha256:2422d3007fb9ce4b",
+    "scrapeWarnings": [
+      "No sections parsed, using meta.unitsCount",
+      "No activities parsed, using meta.lessonsCount"
+    ],
+    "schemaVersion": "1.0.0"
+  },
+  "totals": {
+    "sections": 0,
+    "activities": 8225,
+    "units": 990
+  },
+  "sections": []
+}

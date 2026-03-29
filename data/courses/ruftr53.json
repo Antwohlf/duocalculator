@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "key": "ruftr53",
+    "courseTitle": "Turkish → Russian",
+    "scrapedAt": "2026-03-29T04:02:07.920Z",
+    "sourceHash": "sha256:a15feea4fa5b1e3a",
+    "fromLang": "Turkish",
+    "toLang": "Russian",
+    "fromCode": "tr",
+    "toCode": "ru",
+    "level": null,
+    "levelShort": null,
+    "detailHref": "https://duolingodata.com/dat/ruftr53.html",
+    "detailHrefHash": "sha256:b8908c8724459505",
+    "scrapeWarnings": [
+      "No sections parsed, using meta.unitsCount",
+      "No activities parsed, using meta.lessonsCount"
+    ],
+    "schemaVersion": "1.0.0"
+  },
+  "totals": {
+    "sections": 0,
+    "activities": 919,
+    "units": 53
+  },
+  "sections": []
+}

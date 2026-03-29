@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "key": "jafzh1030",
+    "courseTitle": "Chinese → Japanese",
+    "scrapedAt": "2026-03-29T04:02:07.920Z",
+    "sourceHash": "sha256:772d16b73f34bc06",
+    "fromLang": "Chinese",
+    "toLang": "Japanese",
+    "fromCode": "zh",
+    "toCode": "ja",
+    "level": null,
+    "levelShort": null,
+    "detailHref": "https://duolingodata.com/dat/jafzh1030.html",
+    "detailHrefHash": "sha256:2aade4f14c650bb6",
+    "scrapeWarnings": [
+      "No sections parsed, using meta.unitsCount",
+      "No activities parsed, using meta.lessonsCount"
+    ],
+    "schemaVersion": "1.0.0"
+  },
+  "totals": {
+    "sections": 0,
+    "activities": 6977,
+    "units": 1030
+  },
+  "sections": []
+}

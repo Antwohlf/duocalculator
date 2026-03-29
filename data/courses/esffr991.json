@@ -1,0 +1,7038 @@
+{
+  "meta": {
+    "key": "esffr991",
+    "courseTitle": "French → Spanish",
+    "scrapedAt": "2026-03-29T04:02:07.920Z",
+    "sourceHash": "sha256:904e2e4a5002d653",
+    "fromLang": "French",
+    "toLang": "Spanish",
+    "fromCode": "fr",
+    "toCode": "es",
+    "level": "CEFR INTRO",
+    "levelShort": "INTRO",
+    "detailHref": "https://duolingodata.com/dat/esffr991.html",
+    "detailHrefHash": "sha256:e1b3ab8b0dd39ff8",
+    "scrapeWarnings": [],
+    "schemaVersion": "1.0.0"
+  },
+  "totals": {
+    "sections": 8,
+    "activities": 100050,
+    "units": 991
+  },
+  "sections": [
+    {
+      "sectionIndex": 1,
+      "unitCount": 10,
+      "title": "CEFR Intro:",
+      "rawTitle": "CEFR Intro:",
+      "cefr": "INTRO:",
+      "units": [
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Commande au café",
+          "activityPattern": [],
+          "activities": 1
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Dis bonjour et au revoir",
+          "activityPattern": [],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Indique ton origine aver \"être de\"",
+          "activityPattern": [],
+          "activities": 3
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Présente ta famille et tes amis",
+          "activityPattern": [],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Décris la personnalité d'autrui",
+          "activityPattern": [],
+          "activities": 5
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Utilise \"estar\" pour les lieux",
+          "activityPattern": [],
+          "activities": 6
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Parle des lieux en ville",
+          "activityPattern": [],
+          "activities": 7
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Parle des langues",
+          "activityPattern": [],
+          "activities": 8
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Utilise \"hace\" pour le temps qu'il fait",
+          "activityPattern": [],
+          "activities": 9
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Achète des fruits",
+          "activityPattern": [],
+          "activities": 10
+        }
+      ]
+    },
+    {
+      "sectionIndex": 2,
+      "unitCount": 31,
+      "title": ":",
+      "rawTitle": "CEFR A1:",
+      "cefr": "A1",
+      "units": [
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Décris ta maison",
+          "activityPattern": [],
+          "activities": 1
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Exprime les habitudes avec le présent",
+          "activityPattern": [],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Parle des sports",
+          "activityPattern": [],
+          "activities": 3
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Parle de tes loisirs",
+          "activityPattern": [],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Participe en classe",
+          "activityPattern": [],
+          "activities": 5
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Parle de la nourriture",
+          "activityPattern": [],
+          "activities": 6
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Évalue la nourriture et le service",
+          "activityPattern": [],
+          "activities": 7
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Demande ton chemin",
+          "activityPattern": [],
+          "activities": 8
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Achète des vêtements",
+          "activityPattern": [],
+          "activities": 9
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Parle du travail",
+          "activityPattern": [],
+          "activities": 10
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Utilise des articles indéfinis",
+          "activityPattern": [],
+          "activities": 11
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Fais les tâches ménagères",
+          "activityPattern": [],
+          "activities": 12
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Discute d'un projet scolaire",
+          "activityPattern": [],
+          "activities": 13
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Demande comment ça va",
+          "activityPattern": [],
+          "activities": 14
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Demande ton chemin",
+          "activityPattern": [],
+          "activities": 15
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Demande les ingrédients",
+          "activityPattern": [],
+          "activities": 16
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Présente-toi à une fête",
+          "activityPattern": [],
+          "activities": 17
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Décris l'apparence",
+          "activityPattern": [],
+          "activities": 18
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Utilise les expressions de temps",
+          "activityPattern": [],
+          "activities": 19
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Présente-toi formellement",
+          "activityPattern": [],
+          "activities": 20
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Exprime tes sentiments",
+          "activityPattern": [],
+          "activities": 21
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Parle de ton régime alimentaire",
+          "activityPattern": [],
+          "activities": 22
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Parle des animaux",
+          "activityPattern": [],
+          "activities": 23
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Utilise les pronominaux pour la routine",
+          "activityPattern": [],
+          "activities": 24
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Parle de la vie des autres",
+          "activityPattern": [],
+          "activities": 25
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Parle de tes intérêts",
+          "activityPattern": [],
+          "activities": 26
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Parle de tes goûts musicaux",
+          "activityPattern": [],
+          "activities": 27
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Parle des activités que tu aimes",
+          "activityPattern": [],
+          "activities": 28
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Utilise les pronoms d'objets indirects",
+          "activityPattern": [],
+          "activities": 29
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Parle de ton trajet quotidien",
+          "activityPattern": [],
+          "activities": 30
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Parle des anniversaires",
+          "activityPattern": [],
+          "activities": 31
+        }
+      ]
+    },
+    {
+      "sectionIndex": 3,
+      "unitCount": 30,
+      "title": ":",
+      "rawTitle": "CEFR A1:",
+      "cefr": "A1",
+      "units": [
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Achète des vêtements",
+          "activityPattern": [],
+          "activities": 1
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Parle des activités",
+          "activityPattern": [],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Planifie des activités bien-être",
+          "activityPattern": [],
+          "activities": 3
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Utilise des condtions au présent",
+          "activityPattern": [],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Planifie un voyage",
+          "activityPattern": [],
+          "activities": 5
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Organise une fête surprise",
+          "activityPattern": [],
+          "activities": 6
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Explore la ville",
+          "activityPattern": [],
+          "activities": 7
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Décris des situations de voyage",
+          "activityPattern": [],
+          "activities": 8
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Utilise des adjectifs démonstratifs",
+          "activityPattern": [],
+          "activities": 9
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Profite d'une fête",
+          "activityPattern": [],
+          "activities": 10
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Achète des vêtements",
+          "activityPattern": [],
+          "activities": 11
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Gére les tâches de babysitting",
+          "activityPattern": [],
+          "activities": 12
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Parle de ta santé",
+          "activityPattern": [],
+          "activities": 13
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Utilise des adjectifs indéfinis",
+          "activityPattern": [],
+          "activities": 14
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Gère les problèmes au travail",
+          "activityPattern": [],
+          "activities": 15
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Choisis des articles en magasinant",
+          "activityPattern": [],
+          "activities": 16
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Discute des films",
+          "activityPattern": [],
+          "activities": 17
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Utilise les pronoms objets indirects",
+          "activityPattern": [],
+          "activities": 18
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Envoie et reçois du courrier",
+          "activityPattern": [],
+          "activities": 19
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Profite d'une sortie en soirée",
+          "activityPattern": [],
+          "activities": 20
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Parle du temps qu'il fait",
+          "activityPattern": [],
+          "activities": 21
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Demande comment les gens se sentent",
+          "activityPattern": [],
+          "activities": 22
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Cherche un animal perdu",
+          "activityPattern": [],
+          "activities": 23
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Exprime les quantités avec des noms",
+          "activityPattern": [],
+          "activities": 24
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Discute en ligne",
+          "activityPattern": [],
+          "activities": 25
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Parle des sports",
+          "activityPattern": [],
+          "activities": 26
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Fais les tâches ménagères",
+          "activityPattern": [],
+          "activities": 27
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Gére une urgence",
+          "activityPattern": [],
+          "activities": 28
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Résous des problèmes à la poste",
+          "activityPattern": [],
+          "activities": 29
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Utilise \"por\" et \"para\"",
+          "activityPattern": [],
+          "activities": 30
+        }
+      ]
+    },
+    {
+      "sectionIndex": 4,
+      "unitCount": 60,
+      "title": ":",
+      "rawTitle": "CEFR A2:",
+      "cefr": "A2",
+      "units": [
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Planifie des activités sociales",
+          "activityPattern": [],
+          "activities": 1
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Résous des problèmes technologiques",
+          "activityPattern": [],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Décris ton environnement",
+          "activityPattern": [],
+          "activities": 3
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Critiquez les divertissements",
+          "activityPattern": [],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Parle des traits familiaux",
+          "activityPattern": [],
+          "activities": 5
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Utilise des superlatifs",
+          "activityPattern": [],
+          "activities": 6
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Communique au travail",
+          "activityPattern": [],
+          "activities": 7
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Utilise le passé",
+          "activityPattern": [],
+          "activities": 8
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Participe au bénévolat",
+          "activityPattern": [],
+          "activities": 9
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Trouve tes affaires",
+          "activityPattern": [],
+          "activities": 10
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Fais les courses alimentaires",
+          "activityPattern": [],
+          "activities": 11
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Parle de cadeaux",
+          "activityPattern": [],
+          "activities": 12
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Utilise \"saber\" au présent",
+          "activityPattern": [],
+          "activities": 13
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Socialise lors d'un événement",
+          "activityPattern": [],
+          "activities": 14
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Évalue les conditions de logement",
+          "activityPattern": [],
+          "activities": 15
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Gére les tâches au travail",
+          "activityPattern": [],
+          "activities": 16
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Parle des relations et des sentiments",
+          "activityPattern": [],
+          "activities": 17
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Trouve ton chemin",
+          "activityPattern": [],
+          "activities": 18
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Donne des ordres",
+          "activityPattern": [],
+          "activities": 19
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Utilise les pronoms à l'impératif",
+          "activityPattern": [],
+          "activities": 20
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Fais les tâches ménagères",
+          "activityPattern": [],
+          "activities": 21
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Raconte l'histoire de ta vie",
+          "activityPattern": [],
+          "activities": 22
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Parle de faire des achats",
+          "activityPattern": [],
+          "activities": 23
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Utilise l'imparfait",
+          "activityPattern": [],
+          "activities": 24
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Discute du prix du logement",
+          "activityPattern": [],
+          "activities": 25
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Planifie ton voyage",
+          "activityPattern": [],
+          "activities": 26
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Partage tes expériences de voyage",
+          "activityPattern": [],
+          "activities": 27
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Discute des problèmes du quartier",
+          "activityPattern": [],
+          "activities": 28
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Utilise le passé composé",
+          "activityPattern": [],
+          "activities": 29
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Organise une soirée ou une fête",
+          "activityPattern": [],
+          "activities": 30
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Exprime des avis sur la santé",
+          "activityPattern": [],
+          "activities": 31
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Partage des expériences passées",
+          "activityPattern": [],
+          "activities": 32
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Discute des films et séries",
+          "activityPattern": [],
+          "activities": 33
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Célèbre les réussites",
+          "activityPattern": [],
+          "activities": 34
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Discute des meubles et de la maison",
+          "activityPattern": [],
+          "activities": 35
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Plains-toi en voyage",
+          "activityPattern": [],
+          "activities": 36
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Cherche de l'aide après un accident",
+          "activityPattern": [],
+          "activities": 37
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "discute de célébrations",
+          "activityPattern": [],
+          "activities": 38
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Utilise \"hacer\" au passé",
+          "activityPattern": [],
+          "activities": 39
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Identifie les affaires",
+          "activityPattern": [],
+          "activities": 40
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Gére les problèmes de repas",
+          "activityPattern": [],
+          "activities": 41
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Discute de tes réussites personnelles",
+          "activityPattern": [],
+          "activities": 42
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Discute des origines culturelles",
+          "activityPattern": [],
+          "activities": 43
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Explique ce que tu ne peux pas faire",
+          "activityPattern": [],
+          "activities": 44
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Forme et utilise les nombres en contexte",
+          "activityPattern": [],
+          "activities": 45
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Discute politique et société",
+          "activityPattern": [],
+          "activities": 46
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Évalue des objets et des services",
+          "activityPattern": [],
+          "activities": 47
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Utilise des comparatifs de quantité",
+          "activityPattern": [],
+          "activities": 48
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Identifie des objets volés",
+          "activityPattern": [],
+          "activities": 49
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Prends soin d'animaux de compagnie",
+          "activityPattern": [],
+          "activities": 50
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Discute des actualités",
+          "activityPattern": [],
+          "activities": 51
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Postule à l'université",
+          "activityPattern": [],
+          "activities": 52
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Discute de l'art",
+          "activityPattern": [],
+          "activities": 53
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Discute d'alimentation saine",
+          "activityPattern": [],
+          "activities": 54
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Utilise le passé",
+          "activityPattern": [],
+          "activities": 55
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Parle de tes soucis de santé",
+          "activityPattern": [],
+          "activities": 56
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Explore des sites culturels",
+          "activityPattern": [],
+          "activities": 57
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Discute des opinions politiques",
+          "activityPattern": [],
+          "activities": 58
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Discute des activités de bien-être",
+          "activityPattern": [],
+          "activities": 59
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Signale un crime",
+          "activityPattern": [],
+          "activities": 60
+        }
+      ]
+    },
+    {
+      "sectionIndex": 5,
+      "unitCount": 250,
+      "title": ":",
+      "rawTitle": "CEFR B1:",
+      "cefr": "B1",
+      "units": [
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Centre ville: Parle de ton quartier",
+          "activityPattern": [],
+          "activities": 1
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Centre ville : Partage ton avis",
+          "activityPattern": [],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Centre ville : Donne ton avis sur un lieu",
+          "activityPattern": [],
+          "activities": 3
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Centre ville : Propose une sortie",
+          "activityPattern": [],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Centre ville : Présente les habitants",
+          "activityPattern": [],
+          "activities": 5
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Lecture : Parle de tes lectures",
+          "activityPattern": [],
+          "activities": 6
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Lecture : Présente ton auteur préféré",
+          "activityPattern": [],
+          "activities": 7
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Lecture : Parle d’un personnage de roman",
+          "activityPattern": [],
+          "activities": 8
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Lecture : Lis un poème d’amour",
+          "activityPattern": [],
+          "activities": 9
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Lecture : Traduis des passages",
+          "activityPattern": [],
+          "activities": 10
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Internet : Décris un site web",
+          "activityPattern": [],
+          "activities": 11
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Internet : Parle de tes habitudes en ligne",
+          "activityPattern": [],
+          "activities": 12
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Internet : Donne des conseils de sécurité",
+          "activityPattern": [],
+          "activities": 13
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Internet : Exprime ton avis sur la publicité",
+          "activityPattern": [],
+          "activities": 14
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Internet : Lance un blog simple",
+          "activityPattern": [],
+          "activities": 15
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Mariage : Décris une soirée de mariage",
+          "activityPattern": [],
+          "activities": 16
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Mariage : Raconte une histoire d’amour",
+          "activityPattern": [],
+          "activities": 17
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Mariage : Décris une relation amoureuse",
+          "activityPattern": [],
+          "activities": 18
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Mariage : Exprime ton avis sur un mariage",
+          "activityPattern": [],
+          "activities": 19
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Mariage : Dis ce que tu ressens",
+          "activityPattern": [],
+          "activities": 20
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Sujets : Présente un sujet intéressant",
+          "activityPattern": [],
+          "activities": 21
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Sujets : Présente un sujet d’actualité",
+          "activityPattern": [],
+          "activities": 22
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Sujets : Exprime ton avis sur la paix",
+          "activityPattern": [],
+          "activities": 23
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Sujets: Demande ce qui se passe",
+          "activityPattern": [],
+          "activities": 24
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Sujets : Explique un article récent",
+          "activityPattern": [],
+          "activities": 25
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Examen : Prépare-toi pour l’examen",
+          "activityPattern": [],
+          "activities": 26
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Examen : Réagis à un résultat d’examen",
+          "activityPattern": [],
+          "activities": 27
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Examen : Partage tes astuces de révision",
+          "activityPattern": [],
+          "activities": 28
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Examen : Relis le contenu",
+          "activityPattern": [],
+          "activities": 29
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Examen : Corrige tes erreurs",
+          "activityPattern": [],
+          "activities": 30
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Vie : Parle de ta santé",
+          "activityPattern": [],
+          "activities": 31
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Vie : Décris une journée typique",
+          "activityPattern": [],
+          "activities": 32
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Vie : Dis comment tu t’es blessé",
+          "activityPattern": [],
+          "activities": 33
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Vie : Décris comment tu te sens",
+          "activityPattern": [],
+          "activities": 34
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Vie : Décris tes symptômes",
+          "activityPattern": [],
+          "activities": 35
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Choix : Exprime ton avis",
+          "activityPattern": [],
+          "activities": 36
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Choix : Exprime tes préférences",
+          "activityPattern": [],
+          "activities": 37
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Choix : Justifie tes choix",
+          "activityPattern": [],
+          "activities": 38
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Choix : Exprime ton opinion sur un choix",
+          "activityPattern": [],
+          "activities": 39
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Choix : Exprime ton point de vue",
+          "activityPattern": [],
+          "activities": 40
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Shopping : Exprime ton avis sur les tissus",
+          "activityPattern": [],
+          "activities": 41
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Shopping : Décris tes vêtements préférés",
+          "activityPattern": [],
+          "activities": 42
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Shopping : Exprime ton avis sur un article",
+          "activityPattern": [],
+          "activities": 43
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Shopping : Choisis des vêtements",
+          "activityPattern": [],
+          "activities": 44
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Shopping : Demande le prix d’un article",
+          "activityPattern": [],
+          "activities": 45
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Recette : Demande la liste des ingrédients",
+          "activityPattern": [],
+          "activities": 46
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Recette : Prépare un gâteau aux fruits",
+          "activityPattern": [],
+          "activities": 47
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Recette : Exprime ton avis sur un plat",
+          "activityPattern": [],
+          "activities": 48
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Recette : Prépare une recette simple",
+          "activityPattern": [],
+          "activities": 49
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Recette : Suis les étapes de la recette",
+          "activityPattern": [],
+          "activities": 50
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Précautions : Prépare-toi pour la pluie",
+          "activityPattern": [],
+          "activities": 51
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Précautions : Reste prudent au restaurant",
+          "activityPattern": [],
+          "activities": 52
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Précautions : Donne un conseil",
+          "activityPattern": [],
+          "activities": 53
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Précautions : Prépare tes documents",
+          "activityPattern": [],
+          "activities": 54
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Précautions : Évite les sujets sensibles",
+          "activityPattern": [],
+          "activities": 55
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Peurs : Exprime tes peurs",
+          "activityPattern": [],
+          "activities": 56
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Peurs : Décris ce qui t’inquiète",
+          "activityPattern": [],
+          "activities": 57
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Peurs : Explique pourquoi tu as peur",
+          "activityPattern": [],
+          "activities": 58
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Peurs : Réagis à ce qui fait peur",
+          "activityPattern": [],
+          "activities": 59
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Peurs : Signale un danger",
+          "activityPattern": [],
+          "activities": 60
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Destinations : Exprime tes doutes",
+          "activityPattern": [],
+          "activities": 61
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Destinations: Vérifie les codes postaux",
+          "activityPattern": [],
+          "activities": 62
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Destinations: Découvre de nouveaux lieux",
+          "activityPattern": [],
+          "activities": 63
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Destinations: Parle de ton itinéraire",
+          "activityPattern": [],
+          "activities": 64
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Destinations: Demande un conseil",
+          "activityPattern": [],
+          "activities": 65
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Maison : Décris les meubles chez toi",
+          "activityPattern": [],
+          "activities": 66
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Maison : Décris ta maison",
+          "activityPattern": [],
+          "activities": 67
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Maison : Explique un problème de livraison",
+          "activityPattern": [],
+          "activities": 68
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Maison : Parle des objets chez toi",
+          "activityPattern": [],
+          "activities": 69
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Maison : Dis le prix des objets chez toi",
+          "activityPattern": [],
+          "activities": 70
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Routine : Décris ta routine quotidienne",
+          "activityPattern": [],
+          "activities": 71
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Routine : Partage ta routine du soir",
+          "activityPattern": [],
+          "activities": 72
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Routine : Parle de tes habitudes",
+          "activityPattern": [],
+          "activities": 73
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Routine : Décris tes habitudes du matin",
+          "activityPattern": [],
+          "activities": 74
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Routine : Dis ce que tu fais souvent",
+          "activityPattern": [],
+          "activities": 75
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Rêves : Imagine une vie différente",
+          "activityPattern": [],
+          "activities": 76
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Rêves : Partage tes rêves",
+          "activityPattern": [],
+          "activities": 77
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Rêves : Imagine ton futur",
+          "activityPattern": [],
+          "activities": 78
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Rêves : Exprime tes rêves",
+          "activityPattern": [],
+          "activities": 79
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Rêves : Raconte tes rêves",
+          "activityPattern": [],
+          "activities": 80
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Travail : Décris ta profession",
+          "activityPattern": [],
+          "activities": 81
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Travail : Présente un collègue",
+          "activityPattern": [],
+          "activities": 82
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Travail : Décris ton travail",
+          "activityPattern": [],
+          "activities": 83
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Travail : Présente ton entreprise",
+          "activityPattern": [],
+          "activities": 84
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Travail : Présente les services proposés",
+          "activityPattern": [],
+          "activities": 85
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Société : Exprime ton avis sur le débat",
+          "activityPattern": [],
+          "activities": 86
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Société : Demande si c’est légal",
+          "activityPattern": [],
+          "activities": 87
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Société : Décris ta communauté",
+          "activityPattern": [],
+          "activities": 88
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Société : Exprime ton opinion sur la société",
+          "activityPattern": [],
+          "activities": 89
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Société : Explique le rôle du gouvernement",
+          "activityPattern": [],
+          "activities": 90
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Rencontres : Aide un camarade en classe",
+          "activityPattern": [],
+          "activities": 91
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Rencontres: Corrige ton accent",
+          "activityPattern": [],
+          "activities": 92
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Rencontres : Présente un auteur",
+          "activityPattern": [],
+          "activities": 93
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Rencontres : Appelle quelqu'un pour sortir",
+          "activityPattern": [],
+          "activities": 94
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Rencontres: Parle de ce que tu manges",
+          "activityPattern": [],
+          "activities": 95
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Relations : Exprime tes sentiments",
+          "activityPattern": [],
+          "activities": 96
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Relations : Parle de tes amis",
+          "activityPattern": [],
+          "activities": 97
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Relations : Exprime ton avis sur l’amitié",
+          "activityPattern": [],
+          "activities": 98
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Relations : Présente tes amis proches",
+          "activityPattern": [],
+          "activities": 99
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Relations : Dis qui est sympa",
+          "activityPattern": [],
+          "activities": 100
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Quartier: Décris le coin de ton enfance",
+          "activityPattern": [],
+          "activities": 101
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Quartier : Décris ton quartier",
+          "activityPattern": [],
+          "activities": 102
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Quartier : Parle des lieux du quartier",
+          "activityPattern": [],
+          "activities": 103
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Quartier : Décris ton logement",
+          "activityPattern": [],
+          "activities": 104
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Quartier : Partage tes souvenirs du quartier",
+          "activityPattern": [],
+          "activities": 105
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Mondes: Parle des athlètes",
+          "activityPattern": [],
+          "activities": 106
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Mondes : Présente un personnage",
+          "activityPattern": [],
+          "activities": 107
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Mondes : Décris un univers imaginaire",
+          "activityPattern": [],
+          "activities": 108
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Mondes: Demande si ça va",
+          "activityPattern": [],
+          "activities": 109
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Mondes: Prépare ton voyage",
+          "activityPattern": [],
+          "activities": 110
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Maison : Décris tes appareils ménagers",
+          "activityPattern": [],
+          "activities": 111
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Maison : Décris les objets chez toi",
+          "activityPattern": [],
+          "activities": 112
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Maison : Décris une chambre",
+          "activityPattern": [],
+          "activities": 113
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Maison : Décris tes tâches à la maison",
+          "activityPattern": [],
+          "activities": 114
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Maison : Décris ta maison",
+          "activityPattern": [],
+          "activities": 115
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Imaginaire : Crée des solutions fantastiques",
+          "activityPattern": [],
+          "activities": 116
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Imaginaire : Partage des idées folles",
+          "activityPattern": [],
+          "activities": 117
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Imaginaire : Imagine un monde parfait",
+          "activityPattern": [],
+          "activities": 118
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Imaginaire : Pose des questions farfelues",
+          "activityPattern": [],
+          "activities": 119
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Imaginaire : Raconte une histoire magique",
+          "activityPattern": [],
+          "activities": 120
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Courriel : Rédige un courriel professionnel",
+          "activityPattern": [],
+          "activities": 121
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Courriel : Écris un courriel",
+          "activityPattern": [],
+          "activities": 122
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Courriel : Rédige un courriel",
+          "activityPattern": [],
+          "activities": 123
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Courriel : Présente une situation urgente",
+          "activityPattern": [],
+          "activities": 124
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Courriel : Envoie un courriel important",
+          "activityPattern": [],
+          "activities": 125
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Instructions : Prête quelque chose",
+          "activityPattern": [],
+          "activities": 126
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Instructions : Corrige une erreur",
+          "activityPattern": [],
+          "activities": 127
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Instructions : Lis une instruction",
+          "activityPattern": [],
+          "activities": 128
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Instructions : Donne des consignes",
+          "activityPattern": [],
+          "activities": 129
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Instructions : Pose tes questions",
+          "activityPattern": [],
+          "activities": 130
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Temps : Compare des durées",
+          "activityPattern": [],
+          "activities": 131
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Temps : Demande si c’est récent",
+          "activityPattern": [],
+          "activities": 132
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Temps : Raconte un moment passé",
+          "activityPattern": [],
+          "activities": 133
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Temps : Décris des événements passés",
+          "activityPattern": [],
+          "activities": 134
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Temps : Dis ce que tu fais régulièrement",
+          "activityPattern": [],
+          "activities": 135
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Famille : Raconte des souvenirs de famille",
+          "activityPattern": [],
+          "activities": 136
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Famille : Raconte tes activités en famille",
+          "activityPattern": [],
+          "activities": 137
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Famille : Raconte un voyage en famille",
+          "activityPattern": [],
+          "activities": 138
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Famille : Décris un souvenir de famille",
+          "activityPattern": [],
+          "activities": 139
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Famille : Parle de tes proches",
+          "activityPattern": [],
+          "activities": 140
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Culture : Décris une coutume locale",
+          "activityPattern": [],
+          "activities": 141
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Culture : Partage tes traditions",
+          "activityPattern": [],
+          "activities": 142
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Culture : Décris une fête dans ton pays",
+          "activityPattern": [],
+          "activities": 143
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Culture : Décris une cérémonie",
+          "activityPattern": [],
+          "activities": 144
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Culture : Décris une tradition",
+          "activityPattern": [],
+          "activities": 145
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Peur : Décris ce qui t'effraie",
+          "activityPattern": [],
+          "activities": 146
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Peur : Décris tes peurs d’enfance",
+          "activityPattern": [],
+          "activities": 147
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Peur : Raconte une histoire qui fait peur",
+          "activityPattern": [],
+          "activities": 148
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Peur : Partage ce qui te faisait peur",
+          "activityPattern": [],
+          "activities": 149
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Peur : Décris tes peurs",
+          "activityPattern": [],
+          "activities": 150
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Médecin : Décris tes symptômes",
+          "activityPattern": [],
+          "activities": 151
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Médecin : Demande conseil au médecin",
+          "activityPattern": [],
+          "activities": 152
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Médecin : Raconte un accident",
+          "activityPattern": [],
+          "activities": 153
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Médecin : Décris une visite chez le médecin",
+          "activityPattern": [],
+          "activities": 154
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Médecin : Décris une blessure",
+          "activityPattern": [],
+          "activities": 155
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Trajet : Demande ton chemin",
+          "activityPattern": [],
+          "activities": 156
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Trajet : Demande un itinéraire",
+          "activityPattern": [],
+          "activities": 157
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Trajet : Place tes sacs dans la voiture",
+          "activityPattern": [],
+          "activities": 158
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Trajet : Décris ton trajet",
+          "activityPattern": [],
+          "activities": 159
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Trajet : Cherche la bonne direction",
+          "activityPattern": [],
+          "activities": 160
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Séjour : Réserve un hébergement",
+          "activityPattern": [],
+          "activities": 161
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Séjour : Prépare ton séjour",
+          "activityPattern": [],
+          "activities": 162
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Séjour : Planifie ton séjour",
+          "activityPattern": [],
+          "activities": 163
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Séjour : Organise une excursion",
+          "activityPattern": [],
+          "activities": 164
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Séjour : Organise ton séjour",
+          "activityPattern": [],
+          "activities": 165
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Souhaits : Exprime tes souhaits",
+          "activityPattern": [],
+          "activities": 166
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Souhaits : Dis ce que tu voudrais",
+          "activityPattern": [],
+          "activities": 167
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Souhaits : Partage tes vœux en famille",
+          "activityPattern": [],
+          "activities": 168
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Souhaits : Décris ce que tu aimerais faire",
+          "activityPattern": [],
+          "activities": 169
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Souhaits : Réponds aux vœux des autres",
+          "activityPattern": [],
+          "activities": 170
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Appareils : Demande un chargeur",
+          "activityPattern": [],
+          "activities": 171
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Appareils : Décris ton appareil préféré",
+          "activityPattern": [],
+          "activities": 172
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Appareils : Signale un problème d’appareil",
+          "activityPattern": [],
+          "activities": 173
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Appareils : Décris tes appareils",
+          "activityPattern": [],
+          "activities": 174
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Appareils : Répare un appareil",
+          "activityPattern": [],
+          "activities": 175
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Travail : Décris ton lieu de travail",
+          "activityPattern": [],
+          "activities": 176
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Travail : Décris tes collègues",
+          "activityPattern": [],
+          "activities": 177
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Travail : Présente ton métier",
+          "activityPattern": [],
+          "activities": 178
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Travail : Donne ton avis sur un collègue",
+          "activityPattern": [],
+          "activities": 179
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Travail : Présente tes collègues",
+          "activityPattern": [],
+          "activities": 180
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Ambiance: Trouve une œuvre d’art",
+          "activityPattern": [],
+          "activities": 181
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Ambiance : Décris l’ambiance",
+          "activityPattern": [],
+          "activities": 182
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Ambiance: Décris la météo",
+          "activityPattern": [],
+          "activities": 183
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Ambiance : Compare différentes ambiances",
+          "activityPattern": [],
+          "activities": 184
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Ambiance : Décris l’ambiance d’un lieu",
+          "activityPattern": [],
+          "activities": 185
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Cours : Explique ton choix de matières",
+          "activityPattern": [],
+          "activities": 186
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Cours : Parle avec le directeur",
+          "activityPattern": [],
+          "activities": 187
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Cours : Décris tes matières",
+          "activityPattern": [],
+          "activities": 188
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Cours : Présente le matériel de cours",
+          "activityPattern": [],
+          "activities": 189
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Cours : Inscris-toi à un cours",
+          "activityPattern": [],
+          "activities": 190
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Restaurant : Décris ce que tu as mangé",
+          "activityPattern": [],
+          "activities": 191
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Restaurant : Choisis un plat principal",
+          "activityPattern": [],
+          "activities": 192
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Restaurant : Décris ta tenue au restaurant",
+          "activityPattern": [],
+          "activities": 193
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Restaurant : Commande un plat",
+          "activityPattern": [],
+          "activities": 194
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Restaurant : Décris un plat du menu",
+          "activityPattern": [],
+          "activities": 195
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Messages : Envoie un message important",
+          "activityPattern": [],
+          "activities": 196
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Messages : Réponds à une annonce",
+          "activityPattern": [],
+          "activities": 197
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Messages : Envoie un message simple",
+          "activityPattern": [],
+          "activities": 198
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Messages : Partage tes impressions",
+          "activityPattern": [],
+          "activities": 199
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Messages: Demande de l’aide par message",
+          "activityPattern": [],
+          "activities": 200
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Société : Commente l’actualité",
+          "activityPattern": [],
+          "activities": 201
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Société : Raconte un événement sportif",
+          "activityPattern": [],
+          "activities": 202
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Société : Présente un candidat",
+          "activityPattern": [],
+          "activities": 203
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Société : Raconte un incident en ville",
+          "activityPattern": [],
+          "activities": 204
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Société : Décris un événement récent",
+          "activityPattern": [],
+          "activities": 205
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Séries : Parle de tes séries préférées",
+          "activityPattern": [],
+          "activities": 206
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Séries : Exprime ton avis sur une série",
+          "activityPattern": [],
+          "activities": 207
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Séries : Explique une scène de série",
+          "activityPattern": [],
+          "activities": 208
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Séries : Décris tes épisodes préférés",
+          "activityPattern": [],
+          "activities": 209
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Séries : Raconte le dernier épisode",
+          "activityPattern": [],
+          "activities": 210
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Sports : Décris un match de football",
+          "activityPattern": [],
+          "activities": 211
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Sports : Décris ton équipe de sport",
+          "activityPattern": [],
+          "activities": 212
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Sports : Décris un joueur talentueux",
+          "activityPattern": [],
+          "activities": 213
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Sports : Décris ton club préféré",
+          "activityPattern": [],
+          "activities": 214
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Sports : Décris un match de sport",
+          "activityPattern": [],
+          "activities": 215
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Culture : Parle de tes lectures",
+          "activityPattern": [],
+          "activities": 216
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Culture : Demande des billets de concert",
+          "activityPattern": [],
+          "activities": 217
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Culture : Décris un film que tu aimes",
+          "activityPattern": [],
+          "activities": 218
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Culture : Décris une exposition d’art",
+          "activityPattern": [],
+          "activities": 219
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Culture : Présente des artistes célèbres",
+          "activityPattern": [],
+          "activities": 220
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Banque : Remercie le caissier",
+          "activityPattern": [],
+          "activities": 221
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Banque : Ouvre un compte en banque",
+          "activityPattern": [],
+          "activities": 222
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Banque : Demande une carte de débit",
+          "activityPattern": [],
+          "activities": 223
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Banque : Gère tes comptes bancaires",
+          "activityPattern": [],
+          "activities": 224
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Banque : Fais un paiement en ligne",
+          "activityPattern": [],
+          "activities": 225
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Météo : Décris la météo du jour",
+          "activityPattern": [],
+          "activities": 226
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Météo : Décris le temps aujourd'hui",
+          "activityPattern": [],
+          "activities": 227
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Météo : Raconte un événement météo",
+          "activityPattern": [],
+          "activities": 228
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Météo : Décris le temps qu’il fait",
+          "activityPattern": [],
+          "activities": 229
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Météo : Réponds à une alerte météo",
+          "activityPattern": [],
+          "activities": 230
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Avis : Exprime ton avis",
+          "activityPattern": [],
+          "activities": 231
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Avis : Exprime ton opinion",
+          "activityPattern": [],
+          "activities": 232
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Avis : Donne une raison",
+          "activityPattern": [],
+          "activities": 233
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Avis : Donne ton avis",
+          "activityPattern": [],
+          "activities": 234
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Avis : Exprime un désaccord",
+          "activityPattern": [],
+          "activities": 235
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Amour : Raconte une histoire d’amour",
+          "activityPattern": [],
+          "activities": 236
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Amour : Exprime tes sentiments",
+          "activityPattern": [],
+          "activities": 237
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Amour : Parle de tes histoires d’amour",
+          "activityPattern": [],
+          "activities": 238
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Amour : Partage ta vision de l’amour",
+          "activityPattern": [],
+          "activities": 239
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Amour : Parle de tes sentiments",
+          "activityPattern": [],
+          "activities": 240
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Bureau : Propose des idées au bureau",
+          "activityPattern": [],
+          "activities": 241
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Bureau : Présente ton bureau",
+          "activityPattern": [],
+          "activities": 242
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Bureau : Gère les priorités",
+          "activityPattern": [],
+          "activities": 243
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Bureau : Décris ton poste au bureau",
+          "activityPattern": [],
+          "activities": 244
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Bureau : Fais une recommandation",
+          "activityPattern": [],
+          "activities": 245
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Football : Décris ton équipe de foot",
+          "activityPattern": [],
+          "activities": 246
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Football : Donne ton avis sur un match",
+          "activityPattern": [],
+          "activities": 247
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Football : Donne un conseil à un joueur",
+          "activityPattern": [],
+          "activities": 248
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Football : Décris un match de football",
+          "activityPattern": [],
+          "activities": 249
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Football : Félicite un joueur",
+          "activityPattern": [],
+          "activities": 250
+        }
+      ]
+    },
+    {
+      "sectionIndex": 6,
+      "unitCount": 250,
+      "title": ":",
+      "rawTitle": "CEFR B1:",
+      "cefr": "B1",
+      "units": [
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Vêtements : Exprime ton avis sur une tenue",
+          "activityPattern": [],
+          "activities": 1
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Vêtements : Décris tes vêtements",
+          "activityPattern": [],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Vêtements : Décris tes chaussures",
+          "activityPattern": [],
+          "activities": 3
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Vêtements : Choisis une tenue",
+          "activityPattern": [],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Vêtements : Décris ta tenue du jour",
+          "activityPattern": [],
+          "activities": 5
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Beauté : Choisis une crème adaptée",
+          "activityPattern": [],
+          "activities": 6
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Beauté : Demande conseil en coiffure",
+          "activityPattern": [],
+          "activities": 7
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Beauté : Raconte une visite au salon",
+          "activityPattern": [],
+          "activities": 8
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Beauté : Demande où trouver du vernis",
+          "activityPattern": [],
+          "activities": 9
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Beauté : Explique l’usage d’un produit",
+          "activityPattern": [],
+          "activities": 10
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Boutique : Montre tes achats",
+          "activityPattern": [],
+          "activities": 11
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Boutique : Compare les vêtements formels",
+          "activityPattern": [],
+          "activities": 12
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Boutique : Demande le prix d’un article",
+          "activityPattern": [],
+          "activities": 13
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Boutique : Commente la tenue d’un ami",
+          "activityPattern": [],
+          "activities": 14
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Boutique : Négocie un prix",
+          "activityPattern": [],
+          "activities": 15
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Réparations : Informe-toi sur le prix",
+          "activityPattern": [],
+          "activities": 16
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Réparations : Signale un objet cassé",
+          "activityPattern": [],
+          "activities": 17
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Réparations : Décris une réparation à faire",
+          "activityPattern": [],
+          "activities": 18
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Réparations : Décris un objet cassé",
+          "activityPattern": [],
+          "activities": 19
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Réparations: Parle d’une perte",
+          "activityPattern": [],
+          "activities": 20
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Repas : Propose un plat",
+          "activityPattern": [],
+          "activities": 21
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Repas : Commander un plat",
+          "activityPattern": [],
+          "activities": 22
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Repas : Décris ton repas préféré",
+          "activityPattern": [],
+          "activities": 23
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Repas : Exprime tes préférences",
+          "activityPattern": [],
+          "activities": 24
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Repas : Demande une table",
+          "activityPattern": [],
+          "activities": 25
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Achats : Explique un problème en magasin",
+          "activityPattern": [],
+          "activities": 26
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Achats : Parle au service client",
+          "activityPattern": [],
+          "activities": 27
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Achats : Demande un remboursement",
+          "activityPattern": [],
+          "activities": 28
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Achats : Vérifie ta commande",
+          "activityPattern": [],
+          "activities": 29
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Achats : Demande le prix d’un article",
+          "activityPattern": [],
+          "activities": 30
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Réclamations : Explique un problème",
+          "activityPattern": [],
+          "activities": 31
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Réclamations : Vérifie une garantie",
+          "activityPattern": [],
+          "activities": 32
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Réclamations : Décris ce qui ne va pas",
+          "activityPattern": [],
+          "activities": 33
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Réclamations : Demande un échange",
+          "activityPattern": [],
+          "activities": 34
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Réclamations: Essaie un autre modèle",
+          "activityPattern": [],
+          "activities": 35
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Ville : Demande des conseils de voyage",
+          "activityPattern": [],
+          "activities": 36
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Ville : Présente ta ville d’origine",
+          "activityPattern": [],
+          "activities": 37
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Ville : Décris ton travail en ville",
+          "activityPattern": [],
+          "activities": 38
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Ville : Décris ton quartier",
+          "activityPattern": [],
+          "activities": 39
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Ville : Découvre des restaurants locaux",
+          "activityPattern": [],
+          "activities": 40
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Nature : Décris des animaux marins",
+          "activityPattern": [],
+          "activities": 41
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Nature : Décris le paysage",
+          "activityPattern": [],
+          "activities": 42
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Nature : Explique un désastre naturel",
+          "activityPattern": [],
+          "activities": 43
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Nature : Pose des questions sur la faune",
+          "activityPattern": [],
+          "activities": 44
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Nature : Exprime ton avis sur la nature",
+          "activityPattern": [],
+          "activities": 45
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Art : Présente un artiste",
+          "activityPattern": [],
+          "activities": 46
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Art : Compare des expositions d'art",
+          "activityPattern": [],
+          "activities": 47
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Art : Décris une œuvre d’art",
+          "activityPattern": [],
+          "activities": 48
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Art : Décris un tableau",
+          "activityPattern": [],
+          "activities": 49
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Art : Exprime ton avis sur l’art",
+          "activityPattern": [],
+          "activities": 50
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Voyages : Décris une escale",
+          "activityPattern": [],
+          "activities": 51
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Voyages : Raconte un voyage",
+          "activityPattern": [],
+          "activities": 52
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Voyages : Décris ton hôtel",
+          "activityPattern": [],
+          "activities": 53
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Voyages : Partage tes souvenirs de voyage",
+          "activityPattern": [],
+          "activities": 54
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Voyages : Décris tes voyages",
+          "activityPattern": [],
+          "activities": 55
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Opinion : Exprime ton avis",
+          "activityPattern": [],
+          "activities": 56
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Opinion : Donne ton avis",
+          "activityPattern": [],
+          "activities": 57
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Opinion : Partage tes idées",
+          "activityPattern": [],
+          "activities": 58
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Opinion : Réagis à une idée",
+          "activityPattern": [],
+          "activities": 59
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Opinion : Reconnais le travail des autres",
+          "activityPattern": [],
+          "activities": 60
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Emploi : Décris ton travail",
+          "activityPattern": [],
+          "activities": 61
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Emploi : Présente ton métier",
+          "activityPattern": [],
+          "activities": 62
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Emploi : Explique le salaire minimum",
+          "activityPattern": [],
+          "activities": 63
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Emploi : Parle de tes horaires",
+          "activityPattern": [],
+          "activities": 64
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Emploi : Présente ton travail",
+          "activityPattern": [],
+          "activities": 65
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Émotions : Exprime tes émotions",
+          "activityPattern": [],
+          "activities": 66
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Émotions : Exprime tes sentiments",
+          "activityPattern": [],
+          "activities": 67
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Émotions : Réagis à une promesse",
+          "activityPattern": [],
+          "activities": 68
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Émotions : Décris comment tu te sens",
+          "activityPattern": [],
+          "activities": 69
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Émotions : Décris ce que tu ressens",
+          "activityPattern": [],
+          "activities": 70
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Doutes : Exprime tes doutes",
+          "activityPattern": [],
+          "activities": 71
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Doutes : Demande des conseils",
+          "activityPattern": [],
+          "activities": 72
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Doutes : Dis ce qui te semble incertain",
+          "activityPattern": [],
+          "activities": 73
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Doutes : Rassure un ami",
+          "activityPattern": [],
+          "activities": 74
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Doutes : Réagis à une affirmation",
+          "activityPattern": [],
+          "activities": 75
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Maladie: Parle d'une naissance",
+          "activityPattern": [],
+          "activities": 76
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Maladie : Décris tes symptômes",
+          "activityPattern": [],
+          "activities": 77
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Maladie : Demande un avis médical",
+          "activityPattern": [],
+          "activities": 78
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Maladie : Demande le résultat d’une radio",
+          "activityPattern": [],
+          "activities": 79
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Maladie : Rassure un proche malade",
+          "activityPattern": [],
+          "activities": 80
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Commerce : Décris ton entreprise",
+          "activityPattern": [],
+          "activities": 81
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Commerce : Partage tes résultats de vente",
+          "activityPattern": [],
+          "activities": 82
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Commerce : Compare les taux de change",
+          "activityPattern": [],
+          "activities": 83
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Commerce : Parle des prix au magasin",
+          "activityPattern": [],
+          "activities": 84
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Commerce : Donne le prix d’un produit",
+          "activityPattern": [],
+          "activities": 85
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Urgence : Signale un problème urgent",
+          "activityPattern": [],
+          "activities": 86
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Urgence : Signale une urgence",
+          "activityPattern": [],
+          "activities": 87
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Urgence : Aide une personne blessée",
+          "activityPattern": [],
+          "activities": 88
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Urgence : Réagis à une situation urgente",
+          "activityPattern": [],
+          "activities": 89
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Urgence : Décris un accident",
+          "activityPattern": [],
+          "activities": 90
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Merci : Réponds à des remerciements",
+          "activityPattern": [],
+          "activities": 91
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Merci : Remercie un ami",
+          "activityPattern": [],
+          "activities": 92
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Merci : Réponds à un merci",
+          "activityPattern": [],
+          "activities": 93
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Merci : Remercie quelqu’un",
+          "activityPattern": [],
+          "activities": 94
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Merci : Réagis à un compliment",
+          "activityPattern": [],
+          "activities": 95
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "En ville : Choisis un moyen de transport",
+          "activityPattern": [],
+          "activities": 96
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "En ville : Demande ton chemin",
+          "activityPattern": [],
+          "activities": 97
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "En ville : Décris un itinéraire en ville",
+          "activityPattern": [],
+          "activities": 98
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "En ville : Décris un itinéraire",
+          "activityPattern": [],
+          "activities": 99
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "En ville : Décris la circulation",
+          "activityPattern": [],
+          "activities": 100
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Examen : Décris ton résultat à l’examen",
+          "activityPattern": [],
+          "activities": 101
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Examen : Décris un laboratoire",
+          "activityPattern": [],
+          "activities": 102
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Examen : Partage tes résultats d’examen",
+          "activityPattern": [],
+          "activities": 103
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Examen : Prépare-toi pour l’examen",
+          "activityPattern": [],
+          "activities": 104
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Examen : Parle de tes examens",
+          "activityPattern": [],
+          "activities": 105
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Crimes : Parle d’une enquête",
+          "activityPattern": [],
+          "activities": 106
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Crimes : Dis si un crime a eu lieu",
+          "activityPattern": [],
+          "activities": 107
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Crimes : Présente des suspects",
+          "activityPattern": [],
+          "activities": 108
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Crimes : Exprime ton avis sur une enquête",
+          "activityPattern": [],
+          "activities": 109
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Crimes : Raconte ce qui s’est passé",
+          "activityPattern": [],
+          "activities": 110
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Goûter : Prépare un bon goûter",
+          "activityPattern": [],
+          "activities": 111
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Goûter : Demande une part de lasagne",
+          "activityPattern": [],
+          "activities": 112
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Goûter : Présente tes recettes préférées",
+          "activityPattern": [],
+          "activities": 113
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Goûter : Propose un menu de goûter",
+          "activityPattern": [],
+          "activities": 114
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Goûter : Décris les saveurs du goûter",
+          "activityPattern": [],
+          "activities": 115
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Victoire : Raconte un défi remporté",
+          "activityPattern": [],
+          "activities": 116
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Victoire : Raconte une victoire",
+          "activityPattern": [],
+          "activities": 117
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Victoire : Exprime ta fierté",
+          "activityPattern": [],
+          "activities": 118
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Victoire : Décris une victoire",
+          "activityPattern": [],
+          "activities": 119
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Victoire : Exprime ta joie après une victoire",
+          "activityPattern": [],
+          "activities": 120
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Objets : Décris les objets chez toi",
+          "activityPattern": [],
+          "activities": 121
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Objets : Réagis à un objet cassé",
+          "activityPattern": [],
+          "activities": 122
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Objets : Décris tes objets du quotidien",
+          "activityPattern": [],
+          "activities": 123
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Objets : Décris tes objets préférés",
+          "activityPattern": [],
+          "activities": 124
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Objets : Signale si ça marche",
+          "activityPattern": [],
+          "activities": 125
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Logement : Parle du contrat de location",
+          "activityPattern": [],
+          "activities": 126
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Logement : Décris un logement",
+          "activityPattern": [],
+          "activities": 127
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Logement : Décris ton logement idéal",
+          "activityPattern": [],
+          "activities": 128
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Logement : Exprime ce qui doit être réparé",
+          "activityPattern": [],
+          "activities": 129
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Logement : Donne ton avis sur l’espace",
+          "activityPattern": [],
+          "activities": 130
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Romance : Parle de tes sentiments",
+          "activityPattern": [],
+          "activities": 131
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Romance : Exprime tes sentiments",
+          "activityPattern": [],
+          "activities": 132
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Romance : Réagis à une blague",
+          "activityPattern": [],
+          "activities": 133
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Romance : Décris ton rendez-vous idéal",
+          "activityPattern": [],
+          "activities": 134
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Romance : Raconte une soirée spéciale",
+          "activityPattern": [],
+          "activities": 135
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Marché : Demande des légumes frais",
+          "activityPattern": [],
+          "activities": 136
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Marché : Décris une visite au marché",
+          "activityPattern": [],
+          "activities": 137
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Marché : Décris ce que tu achètes",
+          "activityPattern": [],
+          "activities": 138
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Marché : Choisis des fruits et légumes",
+          "activityPattern": [],
+          "activities": 139
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Marché : Choisis des produits frais",
+          "activityPattern": [],
+          "activities": 140
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Technologie: Partage ton numéro",
+          "activityPattern": [],
+          "activities": 141
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Technologie: Reste en sécurité en ligne",
+          "activityPattern": [],
+          "activities": 142
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Technologie: Choisis un chargeur",
+          "activityPattern": [],
+          "activities": 143
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Technologie: Reconnais un symbole",
+          "activityPattern": [],
+          "activities": 144
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Technologie: Appuie sur la bonne touche",
+          "activityPattern": [],
+          "activities": 145
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Travaux : Demande un devis de travaux",
+          "activityPattern": [],
+          "activities": 146
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Travaux : Décris un problème de fuite",
+          "activityPattern": [],
+          "activities": 147
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Travaux : Donne des consignes de sécurité",
+          "activityPattern": [],
+          "activities": 148
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Travaux : Décris les réparations à faire",
+          "activityPattern": [],
+          "activities": 149
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Travaux : Décris les outils nécessaires",
+          "activityPattern": [],
+          "activities": 150
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Maison : Décris ta maison",
+          "activityPattern": [],
+          "activities": 151
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Maison : Décris les meubles chez toi",
+          "activityPattern": [],
+          "activities": 152
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Maison : Présente les meubles",
+          "activityPattern": [],
+          "activities": 153
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Maison : Propose des idées déco",
+          "activityPattern": [],
+          "activities": 154
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Maison : Décris ta décoration",
+          "activityPattern": [],
+          "activities": 155
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Soins : Demande une consultation",
+          "activityPattern": [],
+          "activities": 156
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Soins : Demande un remboursement",
+          "activityPattern": [],
+          "activities": 157
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Soins : Parle de tes allergies",
+          "activityPattern": [],
+          "activities": 158
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Soins : Décris un soignant",
+          "activityPattern": [],
+          "activities": 159
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Soins : Demande une carte d’assurance",
+          "activityPattern": [],
+          "activities": 160
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Célébrités : Décris une célébrité",
+          "activityPattern": [],
+          "activities": 161
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Célébrités : Présente une célébrité",
+          "activityPattern": [],
+          "activities": 162
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Célébrités : Décris un acteur connu",
+          "activityPattern": [],
+          "activities": 163
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Célébrités : Donne ton avis",
+          "activityPattern": [],
+          "activities": 164
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Célébrités : Exprime tes rêves de célébrité",
+          "activityPattern": [],
+          "activities": 165
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Fête : Décris une fête traditionnelle",
+          "activityPattern": [],
+          "activities": 166
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Fête : Décris une fête chez toi",
+          "activityPattern": [],
+          "activities": 167
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Fête : Décris une fête locale",
+          "activityPattern": [],
+          "activities": 168
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Fête : Décris une fête",
+          "activityPattern": [],
+          "activities": 169
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Fête : Partage tes traditions de fête",
+          "activityPattern": [],
+          "activities": 170
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Actualité : Commente les nouvelles",
+          "activityPattern": [],
+          "activities": 171
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Actualité : Explique un événement récent",
+          "activityPattern": [],
+          "activities": 172
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Actualité : Présente une nouvelle récente",
+          "activityPattern": [],
+          "activities": 173
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Actualité : Explique une actualité locale",
+          "activityPattern": [],
+          "activities": 174
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Actualité : Explique un fait divers",
+          "activityPattern": [],
+          "activities": 175
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Climat : Décris le climat de ta région",
+          "activityPattern": [],
+          "activities": 176
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Climat : Décris les effets du climat",
+          "activityPattern": [],
+          "activities": 177
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Climat : Compare différents climats",
+          "activityPattern": [],
+          "activities": 178
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Climat : Décris la météo",
+          "activityPattern": [],
+          "activities": 179
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Climat : Exprime ton avis sur le climat",
+          "activityPattern": [],
+          "activities": 180
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Pub : Présente une publicité",
+          "activityPattern": [],
+          "activities": 181
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Pub : Présente une offre spéciale",
+          "activityPattern": [],
+          "activities": 182
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Pub : Suggère la meilleure option",
+          "activityPattern": [],
+          "activities": 183
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Pub : Présente un produit",
+          "activityPattern": [],
+          "activities": 184
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Pub : Vante un produit unique",
+          "activityPattern": [],
+          "activities": 185
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Concours : Décris un participant",
+          "activityPattern": [],
+          "activities": 186
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Concours : Exprime ton avis sur les plats",
+          "activityPattern": [],
+          "activities": 187
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Concours : Décris ta recette",
+          "activityPattern": [],
+          "activities": 188
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Concours : Réagis aux erreurs en cuisine",
+          "activityPattern": [],
+          "activities": 189
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Concours : Choisis les bons ingrédients",
+          "activityPattern": [],
+          "activities": 190
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Liberté : Exprime ton avis sur la liberté",
+          "activityPattern": [],
+          "activities": 191
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Liberté : Exprime tes espoirs",
+          "activityPattern": [],
+          "activities": 192
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Liberté : Réagis aux nouvelles importantes",
+          "activityPattern": [],
+          "activities": 193
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Liberté : Réagis aux idées sur la liberté",
+          "activityPattern": [],
+          "activities": 194
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Liberté : Parle de justice et de liberté",
+          "activityPattern": [],
+          "activities": 195
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Vacances : Décris tes vacances",
+          "activityPattern": [],
+          "activities": 196
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Vacances : Parle de tes voyages",
+          "activityPattern": [],
+          "activities": 197
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Vacances : Parle de tes aventures",
+          "activityPattern": [],
+          "activities": 198
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Vacances : Raconte tes vacances",
+          "activityPattern": [],
+          "activities": 199
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Vacances : Réagis à un imprévu",
+          "activityPattern": [],
+          "activities": 200
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Métier : Décris ton métier",
+          "activityPattern": [],
+          "activities": 201
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Métier : Explique ce que fait un astronaute",
+          "activityPattern": [],
+          "activities": 202
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Métier : Parle des métiers étranges",
+          "activityPattern": [],
+          "activities": 203
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Métier : Présente un métier",
+          "activityPattern": [],
+          "activities": 204
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Métier : Explique ce que tu fais",
+          "activityPattern": [],
+          "activities": 205
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Voisins : Décris tes voisins",
+          "activityPattern": [],
+          "activities": 206
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Voisins : Exprime ton avis sur tes voisins",
+          "activityPattern": [],
+          "activities": 207
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Voisins : Parle des habitudes des voisins",
+          "activityPattern": [],
+          "activities": 208
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Voisins : Présente tes voisins",
+          "activityPattern": [],
+          "activities": 209
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Voisins : Décris la vie de quartier",
+          "activityPattern": [],
+          "activities": 210
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Secrets : Partage un secret de famille",
+          "activityPattern": [],
+          "activities": 211
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Secrets : Partage un secret",
+          "activityPattern": [],
+          "activities": 212
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Secrets : Réagis à une révélation",
+          "activityPattern": [],
+          "activities": 213
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Secrets : Explique ta technique secrète",
+          "activityPattern": [],
+          "activities": 214
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Secrets : Révèle un talent personnel",
+          "activityPattern": [],
+          "activities": 215
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Traitement : Décris un traitement médical",
+          "activityPattern": [],
+          "activities": 216
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Traitement : Lis une ordonnance",
+          "activityPattern": [],
+          "activities": 217
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Traitement : Décris un traitement",
+          "activityPattern": [],
+          "activities": 218
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Traitement : Propose un soin",
+          "activityPattern": [],
+          "activities": 219
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Traitement : Réagis à un diagnostic",
+          "activityPattern": [],
+          "activities": 220
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Mystères : Résous une énigme",
+          "activityPattern": [],
+          "activities": 221
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Mystères : Exprime tes soupçons",
+          "activityPattern": [],
+          "activities": 222
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Mystères : Décris le suspect",
+          "activityPattern": [],
+          "activities": 223
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Mystères : Décris une scène mystérieuse",
+          "activityPattern": [],
+          "activities": 224
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Mystères : Décris un mystère",
+          "activityPattern": [],
+          "activities": 225
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Surprise : Exprime ta surprise",
+          "activityPattern": [],
+          "activities": 226
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Surprise : Exprime ton étonnement",
+          "activityPattern": [],
+          "activities": 227
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Surprise : Décris ce qui t'étonne",
+          "activityPattern": [],
+          "activities": 228
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Surprise : Réagis à une œuvre d’art",
+          "activityPattern": [],
+          "activities": 229
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Surprise : Réagis à une blague",
+          "activityPattern": [],
+          "activities": 230
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "École : Exprime tes inquiétudes à l’école",
+          "activityPattern": [],
+          "activities": 231
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "École : Décris ta journée à l’école",
+          "activityPattern": [],
+          "activities": 232
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "École : Parle des matières à l'école",
+          "activityPattern": [],
+          "activities": 233
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "École : Exprime ton avis sur la classe",
+          "activityPattern": [],
+          "activities": 234
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "École : Décris les objets de la classe",
+          "activityPattern": [],
+          "activities": 235
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Séjour : Décris ton séjour",
+          "activityPattern": [],
+          "activities": 236
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Séjour : Présente ton emploi d'été",
+          "activityPattern": [],
+          "activities": 237
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Séjour : Raconte un séjour à l’hôpital",
+          "activityPattern": [],
+          "activities": 238
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Séjour : Exprime tes préférences sportives",
+          "activityPattern": [],
+          "activities": 239
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Séjour : Raconte tes souvenirs de séjour",
+          "activityPattern": [],
+          "activities": 240
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Animaux : Décris un animal",
+          "activityPattern": [],
+          "activities": 241
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Animaux : Décris ton animal préféré",
+          "activityPattern": [],
+          "activities": 242
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Animaux : Parle des animaux autour de toi",
+          "activityPattern": [],
+          "activities": 243
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Animaux : Décris des animaux",
+          "activityPattern": [],
+          "activities": 244
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Animaux : Décris un animal de compagnie",
+          "activityPattern": [],
+          "activities": 245
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Rumeurs : Dis ce que tu as entendu",
+          "activityPattern": [],
+          "activities": 246
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Rumeurs : Réagis à ce que tu entends",
+          "activityPattern": [],
+          "activities": 247
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Rumeurs : Réagis à un potin",
+          "activityPattern": [],
+          "activities": 248
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Rumeurs : Raconte une rumeur",
+          "activityPattern": [],
+          "activities": 249
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Rumeurs : Raconte ce qu’on t’a dit",
+          "activityPattern": [],
+          "activities": 250
+        }
+      ]
+    },
+    {
+      "sectionIndex": 7,
+      "unitCount": 180,
+      "title": ":",
+      "rawTitle": "CEFR B2:",
+      "cefr": "B2",
+      "units": [
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Demande : Pose des questions sur un objet",
+          "activityPattern": [],
+          "activities": 1
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Demande : Accepte une demande",
+          "activityPattern": [],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Demande : Propose une idée",
+          "activityPattern": [],
+          "activities": 3
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Demande : Réagis à un refus",
+          "activityPattern": [],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Demande : Justifie une décision",
+          "activityPattern": [],
+          "activities": 5
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Conseils : Donne un conseil utile",
+          "activityPattern": [],
+          "activities": 6
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Conseils : Partage tes astuces bien-être",
+          "activityPattern": [],
+          "activities": 7
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Conseils : Réagis aux recommandations",
+          "activityPattern": [],
+          "activities": 8
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Conseils : Réagis à un conseil reçu",
+          "activityPattern": [],
+          "activities": 9
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Conseils : Donne un conseil",
+          "activityPattern": [],
+          "activities": 10
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Logement : Décris un logement",
+          "activityPattern": [],
+          "activities": 11
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Logement : Décris ta maison idéale",
+          "activityPattern": [],
+          "activities": 12
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Logement : Décris ton logement idéal",
+          "activityPattern": [],
+          "activities": 13
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Logement : Décris ta maison",
+          "activityPattern": [],
+          "activities": 14
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Logement: Décris ton logement",
+          "activityPattern": [],
+          "activities": 15
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Équipe : Présente les résultats de l’équipe",
+          "activityPattern": [],
+          "activities": 16
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Équipe : Explique les tâches de ton équipe",
+          "activityPattern": [],
+          "activities": 17
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Équipe : Décris ton équipe",
+          "activityPattern": [],
+          "activities": 18
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Équipe : Présente ton équipe",
+          "activityPattern": [],
+          "activities": 19
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Équipe : Exprime les objectifs de l’équipe",
+          "activityPattern": [],
+          "activities": 20
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Santé : Décris une blessure",
+          "activityPattern": [],
+          "activities": 21
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Santé : Décris tes symptômes",
+          "activityPattern": [],
+          "activities": 22
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Santé : Demande des conseils médicaux",
+          "activityPattern": [],
+          "activities": 23
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Santé : Explique un souci de santé",
+          "activityPattern": [],
+          "activities": 24
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Santé : Explique un effet secondaire",
+          "activityPattern": [],
+          "activities": 25
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Garage : Décris une panne de voiture",
+          "activityPattern": [],
+          "activities": 26
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Garage : Explique un souci de batterie",
+          "activityPattern": [],
+          "activities": 27
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Garage : Demande un devis au garage",
+          "activityPattern": [],
+          "activities": 28
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Garage : Raconte un problème de frein",
+          "activityPattern": [],
+          "activities": 29
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Garage : Raconte une visite au garage",
+          "activityPattern": [],
+          "activities": 30
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Carrière : Exprime tes attentes",
+          "activityPattern": [],
+          "activities": 31
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Carrière : Présente ta carrière",
+          "activityPattern": [],
+          "activities": 32
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Carrière : Présente un métier",
+          "activityPattern": [],
+          "activities": 33
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Carrière : Présente tes choix de carrière",
+          "activityPattern": [],
+          "activities": 34
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Carrière : Présente ton parcours",
+          "activityPattern": [],
+          "activities": 35
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Rumeurs : Réagis à une rumeur",
+          "activityPattern": [],
+          "activities": 36
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Rumeurs : Réagis à une confidence",
+          "activityPattern": [],
+          "activities": 37
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Rumeurs : Partage ce que tu as entendu",
+          "activityPattern": [],
+          "activities": 38
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Rumeurs : Exprime ton étonnement",
+          "activityPattern": [],
+          "activities": 39
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Rumeurs : Compare deux personnes",
+          "activityPattern": [],
+          "activities": 40
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Campagne : Parle des candidats",
+          "activityPattern": [],
+          "activities": 41
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Campagne : Explique une stratégie",
+          "activityPattern": [],
+          "activities": 42
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Campagne : Explique les promesses faites",
+          "activityPattern": [],
+          "activities": 43
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Campagne: Atteins un objectif",
+          "activityPattern": [],
+          "activities": 44
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Campagne : Réagis à une défaite",
+          "activityPattern": [],
+          "activities": 45
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Environnement: Donne ton avis",
+          "activityPattern": [],
+          "activities": 46
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Environnement: Dis ton avis",
+          "activityPattern": [],
+          "activities": 47
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Environnement: Plante un arbre",
+          "activityPattern": [],
+          "activities": 48
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Environnement: Choisis des gestes verts",
+          "activityPattern": [],
+          "activities": 49
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Environnement: Exprime tes doutes",
+          "activityPattern": [],
+          "activities": 50
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Responsable: Donne des consignes claires",
+          "activityPattern": [],
+          "activities": 51
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Responsable: Réagis face aux imprévus",
+          "activityPattern": [],
+          "activities": 52
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Responsable: Prends soin des animaux",
+          "activityPattern": [],
+          "activities": 53
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Responsable: Porte un gilet",
+          "activityPattern": [],
+          "activities": 54
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Responsable: Réfléchis à tes choix",
+          "activityPattern": [],
+          "activities": 55
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Bébé : Décris la chambre du bébé",
+          "activityPattern": [],
+          "activities": 56
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Bébé : Décris les besoins du bébé",
+          "activityPattern": [],
+          "activities": 57
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Bébé : Partage tes astuces pour le bébé",
+          "activityPattern": [],
+          "activities": 58
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Bébé : Demande conseil au pédiatre",
+          "activityPattern": [],
+          "activities": 59
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Bébé : Décris ton quotidien avec le bébé",
+          "activityPattern": [],
+          "activities": 60
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Croyances : Exprime tes doutes",
+          "activityPattern": [],
+          "activities": 61
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Croyances : Explique un mythe",
+          "activityPattern": [],
+          "activities": 62
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Croyances : Partage tes croyances",
+          "activityPattern": [],
+          "activities": 63
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Croyances : Décris un remède traditionnel",
+          "activityPattern": [],
+          "activities": 64
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Croyances : Partage un conseil traditionnel",
+          "activityPattern": [],
+          "activities": 65
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Conflits : Explique un malentendu",
+          "activityPattern": [],
+          "activities": 66
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Conflits : Exprime tes sentiments",
+          "activityPattern": [],
+          "activities": 67
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Conflits : Exprime tes regrets",
+          "activityPattern": [],
+          "activities": 68
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Conflits : Décris une réconciliation",
+          "activityPattern": [],
+          "activities": 69
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Conflits : Parle de tes conflits",
+          "activityPattern": [],
+          "activities": 70
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Université : Choisis un professeur",
+          "activityPattern": [],
+          "activities": 71
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Université : Clarifie qui a fait quoi",
+          "activityPattern": [],
+          "activities": 72
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Université : Demande si c'est optionnel",
+          "activityPattern": [],
+          "activities": 73
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Université : Parle de tes cours",
+          "activityPattern": [],
+          "activities": 74
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Université : Parle de tes examens",
+          "activityPattern": [],
+          "activities": 75
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Famille : Décris ta famille et ton enfance",
+          "activityPattern": [],
+          "activities": 76
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Famille : Parle de ton enfance",
+          "activityPattern": [],
+          "activities": 77
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Famille : Raconte un souvenir familial",
+          "activityPattern": [],
+          "activities": 78
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Famille : Décris tes souvenirs de famille",
+          "activityPattern": [],
+          "activities": 79
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Famille : Décris un membre de ta famille",
+          "activityPattern": [],
+          "activities": 80
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Famille : Décris les enfants de ta famille",
+          "activityPattern": [],
+          "activities": 81
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Famille : Décris les repas en famille",
+          "activityPattern": [],
+          "activities": 82
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Famille : Décris les liens familiaux",
+          "activityPattern": [],
+          "activities": 83
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Famille : Raconte une anecdote familiale",
+          "activityPattern": [],
+          "activities": 84
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Famille : Décris les habitudes familiales",
+          "activityPattern": [],
+          "activities": 85
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Rapport : Explique un point clé",
+          "activityPattern": [],
+          "activities": 86
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Rapport : Explique une décision",
+          "activityPattern": [],
+          "activities": 87
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Rapport : Présente un collègue",
+          "activityPattern": [],
+          "activities": 88
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Rapport : Demande des précisions",
+          "activityPattern": [],
+          "activities": 89
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Rapport : Pose une question",
+          "activityPattern": [],
+          "activities": 90
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Dossier : Remplis le formulaire",
+          "activityPattern": [],
+          "activities": 91
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Dossier : Exprime ta frustration",
+          "activityPattern": [],
+          "activities": 92
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Dossier : Renouvelle tes papiers",
+          "activityPattern": [],
+          "activities": 93
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Dossier: Demande des documents",
+          "activityPattern": [],
+          "activities": 94
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Dossier : Demande un certificat",
+          "activityPattern": [],
+          "activities": 95
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Soins : Exprime un besoin de soins",
+          "activityPattern": [],
+          "activities": 96
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Soins : Décris tes symptômes",
+          "activityPattern": [],
+          "activities": 97
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Soins : Parle de tes symptômes",
+          "activityPattern": [],
+          "activities": 98
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Soins : Demande des soins médicaux",
+          "activityPattern": [],
+          "activities": 99
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Soins : Raconte l'évolution d'un patient",
+          "activityPattern": [],
+          "activities": 100
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Réparations : Décris les réparations à faire",
+          "activityPattern": [],
+          "activities": 101
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Réparations : Parle d’un dégât des eaux",
+          "activityPattern": [],
+          "activities": 102
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Réparations : Signale un équipement cassé",
+          "activityPattern": [],
+          "activities": 103
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Réparations : Signale un problème",
+          "activityPattern": [],
+          "activities": 104
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Réparations : Vérifie l’état des lieux",
+          "activityPattern": [],
+          "activities": 105
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Prétextes : Explique pourquoi tu refuses",
+          "activityPattern": [],
+          "activities": 106
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Prétextes : Réponds aux critiques",
+          "activityPattern": [],
+          "activities": 107
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Prétextes: Dis ce qui te dérange",
+          "activityPattern": [],
+          "activities": 108
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Prétextes : Trouve un prétexte",
+          "activityPattern": [],
+          "activities": 109
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Prétextes: Réagis à une excuse",
+          "activityPattern": [],
+          "activities": 110
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Romans : Décris un personnage",
+          "activityPattern": [],
+          "activities": 111
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Romans : Décris un personnage de roman",
+          "activityPattern": [],
+          "activities": 112
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Romans : Raconte une scène de roman",
+          "activityPattern": [],
+          "activities": 113
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Romans : Raconte une scène marquante",
+          "activityPattern": [],
+          "activities": 114
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Romans : Explique les actions du héros",
+          "activityPattern": [],
+          "activities": 115
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Changements : Parle de ton nouveau look",
+          "activityPattern": [],
+          "activities": 116
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Changements : Dis ce qui te surprend",
+          "activityPattern": [],
+          "activities": 117
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Changements : Décris ta progression",
+          "activityPattern": [],
+          "activities": 118
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Changements : Parle de ta nouvelle vie",
+          "activityPattern": [],
+          "activities": 119
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Changements : Explique ton ressenti",
+          "activityPattern": [],
+          "activities": 120
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Tracas : Décris tes tracas quotidiens",
+          "activityPattern": [],
+          "activities": 121
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Tracas : Exprime ton ressenti sur les tracas",
+          "activityPattern": [],
+          "activities": 122
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Tracas : Réagis aux petits soucis",
+          "activityPattern": [],
+          "activities": 123
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Tracas : Explique ce qui te pèse",
+          "activityPattern": [],
+          "activities": 124
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Tracas : Raconte un week-end raté",
+          "activityPattern": [],
+          "activities": 125
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Comportement : Réagis à une rumeur",
+          "activityPattern": [],
+          "activities": 126
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Comportement : Exprime tes réactions",
+          "activityPattern": [],
+          "activities": 127
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Comportement : Exprime ton ressenti",
+          "activityPattern": [],
+          "activities": 128
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Comportement : Explique une réaction",
+          "activityPattern": [],
+          "activities": 129
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Comportement : Réagis à une critique",
+          "activityPattern": [],
+          "activities": 130
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Séjour : Explique un problème rencontré",
+          "activityPattern": [],
+          "activities": 131
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Séjour : Raconte une mauvaise surprise",
+          "activityPattern": [],
+          "activities": 132
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Séjour : Demande ton chemin",
+          "activityPattern": [],
+          "activities": 133
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Séjour : Décris ton séjour",
+          "activityPattern": [],
+          "activities": 134
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Séjour : Raconte un séjour difficile",
+          "activityPattern": [],
+          "activities": 135
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Voyage : Parle de tes études à l’étranger",
+          "activityPattern": [],
+          "activities": 136
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Voyage : Décris une expérience de voyage",
+          "activityPattern": [],
+          "activities": 137
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Voyage : Décris tes rencontres en voyage",
+          "activityPattern": [],
+          "activities": 138
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Voyage : Explique une erreur en voyage",
+          "activityPattern": [],
+          "activities": 139
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Voyage : Raconte un problème de voyage",
+          "activityPattern": [],
+          "activities": 140
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Ustensiles : Décris les ustensiles",
+          "activityPattern": [],
+          "activities": 141
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Ustensiles : Cherche un ustensile perdu",
+          "activityPattern": [],
+          "activities": 142
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Ustensiles : Prête ton ustensile préféré",
+          "activityPattern": [],
+          "activities": 143
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Ustensiles : Décris les ustensiles de cuisine",
+          "activityPattern": [],
+          "activities": 144
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Ustensiles : Choisis le bon ustensile",
+          "activityPattern": [],
+          "activities": 145
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Caractère : Décris ton caractère",
+          "activityPattern": [],
+          "activities": 146
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Caractère : Compare les traits de caractère",
+          "activityPattern": [],
+          "activities": 147
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Caractère : Parle de tes qualités",
+          "activityPattern": [],
+          "activities": 148
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Caractère : Décris un trait de caractère",
+          "activityPattern": [],
+          "activities": 149
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Caractère: Parle de ton caractère",
+          "activityPattern": [],
+          "activities": 150
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Réconfort : Exprime tes inquiétudes",
+          "activityPattern": [],
+          "activities": 151
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Réconfort : Rassure un ami",
+          "activityPattern": [],
+          "activities": 152
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Réconfort : Réconforte un ami",
+          "activityPattern": [],
+          "activities": 153
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Réconfort : Demande conseil à quelqu’un",
+          "activityPattern": [],
+          "activities": 154
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Réconfort : Rassure quelqu’un",
+          "activityPattern": [],
+          "activities": 155
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Rupture : Exprime tes sentiments",
+          "activityPattern": [],
+          "activities": 156
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Rupture : Explique ce qui s'est passé",
+          "activityPattern": [],
+          "activities": 157
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Rupture : Trouve du réconfort",
+          "activityPattern": [],
+          "activities": 158
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Rupture : Donne ton ressenti",
+          "activityPattern": [],
+          "activities": 159
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Rupture : Partage ton expérience",
+          "activityPattern": [],
+          "activities": 160
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Débat : Exprime ton opinion",
+          "activityPattern": [],
+          "activities": 161
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Débat : Change de sujet",
+          "activityPattern": [],
+          "activities": 162
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Débat : Exprime ton avis",
+          "activityPattern": [],
+          "activities": 163
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Débat : Demande ce que tu as raté",
+          "activityPattern": [],
+          "activities": 164
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Débat : Réagis aux arguments",
+          "activityPattern": [],
+          "activities": 165
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Crises : Raconte une expérience de crise",
+          "activityPattern": [],
+          "activities": 166
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Crises : Décris ta réaction à une crise",
+          "activityPattern": [],
+          "activities": 167
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Crises : Demande si quelqu’un est blessé",
+          "activityPattern": [],
+          "activities": 168
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Crises : Décris les dégâts",
+          "activityPattern": [],
+          "activities": 169
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Crises : Exprime des excuses poliment",
+          "activityPattern": [],
+          "activities": 170
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Rancune: Réponds aux reproches",
+          "activityPattern": [],
+          "activities": 171
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Rancune: Exprime un doute",
+          "activityPattern": [],
+          "activities": 172
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Rancune : Dis que tu en veux à quelqu'un",
+          "activityPattern": [],
+          "activities": 173
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Rancune: Prête un objet sans souci",
+          "activityPattern": [],
+          "activities": 174
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Rancune : Parle de pardon",
+          "activityPattern": [],
+          "activities": 175
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Cuisine : Donne ton avis sur une recette",
+          "activityPattern": [],
+          "activities": 176
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Cuisine : Décris une recette",
+          "activityPattern": [],
+          "activities": 177
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Cuisine : Réponds aux critiques",
+          "activityPattern": [],
+          "activities": 178
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Cuisine : Exprime ton avis sur la cuisine",
+          "activityPattern": [],
+          "activities": 179
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Cuisine : Décris un plat raté",
+          "activityPattern": [],
+          "activities": 180
+        }
+      ]
+    },
+    {
+      "sectionIndex": 8,
+      "unitCount": 180,
+      "title": ":",
+      "rawTitle": "CEFR B2:",
+      "cefr": "B2",
+      "units": [
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Émotions : Exprime tes émotions",
+          "activityPattern": [],
+          "activities": 1
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Émotions : Exprime ce que tu ressens",
+          "activityPattern": [],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Émotions : Exprime tes sentiments",
+          "activityPattern": [],
+          "activities": 3
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Émotions : Réagis aux critiques",
+          "activityPattern": [],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Émotions : Explique ta réaction",
+          "activityPattern": [],
+          "activities": 5
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Décor : Propose tes idées de déco",
+          "activityPattern": [],
+          "activities": 6
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Décor : Imagine un style d’intérieur",
+          "activityPattern": [],
+          "activities": 7
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Décor : Décris la décoration",
+          "activityPattern": [],
+          "activities": 8
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Décor : Propose un changement de décor",
+          "activityPattern": [],
+          "activities": 9
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Décor : Recommande un artisan",
+          "activityPattern": [],
+          "activities": 10
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Magasin : Décris un article défectueux",
+          "activityPattern": [],
+          "activities": 11
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Magasin : Négocie un échange",
+          "activityPattern": [],
+          "activities": 12
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Magasin : Exprime ton mécontentement",
+          "activityPattern": [],
+          "activities": 13
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Magasin : Négocie un remboursement",
+          "activityPattern": [],
+          "activities": 14
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Magasin : Décris une mauvaise expérience",
+          "activityPattern": [],
+          "activities": 15
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Idées : Partage une idée originale",
+          "activityPattern": [],
+          "activities": 16
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Idées : Partage ce qui t’impressionne",
+          "activityPattern": [],
+          "activities": 17
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Idées : Donne ton avis sur une activité",
+          "activityPattern": [],
+          "activities": 18
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Idées : Présente une idée créative",
+          "activityPattern": [],
+          "activities": 19
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Idées : Donne ton avis sur des idées",
+          "activityPattern": [],
+          "activities": 20
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Droits : Exprime ton avis sur l’injustice",
+          "activityPattern": [],
+          "activities": 21
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Droits : Prends position sur l’égalité",
+          "activityPattern": [],
+          "activities": 22
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Droits : Partage une expérience vécue",
+          "activityPattern": [],
+          "activities": 23
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Droits : Explique l’égalité de genre",
+          "activityPattern": [],
+          "activities": 24
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Droits : Décris des avancées sociales",
+          "activityPattern": [],
+          "activities": 25
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Art urbain : Présente un courant artistique",
+          "activityPattern": [],
+          "activities": 26
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Art urbain : Décris une œuvre urbaine",
+          "activityPattern": [],
+          "activities": 27
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Art urbain : Parle de l’identité dans l’art",
+          "activityPattern": [],
+          "activities": 28
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Art urbain : Décris l’art urbain",
+          "activityPattern": [],
+          "activities": 29
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Art urbain : Présente une œuvre de rue",
+          "activityPattern": [],
+          "activities": 30
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Lutte : Décris un match de lutte",
+          "activityPattern": [],
+          "activities": 31
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Lutte : Décris un lutteur",
+          "activityPattern": [],
+          "activities": 32
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Lutte : Compare les lutteurs",
+          "activityPattern": [],
+          "activities": 33
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Lutte : Décris une tenue de lutteur",
+          "activityPattern": [],
+          "activities": 34
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Lutte : Compare deux catcheurs",
+          "activityPattern": [],
+          "activities": 35
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Le match : Donne tes pronostics du match",
+          "activityPattern": [],
+          "activities": 36
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Le match : Commente le score",
+          "activityPattern": [],
+          "activities": 37
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Le match : Commente la première mi-temps",
+          "activityPattern": [],
+          "activities": 38
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Le match : Réagis au suspense du match",
+          "activityPattern": [],
+          "activities": 39
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Le match : Commente le résultat du match",
+          "activityPattern": [],
+          "activities": 40
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Règlement : Donne ton avis",
+          "activityPattern": [],
+          "activities": 41
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Règlement : Réponds à une accusation",
+          "activityPattern": [],
+          "activities": 42
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Règlement : Explique une règle",
+          "activityPattern": [],
+          "activities": 43
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Règlement : Accepte ou refuse une règle",
+          "activityPattern": [],
+          "activities": 44
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Règlement : Explique le règlement",
+          "activityPattern": [],
+          "activities": 45
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Tracas : Raconte une petite galère",
+          "activityPattern": [],
+          "activities": 46
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Tracas: Décris une rue bloquée",
+          "activityPattern": [],
+          "activities": 47
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Tracas : Exprime ton agacement",
+          "activityPattern": [],
+          "activities": 48
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Tracas : Décris une journée éprouvante",
+          "activityPattern": [],
+          "activities": 49
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Tracas : Partage tes soucis récents",
+          "activityPattern": [],
+          "activities": 50
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Jeux : Explique les règles du jeu",
+          "activityPattern": [],
+          "activities": 51
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Jeux : Choisis ton pion",
+          "activityPattern": [],
+          "activities": 52
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Jeux : Décris le tour de jeu",
+          "activityPattern": [],
+          "activities": 53
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Jeux : Exprime ton avis sur un jeu",
+          "activityPattern": [],
+          "activities": 54
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Jeux : Réagis aux résultats des jeux",
+          "activityPattern": [],
+          "activities": 55
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Enquête : Exprime tes soupçons",
+          "activityPattern": [],
+          "activities": 56
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Enquête : Décris les indices trouvés",
+          "activityPattern": [],
+          "activities": 57
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Enquête : Présente un alibi",
+          "activityPattern": [],
+          "activities": 58
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Enquête : Formule une hypothèse",
+          "activityPattern": [],
+          "activities": 59
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Enquête : Résume les preuves trouvées",
+          "activityPattern": [],
+          "activities": 60
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Fantômes : Réagis à un récit effrayant",
+          "activityPattern": [],
+          "activities": 61
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Fantômes : Décris ce que tu as vu",
+          "activityPattern": [],
+          "activities": 62
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Fantômes : Décris tes peurs",
+          "activityPattern": [],
+          "activities": 63
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Fantômes : Exprime tes peurs",
+          "activityPattern": [],
+          "activities": 64
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Fantômes : Décris un lieu hanté",
+          "activityPattern": [],
+          "activities": 65
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Poste : Décris un poste idéal",
+          "activityPattern": [],
+          "activities": 66
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Poste : Présente tes compétences",
+          "activityPattern": [],
+          "activities": 67
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Poste : Décris le poste recherché",
+          "activityPattern": [],
+          "activities": 68
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Poste : Explique pourquoi tu es motivé",
+          "activityPattern": [],
+          "activities": 69
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Poste : Décris tes compétences",
+          "activityPattern": [],
+          "activities": 70
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Cérémonie : Explique le rôle de chacun",
+          "activityPattern": [],
+          "activities": 71
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Cérémonie : Décris la cérémonie",
+          "activityPattern": [],
+          "activities": 72
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Cérémonie : Félicite quelqu’un",
+          "activityPattern": [],
+          "activities": 73
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Cérémonie : Raconte une cérémonie",
+          "activityPattern": [],
+          "activities": 74
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Cérémonie : Félicite les mariés",
+          "activityPattern": [],
+          "activities": 75
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Zombies : Raconte ta réaction aux zombies",
+          "activityPattern": [],
+          "activities": 76
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Zombies : Réagis à une invasion zombie",
+          "activityPattern": [],
+          "activities": 77
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Zombies : Propose un abri contre les zombies",
+          "activityPattern": [],
+          "activities": 78
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Zombies: Dis comment échapper aux zombies",
+          "activityPattern": [],
+          "activities": 79
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Zombies : Propose la paix aux zombies",
+          "activityPattern": [],
+          "activities": 80
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Magie : Décris un magicien",
+          "activityPattern": [],
+          "activities": 81
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Magie : Présente un tour de magie",
+          "activityPattern": [],
+          "activities": 82
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Magie : Décris un tour de magie",
+          "activityPattern": [],
+          "activities": 83
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Magie : Réagis aux numéros du magicien",
+          "activityPattern": [],
+          "activities": 84
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Magie : Cherche l’objet caché",
+          "activityPattern": [],
+          "activities": 85
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Bal : Décris des tenues au bal",
+          "activityPattern": [],
+          "activities": 86
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Bal : Commente le style des invités",
+          "activityPattern": [],
+          "activities": 87
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Bal : Décris la chorégraphie",
+          "activityPattern": [],
+          "activities": 88
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Bal : Exprime ton avis sur le buffet",
+          "activityPattern": [],
+          "activities": 89
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Bal : Raconte ce qui s’est passé",
+          "activityPattern": [],
+          "activities": 90
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Nouvelle vie : Dis pourquoi tu pars",
+          "activityPattern": [],
+          "activities": 91
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Nouvelle vie : Dis au revoir à un ami",
+          "activityPattern": [],
+          "activities": 92
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Nouvelle vie : Encourage un ami",
+          "activityPattern": [],
+          "activities": 93
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Nouvelle vie : Découvre ta ville",
+          "activityPattern": [],
+          "activities": 94
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Nouvelle vie : Exprime ta gratitude",
+          "activityPattern": [],
+          "activities": 95
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Animaux de compagnie : Décris ton animal",
+          "activityPattern": [],
+          "activities": 96
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Animaux de compagnie : Choisis un animal",
+          "activityPattern": [],
+          "activities": 97
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Animaux de compagnie : Présente un animal",
+          "activityPattern": [],
+          "activities": 98
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Animaux de compagnie : Présente ton animal",
+          "activityPattern": [],
+          "activities": 99
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Animaux de compagnie : Choisis ton animal",
+          "activityPattern": [],
+          "activities": 100
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Avenir : Parle de tes ambitions",
+          "activityPattern": [],
+          "activities": 101
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Avenir : Décris ta vie dans dix ans",
+          "activityPattern": [],
+          "activities": 102
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Avenir : Partage tes projets futurs",
+          "activityPattern": [],
+          "activities": 103
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Avenir : Imagine ton futur",
+          "activityPattern": [],
+          "activities": 104
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Avenir : Parle de ton avenir",
+          "activityPattern": [],
+          "activities": 105
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Électronique : Décris la panne",
+          "activityPattern": [],
+          "activities": 106
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Électronique : Répare des appareils",
+          "activityPattern": [],
+          "activities": 107
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Électronique : Décris tes appareils",
+          "activityPattern": [],
+          "activities": 108
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Électronique : Choisis ce qu'il manque",
+          "activityPattern": [],
+          "activities": 109
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Électronique : Compare les options",
+          "activityPattern": [],
+          "activities": 110
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Devoirs : Choisis un sujet de devoir",
+          "activityPattern": [],
+          "activities": 111
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Devoirs : Rédige un brouillon",
+          "activityPattern": [],
+          "activities": 112
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Devoirs: Vérifie l'avancement des devoirs",
+          "activityPattern": [],
+          "activities": 113
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Devoirs : Explique le sujet du devoir",
+          "activityPattern": [],
+          "activities": 114
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Devoirs : Explique les diapositives",
+          "activityPattern": [],
+          "activities": 115
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Corps : Demande une pause",
+          "activityPattern": [],
+          "activities": 116
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Corps : Encourage tes amis à bouger",
+          "activityPattern": [],
+          "activities": 117
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Corps : Donne un conseil simple",
+          "activityPattern": [],
+          "activities": 118
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Corps : Décris tes habitudes sportives",
+          "activityPattern": [],
+          "activities": 119
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Corps : Décris ta routine sportive",
+          "activityPattern": [],
+          "activities": 120
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Sorties : Propose une sortie",
+          "activityPattern": [],
+          "activities": 121
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Sorties : Exprime tes préférences",
+          "activityPattern": [],
+          "activities": 122
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Sorties : Exprime ton envie de sortir",
+          "activityPattern": [],
+          "activities": 123
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Sorties : Propose une sortie entre amis",
+          "activityPattern": [],
+          "activities": 124
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Sorties : Propose une sortie à deux",
+          "activityPattern": [],
+          "activities": 125
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Excursion : Demande ce qu’il faut apporter",
+          "activityPattern": [],
+          "activities": 126
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Excursion : Demande un itinéraire",
+          "activityPattern": [],
+          "activities": 127
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Excursion : Décris une excursion",
+          "activityPattern": [],
+          "activities": 128
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Excursion : Propose un itinéraire",
+          "activityPattern": [],
+          "activities": 129
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Excursion : Raconte ton excursion",
+          "activityPattern": [],
+          "activities": 130
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Campagne : Décris les améliorations",
+          "activityPattern": [],
+          "activities": 131
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Campagne: Repère les fausses infos",
+          "activityPattern": [],
+          "activities": 132
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Campagne : Rapporte l’opinion des autres",
+          "activityPattern": [],
+          "activities": 133
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Campagne : Rassure tes électeurs",
+          "activityPattern": [],
+          "activities": 134
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Campagne : Donne ton avis",
+          "activityPattern": [],
+          "activities": 135
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Bêtises : Explique ce qui s’est passé",
+          "activityPattern": [],
+          "activities": 136
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Bêtises : Décris la scène",
+          "activityPattern": [],
+          "activities": 137
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Bêtises : Exprime tes regrets",
+          "activityPattern": [],
+          "activities": 138
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Bêtises : Réagis aux accusations",
+          "activityPattern": [],
+          "activities": 139
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Bêtises : Raconte une bêtise d’enfance",
+          "activityPattern": [],
+          "activities": 140
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Voiture : Compare les prix des voitures",
+          "activityPattern": [],
+          "activities": 141
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Voiture : Décris une voiture",
+          "activityPattern": [],
+          "activities": 142
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Voiture : Demande le prix et les options",
+          "activityPattern": [],
+          "activities": 143
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Voiture : Explique une panne de voiture",
+          "activityPattern": [],
+          "activities": 144
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Voiture : Demande une réparation rapide",
+          "activityPattern": [],
+          "activities": 145
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Reportage : Explique un phénomène météo",
+          "activityPattern": [],
+          "activities": 146
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Reportage : Présente un fait divers",
+          "activityPattern": [],
+          "activities": 147
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Reportage : Explique les titres du reportage",
+          "activityPattern": [],
+          "activities": 148
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Reportage : Lis un article d’actualité",
+          "activityPattern": [],
+          "activities": 149
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Reportage: Présente un article scientifique",
+          "activityPattern": [],
+          "activities": 150
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Compétition : Exprime tes réactions",
+          "activityPattern": [],
+          "activities": 151
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Compétition : Présente les résultats",
+          "activityPattern": [],
+          "activities": 152
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Compétition : Prédis le résultat",
+          "activityPattern": [],
+          "activities": 153
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Compétition : Décris une blessure",
+          "activityPattern": [],
+          "activities": 154
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Compétition : Partage ton expérience",
+          "activityPattern": [],
+          "activities": 155
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Rendez-vous: Raconte un rendez-vous raté",
+          "activityPattern": [],
+          "activities": 156
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Rendez-vous: Réagis à un moment gênant",
+          "activityPattern": [],
+          "activities": 157
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Rendez-vous: Pose des questions",
+          "activityPattern": [],
+          "activities": 158
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Rendez-vous: Exprime tes soupçons",
+          "activityPattern": [],
+          "activities": 159
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Rendez-vous : Réagis aux justifications",
+          "activityPattern": [],
+          "activities": 160
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Entreprise : Présente une innovation",
+          "activityPattern": [],
+          "activities": 161
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Entreprise : Réagis aux questions posées",
+          "activityPattern": [],
+          "activities": 162
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Entreprise : Présente ton métier",
+          "activityPattern": [],
+          "activities": 163
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Entreprise : Parle avec des collègues",
+          "activityPattern": [],
+          "activities": 164
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Entreprise : Réagis à la pression au bureau",
+          "activityPattern": [],
+          "activities": 165
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Souvenirs : Raconte tes jeux d'enfance",
+          "activityPattern": [],
+          "activities": 166
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Souvenirs : Décris une anecdote drôle",
+          "activityPattern": [],
+          "activities": 167
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Souvenirs : Parle de ton enfance",
+          "activityPattern": [],
+          "activities": 168
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Souvenirs : Parle d'une rencontre",
+          "activityPattern": [],
+          "activities": 169
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Souvenirs : Raconte un souvenir d’école",
+          "activityPattern": [],
+          "activities": 170
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Incidents : Explique ce qui s’est passé",
+          "activityPattern": [],
+          "activities": 171
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Incidents : Décris une erreur",
+          "activityPattern": [],
+          "activities": 172
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Incidents : Décris un plat raté",
+          "activityPattern": [],
+          "activities": 173
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Incidents : Décris une erreur administrative",
+          "activityPattern": [],
+          "activities": 174
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Incidents : Décris une situation inattendue",
+          "activityPattern": [],
+          "activities": 175
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Progrès : Décris tes progrès",
+          "activityPattern": [],
+          "activities": 176
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Progrès : Exprime tes difficultés",
+          "activityPattern": [],
+          "activities": 177
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Progrès : Note tes réussites",
+          "activityPattern": [],
+          "activities": 178
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Progrès : Partage ce que tu apprends",
+          "activityPattern": [],
+          "activities": 179
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Progrès : Exprime ce que tu as appris",
+          "activityPattern": [
+            2026,
+            3,
+            25
+          ],
+          "activities": 2054
+        }
+      ]
+    }
+  ]
+}

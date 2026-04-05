@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "key": "defja1030",
+    "courseTitle": "Japanese → German",
+    "scrapedAt": "2026-04-05T04:01:29.435Z",
+    "sourceHash": "sha256:2742f46f301519d8",
+    "fromLang": "Japanese",
+    "toLang": "German",
+    "fromCode": "ja",
+    "toCode": "de",
+    "level": null,
+    "levelShort": null,
+    "detailHref": "https://duolingodata.com/dat/defja1030.html",
+    "detailHrefHash": "sha256:74cd40c6078d57af",
+    "scrapeWarnings": [
+      "No sections parsed, using meta.unitsCount",
+      "No activities parsed, using meta.lessonsCount"
+    ],
+    "schemaVersion": "1.0.0"
+  },
+  "totals": {
+    "sections": 0,
+    "activities": 7958,
+    "units": 1030
+  },
+  "sections": []
+}

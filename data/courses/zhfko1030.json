@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "key": "zhfko1030",
+    "courseTitle": "Korean → Chinese",
+    "scrapedAt": "2026-04-05T04:01:29.435Z",
+    "sourceHash": "sha256:ae88c45dbb2b911b",
+    "fromLang": "Korean",
+    "toLang": "Chinese",
+    "fromCode": "ko",
+    "toCode": "zh",
+    "level": null,
+    "levelShort": null,
+    "detailHref": "https://duolingodata.com/dat/zhfko1030.html",
+    "detailHrefHash": "sha256:44a83ba7199c1bed",
+    "scrapeWarnings": [
+      "No sections parsed, using meta.unitsCount",
+      "No activities parsed, using meta.lessonsCount"
+    ],
+    "schemaVersion": "1.0.0"
+  },
+  "totals": {
+    "sections": 0,
+    "activities": 7373,
+    "units": 1030
+  },
+  "sections": []
+}

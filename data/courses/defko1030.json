@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "key": "defko1030",
+    "courseTitle": "Korean → German",
+    "scrapedAt": "2026-04-05T04:01:29.435Z",
+    "sourceHash": "sha256:db0e6616a9637e82",
+    "fromLang": "Korean",
+    "toLang": "German",
+    "fromCode": "ko",
+    "toCode": "de",
+    "level": null,
+    "levelShort": null,
+    "detailHref": "https://duolingodata.com/dat/defko1030.html",
+    "detailHrefHash": "sha256:108a73d58d99efa9",
+    "scrapeWarnings": [
+      "No sections parsed, using meta.unitsCount",
+      "No activities parsed, using meta.lessonsCount"
+    ],
+    "schemaVersion": "1.0.0"
+  },
+  "totals": {
+    "sections": 0,
+    "activities": 8026,
+    "units": 1030
+  },
+  "sections": []
+}

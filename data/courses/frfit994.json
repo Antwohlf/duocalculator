@@ -2,8 +2,8 @@
   "meta": {
     "key": "frfit994",
     "courseTitle": "Italian → French",
-    "scrapedAt": "2026-03-29T04:02:07.920Z",
-    "sourceHash": "sha256:7aeb4e5a06157e9f",
+    "scrapedAt": "2026-04-05T04:01:29.435Z",
+    "sourceHash": "sha256:e9e7500bae726a8a",
     "fromLang": "Italian",
     "toLang": "French",
     "fromCode": "it",
@@ -17,7 +17,7 @@
   },
   "totals": {
     "sections": 8,
-    "activities": 100910,
+    "activities": 100902,
     "units": 994
   },
   "sections": [
@@ -7047,11 +7047,11 @@
           "unitIndex": 8,
           "title": "Impegno: Spiega la tua motivazione",
           "activityPattern": [
-            2025,
-            12,
-            3
+            2026,
+            4,
+            2
           ],
-          "activities": 2040
+          "activities": 2032
         }
       ]
     }

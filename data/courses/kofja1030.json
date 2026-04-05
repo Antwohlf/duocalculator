@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "key": "kofja1030",
+    "courseTitle": "Japanese → Korean",
+    "scrapedAt": "2026-04-05T04:01:29.435Z",
+    "sourceHash": "sha256:51fc61b17a3bd993",
+    "fromLang": "Japanese",
+    "toLang": "Korean",
+    "fromCode": "ja",
+    "toCode": "ko",
+    "level": null,
+    "levelShort": null,
+    "detailHref": "https://duolingodata.com/dat/kofja1030.html",
+    "detailHrefHash": "sha256:3e136a3f8bd5ad9c",
+    "scrapeWarnings": [
+      "No sections parsed, using meta.unitsCount",
+      "No activities parsed, using meta.lessonsCount"
+    ],
+    "schemaVersion": "1.0.0"
+  },
+  "totals": {
+    "sections": 0,
+    "activities": 6914,
+    "units": 1030
+  },
+  "sections": []
+}

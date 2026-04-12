@@ -2,8 +2,8 @@
   "meta": {
     "key": "esfvi131",
     "courseTitle": "Vietnamese → Spanish",
-    "scrapedAt": "2026-04-05T04:01:29.435Z",
-    "sourceHash": "sha256:b1e524ec1e65f1dd",
+    "scrapedAt": "2026-04-12T04:04:24.729Z",
+    "sourceHash": "sha256:f0ecae4509339fec",
     "fromLang": "Vietnamese",
     "toLang": "Spanish",
     "fromCode": "vi",
@@ -17,7 +17,7 @@
   },
   "totals": {
     "sections": 4,
-    "activities": 4828,
+    "activities": 4823,
     "units": 131
   },
   "sections": [
@@ -970,11 +970,11 @@
           "unitIndex": 4,
           "title": "Tố giác tội phạm",
           "activityPattern": [
-            2025,
-            12,
-            5
+            2026,
+            4,
+            7
           ],
-          "activities": 2042
+          "activities": 2037
         }
       ]
     }

@@ -2,8 +2,8 @@
   "meta": {
     "key": "esfru991",
     "courseTitle": "Russian → Spanish",
-    "scrapedAt": "2026-04-05T04:01:29.435Z",
-    "sourceHash": "sha256:f14ae04cee9312ea",
+    "scrapedAt": "2026-04-12T04:04:24.729Z",
+    "sourceHash": "sha256:1456258c73a075cd",
     "fromLang": "Russian",
     "toLang": "Spanish",
     "fromCode": "ru",
@@ -17,7 +17,7 @@
   },
   "totals": {
     "sections": 8,
-    "activities": 100048,
+    "activities": 100037,
     "units": 991
   },
   "sections": [
@@ -821,7 +821,7 @@
         {
           "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "Используйте \"hacer\" в прошедшем времени",
+          "title": "Используйте «сабер» в настоящем времени",
           "activityPattern": [],
           "activities": 39
         },
@@ -7026,11 +7026,11 @@
           "unitIndex": 8,
           "title": "Обучение: Опиши свой прогресс",
           "activityPattern": [
-            2025,
-            12,
-            15
+            2026,
+            4,
+            11
           ],
-          "activities": 2052
+          "activities": 2041
         }
       ]
     }

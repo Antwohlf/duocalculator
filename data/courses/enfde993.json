@@ -2,8 +2,8 @@
   "meta": {
     "key": "enfde993",
     "courseTitle": "German → English",
-    "scrapedAt": "2026-04-05T04:01:29.435Z",
-    "sourceHash": "sha256:980817878eb49bcd",
+    "scrapedAt": "2026-04-12T04:04:24.729Z",
+    "sourceHash": "sha256:df4ed17cbbd94541",
     "fromLang": "German",
     "toLang": "English",
     "fromCode": "de",
@@ -17,7 +17,7 @@
   },
   "totals": {
     "sections": 8,
-    "activities": 103528,
+    "activities": 103521,
     "units": 993
   },
   "sections": [
@@ -7040,11 +7040,11 @@
           "unitIndex": 8,
           "title": "Graduation: Share your hopes for the future",
           "activityPattern": [
-            2025,
-            12,
-            5
+            2026,
+            5,
+            4
           ],
-          "activities": 2042
+          "activities": 2035
         }
       ]
     }

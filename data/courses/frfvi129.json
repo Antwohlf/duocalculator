@@ -2,8 +2,8 @@
   "meta": {
     "key": "frfvi129",
     "courseTitle": "Vietnamese → French",
-    "scrapedAt": "2026-04-05T04:01:29.435Z",
-    "sourceHash": "sha256:7cfdbab3e9bdc1cd",
+    "scrapedAt": "2026-04-12T04:04:24.729Z",
+    "sourceHash": "sha256:13971f0c8293aa50",
     "fromLang": "Vietnamese",
     "toLang": "French",
     "fromCode": "vi",
@@ -17,7 +17,7 @@
   },
   "totals": {
     "sections": 4,
-    "activities": 4764,
+    "activities": 4762,
     "units": 129
   },
   "sections": [
@@ -321,7 +321,7 @@
     },
     {
       "sectionIndex": 3,
-      "unitCount": 30,
+      "unitCount": 29,
       "title": ":",
       "rawTitle": "CEFR A1:",
       "cefr": "A1",
@@ -956,11 +956,11 @@
           "unitIndex": 4,
           "title": "Đi lại trong sân bay",
           "activityPattern": [
-            2025,
-            12,
-            2
+            2026,
+            4,
+            7
           ],
-          "activities": 2039
+          "activities": 2037
         }
       ]
     }

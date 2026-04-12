@@ -2,8 +2,8 @@
   "meta": {
     "key": "esfuk991",
     "courseTitle": "Ukrainian → Spanish",
-    "scrapedAt": "2026-04-05T04:01:29.435Z",
-    "sourceHash": "sha256:b23cde797d36a0ec",
+    "scrapedAt": "2026-04-12T04:04:24.729Z",
+    "sourceHash": "sha256:b72c06b951d1bbcf",
     "fromLang": "Ukrainian",
     "toLang": "Spanish",
     "fromCode": "uk",
@@ -17,7 +17,7 @@
   },
   "totals": {
     "sections": 8,
-    "activities": 100043,
+    "activities": 100033,
     "units": 991
   },
   "sections": [
@@ -976,7 +976,7 @@
     },
     {
       "sectionIndex": 5,
-      "unitCount": 255,
+      "unitCount": 250,
       "title": ":",
       "rawTitle": "CEFR B1:",
       "cefr": "B1",
@@ -2735,7 +2735,7 @@
     },
     {
       "sectionIndex": 6,
-      "unitCount": 260,
+      "unitCount": 250,
       "title": ":",
       "rawTitle": "CEFR B1:",
       "cefr": "B1",
@@ -7026,11 +7026,11 @@
           "unitIndex": 8,
           "title": "Успіх: Опиши шлях до успіху",
           "activityPattern": [
-            2025,
-            12,
-            10
+            2026,
+            4,
+            7
           ],
-          "activities": 2047
+          "activities": 2037
         }
       ]
     }

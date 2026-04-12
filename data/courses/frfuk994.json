@@ -2,8 +2,8 @@
   "meta": {
     "key": "frfuk994",
     "courseTitle": "Ukrainian → French",
-    "scrapedAt": "2026-04-05T04:01:29.435Z",
-    "sourceHash": "sha256:4d973c27e9104012",
+    "scrapedAt": "2026-04-12T04:04:24.729Z",
+    "sourceHash": "sha256:b1a62b83ac3c2027",
     "fromLang": "Ukrainian",
     "toLang": "French",
     "fromCode": "uk",
@@ -17,7 +17,7 @@
   },
   "totals": {
     "sections": 8,
-    "activities": 100915,
+    "activities": 100910,
     "units": 994
   },
   "sections": [
@@ -7047,11 +7047,11 @@
           "unitIndex": 8,
           "title": "Досягнення: Опиши нову ціль",
           "activityPattern": [
-            2025,
-            12,
-            8
+            2026,
+            4,
+            10
           ],
-          "activities": 2045
+          "activities": 2040
         }
       ]
     }

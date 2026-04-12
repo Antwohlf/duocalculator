@@ -2,8 +2,8 @@
   "meta": {
     "key": "defes1030",
     "courseTitle": "Spanish → German",
-    "scrapedAt": "2026-04-05T04:01:29.435Z",
-    "sourceHash": "sha256:140917f5d862df5c",
+    "scrapedAt": "2026-04-12T04:04:24.729Z",
+    "sourceHash": "sha256:cd5d52e40b5beb48",
     "fromLang": "Spanish",
     "toLang": "German",
     "fromCode": "es",
@@ -17,7 +17,7 @@
   },
   "totals": {
     "sections": 8,
-    "activities": 107613,
+    "activities": 107606,
     "units": 1030
   },
   "sections": [
@@ -7300,10 +7300,10 @@
           "title": "Seguros: Explica un accidente",
           "activityPattern": [
             2026,
-            3,
-            19
+            4,
+            11
           ],
-          "activities": 2048
+          "activities": 2041
         }
       ]
     }

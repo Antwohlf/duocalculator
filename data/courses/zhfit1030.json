@@ -2,8 +2,8 @@
   "meta": {
     "key": "zhfit1030",
     "courseTitle": "Italian → Chinese",
-    "scrapedAt": "2026-04-05T04:01:29.435Z",
-    "sourceHash": "sha256:b7b06fbc7e684609",
+    "scrapedAt": "2026-04-12T04:04:24.729Z",
+    "sourceHash": "sha256:2eecbfdc74e5ea20",
     "fromLang": "Italian",
     "toLang": "Chinese",
     "fromCode": "it",
@@ -17,7 +17,7 @@
   },
   "totals": {
     "sections": 8,
-    "activities": 107622,
+    "activities": 107631,
     "units": 1030
   },
   "sections": [
@@ -7301,9 +7301,9 @@
           "activityPattern": [
             2026,
             4,
-            2
+            11
           ],
-          "activities": 2032
+          "activities": 2041
         }
       ]
     }

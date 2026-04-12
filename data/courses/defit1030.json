@@ -2,8 +2,8 @@
   "meta": {
     "key": "defit1030",
     "courseTitle": "Italian → German",
-    "scrapedAt": "2026-04-05T04:01:29.435Z",
-    "sourceHash": "sha256:448111e5374445e6",
+    "scrapedAt": "2026-04-12T04:04:24.729Z",
+    "sourceHash": "sha256:7bd56eceffcd794a",
     "fromLang": "Italian",
     "toLang": "German",
     "fromCode": "it",
@@ -17,7 +17,7 @@
   },
   "totals": {
     "sections": 8,
-    "activities": 107597,
+    "activities": 107606,
     "units": 1030
   },
   "sections": [
@@ -7301,9 +7301,9 @@
           "activityPattern": [
             2026,
             4,
-            2
+            11
           ],
-          "activities": 2032
+          "activities": 2041
         }
       ]
     }

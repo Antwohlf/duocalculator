@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "key": "ptftr1031",
+    "courseTitle": "Turkish → Portuguese",
+    "scrapedAt": "2026-04-19T04:05:40.650Z",
+    "sourceHash": "sha256:f8e7516fa66472b8",
+    "fromLang": "Turkish",
+    "toLang": "Portuguese",
+    "fromCode": "tr",
+    "toCode": "pt",
+    "level": null,
+    "levelShort": null,
+    "detailHref": "https://duolingodata.com/dat/ptftr1031.html",
+    "detailHrefHash": "sha256:f2128ac76225ec2b",
+    "scrapeWarnings": [
+      "No sections parsed, using meta.unitsCount",
+      "No activities parsed, using meta.lessonsCount"
+    ],
+    "schemaVersion": "1.0.0"
+  },
+  "totals": {
+    "sections": 0,
+    "activities": 8516,
+    "units": 1031
+  },
+  "sections": []
+}

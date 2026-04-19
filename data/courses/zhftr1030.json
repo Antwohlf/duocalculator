@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "key": "zhftr1030",
+    "courseTitle": "Turkish → Chinese",
+    "scrapedAt": "2026-04-19T04:05:40.650Z",
+    "sourceHash": "sha256:5ab5ae0be3b4495a",
+    "fromLang": "Turkish",
+    "toLang": "Chinese",
+    "fromCode": "tr",
+    "toCode": "zh",
+    "level": null,
+    "levelShort": null,
+    "detailHref": "https://duolingodata.com/dat/zhftr1030.html",
+    "detailHrefHash": "sha256:e43602cb7dd90ec7",
+    "scrapeWarnings": [
+      "No sections parsed, using meta.unitsCount",
+      "No activities parsed, using meta.lessonsCount"
+    ],
+    "schemaVersion": "1.0.0"
+  },
+  "totals": {
+    "sections": 0,
+    "activities": 7773,
+    "units": 1030
+  },
+  "sections": []
+}

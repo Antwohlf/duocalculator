@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "key": "ptfzh1031",
+    "courseTitle": "Chinese → Portuguese",
+    "scrapedAt": "2026-04-19T04:05:40.650Z",
+    "sourceHash": "sha256:d7e3ca66a14f4eee",
+    "fromLang": "Chinese",
+    "toLang": "Portuguese",
+    "fromCode": "zh",
+    "toCode": "pt",
+    "level": null,
+    "levelShort": null,
+    "detailHref": "https://duolingodata.com/dat/ptfzh1031.html",
+    "detailHrefHash": "sha256:6adb9aab60d52b4b",
+    "scrapeWarnings": [
+      "No sections parsed, using meta.unitsCount",
+      "No activities parsed, using meta.lessonsCount"
+    ],
+    "schemaVersion": "1.0.0"
+  },
+  "totals": {
+    "sections": 0,
+    "activities": 8416,
+    "units": 1031
+  },
+  "sections": []
+}

@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "key": "jaftr1030",
+    "courseTitle": "Turkish → Japanese",
+    "scrapedAt": "2026-04-19T04:05:40.650Z",
+    "sourceHash": "sha256:164a63ced6bee013",
+    "fromLang": "Turkish",
+    "toLang": "Japanese",
+    "fromCode": "tr",
+    "toCode": "ja",
+    "level": null,
+    "levelShort": null,
+    "detailHref": "https://duolingodata.com/dat/jaftr1030.html",
+    "detailHrefHash": "sha256:39f8bf4f22ce8b3b",
+    "scrapeWarnings": [
+      "No sections parsed, using meta.unitsCount",
+      "No activities parsed, using meta.lessonsCount"
+    ],
+    "schemaVersion": "1.0.0"
+  },
+  "totals": {
+    "sections": 0,
+    "activities": 6941,
+    "units": 1030
+  },
+  "sections": []
+}

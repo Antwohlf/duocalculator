@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "key": "frftr994",
+    "courseTitle": "Turkish → French",
+    "scrapedAt": "2026-04-19T04:05:40.650Z",
+    "sourceHash": "sha256:8b94dc8b0a0411e6",
+    "fromLang": "Turkish",
+    "toLang": "French",
+    "fromCode": "tr",
+    "toCode": "fr",
+    "level": null,
+    "levelShort": null,
+    "detailHref": "https://duolingodata.com/dat/frftr994.html",
+    "detailHrefHash": "sha256:034e0b94f98d0538",
+    "scrapeWarnings": [
+      "No sections parsed, using meta.unitsCount",
+      "No activities parsed, using meta.lessonsCount"
+    ],
+    "schemaVersion": "1.0.0"
+  },
+  "totals": {
+    "sections": 0,
+    "activities": 8572,
+    "units": 994
+  },
+  "sections": []
+}

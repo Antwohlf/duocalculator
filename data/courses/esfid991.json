@@ -2,8 +2,8 @@
   "meta": {
     "key": "esfid991",
     "courseTitle": "Indonesian → Spanish",
-    "scrapedAt": "2026-04-12T04:04:24.729Z",
-    "sourceHash": "sha256:83d0507cc4ee7614",
+    "scrapedAt": "2026-04-19T04:05:40.650Z",
+    "sourceHash": "sha256:eac260f4491eb332",
     "fromLang": "Indonesian",
     "toLang": "Spanish",
     "fromCode": "id",
@@ -17,7 +17,7 @@
   },
   "totals": {
     "sections": 8,
-    "activities": 100045,
+    "activities": 100040,
     "units": 991
   },
   "sections": [
@@ -7026,11 +7026,11 @@
           "unitIndex": 8,
           "title": "Belajar: Sebutkan tantangan belajar",
           "activityPattern": [
-            2025,
-            12,
-            12
+            2026,
+            4,
+            14
           ],
-          "activities": 2049
+          "activities": 2044
         }
       ]
     }

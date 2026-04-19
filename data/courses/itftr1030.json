@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "key": "itftr1030",
+    "courseTitle": "Turkish → Italian",
+    "scrapedAt": "2026-04-19T04:05:40.650Z",
+    "sourceHash": "sha256:c7e8da6824d8fa7a",
+    "fromLang": "Turkish",
+    "toLang": "Italian",
+    "fromCode": "tr",
+    "toCode": "it",
+    "level": null,
+    "levelShort": null,
+    "detailHref": "https://duolingodata.com/dat/itftr1030.html",
+    "detailHrefHash": "sha256:bd395f945582e31a",
+    "scrapeWarnings": [
+      "No sections parsed, using meta.unitsCount",
+      "No activities parsed, using meta.lessonsCount"
+    ],
+    "schemaVersion": "1.0.0"
+  },
+  "totals": {
+    "sections": 0,
+    "activities": 7407,
+    "units": 1030
+  },
+  "sections": []
+}

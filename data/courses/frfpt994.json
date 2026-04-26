@@ -2,8 +2,8 @@
   "meta": {
     "key": "frfpt994",
     "courseTitle": "Portuguese → French",
-    "scrapedAt": "2026-04-19T04:05:40.650Z",
-    "sourceHash": "sha256:827abe190636981f",
+    "scrapedAt": "2026-04-26T04:11:52.903Z",
+    "sourceHash": "sha256:bfbd0a4600b75964",
     "fromLang": "Portuguese",
     "toLang": "French",
     "fromCode": "pt",
@@ -17,7 +17,7 @@
   },
   "totals": {
     "sections": 8,
-    "activities": 100912,
+    "activities": 100919,
     "units": 994
   },
   "sections": [
@@ -7047,11 +7047,11 @@
           "unitIndex": 8,
           "title": "Motivação: Descreva seus objetivos",
           "activityPattern": [
-            2025,
-            12,
-            5
+            2026,
+            4,
+            19
           ],
-          "activities": 2042
+          "activities": 2049
         }
       ]
     }

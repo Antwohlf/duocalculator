@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "key": "itfzh1030",
+    "courseTitle": "Chinese → Italian",
+    "scrapedAt": "2026-04-26T04:11:52.903Z",
+    "sourceHash": "sha256:9e766ee37911570a",
+    "fromLang": "Chinese",
+    "toLang": "Italian",
+    "fromCode": "zh",
+    "toCode": "it",
+    "level": null,
+    "levelShort": null,
+    "detailHref": "https://duolingodata.com/dat/itfzh1030.html",
+    "detailHrefHash": "sha256:9fe8c81cf34e819f",
+    "scrapeWarnings": [
+      "No sections parsed, using meta.unitsCount",
+      "No activities parsed, using meta.lessonsCount"
+    ],
+    "schemaVersion": "1.0.0"
+  },
+  "totals": {
+    "sections": 0,
+    "activities": 7403,
+    "units": 1030
+  },
+  "sections": []
+}

@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "key": "defzh1030",
+    "courseTitle": "Chinese → German",
+    "scrapedAt": "2026-04-26T04:11:52.903Z",
+    "sourceHash": "sha256:6828738fc9b6d35b",
+    "fromLang": "Chinese",
+    "toLang": "German",
+    "fromCode": "zh",
+    "toCode": "de",
+    "level": null,
+    "levelShort": null,
+    "detailHref": "https://duolingodata.com/dat/defzh1030.html",
+    "detailHrefHash": "sha256:8a8733382e99e1c8",
+    "scrapeWarnings": [
+      "No sections parsed, using meta.unitsCount",
+      "No activities parsed, using meta.lessonsCount"
+    ],
+    "schemaVersion": "1.0.0"
+  },
+  "totals": {
+    "sections": 0,
+    "activities": 8436,
+    "units": 1030
+  },
+  "sections": []
+}

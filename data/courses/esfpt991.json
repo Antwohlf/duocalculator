@@ -2,8 +2,8 @@
   "meta": {
     "key": "esfpt991",
     "courseTitle": "Portuguese → Spanish",
-    "scrapedAt": "2026-04-19T04:05:40.650Z",
-    "sourceHash": "sha256:b6f0a3515f4b0a9b",
+    "scrapedAt": "2026-04-26T04:11:52.903Z",
+    "sourceHash": "sha256:f42312ec08bbda0a",
     "fromLang": "Portuguese",
     "toLang": "Spanish",
     "fromCode": "pt",
@@ -17,7 +17,7 @@
   },
   "totals": {
     "sections": 8,
-    "activities": 100044,
+    "activities": 100045,
     "units": 991
   },
   "sections": [
@@ -7026,11 +7026,11 @@
           "unitIndex": 8,
           "title": "Progresso: Fale do que aprendeu",
           "activityPattern": [
-            2025,
-            12,
-            11
+            2026,
+            4,
+            19
           ],
-          "activities": 2048
+          "activities": 2049
         }
       ]
     }

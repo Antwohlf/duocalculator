@@ -2,8 +2,8 @@
   "meta": {
     "key": "eofpt62",
     "courseTitle": "Portuguese → Esperanto",
-    "scrapedAt": "2026-04-19T04:05:40.650Z",
-    "sourceHash": "sha256:b82e4406fe83ff29",
+    "scrapedAt": "2026-04-26T04:11:52.903Z",
+    "sourceHash": "sha256:9b7678d22387c066",
     "fromLang": "Portuguese",
     "toLang": "Esperanto",
     "fromCode": "pt",
@@ -17,7 +17,7 @@
   },
   "totals": {
     "sections": 3,
-    "activities": 2802,
+    "activities": 2812,
     "units": 62
   },
   "sections": [
@@ -478,11 +478,11 @@
           "unitIndex": 3,
           "title": "Use advérbios, use -ig e -iĝ, use expressões, expresse opiniões, fale sobre saúde",
           "activityPattern": [
-            2025,
-            10,
-            4
+            2026,
+            4,
+            19
           ],
-          "activities": 2039
+          "activities": 2049
         }
       ]
     }

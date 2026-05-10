@@ -2,16 +2,17 @@ import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import { execFile } from 'node:child_process';
 import { promisify } from 'node:util';
+import { fileURLToPath } from 'node:url';
 
 const execFileAsync = promisify(execFile);
-const scraperDir = new URL('../', import.meta.url);
+const scraperDir = fileURLToPath(new URL('../', import.meta.url));
 const fixturesDir = new URL('./fixtures/validate/', import.meta.url);
 
 async function runValidate(fixtureName, extraArgs = []) {
-  const dataDir = new URL(`${fixtureName}/`, fixturesDir).pathname;
+  const dataDir = fileURLToPath(new URL(`${fixtureName}/`, fixturesDir));
   try {
     const result = await execFileAsync('node', ['validate.js', '--data', dataDir, ...extraArgs], {
-      cwd: scraperDir.pathname,
+      cwd: scraperDir,
       env: process.env,
     });
     return { code: 0, stdout: result.stdout, stderr: result.stderr };

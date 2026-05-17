@@ -1,0 +1,1485 @@
+{
+  "meta": {
+    "key": "chfen199",
+    "courseTitle": "English → Ch",
+    "scrapedAt": "2026-05-17T04:26:58.887Z",
+    "sourceHash": "sha256:1d9d081afa30c808",
+    "fromLang": "English",
+    "toLang": "Ch",
+    "fromCode": "en",
+    "toCode": "ch",
+    "level": "CEFR ELO 200",
+    "levelShort": "ELO 200",
+    "detailHref": "https://duolingodata.com/dat/chfen199.html",
+    "detailHrefHash": "sha256:0fb3ca23b2922303",
+    "scrapeWarnings": [],
+    "schemaVersion": "1.0.0"
+  },
+  "totals": {
+    "sections": 7,
+    "activities": 5597,
+    "units": 199
+  },
+  "sections": [
+    {
+      "sectionIndex": 1,
+      "unitCount": 6,
+      "title": "ELO 200:",
+      "rawTitle": "ELO 200:",
+      "cefr": "ELO 200:",
+      "units": [
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Piece movement",
+          "activityPattern": [],
+          "activities": 1
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Capturing and attacking",
+          "activityPattern": [],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Defending your pieces",
+          "activityPattern": [],
+          "activities": 3
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Check, attacking the king",
+          "activityPattern": [],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Checkmate, the point of the game",
+          "activityPattern": [],
+          "activities": 5
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Starting the game",
+          "activityPattern": [],
+          "activities": 6
+        }
+      ]
+    },
+    {
+      "sectionIndex": 2,
+      "unitCount": 25,
+      "title": "ELO 500:",
+      "rawTitle": "ELO 500:",
+      "cefr": "ELO 500:",
+      "units": [
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Piece value and favorable captures",
+          "activityPattern": [],
+          "activities": 1
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Safety and checkmate practice",
+          "activityPattern": [],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Practicing a match",
+          "activityPattern": [],
+          "activities": 3
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Stalemate and checkmate patterns",
+          "activityPattern": [],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Exchanges",
+          "activityPattern": [],
+          "activities": 5
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Pawn promotion and races",
+          "activityPattern": [],
+          "activities": 6
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Forks",
+          "activityPattern": [],
+          "activities": 7
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Checkmate practice",
+          "activityPattern": [],
+          "activities": 8
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Absolute pins",
+          "activityPattern": [],
+          "activities": 9
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Understanding the pawn",
+          "activityPattern": [],
+          "activities": 10
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Practicing planning for checkmate",
+          "activityPattern": [],
+          "activities": 11
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Continuing the opening",
+          "activityPattern": [],
+          "activities": 12
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Exploiting pins",
+          "activityPattern": [],
+          "activities": 13
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Smothered mate and skewers",
+          "activityPattern": [],
+          "activities": 14
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Sacrifice",
+          "activityPattern": [],
+          "activities": 15
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Discovered and double attacks",
+          "activityPattern": [],
+          "activities": 16
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Discovered and double check",
+          "activityPattern": [],
+          "activities": 17
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Checkmate tactics",
+          "activityPattern": [],
+          "activities": 18
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Battery",
+          "activityPattern": [],
+          "activities": 19
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Removing defenses and connecting rooks",
+          "activityPattern": [],
+          "activities": 20
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Gaining material",
+          "activityPattern": [],
+          "activities": 21
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Piling up on pins",
+          "activityPattern": [],
+          "activities": 22
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Intermediate moves",
+          "activityPattern": [],
+          "activities": 23
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Defending against mate",
+          "activityPattern": [],
+          "activities": 24
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Common endgame practice",
+          "activityPattern": [],
+          "activities": 25
+        }
+      ]
+    },
+    {
+      "sectionIndex": 3,
+      "unitCount": 24,
+      "title": "ELO 800:",
+      "rawTitle": "ELO 800:",
+      "cefr": "ELO 800:",
+      "units": [
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Forcing moves and double checkmate",
+          "activityPattern": [],
+          "activities": 1
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Forks and Lolli’s mate",
+          "activityPattern": [],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Pins and cross pins",
+          "activityPattern": [],
+          "activities": 3
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Forcing draws",
+          "activityPattern": [],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Escaping forks",
+          "activityPattern": [],
+          "activities": 5
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Escaping pins",
+          "activityPattern": [],
+          "activities": 6
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Mastering discovered and double attacks",
+          "activityPattern": [],
+          "activities": 7
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Understanding the rook",
+          "activityPattern": [],
+          "activities": 8
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Clearance sacrifice",
+          "activityPattern": [],
+          "activities": 9
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Checkmate training",
+          "activityPattern": [],
+          "activities": 10
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "X-ray attacks",
+          "activityPattern": [],
+          "activities": 11
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Escaping attacks and checks",
+          "activityPattern": [],
+          "activities": 12
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Defending tactics",
+          "activityPattern": [],
+          "activities": 13
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Opposition",
+          "activityPattern": [],
+          "activities": 14
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Complex pins",
+          "activityPattern": [],
+          "activities": 15
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Developing pieces",
+          "activityPattern": [],
+          "activities": 16
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Understanding the queen",
+          "activityPattern": [],
+          "activities": 17
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Early game checkmates",
+          "activityPattern": [],
+          "activities": 18
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Trapped pieces",
+          "activityPattern": [],
+          "activities": 19
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Opening traps",
+          "activityPattern": [],
+          "activities": 20
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Gaining material",
+          "activityPattern": [],
+          "activities": 21
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Checkmate practice",
+          "activityPattern": [],
+          "activities": 22
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Multi-piece tactics",
+          "activityPattern": [],
+          "activities": 23
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Importance of pawns",
+          "activityPattern": [],
+          "activities": 24
+        }
+      ]
+    },
+    {
+      "sectionIndex": 4,
+      "unitCount": 24,
+      "title": "ELO 1000:",
+      "rawTitle": "ELO 1000:",
+      "cefr": "ELO 1000:",
+      "units": [
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Checkmate practice",
+          "activityPattern": [],
+          "activities": 1
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Opening a match",
+          "activityPattern": [],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Attacking tactics",
+          "activityPattern": [],
+          "activities": 3
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Interference",
+          "activityPattern": [],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Escaping tactics",
+          "activityPattern": [],
+          "activities": 5
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Deflection",
+          "activityPattern": [],
+          "activities": 6
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Checkmate prevention",
+          "activityPattern": [],
+          "activities": 7
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Mastering common endgames",
+          "activityPattern": [],
+          "activities": 8
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Attraction",
+          "activityPattern": [],
+          "activities": 9
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Defending tactics",
+          "activityPattern": [],
+          "activities": 10
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Mastering the bishop",
+          "activityPattern": [],
+          "activities": 11
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Planning the checkmate",
+          "activityPattern": [],
+          "activities": 12
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Multipiece tactics",
+          "activityPattern": [],
+          "activities": 13
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Advanced pawns",
+          "activityPattern": [],
+          "activities": 14
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Early game checkmates and traps",
+          "activityPattern": [],
+          "activities": 15
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Gaining material",
+          "activityPattern": [],
+          "activities": 16
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Mastering the knight",
+          "activityPattern": [],
+          "activities": 17
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Zugzwang",
+          "activityPattern": [],
+          "activities": 18
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Mating nets",
+          "activityPattern": [],
+          "activities": 19
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Middlegame practice",
+          "activityPattern": [],
+          "activities": 20
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Planning sacrifices",
+          "activityPattern": [],
+          "activities": 21
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Isolated and backward pawns",
+          "activityPattern": [],
+          "activities": 22
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Draws, intermezzo, and zugzwang",
+          "activityPattern": [],
+          "activities": 23
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Mastering the king",
+          "activityPattern": [],
+          "activities": 24
+        }
+      ]
+    },
+    {
+      "sectionIndex": 5,
+      "unitCount": 24,
+      "title": "ELO 1100:",
+      "rawTitle": "ELO 1100:",
+      "cefr": "ELO 1100:",
+      "units": [
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Opposition",
+          "activityPattern": [],
+          "activities": 1
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Discovered checks",
+          "activityPattern": [],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Knight mates",
+          "activityPattern": [],
+          "activities": 3
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Doubling rooks and Alekhine's gun",
+          "activityPattern": [],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Sacrifices",
+          "activityPattern": [],
+          "activities": 5
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Passed pawns",
+          "activityPattern": [],
+          "activities": 6
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Improving your pieces",
+          "activityPattern": [],
+          "activities": 7
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Early game tactics",
+          "activityPattern": [],
+          "activities": 8
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Improving your rooks and queen",
+          "activityPattern": [],
+          "activities": 9
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Rook and bishop mates",
+          "activityPattern": [],
+          "activities": 10
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Pawn races and breakthroughs",
+          "activityPattern": [],
+          "activities": 11
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Knowing when to trade",
+          "activityPattern": [],
+          "activities": 12
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "More rook mates",
+          "activityPattern": [],
+          "activities": 13
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Bishop attacks",
+          "activityPattern": [],
+          "activities": 14
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Pawn power",
+          "activityPattern": [],
+          "activities": 15
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Queen and bishop mates",
+          "activityPattern": [],
+          "activities": 16
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Queen forks",
+          "activityPattern": [],
+          "activities": 17
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Shouldering and zugzwang",
+          "activityPattern": [],
+          "activities": 18
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Bishop pair mates",
+          "activityPattern": [],
+          "activities": 19
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Rooks on the pawn row",
+          "activityPattern": [],
+          "activities": 20
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Attacks on a castled king",
+          "activityPattern": [],
+          "activities": 21
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Rook and knight mates",
+          "activityPattern": [],
+          "activities": 22
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Interference and intermezzo",
+          "activityPattern": [],
+          "activities": 23
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Minor piece checkmates",
+          "activityPattern": [],
+          "activities": 24
+        }
+      ]
+    },
+    {
+      "sectionIndex": 6,
+      "unitCount": 48,
+      "title": "ELO 1200:",
+      "rawTitle": "ELO 1200:",
+      "cefr": "ELO 1200:",
+      "units": [
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Practicing checkmating patterns",
+          "activityPattern": [],
+          "activities": 1
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Opening repertoire",
+          "activityPattern": [],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Defending tactics",
+          "activityPattern": [],
+          "activities": 3
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Discovered attacks",
+          "activityPattern": [],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Mastering the knight",
+          "activityPattern": [],
+          "activities": 5
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Attacking tactics",
+          "activityPattern": [],
+          "activities": 6
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Gaining advantage in the early game",
+          "activityPattern": [],
+          "activities": 7
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Mastering the pawn",
+          "activityPattern": [],
+          "activities": 8
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Planning sacrifices",
+          "activityPattern": [],
+          "activities": 9
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Practicing frequent checkmates",
+          "activityPattern": [],
+          "activities": 10
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Middlegame practice",
+          "activityPattern": [],
+          "activities": 11
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Exploiting mistakes",
+          "activityPattern": [],
+          "activities": 12
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Mastering the king",
+          "activityPattern": [],
+          "activities": 13
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Multipiece tactics",
+          "activityPattern": [],
+          "activities": 14
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Obtaining the advantage",
+          "activityPattern": [],
+          "activities": 15
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Surprising your opponent",
+          "activityPattern": [],
+          "activities": 16
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Improving your position",
+          "activityPattern": [],
+          "activities": 17
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Mastering the queen",
+          "activityPattern": [],
+          "activities": 18
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Endgame practice",
+          "activityPattern": [],
+          "activities": 19
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Avoiding attacks",
+          "activityPattern": [],
+          "activities": 20
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Mastering the rook",
+          "activityPattern": [],
+          "activities": 21
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Mastering checkmates",
+          "activityPattern": [],
+          "activities": 22
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Mastering the seventh rank",
+          "activityPattern": [],
+          "activities": 23
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Mastering the bishop",
+          "activityPattern": [],
+          "activities": 24
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Disadvantages",
+          "activityPattern": [],
+          "activities": 25
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Tricky endgames",
+          "activityPattern": [],
+          "activities": 26
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Attraction and clearance",
+          "activityPattern": [],
+          "activities": 27
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Midgame tactics I",
+          "activityPattern": [],
+          "activities": 28
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Balanced focus I",
+          "activityPattern": [],
+          "activities": 29
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Longer checkmates I",
+          "activityPattern": [],
+          "activities": 30
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Clearance and deflection",
+          "activityPattern": [],
+          "activities": 31
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Attraction and midgame",
+          "activityPattern": [],
+          "activities": 32
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Midgame tactics II",
+          "activityPattern": [],
+          "activities": 33
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Balanced focus II",
+          "activityPattern": [],
+          "activities": 34
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Endgames I",
+          "activityPattern": [],
+          "activities": 35
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Endgames II",
+          "activityPattern": [],
+          "activities": 36
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Midgame tactics III",
+          "activityPattern": [],
+          "activities": 37
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Rook and queen endgames",
+          "activityPattern": [],
+          "activities": 38
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Bishop and knight endgames",
+          "activityPattern": [],
+          "activities": 39
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Checkmate practice",
+          "activityPattern": [],
+          "activities": 40
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Discovered and double attacks",
+          "activityPattern": [],
+          "activities": 41
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Longer checkmates II",
+          "activityPattern": [],
+          "activities": 42
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Balanced focus III",
+          "activityPattern": [],
+          "activities": 43
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Pawn endgames and promotions",
+          "activityPattern": [],
+          "activities": 44
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Deflection and attraction",
+          "activityPattern": [],
+          "activities": 45
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Winning pieces",
+          "activityPattern": [],
+          "activities": 46
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Balanced focus IV",
+          "activityPattern": [],
+          "activities": 47
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Early game",
+          "activityPattern": [],
+          "activities": 48
+        }
+      ]
+    },
+    {
+      "sectionIndex": 7,
+      "unitCount": 48,
+      "title": "ELO 1500:",
+      "rawTitle": "ELO 1500:",
+      "cefr": "ELO 1500:",
+      "units": [
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Midgame tactics I",
+          "activityPattern": [],
+          "activities": 1
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Rook and queen endgames",
+          "activityPattern": [],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Bishop and knight endgames",
+          "activityPattern": [],
+          "activities": 3
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Checkmate practice",
+          "activityPattern": [],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Discovered and double attacks I",
+          "activityPattern": [],
+          "activities": 5
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Longer checkmates",
+          "activityPattern": [],
+          "activities": 6
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Balanced focus",
+          "activityPattern": [],
+          "activities": 7
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Pawn endgames and promotions",
+          "activityPattern": [],
+          "activities": 8
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Deflection and attraction",
+          "activityPattern": [],
+          "activities": 9
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Winning pieces",
+          "activityPattern": [],
+          "activities": 10
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Balanced focus",
+          "activityPattern": [],
+          "activities": 11
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Early game",
+          "activityPattern": [],
+          "activities": 12
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Disadvantages",
+          "activityPattern": [],
+          "activities": 13
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Tricky endgames",
+          "activityPattern": [],
+          "activities": 14
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Attraction and clearance",
+          "activityPattern": [],
+          "activities": 15
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Midgame tactics II",
+          "activityPattern": [],
+          "activities": 16
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Balanced focus",
+          "activityPattern": [],
+          "activities": 17
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Longer checkmates",
+          "activityPattern": [],
+          "activities": 18
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Clearance and deflection",
+          "activityPattern": [],
+          "activities": 19
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Attraction and midgame",
+          "activityPattern": [],
+          "activities": 20
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Midgame tactics III",
+          "activityPattern": [],
+          "activities": 21
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Balanced focus",
+          "activityPattern": [],
+          "activities": 22
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Endgames I",
+          "activityPattern": [],
+          "activities": 23
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Endgames II",
+          "activityPattern": [],
+          "activities": 24
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Strategic balance I",
+          "activityPattern": [],
+          "activities": 25
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Checkmate mastery I",
+          "activityPattern": [],
+          "activities": 26
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Tactical precision",
+          "activityPattern": [],
+          "activities": 27
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Positional play",
+          "activityPattern": [],
+          "activities": 28
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Advanced tactics I",
+          "activityPattern": [],
+          "activities": 29
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Strategic balance II",
+          "activityPattern": [],
+          "activities": 30
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Complex endgames I",
+          "activityPattern": [],
+          "activities": 31
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Complex endgames II",
+          "activityPattern": [],
+          "activities": 32
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Advanced tactics II",
+          "activityPattern": [],
+          "activities": 33
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Complex endgames III",
+          "activityPattern": [],
+          "activities": 34
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Piece endgames",
+          "activityPattern": [],
+          "activities": 35
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Checkmate mastery II",
+          "activityPattern": [],
+          "activities": 36
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Advanced discovered attacks",
+          "activityPattern": [],
+          "activities": 37
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Long checkmates",
+          "activityPattern": [],
+          "activities": 38
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Strategic balance III",
+          "activityPattern": [],
+          "activities": 39
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Pawn structure",
+          "activityPattern": [],
+          "activities": 40
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Tactical combinations I",
+          "activityPattern": [],
+          "activities": 41
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Material advantage",
+          "activityPattern": [],
+          "activities": 42
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Strategic balance IV",
+          "activityPattern": [],
+          "activities": 43
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Opening principles",
+          "activityPattern": [],
+          "activities": 44
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Comeback tactics",
+          "activityPattern": [],
+          "activities": 45
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Endgame finesse",
+          "activityPattern": [],
+          "activities": 46
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Tactical combinations II",
+          "activityPattern": [],
+          "activities": 47
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Advanced tactics III",
+          "activityPattern": [
+            2026,
+            5,
+            16
+          ],
+          "activities": 2047
+        }
+      ]
+    }
+  ]
+}

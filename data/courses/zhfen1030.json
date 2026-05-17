@@ -2,8 +2,8 @@
   "meta": {
     "key": "zhfen1030",
     "courseTitle": "English → Chinese",
-    "scrapedAt": "2026-05-10T04:24:01.669Z",
-    "sourceHash": "sha256:75cd910aeacb2e96",
+    "scrapedAt": "2026-05-17T04:26:58.887Z",
+    "sourceHash": "sha256:15d86ea59e33ce14",
     "fromLang": "English",
     "toLang": "Chinese",
     "fromCode": "en",
@@ -17,7 +17,7 @@
   },
   "totals": {
     "sections": 8,
-    "activities": 107638,
+    "activities": 107637,
     "units": 1030
   },
   "sections": [
@@ -7300,10 +7300,10 @@
           "title": "Seaside: Describe coastal plants",
           "activityPattern": [
             2026,
-            3,
-            19
+            5,
+            16
           ],
-          "activities": 2048
+          "activities": 2047
         }
       ]
     }

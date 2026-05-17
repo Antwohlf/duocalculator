@@ -2,8 +2,8 @@
   "meta": {
     "key": "defen1030",
     "courseTitle": "English → German",
-    "scrapedAt": "2026-05-10T04:24:01.669Z",
-    "sourceHash": "sha256:2b350ef334e8b66d",
+    "scrapedAt": "2026-05-17T04:26:58.887Z",
+    "sourceHash": "sha256:fa0f899e551a4ee3",
     "fromLang": "English",
     "toLang": "German",
     "fromCode": "en",
@@ -17,7 +17,7 @@
   },
   "totals": {
     "sections": 8,
-    "activities": 107600,
+    "activities": 107611,
     "units": 1030
   },
   "sections": [
@@ -7300,10 +7300,10 @@
           "title": "Safety: Report a lost ID",
           "activityPattern": [
             2026,
-            3,
-            6
+            4,
+            16
           ],
-          "activities": 2035
+          "activities": 2046
         }
       ]
     }

@@ -2,8 +2,8 @@
   "meta": {
     "key": "jafen1030",
     "courseTitle": "English → Japanese",
-    "scrapedAt": "2026-05-10T04:24:01.669Z",
-    "sourceHash": "sha256:39283111159e560c",
+    "scrapedAt": "2026-05-17T04:26:58.887Z",
+    "sourceHash": "sha256:cf27175ba3947f98",
     "fromLang": "English",
     "toLang": "Japanese",
     "fromCode": "en",
@@ -17,7 +17,7 @@
   },
   "totals": {
     "sections": 8,
-    "activities": 125700,
+    "activities": 107712,
     "units": 1030
   },
   "sections": [
@@ -7299,11 +7299,11 @@
           "unitIndex": 8,
           "title": "Sushi Bar: Order from the sushi bar",
           "activityPattern": [
-            20026,
-            3,
-            6
+            2026,
+            5,
+            16
           ],
-          "activities": 20035
+          "activities": 2047
         }
       ]
     }

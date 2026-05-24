@@ -2,8 +2,8 @@
   "meta": {
     "key": "kofes1030",
     "courseTitle": "Spanish → Korean",
-    "scrapedAt": "2026-05-17T04:26:58.887Z",
-    "sourceHash": "sha256:7dd6c97c6093787e",
+    "scrapedAt": "2026-05-24T04:30:22.498Z",
+    "sourceHash": "sha256:ef9c184881f6d1a6",
     "fromLang": "Spanish",
     "toLang": "Korean",
     "fromCode": "es",
@@ -17,7 +17,7 @@
   },
   "totals": {
     "sections": 8,
-    "activities": 107617,
+    "activities": 107619,
     "units": 1030
   },
   "sections": [
@@ -7300,10 +7300,10 @@
           "title": "Salud: Describe tus síntomas",
           "activityPattern": [
             2026,
-            3,
+            5,
             23
           ],
-          "activities": 2052
+          "activities": 2054
         }
       ]
     }

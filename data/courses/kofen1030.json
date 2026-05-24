@@ -2,8 +2,8 @@
   "meta": {
     "key": "kofen1030",
     "courseTitle": "English → Korean",
-    "scrapedAt": "2026-05-17T04:26:58.887Z",
-    "sourceHash": "sha256:730b46918ae788ca",
+    "scrapedAt": "2026-05-24T04:30:22.498Z",
+    "sourceHash": "sha256:befdc8170f2b7e14",
     "fromLang": "English",
     "toLang": "Korean",
     "fromCode": "en",
@@ -17,7 +17,7 @@
   },
   "totals": {
     "sections": 8,
-    "activities": 107613,
+    "activities": 107618,
     "units": 1030
   },
   "sections": [
@@ -7300,10 +7300,10 @@
           "title": "Equality: Respect others’ choices",
           "activityPattern": [
             2026,
-            3,
-            19
+            5,
+            22
           ],
-          "activities": 2048
+          "activities": 2053
         }
       ]
     }

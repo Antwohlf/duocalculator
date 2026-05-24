@@ -2,8 +2,8 @@
   "meta": {
     "key": "jafit1030",
     "courseTitle": "Italian → Japanese",
-    "scrapedAt": "2026-05-17T04:26:58.887Z",
-    "sourceHash": "sha256:d6fd4e85cd167ea9",
+    "scrapedAt": "2026-05-24T04:30:22.498Z",
+    "sourceHash": "sha256:44a321685bd2ad57",
     "fromLang": "Italian",
     "toLang": "Japanese",
     "fromCode": "it",
@@ -17,7 +17,7 @@
   },
   "totals": {
     "sections": 8,
-    "activities": 107666,
+    "activities": 107689,
     "units": 1029
   },
   "sections": [
@@ -7293,10 +7293,10 @@
           "title": "Sushi bar: Chiedi il conto al ristorante",
           "activityPattern": [
             2026,
-            4,
-            1
+            5,
+            23
           ],
-          "activities": 2031
+          "activities": 2054
         }
       ]
     }

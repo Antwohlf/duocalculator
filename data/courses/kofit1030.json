@@ -2,8 +2,8 @@
   "meta": {
     "key": "kofit1030",
     "courseTitle": "Italian → Korean",
-    "scrapedAt": "2026-05-17T04:26:58.887Z",
-    "sourceHash": "sha256:8bb907bc64e2c177",
+    "scrapedAt": "2026-05-24T04:30:22.498Z",
+    "sourceHash": "sha256:c4f4c75d32d71858",
     "fromLang": "Italian",
     "toLang": "Korean",
     "fromCode": "it",
@@ -17,7 +17,7 @@
   },
   "totals": {
     "sections": 8,
-    "activities": 107596,
+    "activities": 107619,
     "units": 1030
   },
   "sections": [
@@ -7300,10 +7300,10 @@
           "title": "Rispetto: Rispetta le scelte degli altri",
           "activityPattern": [
             2026,
-            4,
-            1
+            5,
+            23
           ],
-          "activities": 2031
+          "activities": 2054
         }
       ]
     }

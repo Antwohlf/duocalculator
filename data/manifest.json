@@ -1,15 +1,15 @@
 {
   "version": "1.0.0",
   "schemaVersion": "1.0.0",
-  "scrapedAt": "2026-05-17T04:26:58.887Z",
-  "scrapedAtUnix": 1778992018,
-  "lastSuccessfulScrape": "2026-05-17T04:26:58.887Z",
-  "lastAttemptedScrape": "2026-05-17T04:26:58.887Z",
-  "scrapeDurationMs": 108156,
+  "scrapedAt": "2026-05-24T04:30:22.498Z",
+  "scrapedAtUnix": 1779597022,
+  "lastSuccessfulScrape": "2026-05-24T04:30:22.498Z",
+  "lastAttemptedScrape": "2026-05-24T04:30:22.498Z",
+  "scrapeDurationMs": 108105,
   "courseCount": 305,
   "detailCount": 215,
   "failedCourses": [],
-  "checksum": "sha256:5ef0e7605c6fd566",
+  "checksum": "sha256:cf821d9d853aaf4f",
   "source": "https://duolingodata.com/",
-  "nextUpdate": "2026-05-24T03:00:00.000Z"
+  "nextUpdate": "2026-05-31T03:00:00.000Z"
 }

@@ -2,8 +2,8 @@
   "meta": {
     "key": "itfes1030",
     "courseTitle": "Spanish → Italian",
-    "scrapedAt": "2026-05-17T04:26:58.887Z",
-    "sourceHash": "sha256:dc52c2562f521ce0",
+    "scrapedAt": "2026-05-24T04:30:22.498Z",
+    "sourceHash": "sha256:3416b2474ce50896",
     "fromLang": "Spanish",
     "toLang": "Italian",
     "fromCode": "es",
@@ -17,7 +17,7 @@
   },
   "totals": {
     "sections": 8,
-    "activities": 107614,
+    "activities": 107617,
     "units": 1030
   },
   "sections": [
@@ -7300,10 +7300,10 @@
           "title": "Paisaje: Cuenta qué animales viste",
           "activityPattern": [
             2026,
-            3,
-            20
+            5,
+            21
           ],
-          "activities": 2049
+          "activities": 2052
         }
       ]
     }

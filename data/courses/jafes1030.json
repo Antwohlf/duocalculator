@@ -2,8 +2,8 @@
   "meta": {
     "key": "jafes1030",
     "courseTitle": "Spanish → Japanese",
-    "scrapedAt": "2026-05-17T04:26:58.887Z",
-    "sourceHash": "sha256:d74f1dae612e5498",
+    "scrapedAt": "2026-05-24T04:30:22.498Z",
+    "sourceHash": "sha256:6cf2b1545c161ca2",
     "fromLang": "Spanish",
     "toLang": "Japanese",
     "fromCode": "es",
@@ -17,7 +17,7 @@
   },
   "totals": {
     "sections": 8,
-    "activities": 107714,
+    "activities": 107717,
     "units": 1030
   },
   "sections": [
@@ -7300,10 +7300,10 @@
           "title": "Restaurantes: Pide la cuenta",
           "activityPattern": [
             2026,
-            3,
-            20
+            5,
+            21
           ],
-          "activities": 2049
+          "activities": 2052
         }
       ]
     }

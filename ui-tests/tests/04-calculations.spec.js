@@ -2,6 +2,12 @@ const { test, expect } = require('@playwright/test');
 const { readBaseUrl } = require('../test-utils/server');
 const { writeFailureArtifacts } = require('../test-utils/artifacts');
 
+function parseDisplayedNumber(text) {
+  const normalized = String(text || '').replace(/,/g, '');
+  const match = normalized.match(/[\d.]+/);
+  return match ? parseFloat(match[0]) : NaN;
+}
+
 test.describe('Calculation Results', () => {
   test.beforeEach(async ({ page }, testInfo) => {
     const consoleLines = [];
@@ -212,8 +218,8 @@ test.describe('Calculation Results', () => {
     expect(newMinutes).not.toBe(initialMinutes);
 
     // Extract numeric values to verify increase
-    const initialNum = parseFloat(initialMinutes.match(/[\d.]+/)[0]);
-    const newNum = parseFloat(newMinutes.match(/[\d.]+/)[0]);
+    const initialNum = parseDisplayedNumber(initialMinutes);
+    const newNum = parseDisplayedNumber(newMinutes);
     expect(newNum).toBeGreaterThan(initialNum);
   });
 

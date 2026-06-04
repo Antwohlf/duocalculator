@@ -8,7 +8,8 @@ import fetch from 'node-fetch';
 const USER_AGENT =
   process.env.USER_AGENT || 'duocalculator-scraper/1.0 (+https://github.com/duocalculator)';
 
-const DEFAULT_TIMEOUT_MS = 30000;
+const DEFAULT_TIMEOUT_MS = 45000;
+const DEFAULT_MAX_RETRIES = 5;
 
 function parseRetryAfterMs(retryAfter) {
   if (!retryAfter || typeof retryAfter !== 'string') return null;
@@ -37,7 +38,7 @@ function parseRetryAfterMs(retryAfter) {
  * @param {number} retries - Number of retry attempts
  * @returns {Promise<string>} - Response text
  */
-export async function fetchWithRetry(url, options = {}, retries = 3) {
+export async function fetchWithRetry(url, options = {}, retries = DEFAULT_MAX_RETRIES) {
   const headers = {
     'User-Agent': USER_AGENT,
     Accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
@@ -91,9 +92,12 @@ export async function fetchWithRetry(url, options = {}, retries = 3) {
         throw new Error(`Failed to fetch ${url} after ${retries} attempts: ${message}`);
       }
 
-      // Exponential backoff: 2s, 4s, 8s... capped at 10s
-      const delay = Math.min(1000 * Math.pow(2, attempt), 10000);
-      console.log(`   ⚠️  Retry ${attempt}/${retries} for ${url} (waiting ${delay}ms)`);
+      // Exponential backoff: 2s, 4s, 8s... capped at 20s.
+      // Timeouts against duolingodata.com on GitHub Actions appear intermittent,
+      // so we bias toward patience rather than failing the whole weekly scrape.
+      const delay = Math.min(1000 * Math.pow(2, attempt), 20000);
+      const reason = error?.name === 'AbortError' ? 'timeout' : error?.message || 'unknown error';
+      console.log(`   ⚠️  Retry ${attempt}/${retries} for ${url} after ${reason} (waiting ${delay}ms)`);
       await sleep(delay);
     } finally {
       clearTimeout(timer);

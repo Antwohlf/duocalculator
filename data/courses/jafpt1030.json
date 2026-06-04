@@ -2,8 +2,8 @@
   "meta": {
     "key": "jafpt1030",
     "courseTitle": "Portuguese → Japanese",
-    "scrapedAt": "2026-05-24T04:30:22.498Z",
-    "sourceHash": "sha256:eb6be2e8116c86a0",
+    "scrapedAt": "2026-06-04T18:19:46.476Z",
+    "sourceHash": "sha256:7afe236f9e61ac78",
     "fromLang": "Portuguese",
     "toLang": "Japanese",
     "fromCode": "pt",
@@ -17,7 +17,7 @@
   },
   "totals": {
     "sections": 8,
-    "activities": 107714,
+    "activities": 107722,
     "units": 1030
   },
   "sections": [
@@ -7300,10 +7300,10 @@
           "title": "Lanchonete: Pedir a conta",
           "activityPattern": [
             2026,
-            4,
-            19
+            5,
+            26
           ],
-          "activities": 2049
+          "activities": 2057
         }
       ]
     }

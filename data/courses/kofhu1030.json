@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "key": "kofhu1030",
+    "courseTitle": "Hungarian → Korean",
+    "scrapedAt": "2026-06-04T18:19:46.476Z",
+    "sourceHash": "sha256:b7abbc82a52244ac",
+    "fromLang": "Hungarian",
+    "toLang": "Korean",
+    "fromCode": "hu",
+    "toCode": "ko",
+    "level": null,
+    "levelShort": null,
+    "detailHref": "https://duolingodata.com/dat/kofhu1030.html",
+    "detailHrefHash": "sha256:7d61607b0ee1bdf9",
+    "scrapeWarnings": [
+      "No sections parsed, using meta.unitsCount",
+      "No activities parsed, using meta.lessonsCount"
+    ],
+    "schemaVersion": "1.0.0"
+  },
+  "totals": {
+    "sections": 0,
+    "activities": 8226,
+    "units": 1030
+  },
+  "sections": []
+}

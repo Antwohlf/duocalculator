@@ -2,8 +2,8 @@
   "meta": {
     "key": "kofuk1030",
     "courseTitle": "Ukrainian → Korean",
-    "scrapedAt": "2026-05-24T04:30:22.498Z",
-    "sourceHash": "sha256:73d451275949a676",
+    "scrapedAt": "2026-06-04T18:19:46.476Z",
+    "sourceHash": "sha256:dfbc0de8e5cef392",
     "fromLang": "Ukrainian",
     "toLang": "Korean",
     "fromCode": "uk",
@@ -17,7 +17,7 @@
   },
   "totals": {
     "sections": 8,
-    "activities": 107604,
+    "activities": 107621,
     "units": 1030
   },
   "sections": [
@@ -7300,10 +7300,10 @@
           "title": "Різноманіття: Будь співчутливим",
           "activityPattern": [
             2026,
-            4,
-            9
+            5,
+            25
           ],
-          "activities": 2039
+          "activities": 2056
         }
       ]
     }

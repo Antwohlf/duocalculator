@@ -2,8 +2,8 @@
   "meta": {
     "key": "esfth991",
     "courseTitle": "Thai → Spanish",
-    "scrapedAt": "2026-05-24T04:30:22.498Z",
-    "sourceHash": "sha256:8d416b091b8240d5",
+    "scrapedAt": "2026-06-04T18:19:46.476Z",
+    "sourceHash": "sha256:4037385dea9d884d",
     "fromLang": "Thai",
     "toLang": "Spanish",
     "fromCode": "th",
@@ -17,7 +17,7 @@
   },
   "totals": {
     "sections": 8,
-    "activities": 100044,
+    "activities": 100052,
     "units": 991
   },
   "sections": [
@@ -7026,11 +7026,11 @@
           "unitIndex": 8,
           "title": "การเรียน: แบ่งปันวิธีเรียนรู้ของคุณ",
           "activityPattern": [
-            2025,
-            12,
-            11
+            2026,
+            5,
+            25
           ],
-          "activities": 2048
+          "activities": 2056
         }
       ]
     }

@@ -2,8 +2,8 @@
   "meta": {
     "key": "kofru1030",
     "courseTitle": "Russian → Korean",
-    "scrapedAt": "2026-05-24T04:30:22.498Z",
-    "sourceHash": "sha256:ed48682ae394bd2f",
+    "scrapedAt": "2026-06-04T18:19:46.476Z",
+    "sourceHash": "sha256:e98fbbd7a896f36e",
     "fromLang": "Russian",
     "toLang": "Korean",
     "fromCode": "ru",
@@ -17,7 +17,7 @@
   },
   "totals": {
     "sections": 8,
-    "activities": 107606,
+    "activities": 107621,
     "units": 1030
   },
   "sections": [
@@ -7300,10 +7300,10 @@
           "title": "Уважение: Сохраняй личные границы",
           "activityPattern": [
             2026,
-            4,
-            11
+            5,
+            25
           ],
-          "activities": 2041
+          "activities": 2056
         }
       ]
     }

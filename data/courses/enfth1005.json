@@ -2,8 +2,8 @@
   "meta": {
     "key": "enfth1005",
     "courseTitle": "Thai → English",
-    "scrapedAt": "2026-05-24T04:30:22.498Z",
-    "sourceHash": "sha256:18bbbe1a3ba92554",
+    "scrapedAt": "2026-06-04T18:19:46.476Z",
+    "sourceHash": "sha256:09f8f6e9e21a0826",
     "fromLang": "Thai",
     "toLang": "English",
     "fromCode": "th",
@@ -17,7 +17,7 @@
   },
   "totals": {
     "sections": 8,
-    "activities": 103828,
+    "activities": 103821,
     "units": 1006
   },
   "sections": [
@@ -7131,11 +7131,11 @@
           "unitIndex": 8,
           "title": "Graduation: Share your hopes for the future",
           "activityPattern": [
-            2025,
-            12,
-            5
+            2026,
+            6,
+            3
           ],
-          "activities": 2042
+          "activities": 2035
         }
       ]
     }

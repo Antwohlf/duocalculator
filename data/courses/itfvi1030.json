@@ -2,8 +2,8 @@
   "meta": {
     "key": "itfvi1030",
     "courseTitle": "Vietnamese → Italian",
-    "scrapedAt": "2026-05-24T04:30:22.498Z",
-    "sourceHash": "sha256:014c3a17a8cd79e1",
+    "scrapedAt": "2026-06-04T18:19:46.476Z",
+    "sourceHash": "sha256:e73542f49e499071",
     "fromLang": "Vietnamese",
     "toLang": "Italian",
     "fromCode": "vi",
@@ -17,7 +17,7 @@
   },
   "totals": {
     "sections": 8,
-    "activities": 107602,
+    "activities": 107621,
     "units": 1030
   },
   "sections": [
@@ -7300,10 +7300,10 @@
           "title": "Cảnh vật: Đặt câu hỏi về cảnh vật",
           "activityPattern": [
             2026,
-            4,
-            7
+            5,
+            25
           ],
-          "activities": 2037
+          "activities": 2056
         }
       ]
     }

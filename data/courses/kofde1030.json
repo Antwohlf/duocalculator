@@ -2,8 +2,8 @@
   "meta": {
     "key": "kofde1030",
     "courseTitle": "German → Korean",
-    "scrapedAt": "2026-05-24T04:30:22.498Z",
-    "sourceHash": "sha256:04da289738ac9648",
+    "scrapedAt": "2026-06-04T18:19:46.476Z",
+    "sourceHash": "sha256:e03826e8a46476f0",
     "fromLang": "German",
     "toLang": "Korean",
     "fromCode": "de",
@@ -17,7 +17,7 @@
   },
   "totals": {
     "sections": 8,
-    "activities": 107597,
+    "activities": 107619,
     "units": 1030
   },
   "sections": [
@@ -7300,10 +7300,10 @@
           "title": "Respekt: Achte auf persönliche Grenzen",
           "activityPattern": [
             2026,
-            4,
-            2
+            5,
+            23
           ],
-          "activities": 2032
+          "activities": 2054
         }
       ]
     }

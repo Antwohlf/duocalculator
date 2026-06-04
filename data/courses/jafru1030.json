@@ -2,8 +2,8 @@
   "meta": {
     "key": "jafru1030",
     "courseTitle": "Russian → Japanese",
-    "scrapedAt": "2026-05-24T04:30:22.498Z",
-    "sourceHash": "sha256:180f3a527142c094",
+    "scrapedAt": "2026-06-04T18:19:46.476Z",
+    "sourceHash": "sha256:d65b4bbea82196a5",
     "fromLang": "Russian",
     "toLang": "Japanese",
     "fromCode": "ru",
@@ -17,7 +17,7 @@
   },
   "totals": {
     "sections": 8,
-    "activities": 107706,
+    "activities": 107722,
     "units": 1030
   },
   "sections": [
@@ -7300,10 +7300,10 @@
           "title": "Кафе: Вырази мнение о еде",
           "activityPattern": [
             2026,
-            4,
-            11
+            5,
+            26
           ],
-          "activities": 2041
+          "activities": 2057
         }
       ]
     }

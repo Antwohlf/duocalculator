@@ -2,8 +2,8 @@
   "meta": {
     "key": "zhfpt1030",
     "courseTitle": "Portuguese → Chinese",
-    "scrapedAt": "2026-05-24T04:30:22.498Z",
-    "sourceHash": "sha256:fa6db5b78605d4e5",
+    "scrapedAt": "2026-06-04T18:19:46.476Z",
+    "sourceHash": "sha256:4cf852bfd68651d9",
     "fromLang": "Portuguese",
     "toLang": "Chinese",
     "fromCode": "pt",
@@ -17,7 +17,7 @@
   },
   "totals": {
     "sections": 8,
-    "activities": 107639,
+    "activities": 107647,
     "units": 1030
   },
   "sections": [
@@ -7300,10 +7300,10 @@
           "title": "Natureza: Descreva fenômenos naturais",
           "activityPattern": [
             2026,
-            4,
-            19
+            5,
+            26
           ],
-          "activities": 2049
+          "activities": 2057
         }
       ]
     }

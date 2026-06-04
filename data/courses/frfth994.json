@@ -2,8 +2,8 @@
   "meta": {
     "key": "frfth994",
     "courseTitle": "Thai → French",
-    "scrapedAt": "2026-05-24T04:30:22.498Z",
-    "sourceHash": "sha256:487a36544b5282c3",
+    "scrapedAt": "2026-06-04T18:19:46.476Z",
+    "sourceHash": "sha256:45f5eefed146751f",
     "fromLang": "Thai",
     "toLang": "French",
     "fromCode": "th",
@@ -17,7 +17,7 @@
   },
   "totals": {
     "sections": 8,
-    "activities": 100915,
+    "activities": 100905,
     "units": 994
   },
   "sections": [
@@ -7047,11 +7047,11 @@
           "unitIndex": 8,
           "title": "ความสำเร็จ: วางแผนพัฒนาตัวเอง",
           "activityPattern": [
-            2025,
-            12,
-            8
+            2026,
+            6,
+            3
           ],
-          "activities": 2045
+          "activities": 2035
         }
       ]
     }

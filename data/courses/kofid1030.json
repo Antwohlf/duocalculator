@@ -2,8 +2,8 @@
   "meta": {
     "key": "kofid1030",
     "courseTitle": "Indonesian → Korean",
-    "scrapedAt": "2026-05-24T04:30:22.498Z",
-    "sourceHash": "sha256:edf2d99f3f6a4f6e",
+    "scrapedAt": "2026-06-04T18:19:46.476Z",
+    "sourceHash": "sha256:600d9d3cb0554416",
     "fromLang": "Indonesian",
     "toLang": "Korean",
     "fromCode": "id",
@@ -17,7 +17,7 @@
   },
   "totals": {
     "sections": 8,
-    "activities": 107611,
+    "activities": 107622,
     "units": 1030
   },
   "sections": [
@@ -7300,10 +7300,10 @@
           "title": "Hak pilih: Dukung pilihan setiap orang",
           "activityPattern": [
             2026,
-            4,
-            16
+            5,
+            26
           ],
-          "activities": 2046
+          "activities": 2057
         }
       ]
     }

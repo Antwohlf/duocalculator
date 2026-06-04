@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "key": "itfhu1030",
+    "courseTitle": "Hungarian → Italian",
+    "scrapedAt": "2026-06-04T18:19:46.476Z",
+    "sourceHash": "sha256:4dbb9ca06e1149d9",
+    "fromLang": "Hungarian",
+    "toLang": "Italian",
+    "fromCode": "hu",
+    "toCode": "it",
+    "level": null,
+    "levelShort": null,
+    "detailHref": "https://duolingodata.com/dat/itfhu1030.html",
+    "detailHrefHash": "sha256:693327e5e7376b04",
+    "scrapeWarnings": [
+      "No sections parsed, using meta.unitsCount",
+      "No activities parsed, using meta.lessonsCount"
+    ],
+    "schemaVersion": "1.0.0"
+  },
+  "totals": {
+    "sections": 0,
+    "activities": 8380,
+    "units": 1030
+  },
+  "sections": []
+}

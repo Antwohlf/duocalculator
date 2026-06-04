@@ -2,8 +2,8 @@
   "meta": {
     "key": "enfro1005",
     "courseTitle": "Romanian → English",
-    "scrapedAt": "2026-05-24T04:30:22.498Z",
-    "sourceHash": "sha256:5af3301715866d42",
+    "scrapedAt": "2026-06-04T18:19:46.476Z",
+    "sourceHash": "sha256:5d01e9197ee6ac10",
     "fromLang": "Romanian",
     "toLang": "English",
     "fromCode": "ro",
@@ -17,7 +17,7 @@
   },
   "totals": {
     "sections": 8,
-    "activities": 103850,
+    "activities": 103821,
     "units": 1006
   },
   "sections": [
@@ -7131,11 +7131,11 @@
           "unitIndex": 8,
           "title": "Graduation: Share your hopes for the future",
           "activityPattern": [
-            2025,
-            11,
-            28
+            2026,
+            6,
+            3
           ],
-          "activities": 2064
+          "activities": 2035
         }
       ]
     }

@@ -2,8 +2,8 @@
   "meta": {
     "key": "itfuk1030",
     "courseTitle": "Ukrainian → Italian",
-    "scrapedAt": "2026-05-24T04:30:22.498Z",
-    "sourceHash": "sha256:aeda3bdf0e0c478c",
+    "scrapedAt": "2026-06-04T18:19:46.476Z",
+    "sourceHash": "sha256:a216b5c44f9b7a8a",
     "fromLang": "Ukrainian",
     "toLang": "Italian",
     "fromCode": "uk",
@@ -17,7 +17,7 @@
   },
   "totals": {
     "sections": 8,
-    "activities": 107604,
+    "activities": 107623,
     "units": 1030
   },
   "sections": [
@@ -7300,10 +7300,10 @@
           "title": "Тварини: Постав питання про тварин",
           "activityPattern": [
             2026,
-            4,
-            9
+            5,
+            27
           ],
-          "activities": 2039
+          "activities": 2058
         }
       ]
     }

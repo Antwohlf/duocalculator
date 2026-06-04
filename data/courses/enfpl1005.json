@@ -2,8 +2,8 @@
   "meta": {
     "key": "enfpl1005",
     "courseTitle": "Polish → English",
-    "scrapedAt": "2026-05-24T04:30:22.498Z",
-    "sourceHash": "sha256:c188bd359d802cf5",
+    "scrapedAt": "2026-06-04T18:19:46.476Z",
+    "sourceHash": "sha256:c2335d78cef4d6f2",
     "fromLang": "Polish",
     "toLang": "English",
     "fromCode": "pl",
@@ -17,7 +17,7 @@
   },
   "totals": {
     "sections": 8,
-    "activities": 103850,
+    "activities": 103847,
     "units": 1006
   },
   "sections": [
@@ -7131,11 +7131,11 @@
           "unitIndex": 8,
           "title": "Graduation: Share your hopes for the future",
           "activityPattern": [
-            2025,
-            11,
-            28
+            2026,
+            5,
+            30
           ],
-          "activities": 2064
+          "activities": 2061
         }
       ]
     }

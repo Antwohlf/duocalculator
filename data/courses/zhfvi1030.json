@@ -2,8 +2,8 @@
   "meta": {
     "key": "zhfvi1030",
     "courseTitle": "Vietnamese → Chinese",
-    "scrapedAt": "2026-05-24T04:30:22.498Z",
-    "sourceHash": "sha256:945f3d7b71b8da81",
+    "scrapedAt": "2026-06-04T18:19:46.476Z",
+    "sourceHash": "sha256:63c02434f86c3bac",
     "fromLang": "Vietnamese",
     "toLang": "Chinese",
     "fromCode": "vi",
@@ -17,7 +17,7 @@
   },
   "totals": {
     "sections": 8,
-    "activities": 107631,
+    "activities": 107645,
     "units": 1030
   },
   "sections": [
@@ -7300,10 +7300,10 @@
           "title": "Thiên nhiên: Miêu tả hiện tượng tự nhiên",
           "activityPattern": [
             2026,
-            4,
-            11
+            5,
+            24
           ],
-          "activities": 2041
+          "activities": 2055
         }
       ]
     }

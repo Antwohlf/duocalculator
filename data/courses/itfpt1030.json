@@ -2,8 +2,8 @@
   "meta": {
     "key": "itfpt1030",
     "courseTitle": "Portuguese → Italian",
-    "scrapedAt": "2026-05-24T04:30:22.498Z",
-    "sourceHash": "sha256:efc3626ac65badbb",
+    "scrapedAt": "2026-06-04T18:19:46.476Z",
+    "sourceHash": "sha256:cf99027d7b91c81a",
     "fromLang": "Portuguese",
     "toLang": "Italian",
     "fromCode": "pt",
@@ -17,7 +17,7 @@
   },
   "totals": {
     "sections": 8,
-    "activities": 107614,
+    "activities": 107622,
     "units": 1030
   },
   "sections": [
@@ -7300,10 +7300,10 @@
           "title": "Animais: Pergunte sobre anfíbios",
           "activityPattern": [
             2026,
-            4,
-            19
+            5,
+            26
           ],
-          "activities": 2049
+          "activities": 2057
         }
       ]
     }

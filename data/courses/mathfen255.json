@@ -1,0 +1,2939 @@
+{
+  "meta": {
+    "key": "mathfen255",
+    "courseTitle": "English → Math",
+    "scrapedAt": "2026-06-04T18:19:46.476Z",
+    "sourceHash": "sha256:8a1e57ee4362a820",
+    "fromLang": "English",
+    "toLang": "Math",
+    "fromCode": "en",
+    "toCode": "math",
+    "level": "CEFR GRADE",
+    "levelShort": "GRADE",
+    "detailHref": "https://duolingodata.com/dat/mathfen255.html",
+    "detailHrefHash": "sha256:40031bb83a7d96a8",
+    "scrapeWarnings": [],
+    "schemaVersion": "1.0.0"
+  },
+  "totals": {
+    "sections": 13,
+    "activities": 7787,
+    "units": 399
+  },
+  "sections": [
+    {
+      "sectionIndex": 2,
+      "unitCount": 5,
+      "title": "Grade",
+      "rawTitle": "Grade",
+      "cefr": "GRADE",
+      "units": [
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Number patterns",
+          "activityPattern": [],
+          "activities": 1
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Intro to addition and subtraction",
+          "activityPattern": [],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Add and subtract multiple numbers",
+          "activityPattern": [],
+          "activities": 3
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Add and subtract up to 500",
+          "activityPattern": [],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Shapes",
+          "activityPattern": [],
+          "activities": 5
+        }
+      ]
+    },
+    {
+      "sectionIndex": 3,
+      "unitCount": 13,
+      "title": "Grade",
+      "rawTitle": "Grade",
+      "cefr": "GRADE",
+      "units": [
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Number sense and fractions",
+          "activityPattern": [],
+          "activities": 1
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Intro to multiplication",
+          "activityPattern": [],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Intro to division",
+          "activityPattern": [],
+          "activities": 3
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Arithmetic patterns",
+          "activityPattern": [],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Multiply 1-digit numbers",
+          "activityPattern": [],
+          "activities": 5
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Multiply large numbers",
+          "activityPattern": [],
+          "activities": 6
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Multiply and divide",
+          "activityPattern": [],
+          "activities": 7
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Intro to fractions",
+          "activityPattern": [],
+          "activities": 8
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Equivalent fractions",
+          "activityPattern": [],
+          "activities": 9
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Compare fractions",
+          "activityPattern": [],
+          "activities": 10
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Partition shapes",
+          "activityPattern": [],
+          "activities": 11
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Rounding and magnitude",
+          "activityPattern": [],
+          "activities": 12
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Rounding with operations",
+          "activityPattern": [],
+          "activities": 13
+        }
+      ]
+    },
+    {
+      "sectionIndex": 4,
+      "unitCount": 14,
+      "title": "Grade",
+      "rawTitle": "Grade",
+      "cefr": "GRADE",
+      "units": [
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Operational thinking",
+          "activityPattern": [],
+          "activities": 1
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Intro to factors",
+          "activityPattern": [],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Multiply and divide whole numbers",
+          "activityPattern": [],
+          "activities": 3
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Number patterns",
+          "activityPattern": [],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Intro to least common multiple",
+          "activityPattern": [],
+          "activities": 5
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Order of operations",
+          "activityPattern": [],
+          "activities": 6
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Rounding",
+          "activityPattern": [],
+          "activities": 7
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Angle measures",
+          "activityPattern": [],
+          "activities": 8
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Multiply and divide large numbers",
+          "activityPattern": [],
+          "activities": 9
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Compare equivalent fractions",
+          "activityPattern": [],
+          "activities": 10
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Simplify fractions",
+          "activityPattern": [],
+          "activities": 11
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Intro to fraction operations",
+          "activityPattern": [],
+          "activities": 12
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Intro to decimals",
+          "activityPattern": [],
+          "activities": 13
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Fractions and decimals",
+          "activityPattern": [],
+          "activities": 14
+        }
+      ]
+    },
+    {
+      "sectionIndex": 5,
+      "unitCount": 20,
+      "title": "Grade",
+      "rawTitle": "Grade",
+      "cefr": "GRADE",
+      "units": [
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Operations and decimals",
+          "activityPattern": [],
+          "activities": 1
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Intro to exponents",
+          "activityPattern": [],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Numerical expressions",
+          "activityPattern": [],
+          "activities": 3
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Distributive property",
+          "activityPattern": [],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Place value system",
+          "activityPattern": [],
+          "activities": 5
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Place value",
+          "activityPattern": [],
+          "activities": 6
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Compare decimals",
+          "activityPattern": [],
+          "activities": 7
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Multiply and divide numbers",
+          "activityPattern": [],
+          "activities": 8
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Add and subtract decimals",
+          "activityPattern": [],
+          "activities": 9
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Multiply and divide decimals",
+          "activityPattern": [],
+          "activities": 10
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Round with decimals",
+          "activityPattern": [],
+          "activities": 11
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Fraction operations",
+          "activityPattern": [],
+          "activities": 12
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Compare and operate on fractions",
+          "activityPattern": [],
+          "activities": 13
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Fraction division",
+          "activityPattern": [],
+          "activities": 14
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Plot points",
+          "activityPattern": [],
+          "activities": 15
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Numerical rules",
+          "activityPattern": [],
+          "activities": 16
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Hierarchy of shapes",
+          "activityPattern": [],
+          "activities": 17
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Volume of cubes",
+          "activityPattern": [],
+          "activities": 18
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Volume of rectangular prisms",
+          "activityPattern": [],
+          "activities": 19
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Unit conversions",
+          "activityPattern": [],
+          "activities": 20
+        }
+      ]
+    },
+    {
+      "sectionIndex": 6,
+      "unitCount": 27,
+      "title": "Grade",
+      "rawTitle": "Grade",
+      "cefr": "GRADE",
+      "units": [
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Multiplication patterns",
+          "activityPattern": [],
+          "activities": 1
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Intro to ratios",
+          "activityPattern": [],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Equivalent ratios",
+          "activityPattern": [],
+          "activities": 3
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Percents",
+          "activityPattern": [],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Parts of wholes",
+          "activityPattern": [],
+          "activities": 5
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Rates and equivalent rates",
+          "activityPattern": [],
+          "activities": 6
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Unit rates",
+          "activityPattern": [],
+          "activities": 7
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Negative numbers",
+          "activityPattern": [],
+          "activities": 8
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Absolute value",
+          "activityPattern": [],
+          "activities": 9
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Coordinate plane",
+          "activityPattern": [],
+          "activities": 10
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Find distance",
+          "activityPattern": [],
+          "activities": 11
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Find side lengths",
+          "activityPattern": [],
+          "activities": 12
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Fraction division",
+          "activityPattern": [],
+          "activities": 13
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Greatest common factor",
+          "activityPattern": [],
+          "activities": 14
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Least common multiple",
+          "activityPattern": [],
+          "activities": 15
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Algebraic expressions",
+          "activityPattern": [],
+          "activities": 16
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Operations with decimals",
+          "activityPattern": [],
+          "activities": 17
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Exponents",
+          "activityPattern": [],
+          "activities": 18
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Exponent operations",
+          "activityPattern": [],
+          "activities": 19
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Distributive property and equivalency",
+          "activityPattern": [],
+          "activities": 20
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "One-variable equations",
+          "activityPattern": [],
+          "activities": 21
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Inequalities",
+          "activityPattern": [],
+          "activities": 22
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Polygon area",
+          "activityPattern": [],
+          "activities": 23
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Rectangular surface area",
+          "activityPattern": [],
+          "activities": 24
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Triangular surface area",
+          "activityPattern": [],
+          "activities": 25
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Volume",
+          "activityPattern": [],
+          "activities": 26
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Translations",
+          "activityPattern": [],
+          "activities": 27
+        }
+      ]
+    },
+    {
+      "sectionIndex": 7,
+      "unitCount": 21,
+      "title": "Grade",
+      "rawTitle": "Grade",
+      "cefr": "GRADE",
+      "units": [
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Ratios and algebra",
+          "activityPattern": [],
+          "activities": 1
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Equivalent ratios",
+          "activityPattern": [],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Rates and unit rates",
+          "activityPattern": [],
+          "activities": 3
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Proportions applications",
+          "activityPattern": [],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Represent rational numbers",
+          "activityPattern": [],
+          "activities": 5
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Area",
+          "activityPattern": [],
+          "activities": 6
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Surface area",
+          "activityPattern": [],
+          "activities": 7
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Volume",
+          "activityPattern": [],
+          "activities": 8
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Rewrite and evaluate expressions",
+          "activityPattern": [],
+          "activities": 9
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Two-step equations",
+          "activityPattern": [],
+          "activities": 10
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Two-step inequalities",
+          "activityPattern": [],
+          "activities": 11
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Add and subtract negatives",
+          "activityPattern": [],
+          "activities": 12
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Multiply and divide negatives",
+          "activityPattern": [],
+          "activities": 13
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Negative number operations",
+          "activityPattern": [],
+          "activities": 14
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Negative decimal operations",
+          "activityPattern": [],
+          "activities": 15
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Circles",
+          "activityPattern": [],
+          "activities": 16
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Angle relationships",
+          "activityPattern": [],
+          "activities": 17
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Adjacent and vertical angles",
+          "activityPattern": [],
+          "activities": 18
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Intro to probability",
+          "activityPattern": [],
+          "activities": 19
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Probability models",
+          "activityPattern": [],
+          "activities": 20
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Compound events",
+          "activityPattern": [],
+          "activities": 21
+        }
+      ]
+    },
+    {
+      "sectionIndex": 8,
+      "unitCount": 29,
+      "title": "Grade",
+      "rawTitle": "Grade",
+      "cefr": "GRADE",
+      "units": [
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Equations and graphing",
+          "activityPattern": [],
+          "activities": 1
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Graphs of proportional relationships",
+          "activityPattern": [],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Slope",
+          "activityPattern": [],
+          "activities": 3
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Graphs of proportional relationships",
+          "activityPattern": [],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Slope-intercept lines",
+          "activityPattern": [],
+          "activities": 5
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "One-variable linear equations",
+          "activityPattern": [],
+          "activities": 6
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Number of solutions",
+          "activityPattern": [],
+          "activities": 7
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Intro to functions",
+          "activityPattern": [],
+          "activities": 8
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Linear functions",
+          "activityPattern": [],
+          "activities": 9
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Product rule",
+          "activityPattern": [],
+          "activities": 10
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Quotient rule",
+          "activityPattern": [],
+          "activities": 11
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Negative exponents",
+          "activityPattern": [],
+          "activities": 12
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Zero exponent rule",
+          "activityPattern": [],
+          "activities": 13
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Roots",
+          "activityPattern": [],
+          "activities": 14
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Irrational Numbers",
+          "activityPattern": [],
+          "activities": 15
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Scientific notation",
+          "activityPattern": [],
+          "activities": 16
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Translations of the plane",
+          "activityPattern": [],
+          "activities": 17
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Reflect across axes",
+          "activityPattern": [],
+          "activities": 18
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Reflect across lines",
+          "activityPattern": [],
+          "activities": 19
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Rotations of the plane",
+          "activityPattern": [],
+          "activities": 20
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Congruence",
+          "activityPattern": [],
+          "activities": 21
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Dilations and similarity",
+          "activityPattern": [],
+          "activities": 22
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Angles with parallel lines",
+          "activityPattern": [],
+          "activities": 23
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Triangles",
+          "activityPattern": [],
+          "activities": 24
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "The Pythagorean theorem",
+          "activityPattern": [],
+          "activities": 25
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Volume",
+          "activityPattern": [],
+          "activities": 26
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Bivariate data",
+          "activityPattern": [],
+          "activities": 27
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Linear models",
+          "activityPattern": [],
+          "activities": 28
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "Bivariate categorical data",
+          "activityPattern": [],
+          "activities": 29
+        }
+      ]
+    },
+    {
+      "sectionIndex": 9,
+      "unitCount": 35,
+      "title": "Grade",
+      "rawTitle": "Grade",
+      "cefr": "GRADE",
+      "units": [
+        {
+          "sectionIndex": 9,
+          "unitIndex": 9,
+          "title": "Graphs and expressions",
+          "activityPattern": [],
+          "activities": 1
+        },
+        {
+          "sectionIndex": 9,
+          "unitIndex": 9,
+          "title": "Solve linear equations",
+          "activityPattern": [],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 9,
+          "unitIndex": 9,
+          "title": "One-variable linear inequalities",
+          "activityPattern": [],
+          "activities": 3
+        },
+        {
+          "sectionIndex": 9,
+          "unitIndex": 9,
+          "title": "Compound inequalities",
+          "activityPattern": [],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 9,
+          "unitIndex": 9,
+          "title": "Function notation",
+          "activityPattern": [],
+          "activities": 5
+        },
+        {
+          "sectionIndex": 9,
+          "unitIndex": 9,
+          "title": "Rate of change",
+          "activityPattern": [],
+          "activities": 6
+        },
+        {
+          "sectionIndex": 9,
+          "unitIndex": 9,
+          "title": "Linear functions",
+          "activityPattern": [],
+          "activities": 7
+        },
+        {
+          "sectionIndex": 9,
+          "unitIndex": 9,
+          "title": "Inverse linear functions",
+          "activityPattern": [],
+          "activities": 8
+        },
+        {
+          "sectionIndex": 9,
+          "unitIndex": 9,
+          "title": "Piecewise-defined functions",
+          "activityPattern": [],
+          "activities": 9
+        },
+        {
+          "sectionIndex": 9,
+          "unitIndex": 9,
+          "title": "Functions and sequences",
+          "activityPattern": [],
+          "activities": 10
+        },
+        {
+          "sectionIndex": 9,
+          "unitIndex": 9,
+          "title": "Two-variable linear equations",
+          "activityPattern": [],
+          "activities": 11
+        },
+        {
+          "sectionIndex": 9,
+          "unitIndex": 9,
+          "title": "Graph systems of linear equations",
+          "activityPattern": [],
+          "activities": 12
+        },
+        {
+          "sectionIndex": 9,
+          "unitIndex": 9,
+          "title": "Two-variable linear inequalities",
+          "activityPattern": [],
+          "activities": 13
+        },
+        {
+          "sectionIndex": 9,
+          "unitIndex": 9,
+          "title": "Exponent properties",
+          "activityPattern": [],
+          "activities": 14
+        },
+        {
+          "sectionIndex": 9,
+          "unitIndex": 9,
+          "title": "Radicals",
+          "activityPattern": [],
+          "activities": 15
+        },
+        {
+          "sectionIndex": 9,
+          "unitIndex": 9,
+          "title": "Add and subtract radicals",
+          "activityPattern": [],
+          "activities": 16
+        },
+        {
+          "sectionIndex": 9,
+          "unitIndex": 9,
+          "title": "Different radicands",
+          "activityPattern": [],
+          "activities": 17
+        },
+        {
+          "sectionIndex": 9,
+          "unitIndex": 9,
+          "title": "Radical properties",
+          "activityPattern": [],
+          "activities": 18
+        },
+        {
+          "sectionIndex": 9,
+          "unitIndex": 9,
+          "title": "Rewrite polynomial expressions",
+          "activityPattern": [],
+          "activities": 19
+        },
+        {
+          "sectionIndex": 9,
+          "unitIndex": 9,
+          "title": "Factor quadratic expressions",
+          "activityPattern": [],
+          "activities": 20
+        },
+        {
+          "sectionIndex": 9,
+          "unitIndex": 9,
+          "title": "Intro to quadratic functions",
+          "activityPattern": [],
+          "activities": 21
+        },
+        {
+          "sectionIndex": 9,
+          "unitIndex": 9,
+          "title": "Quadratic graphs and equations",
+          "activityPattern": [],
+          "activities": 22
+        },
+        {
+          "sectionIndex": 9,
+          "unitIndex": 9,
+          "title": "Factored form of quadratics",
+          "activityPattern": [],
+          "activities": 23
+        },
+        {
+          "sectionIndex": 9,
+          "unitIndex": 9,
+          "title": "Vertex form of quadratics",
+          "activityPattern": [],
+          "activities": 24
+        },
+        {
+          "sectionIndex": 9,
+          "unitIndex": 9,
+          "title": "Systems of equations with quadratics",
+          "activityPattern": [],
+          "activities": 25
+        },
+        {
+          "sectionIndex": 9,
+          "unitIndex": 9,
+          "title": "Geometric sequences",
+          "activityPattern": [],
+          "activities": 26
+        },
+        {
+          "sectionIndex": 9,
+          "unitIndex": 9,
+          "title": "Intro to exponential functions",
+          "activityPattern": [],
+          "activities": 27
+        },
+        {
+          "sectionIndex": 9,
+          "unitIndex": 9,
+          "title": "Exponential graphs and equations",
+          "activityPattern": [],
+          "activities": 28
+        },
+        {
+          "sectionIndex": 9,
+          "unitIndex": 9,
+          "title": "Exponential growth and decay",
+          "activityPattern": [],
+          "activities": 29
+        },
+        {
+          "sectionIndex": 9,
+          "unitIndex": 9,
+          "title": "Function translations",
+          "activityPattern": [],
+          "activities": 30
+        },
+        {
+          "sectionIndex": 9,
+          "unitIndex": 9,
+          "title": "Vertical function scaling",
+          "activityPattern": [],
+          "activities": 31
+        },
+        {
+          "sectionIndex": 9,
+          "unitIndex": 9,
+          "title": "Horizontal function scaling",
+          "activityPattern": [],
+          "activities": 32
+        },
+        {
+          "sectionIndex": 9,
+          "unitIndex": 9,
+          "title": "Bivariate data",
+          "activityPattern": [],
+          "activities": 33
+        },
+        {
+          "sectionIndex": 9,
+          "unitIndex": 9,
+          "title": "Linear model fitness",
+          "activityPattern": [],
+          "activities": 34
+        },
+        {
+          "sectionIndex": 9,
+          "unitIndex": 9,
+          "title": "Bivariate categorical data",
+          "activityPattern": [],
+          "activities": 35
+        }
+      ]
+    },
+    {
+      "sectionIndex": 10,
+      "unitCount": 27,
+      "title": "Grade",
+      "rawTitle": "Grade",
+      "cefr": "GRADE",
+      "units": [
+        {
+          "sectionIndex": 10,
+          "unitIndex": 10,
+          "title": "Geometric relationships",
+          "activityPattern": [],
+          "activities": 1
+        },
+        {
+          "sectionIndex": 10,
+          "unitIndex": 10,
+          "title": "Sine ratio",
+          "activityPattern": [],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 10,
+          "unitIndex": 10,
+          "title": "Cosine ratio",
+          "activityPattern": [],
+          "activities": 3
+        },
+        {
+          "sectionIndex": 10,
+          "unitIndex": 10,
+          "title": "Tangent ratio",
+          "activityPattern": [],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 10,
+          "unitIndex": 10,
+          "title": "Connect trigonometric ratios",
+          "activityPattern": [],
+          "activities": 5
+        },
+        {
+          "sectionIndex": 10,
+          "unitIndex": 10,
+          "title": "Apply trigonometric ratios",
+          "activityPattern": [],
+          "activities": 6
+        },
+        {
+          "sectionIndex": 10,
+          "unitIndex": 10,
+          "title": "Transformations as functions",
+          "activityPattern": [],
+          "activities": 7
+        },
+        {
+          "sectionIndex": 10,
+          "unitIndex": 10,
+          "title": "Pythagorean theorem",
+          "activityPattern": [],
+          "activities": 8
+        },
+        {
+          "sectionIndex": 10,
+          "unitIndex": 10,
+          "title": "Line segments",
+          "activityPattern": [],
+          "activities": 9
+        },
+        {
+          "sectionIndex": 10,
+          "unitIndex": 10,
+          "title": "Translations",
+          "activityPattern": [],
+          "activities": 10
+        },
+        {
+          "sectionIndex": 10,
+          "unitIndex": 10,
+          "title": "Reflections",
+          "activityPattern": [],
+          "activities": 11
+        },
+        {
+          "sectionIndex": 10,
+          "unitIndex": 10,
+          "title": "Rotations",
+          "activityPattern": [],
+          "activities": 12
+        },
+        {
+          "sectionIndex": 10,
+          "unitIndex": 10,
+          "title": "Symmetry",
+          "activityPattern": [],
+          "activities": 13
+        },
+        {
+          "sectionIndex": 10,
+          "unitIndex": 10,
+          "title": "Congruence",
+          "activityPattern": [],
+          "activities": 14
+        },
+        {
+          "sectionIndex": 10,
+          "unitIndex": 10,
+          "title": "Dilations",
+          "activityPattern": [],
+          "activities": 15
+        },
+        {
+          "sectionIndex": 10,
+          "unitIndex": 10,
+          "title": "Similarity",
+          "activityPattern": [],
+          "activities": 16
+        },
+        {
+          "sectionIndex": 10,
+          "unitIndex": 10,
+          "title": "Similar triangles and angles",
+          "activityPattern": [],
+          "activities": 17
+        },
+        {
+          "sectionIndex": 10,
+          "unitIndex": 10,
+          "title": "Probability events",
+          "activityPattern": [],
+          "activities": 18
+        },
+        {
+          "sectionIndex": 10,
+          "unitIndex": 10,
+          "title": "Independent events",
+          "activityPattern": [],
+          "activities": 19
+        },
+        {
+          "sectionIndex": 10,
+          "unitIndex": 10,
+          "title": "Dependent events",
+          "activityPattern": [],
+          "activities": 20
+        },
+        {
+          "sectionIndex": 10,
+          "unitIndex": 10,
+          "title": "Permutations and combinations",
+          "activityPattern": [],
+          "activities": 21
+        },
+        {
+          "sectionIndex": 10,
+          "unitIndex": 10,
+          "title": "Equations of lines",
+          "activityPattern": [],
+          "activities": 22
+        },
+        {
+          "sectionIndex": 10,
+          "unitIndex": 10,
+          "title": "Equations of circles and parabolas",
+          "activityPattern": [],
+          "activities": 23
+        },
+        {
+          "sectionIndex": 10,
+          "unitIndex": 10,
+          "title": "Distance and segments",
+          "activityPattern": [],
+          "activities": 24
+        },
+        {
+          "sectionIndex": 10,
+          "unitIndex": 10,
+          "title": "Prisms and pyramids",
+          "activityPattern": [],
+          "activities": 25
+        },
+        {
+          "sectionIndex": 10,
+          "unitIndex": 10,
+          "title": "Cylinders",
+          "activityPattern": [],
+          "activities": 26
+        },
+        {
+          "sectionIndex": 10,
+          "unitIndex": 10,
+          "title": "Cones and spheres",
+          "activityPattern": [],
+          "activities": 27
+        }
+      ]
+    },
+    {
+      "sectionIndex": 11,
+      "unitCount": 37,
+      "title": "Grade",
+      "rawTitle": "Grade",
+      "cefr": "GRADE",
+      "units": [
+        {
+          "sectionIndex": 11,
+          "unitIndex": 11,
+          "title": "Algebra and graphs",
+          "activityPattern": [],
+          "activities": 1
+        },
+        {
+          "sectionIndex": 11,
+          "unitIndex": 11,
+          "title": "Function models",
+          "activityPattern": [],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 11,
+          "unitIndex": 11,
+          "title": "Piecewise Functions",
+          "activityPattern": [],
+          "activities": 3
+        },
+        {
+          "sectionIndex": 11,
+          "unitIndex": 11,
+          "title": "Step and absolute value functions",
+          "activityPattern": [],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 11,
+          "unitIndex": 11,
+          "title": "Polynomial arithmetic",
+          "activityPattern": [],
+          "activities": 5
+        },
+        {
+          "sectionIndex": 11,
+          "unitIndex": 11,
+          "title": "Polynomial function equations",
+          "activityPattern": [],
+          "activities": 6
+        },
+        {
+          "sectionIndex": 11,
+          "unitIndex": 11,
+          "title": "Polynomial function graphs",
+          "activityPattern": [],
+          "activities": 7
+        },
+        {
+          "sectionIndex": 11,
+          "unitIndex": 11,
+          "title": "Intro to imaginary numbers",
+          "activityPattern": [],
+          "activities": 8
+        },
+        {
+          "sectionIndex": 11,
+          "unitIndex": 11,
+          "title": "Complex number multiplication",
+          "activityPattern": [],
+          "activities": 9
+        },
+        {
+          "sectionIndex": 11,
+          "unitIndex": 11,
+          "title": "Fundamental theorem of algebra",
+          "activityPattern": [],
+          "activities": 10
+        },
+        {
+          "sectionIndex": 11,
+          "unitIndex": 11,
+          "title": "Rational function equations and graphs",
+          "activityPattern": [],
+          "activities": 11
+        },
+        {
+          "sectionIndex": 11,
+          "unitIndex": 11,
+          "title": "Rewrite and graph rational functions",
+          "activityPattern": [],
+          "activities": 12
+        },
+        {
+          "sectionIndex": 11,
+          "unitIndex": 11,
+          "title": "Rational expression arithmetic",
+          "activityPattern": [],
+          "activities": 13
+        },
+        {
+          "sectionIndex": 11,
+          "unitIndex": 11,
+          "title": "Rational equations",
+          "activityPattern": [],
+          "activities": 14
+        },
+        {
+          "sectionIndex": 11,
+          "unitIndex": 11,
+          "title": "Exponential function representations",
+          "activityPattern": [],
+          "activities": 15
+        },
+        {
+          "sectionIndex": 11,
+          "unitIndex": 11,
+          "title": "Exponential rate of change",
+          "activityPattern": [],
+          "activities": 16
+        },
+        {
+          "sectionIndex": 11,
+          "unitIndex": 11,
+          "title": "Geometric sequences",
+          "activityPattern": [],
+          "activities": 17
+        },
+        {
+          "sectionIndex": 11,
+          "unitIndex": 11,
+          "title": "Finite geometric sequences",
+          "activityPattern": [],
+          "activities": 18
+        },
+        {
+          "sectionIndex": 11,
+          "unitIndex": 11,
+          "title": "The natural base, e",
+          "activityPattern": [],
+          "activities": 19
+        },
+        {
+          "sectionIndex": 11,
+          "unitIndex": 11,
+          "title": "Logarithms",
+          "activityPattern": [],
+          "activities": 20
+        },
+        {
+          "sectionIndex": 11,
+          "unitIndex": 11,
+          "title": "Product and quotient rules",
+          "activityPattern": [],
+          "activities": 21
+        },
+        {
+          "sectionIndex": 11,
+          "unitIndex": 11,
+          "title": "Properties of logarithms",
+          "activityPattern": [],
+          "activities": 22
+        },
+        {
+          "sectionIndex": 11,
+          "unitIndex": 11,
+          "title": "Logarithmic functions",
+          "activityPattern": [],
+          "activities": 23
+        },
+        {
+          "sectionIndex": 11,
+          "unitIndex": 11,
+          "title": "Logarithmic function graphs",
+          "activityPattern": [],
+          "activities": 24
+        },
+        {
+          "sectionIndex": 11,
+          "unitIndex": 11,
+          "title": "Natural logarithmic function",
+          "activityPattern": [],
+          "activities": 25
+        },
+        {
+          "sectionIndex": 11,
+          "unitIndex": 11,
+          "title": "Solve logarithmic and exponential equations",
+          "activityPattern": [],
+          "activities": 26
+        },
+        {
+          "sectionIndex": 11,
+          "unitIndex": 11,
+          "title": "Radical equations",
+          "activityPattern": [],
+          "activities": 27
+        },
+        {
+          "sectionIndex": 11,
+          "unitIndex": 11,
+          "title": "Inverse functions",
+          "activityPattern": [],
+          "activities": 28
+        },
+        {
+          "sectionIndex": 11,
+          "unitIndex": 11,
+          "title": "Function composition",
+          "activityPattern": [],
+          "activities": 29
+        },
+        {
+          "sectionIndex": 11,
+          "unitIndex": 11,
+          "title": "Translations of functions",
+          "activityPattern": [],
+          "activities": 30
+        },
+        {
+          "sectionIndex": 11,
+          "unitIndex": 11,
+          "title": "Reflections of functions",
+          "activityPattern": [],
+          "activities": 31
+        },
+        {
+          "sectionIndex": 11,
+          "unitIndex": 11,
+          "title": "Vertical function scaling",
+          "activityPattern": [],
+          "activities": 32
+        },
+        {
+          "sectionIndex": 11,
+          "unitIndex": 11,
+          "title": "Horizontal function scaling",
+          "activityPattern": [],
+          "activities": 33
+        },
+        {
+          "sectionIndex": 11,
+          "unitIndex": 11,
+          "title": "Sine function",
+          "activityPattern": [],
+          "activities": 34
+        },
+        {
+          "sectionIndex": 11,
+          "unitIndex": 11,
+          "title": "Cosine function",
+          "activityPattern": [],
+          "activities": 35
+        },
+        {
+          "sectionIndex": 11,
+          "unitIndex": 11,
+          "title": "Key features of sine and cosine",
+          "activityPattern": [],
+          "activities": 36
+        },
+        {
+          "sectionIndex": 11,
+          "unitIndex": 11,
+          "title": "Tangent function",
+          "activityPattern": [],
+          "activities": 37
+        }
+      ]
+    },
+    {
+      "sectionIndex": 12,
+      "unitCount": 27,
+      "title": "Grade",
+      "rawTitle": "Grade",
+      "cefr": "GRADE",
+      "units": [
+        {
+          "sectionIndex": 12,
+          "unitIndex": 12,
+          "title": "Algebra and functions",
+          "activityPattern": [],
+          "activities": 1
+        },
+        {
+          "sectionIndex": 12,
+          "unitIndex": 12,
+          "title": "Polynomial graphs and roots",
+          "activityPattern": [],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 12,
+          "unitIndex": 12,
+          "title": "Rational function asymptotes",
+          "activityPattern": [],
+          "activities": 3
+        },
+        {
+          "sectionIndex": 12,
+          "unitIndex": 12,
+          "title": "Holes and slant asymptotes",
+          "activityPattern": [],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 12,
+          "unitIndex": 12,
+          "title": "Properties of functions",
+          "activityPattern": [],
+          "activities": 5
+        },
+        {
+          "sectionIndex": 12,
+          "unitIndex": 12,
+          "title": "Exponent and logarithm properties",
+          "activityPattern": [],
+          "activities": 6
+        },
+        {
+          "sectionIndex": 12,
+          "unitIndex": 12,
+          "title": "Exponentials and logarithms as inverses",
+          "activityPattern": [],
+          "activities": 7
+        },
+        {
+          "sectionIndex": 12,
+          "unitIndex": 12,
+          "title": "Graph sine and cosine",
+          "activityPattern": [],
+          "activities": 8
+        },
+        {
+          "sectionIndex": 12,
+          "unitIndex": 12,
+          "title": "Intro to vectors",
+          "activityPattern": [],
+          "activities": 9
+        },
+        {
+          "sectionIndex": 12,
+          "unitIndex": 12,
+          "title": "Describing vectors",
+          "activityPattern": [],
+          "activities": 10
+        },
+        {
+          "sectionIndex": 12,
+          "unitIndex": 12,
+          "title": "Vector operations",
+          "activityPattern": [],
+          "activities": 11
+        },
+        {
+          "sectionIndex": 12,
+          "unitIndex": 12,
+          "title": "Dot product",
+          "activityPattern": [],
+          "activities": 12
+        },
+        {
+          "sectionIndex": 12,
+          "unitIndex": 12,
+          "title": "Matrices as numbers",
+          "activityPattern": [],
+          "activities": 13
+        },
+        {
+          "sectionIndex": 12,
+          "unitIndex": 12,
+          "title": "Matrix operations",
+          "activityPattern": [],
+          "activities": 14
+        },
+        {
+          "sectionIndex": 12,
+          "unitIndex": 12,
+          "title": "Linear transformations",
+          "activityPattern": [],
+          "activities": 15
+        },
+        {
+          "sectionIndex": 12,
+          "unitIndex": 12,
+          "title": "Matrices as linear transformations",
+          "activityPattern": [],
+          "activities": 16
+        },
+        {
+          "sectionIndex": 12,
+          "unitIndex": 12,
+          "title": "Limits",
+          "activityPattern": [],
+          "activities": 17
+        },
+        {
+          "sectionIndex": 12,
+          "unitIndex": 12,
+          "title": "Continuity",
+          "activityPattern": [],
+          "activities": 18
+        },
+        {
+          "sectionIndex": 12,
+          "unitIndex": 12,
+          "title": "Instantaneous rate of change",
+          "activityPattern": [],
+          "activities": 19
+        },
+        {
+          "sectionIndex": 12,
+          "unitIndex": 12,
+          "title": "Definition of the derivative",
+          "activityPattern": [],
+          "activities": 20
+        },
+        {
+          "sectionIndex": 12,
+          "unitIndex": 12,
+          "title": "Intro to derivative rules",
+          "activityPattern": [],
+          "activities": 21
+        },
+        {
+          "sectionIndex": 12,
+          "unitIndex": 12,
+          "title": "Derivatives of more functions",
+          "activityPattern": [],
+          "activities": 22
+        },
+        {
+          "sectionIndex": 12,
+          "unitIndex": 12,
+          "title": "Product and quotient rules",
+          "activityPattern": [],
+          "activities": 23
+        },
+        {
+          "sectionIndex": 12,
+          "unitIndex": 12,
+          "title": "Chain rule",
+          "activityPattern": [],
+          "activities": 24
+        },
+        {
+          "sectionIndex": 12,
+          "unitIndex": 12,
+          "title": "Intro to Riemann sums",
+          "activityPattern": [],
+          "activities": 25
+        },
+        {
+          "sectionIndex": 12,
+          "unitIndex": 12,
+          "title": "Antiderivatives",
+          "activityPattern": [],
+          "activities": 26
+        },
+        {
+          "sectionIndex": 12,
+          "unitIndex": 12,
+          "title": "Intro to indefinite integrals",
+          "activityPattern": [],
+          "activities": 27
+        }
+      ]
+    },
+    {
+      "sectionIndex": 1,
+      "unitCount": 17,
+      "title": "Arithmetic",
+      "rawTitle": "Arithmetic",
+      "cefr": "ARITHMETIC",
+      "units": [
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Follow patterns",
+          "activityPattern": [],
+          "activities": 1
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Add, subtract, and multiply",
+          "activityPattern": [],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Intro to division",
+          "activityPattern": [],
+          "activities": 3
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Add and subtract",
+          "activityPattern": [],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Multiply",
+          "activityPattern": [],
+          "activities": 5
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Divide",
+          "activityPattern": [],
+          "activities": 6
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Create fractions",
+          "activityPattern": [],
+          "activities": 7
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Compare fractions",
+          "activityPattern": [],
+          "activities": 8
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Rounding",
+          "activityPattern": [],
+          "activities": 9
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Decimals",
+          "activityPattern": [],
+          "activities": 10
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Fraction operations",
+          "activityPattern": [],
+          "activities": 11
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Negatives",
+          "activityPattern": [],
+          "activities": 12
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Compare ratios",
+          "activityPattern": [],
+          "activities": 13
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Factors",
+          "activityPattern": [],
+          "activities": 14
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Factors and multiples",
+          "activityPattern": [],
+          "activities": 15
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Greatest common factor with fractions",
+          "activityPattern": [],
+          "activities": 16
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Place value",
+          "activityPattern": [],
+          "activities": 17
+        }
+      ]
+    },
+    {
+      "sectionIndex": 2,
+      "unitCount": 18,
+      "title": "Arithmetic",
+      "rawTitle": "Arithmetic",
+      "cefr": "ARITHMETIC",
+      "units": [
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Find connections",
+          "activityPattern": [],
+          "activities": 1
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Build number sense",
+          "activityPattern": [],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Exponents and fractions",
+          "activityPattern": [],
+          "activities": 3
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Exponents",
+          "activityPattern": [],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Find equivalent ratios and fractions",
+          "activityPattern": [],
+          "activities": 5
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Part-to-whole ratios",
+          "activityPattern": [],
+          "activities": 6
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Fractions, decimals, and percents",
+          "activityPattern": [],
+          "activities": 7
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Round and compare numbers",
+          "activityPattern": [],
+          "activities": 8
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Exponent operations",
+          "activityPattern": [],
+          "activities": 9
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Exponents and place value",
+          "activityPattern": [],
+          "activities": 10
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Negative number operations",
+          "activityPattern": [],
+          "activities": 11
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Negative and positive decimals",
+          "activityPattern": [],
+          "activities": 12
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Magnitude",
+          "activityPattern": [],
+          "activities": 13
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Compare decimals",
+          "activityPattern": [],
+          "activities": 14
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Rational numbers",
+          "activityPattern": [],
+          "activities": 15
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Rational number operations",
+          "activityPattern": [],
+          "activities": 16
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Round decimals",
+          "activityPattern": [],
+          "activities": 17
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Round fractions and decimals",
+          "activityPattern": [],
+          "activities": 18
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 3,
+          "title": "Polygon area",
+          "activityPattern": [],
+          "activities": 1
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 3,
+          "title": "Rectangular surface area",
+          "activityPattern": [],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 3,
+          "title": "Triangular surface area",
+          "activityPattern": [],
+          "activities": 3
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 3,
+          "title": "Volume",
+          "activityPattern": [],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 3,
+          "title": "Cylinders",
+          "activityPattern": [],
+          "activities": 5
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 3,
+          "title": "Cones and spheres",
+          "activityPattern": [],
+          "activities": 6
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 3,
+          "title": "Coordinate grid",
+          "activityPattern": [],
+          "activities": 7
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 3,
+          "title": "Absolute value and distance",
+          "activityPattern": [],
+          "activities": 8
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 3,
+          "title": "Translations",
+          "activityPattern": [],
+          "activities": 9
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 3,
+          "title": "Scale drawings",
+          "activityPattern": [],
+          "activities": 10
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 3,
+          "title": "Circles",
+          "activityPattern": [],
+          "activities": 11
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 3,
+          "title": "Angle relationships",
+          "activityPattern": [],
+          "activities": 12
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 3,
+          "title": "Translations of the plane",
+          "activityPattern": [],
+          "activities": 13
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 3,
+          "title": "Reflections of the plane",
+          "activityPattern": [],
+          "activities": 14
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 3,
+          "title": "Rotations of the plane",
+          "activityPattern": [],
+          "activities": 15
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 3,
+          "title": "Congruence",
+          "activityPattern": [],
+          "activities": 16
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 3,
+          "title": "Dilations and similarity",
+          "activityPattern": [],
+          "activities": 17
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 3,
+          "title": "Symmetry",
+          "activityPattern": [],
+          "activities": 18
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 3,
+          "title": "Angles with parallel lines",
+          "activityPattern": [],
+          "activities": 19
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 3,
+          "title": "Triangles",
+          "activityPattern": [],
+          "activities": 20
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 3,
+          "title": "The Pythagorean theorem",
+          "activityPattern": [],
+          "activities": 21
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 3,
+          "title": "Sine ratio",
+          "activityPattern": [],
+          "activities": 22
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 3,
+          "title": "Cosine ratio",
+          "activityPattern": [],
+          "activities": 23
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 3,
+          "title": "Tangent ratio",
+          "activityPattern": [],
+          "activities": 24
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 3,
+          "title": "Similar triangles and angles",
+          "activityPattern": [],
+          "activities": 25
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 3,
+          "title": "Sine function",
+          "activityPattern": [],
+          "activities": 26
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 3,
+          "title": "Cosine function",
+          "activityPattern": [],
+          "activities": 27
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 3,
+          "title": "Tangent function",
+          "activityPattern": [],
+          "activities": 28
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 3,
+          "title": "Graph sine and cosine",
+          "activityPattern": [],
+          "activities": 29
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 4,
+          "title": "Operations in equations",
+          "activityPattern": [],
+          "activities": 1
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 4,
+          "title": "Algebraic equations",
+          "activityPattern": [],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 4,
+          "title": "Equations using all operations",
+          "activityPattern": [],
+          "activities": 3
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 4,
+          "title": "Equations with coefficients",
+          "activityPattern": [],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 4,
+          "title": "Equations with fractions and decimals",
+          "activityPattern": [],
+          "activities": 5
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 4,
+          "title": "Distributive property and equivalency",
+          "activityPattern": [],
+          "activities": 6
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 4,
+          "title": "One-variable equations",
+          "activityPattern": [],
+          "activities": 7
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 4,
+          "title": "Inequalities",
+          "activityPattern": [],
+          "activities": 8
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 4,
+          "title": "Rewrite and evaluate expressions",
+          "activityPattern": [],
+          "activities": 9
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 4,
+          "title": "Two-step equations",
+          "activityPattern": [],
+          "activities": 10
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 4,
+          "title": "Two-step inequalities",
+          "activityPattern": [],
+          "activities": 11
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 4,
+          "title": "Solve linear equations",
+          "activityPattern": [],
+          "activities": 12
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 4,
+          "title": "One-variable linear inequalities",
+          "activityPattern": [],
+          "activities": 13
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 4,
+          "title": "Rewrite polynomial expressions",
+          "activityPattern": [],
+          "activities": 14
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 4,
+          "title": "Factor quadratic expressions",
+          "activityPattern": [],
+          "activities": 15
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 4,
+          "title": "Geometric sequences",
+          "activityPattern": [],
+          "activities": 16
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 4,
+          "title": "Logarithms",
+          "activityPattern": [],
+          "activities": 17
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 4,
+          "title": "Product and quotient rules",
+          "activityPattern": [],
+          "activities": 18
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 4,
+          "title": "Properties of logarithms",
+          "activityPattern": [],
+          "activities": 19
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 4,
+          "title": "Solve logarithmic and exponential equations",
+          "activityPattern": [],
+          "activities": 20
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 4,
+          "title": "Rational expression arithmetic",
+          "activityPattern": [],
+          "activities": 21
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 4,
+          "title": "Rational equations",
+          "activityPattern": [],
+          "activities": 22
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 4,
+          "title": "Radical equations",
+          "activityPattern": [],
+          "activities": 23
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 5,
+          "title": "Graphing relationships",
+          "activityPattern": [],
+          "activities": 1
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 5,
+          "title": "Graphs of proportional relationships",
+          "activityPattern": [],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 5,
+          "title": "Slope",
+          "activityPattern": [],
+          "activities": 3
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 5,
+          "title": "Slope of lines",
+          "activityPattern": [],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 5,
+          "title": "Slope-intercept lines",
+          "activityPattern": [],
+          "activities": 5
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 5,
+          "title": "One-variable linear equations",
+          "activityPattern": [],
+          "activities": 6
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 5,
+          "title": "Number of solutions",
+          "activityPattern": [],
+          "activities": 7
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 5,
+          "title": "Intro to functions",
+          "activityPattern": [],
+          "activities": 8
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 5,
+          "title": "Linear functions",
+          "activityPattern": [],
+          "activities": 9
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 5,
+          "title": "Function notation",
+          "activityPattern": [],
+          "activities": 10
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 5,
+          "title": "Rate of change",
+          "activityPattern": [],
+          "activities": 11
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 5,
+          "title": "Linear functions",
+          "activityPattern": [],
+          "activities": 12
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 5,
+          "title": "Inverse linear functions",
+          "activityPattern": [],
+          "activities": 13
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 5,
+          "title": "Piecewise-defined functions",
+          "activityPattern": [],
+          "activities": 14
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 5,
+          "title": "Two-variable linear inequalities",
+          "activityPattern": [],
+          "activities": 15
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 5,
+          "title": "Intro to quadratic functions",
+          "activityPattern": [],
+          "activities": 16
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 5,
+          "title": "Quadratic graphs and equations",
+          "activityPattern": [],
+          "activities": 17
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 5,
+          "title": "Factored form of quadratics",
+          "activityPattern": [],
+          "activities": 18
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 5,
+          "title": "Vertex form of quadratics",
+          "activityPattern": [],
+          "activities": 19
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 5,
+          "title": "Systems of equations with quadratics",
+          "activityPattern": [],
+          "activities": 20
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 5,
+          "title": "Intro to exponential functions",
+          "activityPattern": [],
+          "activities": 21
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 5,
+          "title": "Exponential graphs and equations",
+          "activityPattern": [],
+          "activities": 22
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 5,
+          "title": "Exponential growth and decay",
+          "activityPattern": [],
+          "activities": 23
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 5,
+          "title": "Function translations",
+          "activityPattern": [],
+          "activities": 24
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 5,
+          "title": "Vertical function scaling",
+          "activityPattern": [],
+          "activities": 25
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 5,
+          "title": "Horizontal function scaling",
+          "activityPattern": [],
+          "activities": 26
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 5,
+          "title": "Reflections of functions",
+          "activityPattern": [],
+          "activities": 27
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 5,
+          "title": "Polynomial function equations",
+          "activityPattern": [],
+          "activities": 28
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 5,
+          "title": "Rational function equations and graphs",
+          "activityPattern": [],
+          "activities": 29
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 5,
+          "title": "Exponential function representations",
+          "activityPattern": [],
+          "activities": 30
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 5,
+          "title": "Geometric sequences",
+          "activityPattern": [],
+          "activities": 31
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 5,
+          "title": "The natural base, e",
+          "activityPattern": [],
+          "activities": 32
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 5,
+          "title": "Natural logarithmic function",
+          "activityPattern": [],
+          "activities": 33
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 5,
+          "title": "Step and absolute value functions",
+          "activityPattern": [],
+          "activities": 34
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 5,
+          "title": "Polynomial function graphs",
+          "activityPattern": [],
+          "activities": 35
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 5,
+          "title": "Exponential rate of change",
+          "activityPattern": [],
+          "activities": 36
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 5,
+          "title": "Logarithmic functions",
+          "activityPattern": [],
+          "activities": 37
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 5,
+          "title": "Logarithmic function graphs",
+          "activityPattern": [],
+          "activities": 38
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 5,
+          "title": "Polynomial graphs and roots",
+          "activityPattern": [],
+          "activities": 39
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 5,
+          "title": "Rewrite and graph rational functions",
+          "activityPattern": [],
+          "activities": 40
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 5,
+          "title": "Rational function asymptotes",
+          "activityPattern": [],
+          "activities": 41
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 5,
+          "title": "Holes and slant asymptotes",
+          "activityPattern": [],
+          "activities": 42
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 5,
+          "title": "Function composition",
+          "activityPattern": [],
+          "activities": 43
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 5,
+          "title": "Properties of functions",
+          "activityPattern": [],
+          "activities": 44
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 5,
+          "title": "Exponent and logarithm properties",
+          "activityPattern": [],
+          "activities": 45
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 5,
+          "title": "Exponentials and logarithms as inverses",
+          "activityPattern": [],
+          "activities": 46
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 6,
+          "title": "Limits",
+          "activityPattern": [],
+          "activities": 1
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 6,
+          "title": "Continuity",
+          "activityPattern": [],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 6,
+          "title": "Instantaneous rate of change",
+          "activityPattern": [],
+          "activities": 3
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 6,
+          "title": "Definition of the derivative",
+          "activityPattern": [],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 6,
+          "title": "Intro to derivative rules",
+          "activityPattern": [],
+          "activities": 5
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 6,
+          "title": "Derivatives of more functions",
+          "activityPattern": [],
+          "activities": 6
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 6,
+          "title": "Product and quotient rules",
+          "activityPattern": [],
+          "activities": 7
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 6,
+          "title": "Chain rule",
+          "activityPattern": [],
+          "activities": 8
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 6,
+          "title": "Intro to Riemann sums",
+          "activityPattern": [],
+          "activities": 9
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 6,
+          "title": "Antiderivatives",
+          "activityPattern": [],
+          "activities": 10
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 6,
+          "title": "Intro to indefinite integrals",
+          "activityPattern": [
+            2026,
+            5,
+            31
+          ],
+          "activities": 2062
+        }
+      ]
+    }
+  ]
+}

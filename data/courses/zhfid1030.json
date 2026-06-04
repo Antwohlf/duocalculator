@@ -2,8 +2,8 @@
   "meta": {
     "key": "zhfid1030",
     "courseTitle": "Indonesian → Chinese",
-    "scrapedAt": "2026-05-24T04:30:22.498Z",
-    "sourceHash": "sha256:0b0404991a69c7df",
+    "scrapedAt": "2026-06-04T18:19:46.476Z",
+    "sourceHash": "sha256:727c50c4ee1ef638",
     "fromLang": "Indonesian",
     "toLang": "Chinese",
     "fromCode": "id",
@@ -17,7 +17,7 @@
   },
   "totals": {
     "sections": 8,
-    "activities": 107636,
+    "activities": 107647,
     "units": 1030
   },
   "sections": [
@@ -7300,10 +7300,10 @@
           "title": "Alam: Jelaskan perubahan cuaca",
           "activityPattern": [
             2026,
-            4,
-            16
+            5,
+            26
           ],
-          "activities": 2046
+          "activities": 2057
         }
       ]
     }

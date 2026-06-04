@@ -2,8 +2,8 @@
   "meta": {
     "key": "frfpl994",
     "courseTitle": "Polish → French",
-    "scrapedAt": "2026-05-24T04:30:22.498Z",
-    "sourceHash": "sha256:dbe7490909e0bbd1",
+    "scrapedAt": "2026-06-04T18:19:46.476Z",
+    "sourceHash": "sha256:7ee885d753fa8b16",
     "fromLang": "Polish",
     "toLang": "French",
     "fromCode": "pl",
@@ -17,7 +17,7 @@
   },
   "totals": {
     "sections": 8,
-    "activities": 100928,
+    "activities": 100931,
     "units": 994
   },
   "sections": [
@@ -7047,11 +7047,11 @@
           "unitIndex": 8,
           "title": "Postęp: Opowiedz o swoich postępach",
           "activityPattern": [
-            2025,
-            12,
-            21
+            2026,
+            5,
+            30
           ],
-          "activities": 2058
+          "activities": 2061
         }
       ]
     }

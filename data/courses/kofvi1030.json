@@ -2,8 +2,8 @@
   "meta": {
     "key": "kofvi1030",
     "courseTitle": "Vietnamese → Korean",
-    "scrapedAt": "2026-05-24T04:30:22.498Z",
-    "sourceHash": "sha256:4bad6fbef7458b2b",
+    "scrapedAt": "2026-06-04T18:19:46.476Z",
+    "sourceHash": "sha256:d13899dfcb07fae6",
     "fromLang": "Vietnamese",
     "toLang": "Korean",
     "fromCode": "vi",
@@ -17,7 +17,7 @@
   },
   "totals": {
     "sections": 8,
-    "activities": 107602,
+    "activities": 107620,
     "units": 1030
   },
   "sections": [
@@ -7300,10 +7300,10 @@
           "title": "Đa dạng: Tôn trọng lựa chọn cá nhân",
           "activityPattern": [
             2026,
-            4,
-            7
+            5,
+            24
           ],
-          "activities": 2037
+          "activities": 2055
         }
       ]
     }

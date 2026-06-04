@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "key": "zhfhu1030",
+    "courseTitle": "Hungarian → Chinese",
+    "scrapedAt": "2026-06-04T18:19:46.476Z",
+    "sourceHash": "sha256:34e869b441663f03",
+    "fromLang": "Hungarian",
+    "toLang": "Chinese",
+    "fromCode": "hu",
+    "toCode": "zh",
+    "level": null,
+    "levelShort": null,
+    "detailHref": "https://duolingodata.com/dat/zhfhu1030.html",
+    "detailHrefHash": "sha256:bff051b7081b2b78",
+    "scrapeWarnings": [
+      "No sections parsed, using meta.unitsCount",
+      "No activities parsed, using meta.lessonsCount"
+    ],
+    "schemaVersion": "1.0.0"
+  },
+  "totals": {
+    "sections": 0,
+    "activities": 8726,
+    "units": 1030
+  },
+  "sections": []
+}

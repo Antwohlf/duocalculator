@@ -2,8 +2,8 @@
   "meta": {
     "key": "zhfde1030",
     "courseTitle": "German → Chinese",
-    "scrapedAt": "2026-05-24T04:30:22.498Z",
-    "sourceHash": "sha256:ddc2c6ddc68fea4b",
+    "scrapedAt": "2026-06-04T18:19:46.476Z",
+    "sourceHash": "sha256:5c6d34b9cb615d0a",
     "fromLang": "German",
     "toLang": "Chinese",
     "fromCode": "de",
@@ -17,7 +17,7 @@
   },
   "totals": {
     "sections": 8,
-    "activities": 107631,
+    "activities": 107644,
     "units": 1030
   },
   "sections": [
@@ -7300,10 +7300,10 @@
           "title": "Natur: Gib Tipps zum Naturschutz",
           "activityPattern": [
             2026,
-            4,
-            11
+            5,
+            23
           ],
-          "activities": 2041
+          "activities": 2054
         }
       ]
     }

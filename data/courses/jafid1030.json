@@ -2,8 +2,8 @@
   "meta": {
     "key": "jafid1030",
     "courseTitle": "Indonesian → Japanese",
-    "scrapedAt": "2026-05-24T04:30:22.498Z",
-    "sourceHash": "sha256:3e4e6e2b6614f19a",
+    "scrapedAt": "2026-06-04T18:19:46.476Z",
+    "sourceHash": "sha256:441fd0b06a6c61a5",
     "fromLang": "Indonesian",
     "toLang": "Japanese",
     "fromCode": "id",
@@ -17,7 +17,7 @@
   },
   "totals": {
     "sections": 8,
-    "activities": 107711,
+    "activities": 107722,
     "units": 1030
   },
   "sections": [
@@ -7300,10 +7300,10 @@
           "title": "Pesanan: Minta tagihan di meja",
           "activityPattern": [
             2026,
-            4,
-            16
+            5,
+            26
           ],
-          "activities": 2046
+          "activities": 2057
         }
       ]
     }

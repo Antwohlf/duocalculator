@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "key": "jafhu1030",
+    "courseTitle": "Hungarian → Japanese",
+    "scrapedAt": "2026-06-04T18:19:46.476Z",
+    "sourceHash": "sha256:e2526cf0431c5f11",
+    "fromLang": "Hungarian",
+    "toLang": "Japanese",
+    "fromCode": "hu",
+    "toCode": "ja",
+    "level": null,
+    "levelShort": null,
+    "detailHref": "https://duolingodata.com/dat/jafhu1030.html",
+    "detailHrefHash": "sha256:0f684f37ce937691",
+    "scrapeWarnings": [
+      "No sections parsed, using meta.unitsCount",
+      "No activities parsed, using meta.lessonsCount"
+    ],
+    "schemaVersion": "1.0.0"
+  },
+  "totals": {
+    "sections": 0,
+    "activities": 8314,
+    "units": 1030
+  },
+  "sections": []
+}

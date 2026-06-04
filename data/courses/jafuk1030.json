@@ -2,8 +2,8 @@
   "meta": {
     "key": "jafuk1030",
     "courseTitle": "Ukrainian → Japanese",
-    "scrapedAt": "2026-05-24T04:30:22.498Z",
-    "sourceHash": "sha256:3881588b674a787f",
+    "scrapedAt": "2026-06-04T18:19:46.476Z",
+    "sourceHash": "sha256:1c420e702058a567",
     "fromLang": "Ukrainian",
     "toLang": "Japanese",
     "fromCode": "uk",
@@ -17,7 +17,7 @@
   },
   "totals": {
     "sections": 8,
-    "activities": 107704,
+    "activities": 107721,
     "units": 1030
   },
   "sections": [
@@ -7300,10 +7300,10 @@
           "title": "Стіл: Запитай про рахунок",
           "activityPattern": [
             2026,
-            4,
-            9
+            5,
+            25
           ],
-          "activities": 2039
+          "activities": 2056
         }
       ]
     }

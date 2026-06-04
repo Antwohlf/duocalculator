@@ -2,8 +2,8 @@
   "meta": {
     "key": "itfde1030",
     "courseTitle": "German → Italian",
-    "scrapedAt": "2026-05-24T04:30:22.498Z",
-    "sourceHash": "sha256:6dc8b342cff40fa0",
+    "scrapedAt": "2026-06-04T18:19:46.476Z",
+    "sourceHash": "sha256:c3185c9b82455f1b",
     "fromLang": "German",
     "toLang": "Italian",
     "fromCode": "de",
@@ -17,7 +17,7 @@
   },
   "totals": {
     "sections": 8,
-    "activities": 107597,
+    "activities": 107619,
     "units": 1030
   },
   "sections": [
@@ -7300,10 +7300,10 @@
           "title": "Natur: Erzähle von Tieren und Pflanzen",
           "activityPattern": [
             2026,
-            4,
-            2
+            5,
+            23
           ],
-          "activities": 2032
+          "activities": 2054
         }
       ]
     }

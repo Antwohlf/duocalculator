@@ -2,8 +2,8 @@
   "meta": {
     "key": "jafvi1030",
     "courseTitle": "Vietnamese → Japanese",
-    "scrapedAt": "2026-05-24T04:30:22.498Z",
-    "sourceHash": "sha256:6ecd4755c3da5f82",
+    "scrapedAt": "2026-06-04T18:19:46.476Z",
+    "sourceHash": "sha256:ad5474333a305af5",
     "fromLang": "Vietnamese",
     "toLang": "Japanese",
     "fromCode": "vi",
@@ -17,7 +17,7 @@
   },
   "totals": {
     "sections": 8,
-    "activities": 107702,
+    "activities": 107720,
     "units": 1030
   },
   "sections": [
@@ -7300,10 +7300,10 @@
           "title": "Quán ăn: Mô tả quán ăn yêu thích",
           "activityPattern": [
             2026,
-            4,
-            7
+            5,
+            24
           ],
-          "activities": 2037
+          "activities": 2055
         }
       ]
     }

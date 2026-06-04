@@ -2,8 +2,8 @@
   "meta": {
     "key": "zhfuk1030",
     "courseTitle": "Ukrainian → Chinese",
-    "scrapedAt": "2026-05-24T04:30:22.498Z",
-    "sourceHash": "sha256:0d2517a52c9aba05",
+    "scrapedAt": "2026-06-04T18:19:46.476Z",
+    "sourceHash": "sha256:ed95bb60d29d5954",
     "fromLang": "Ukrainian",
     "toLang": "Chinese",
     "fromCode": "uk",
@@ -17,7 +17,7 @@
   },
   "totals": {
     "sections": 8,
-    "activities": 107631,
+    "activities": 107646,
     "units": 1030
   },
   "sections": [
@@ -7300,10 +7300,10 @@
           "title": "Природа: Опиши зміни в природі",
           "activityPattern": [
             2026,
-            4,
-            11
+            5,
+            25
           ],
-          "activities": 2041
+          "activities": 2056
         }
       ]
     }

@@ -2,8 +2,8 @@
   "meta": {
     "key": "esffr991",
     "courseTitle": "French → Spanish",
-    "scrapedAt": "2026-05-24T04:30:22.498Z",
-    "sourceHash": "sha256:904e2e4a5002d653",
+    "scrapedAt": "2026-06-04T18:19:46.476Z",
+    "sourceHash": "sha256:dd55869aa2b881b9",
     "fromLang": "French",
     "toLang": "Spanish",
     "fromCode": "fr",
@@ -17,7 +17,7 @@
   },
   "totals": {
     "sections": 8,
-    "activities": 100050,
+    "activities": 100054,
     "units": 991
   },
   "sections": [
@@ -7027,10 +7027,10 @@
           "title": "Progrès : Exprime ce que tu as appris",
           "activityPattern": [
             2026,
-            3,
-            25
+            5,
+            27
           ],
-          "activities": 2054
+          "activities": 2058
         }
       ]
     }

@@ -2,8 +2,8 @@
   "meta": {
     "key": "kofpt1030",
     "courseTitle": "Portuguese → Korean",
-    "scrapedAt": "2026-05-24T04:30:22.498Z",
-    "sourceHash": "sha256:d61401f0ad7c7533",
+    "scrapedAt": "2026-06-04T18:19:46.476Z",
+    "sourceHash": "sha256:f7cb8c6674657df1",
     "fromLang": "Portuguese",
     "toLang": "Korean",
     "fromCode": "pt",
@@ -17,7 +17,7 @@
   },
   "totals": {
     "sections": 8,
-    "activities": 107614,
+    "activities": 107622,
     "units": 1030
   },
   "sections": [
@@ -7300,10 +7300,10 @@
           "title": "Diversidade: Respeite a privacidade",
           "activityPattern": [
             2026,
-            4,
-            19
+            5,
+            26
           ],
-          "activities": 2049
+          "activities": 2057
         }
       ]
     }

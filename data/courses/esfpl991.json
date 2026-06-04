@@ -2,8 +2,8 @@
   "meta": {
     "key": "esfpl991",
     "courseTitle": "Polish → Spanish",
-    "scrapedAt": "2026-05-24T04:30:22.498Z",
-    "sourceHash": "sha256:e3f7a25a34d6027a",
+    "scrapedAt": "2026-06-04T18:19:46.476Z",
+    "sourceHash": "sha256:b55ef7c6a45239a7",
     "fromLang": "Polish",
     "toLang": "Spanish",
     "fromCode": "pl",
@@ -17,7 +17,7 @@
   },
   "totals": {
     "sections": 8,
-    "activities": 100053,
+    "activities": 100056,
     "units": 991
   },
   "sections": [
@@ -7026,11 +7026,11 @@
           "unitIndex": 8,
           "title": "Nauka: Powiedz jak się uczysz",
           "activityPattern": [
-            2025,
-            12,
-            20
+            2026,
+            5,
+            29
           ],
-          "activities": 2057
+          "activities": 2060
         }
       ]
     }

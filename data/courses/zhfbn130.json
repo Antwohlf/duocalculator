@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "key": "zhfbn130",
+    "courseTitle": "Bengali → Chinese",
+    "scrapedAt": "2026-06-04T18:19:46.476Z",
+    "sourceHash": "sha256:7ed5a10ce3918fb1",
+    "fromLang": "Bengali",
+    "toLang": "Chinese",
+    "fromCode": "bn",
+    "toCode": "zh",
+    "level": null,
+    "levelShort": null,
+    "detailHref": "https://duolingodata.com/dat/zhfbn130.html",
+    "detailHrefHash": "sha256:3da6d16523ffebf6",
+    "scrapeWarnings": [
+      "No sections parsed, using meta.unitsCount",
+      "No activities parsed, using meta.lessonsCount"
+    ],
+    "schemaVersion": "1.0.0"
+  },
+  "totals": {
+    "sections": 0,
+    "activities": 2918,
+    "units": 130
+  },
+  "sections": []
+}

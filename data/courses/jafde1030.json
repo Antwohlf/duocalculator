@@ -2,8 +2,8 @@
   "meta": {
     "key": "jafde1030",
     "courseTitle": "German → Japanese",
-    "scrapedAt": "2026-05-24T04:30:22.498Z",
-    "sourceHash": "sha256:59adbd569faae9a5",
+    "scrapedAt": "2026-06-04T18:19:46.476Z",
+    "sourceHash": "sha256:c217a550907f687e",
     "fromLang": "German",
     "toLang": "Japanese",
     "fromCode": "de",
@@ -17,7 +17,7 @@
   },
   "totals": {
     "sections": 8,
-    "activities": 107698,
+    "activities": 107719,
     "units": 1030
   },
   "sections": [
@@ -7300,10 +7300,10 @@
           "title": "Restaurant: Bezahle die Rechnung",
           "activityPattern": [
             2026,
-            4,
-            3
+            5,
+            23
           ],
-          "activities": 2033
+          "activities": 2054
         }
       ]
     }

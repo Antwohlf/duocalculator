@@ -2,8 +2,8 @@
   "meta": {
     "key": "frfel994",
     "courseTitle": "Greek → French",
-    "scrapedAt": "2026-06-04T18:19:46.476Z",
-    "sourceHash": "sha256:f85ee6aa5ddbae1d",
+    "scrapedAt": "2026-06-14T04:33:59.805Z",
+    "sourceHash": "sha256:7f49265d9e8f4071",
     "fromLang": "Greek",
     "toLang": "French",
     "fromCode": "el",
@@ -17,7 +17,7 @@
   },
   "totals": {
     "sections": 8,
-    "activities": 100919,
+    "activities": 100915,
     "units": 994
   },
   "sections": [
@@ -786,7 +786,7 @@
         {
           "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "Διηγήσου μια ιστορία αγάπης",
+          "title": "Αξιολόγησε προϊόντα και υπηρεσίες",
           "activityPattern": [],
           "activities": 36
         },
@@ -7047,11 +7047,11 @@
           "unitIndex": 8,
           "title": "Θάρρος: Μοιράσου τα σχέδιά σου",
           "activityPattern": [
-            2025,
-            12,
-            12
+            2026,
+            6,
+            13
           ],
-          "activities": 2049
+          "activities": 2045
         }
       ]
     }

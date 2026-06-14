@@ -2,8 +2,8 @@
   "meta": {
     "key": "frfhi129",
     "courseTitle": "Hindi → French",
-    "scrapedAt": "2026-06-04T18:19:46.476Z",
-    "sourceHash": "sha256:c21b9ffac6da2230",
+    "scrapedAt": "2026-06-14T04:33:59.805Z",
+    "sourceHash": "sha256:d8f3a9ace3f8f7a1",
     "fromLang": "Hindi",
     "toLang": "French",
     "fromCode": "hi",
@@ -17,7 +17,7 @@
   },
   "totals": {
     "sections": 4,
-    "activities": 4768,
+    "activities": 4767,
     "units": 129
   },
   "sections": [
@@ -518,7 +518,7 @@
         {
           "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "Passé composé का प्रयोग करें",
+          "title": "passé composé का प्रयोग करें",
           "activityPattern": [],
           "activities": 28
         },
@@ -541,7 +541,7 @@
         {
           "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "Passé composé का प्रयोग करें",
+          "title": "passé composé का प्रयोग करें",
           "activityPattern": [],
           "activities": 1
         },
@@ -597,7 +597,7 @@
         {
           "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "Passé composé का प्रयोग करें",
+          "title": "passé composé का प्रयोग करें",
           "activityPattern": [],
           "activities": 9
         },
@@ -956,11 +956,11 @@
           "unitIndex": 4,
           "title": "हवाई अड्डे पर नेविगेट करें",
           "activityPattern": [
-            2025,
-            12,
-            6
+            2026,
+            6,
+            10
           ],
-          "activities": 2043
+          "activities": 2042
         }
       ]
     }

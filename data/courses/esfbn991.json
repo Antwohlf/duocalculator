@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "key": "esfbn991",
+    "courseTitle": "Bengali → Spanish",
+    "scrapedAt": "2026-06-14T04:33:59.805Z",
+    "sourceHash": "sha256:345dcaad4039a4ad",
+    "fromLang": "Bengali",
+    "toLang": "Spanish",
+    "fromCode": "bn",
+    "toCode": "es",
+    "level": null,
+    "levelShort": null,
+    "detailHref": "https://duolingodata.com/dat/esfbn991.html",
+    "detailHrefHash": "sha256:5e9297cef0a8c3ef",
+    "scrapeWarnings": [
+      "No sections parsed, using meta.unitsCount",
+      "No activities parsed, using meta.lessonsCount"
+    ],
+    "schemaVersion": "1.0.0"
+  },
+  "totals": {
+    "sections": 0,
+    "activities": 8346,
+    "units": 991
+  },
+  "sections": []
+}

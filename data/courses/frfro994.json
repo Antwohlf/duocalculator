@@ -2,8 +2,8 @@
   "meta": {
     "key": "frfro994",
     "courseTitle": "Romanian → French",
-    "scrapedAt": "2026-06-04T18:19:46.476Z",
-    "sourceHash": "sha256:b6229f733787f4e6",
+    "scrapedAt": "2026-06-14T04:33:59.805Z",
+    "sourceHash": "sha256:e911697ad3090cc8",
     "fromLang": "Romanian",
     "toLang": "French",
     "fromCode": "ro",
@@ -17,7 +17,7 @@
   },
   "totals": {
     "sections": 8,
-    "activities": 100918,
+    "activities": 100912,
     "units": 994
   },
   "sections": [
@@ -4031,7 +4031,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "Sărbători: Povestește o farsă de  aprilie",
+          "title": "Sărbători: Povestește o farsă de 1 aprilie",
           "activityPattern": [],
           "activities": 182
         },
@@ -7047,11 +7047,11 @@
           "unitIndex": 8,
           "title": "Progres: Descrie pașii următori",
           "activityPattern": [
-            2025,
-            12,
-            11
+            2026,
+            6,
+            10
           ],
-          "activities": 2048
+          "activities": 2042
         }
       ]
     }

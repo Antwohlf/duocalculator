@@ -2,8 +2,8 @@
   "meta": {
     "key": "esfsv991",
     "courseTitle": "Swedish → Spanish",
-    "scrapedAt": "2026-06-04T18:19:46.476Z",
-    "sourceHash": "sha256:59242a9fd391c076",
+    "scrapedAt": "2026-06-14T04:33:59.805Z",
+    "sourceHash": "sha256:e8ff8dea9d7715d3",
     "fromLang": "Swedish",
     "toLang": "Spanish",
     "fromCode": "sv",
@@ -17,7 +17,7 @@
   },
   "totals": {
     "sections": 8,
-    "activities": 100051,
+    "activities": 100038,
     "units": 991
   },
   "sections": [
@@ -7026,11 +7026,11 @@
           "unitIndex": 8,
           "title": "Språkresa: Berätta om dina framsteg",
           "activityPattern": [
-            2025,
-            12,
-            18
+            2026,
+            6,
+            10
           ],
-          "activities": 2055
+          "activities": 2042
         }
       ]
     }

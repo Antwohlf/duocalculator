@@ -2,8 +2,8 @@
   "meta": {
     "key": "kofhi130",
     "courseTitle": "Hindi → Korean",
-    "scrapedAt": "2026-06-04T18:19:46.476Z",
-    "sourceHash": "sha256:1a52df1c3357b840",
+    "scrapedAt": "2026-06-14T04:33:59.805Z",
+    "sourceHash": "sha256:1f690ac90492869b",
     "fromLang": "Hindi",
     "toLang": "Korean",
     "fromCode": "hi",
@@ -17,7 +17,7 @@
   },
   "totals": {
     "sections": 4,
-    "activities": 4798,
+    "activities": 4792,
     "units": 130
   },
   "sections": [
@@ -38,14 +38,14 @@
         {
           "sectionIndex": 1,
           "unitIndex": 1,
-          "title": "खाना और पेय ऑर्डर करें",
+          "title": "खाना और ड्रिंक्स ऑर्डर करें",
           "activityPattern": [],
           "activities": 2
         },
         {
           "sectionIndex": 1,
           "unitIndex": 1,
-          "title": "पज़ेसिव प्रोनाउन, एडजेक्टिव प्रयोग करें",
+          "title": "पज़ेसिव प्रोनाउन, एडजेक्टिव का इस्तेमाल करें",
           "activityPattern": [],
           "activities": 3
         },
@@ -66,7 +66,7 @@
         {
           "sectionIndex": 1,
           "unitIndex": 1,
-          "title": "खाने के बारे में सवाल पूछें",
+          "title": "खाना के बारे में सवाल पूछें",
           "activityPattern": [],
           "activities": 6
         },
@@ -80,14 +80,14 @@
         {
           "sectionIndex": 1,
           "unitIndex": 1,
-          "title": "हवाई अड्डे पर रास्ता खोजें",
+          "title": "अपने शौक के बारे में बात करें",
           "activityPattern": [],
           "activities": 8
         },
         {
           "sectionIndex": 1,
           "unitIndex": 1,
-          "title": "अपने शौक के बारे में बात करें",
+          "title": "दिशा पूछें",
           "activityPattern": [],
           "activities": 9
         },
@@ -110,7 +110,7 @@
         {
           "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "दिशा पूछें",
+          "title": "हवाई अड्डे पर रास्ता खोजें",
           "activityPattern": [],
           "activities": 1
         },
@@ -145,28 +145,28 @@
         {
           "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "स्थान और गंतव्य चिह्नों का उपयोग करें",
+          "title": "जगह और मंज़िल के निशानों का इस्तेमाल करें",
           "activityPattern": [],
           "activities": 6
         },
         {
           "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "अपने घर का वर्णन करें",
+          "title": "अपने घर के बारे में बताएँ",
           "activityPattern": [],
           "activities": 7
         },
         {
           "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "क्रिसमस मनाएँ",
+          "title": "क्रिस्मस मनाएँ",
           "activityPattern": [],
           "activities": 8
         },
         {
           "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "प्रेज़ेंट टेंस का प्रयोग करें",
+          "title": "प्रेज़ेंट टेंस का इस्तेमाल करें",
           "activityPattern": [],
           "activities": 9
         },
@@ -187,21 +187,21 @@
         {
           "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "स्थानीय परिवहन का उपयोग करें",
+          "title": "स्थानीय परिवहन का इस्तेमाल करें",
           "activityPattern": [],
           "activities": 12
         },
         {
           "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "एडजेक्टिव से नाउन के बारे में बताएँ",
+          "title": "नाउन के बारे में एडजेक्टिव के ज़रिए बताएँ",
           "activityPattern": [],
           "activities": 13
         },
         {
           "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "स्वास्थ्य चिंताओं पर बात करें",
+          "title": "स्वास्थ्य की चिंताओं पर बात करें",
           "activityPattern": [],
           "activities": 14
         },
@@ -229,7 +229,7 @@
         {
           "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "औपचारिक आदेशों का उपयोग करें",
+          "title": "औपचारिक आदेशों का इस्तेमाल करें",
           "activityPattern": [],
           "activities": 18
         },
@@ -243,7 +243,7 @@
         {
           "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "फ़्यूचर टेंस का प्रयोग करें",
+          "title": "फ़्यूचर टेंस का इस्तेमाल करें",
           "activityPattern": [],
           "activities": 20
         },
@@ -264,14 +264,14 @@
         {
           "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "पास्ट टेंस का प्रयोग करें",
+          "title": "पास्ट टेंस का इस्तेमाल करें",
           "activityPattern": [],
           "activities": 23
         },
         {
           "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "किसी की भलाई पूछें",
+          "title": "किसी का हाल-चाल पूछें",
           "activityPattern": [],
           "activities": 24
         },
@@ -285,14 +285,14 @@
         {
           "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "टाइम एक्स्प्रेशन का उपयोग करें",
+          "title": "टाइम एक्स्प्रेशन का इस्तेमाल करें",
           "activityPattern": [],
           "activities": 26
         },
         {
           "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "परीक्षा और अध्ययन आदतों पर चर्चा करें",
+          "title": "परीक्षा और पढ़ने की आदतों पर चर्चा करें",
           "activityPattern": [],
           "activities": 27
         },
@@ -306,14 +306,14 @@
         {
           "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "पसंद व्यक्त करें",
+          "title": "पसंद बताएँ",
           "activityPattern": [],
           "activities": 29
         },
         {
           "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "किराना दुकान में खरीदारी करें",
+          "title": "किराने की दुकान में खरीदारी करें",
           "activityPattern": [],
           "activities": 30
         }
@@ -329,7 +329,7 @@
         {
           "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "जगह के प्रीपोज़िशन का प्रयोग करें",
+          "title": "जगह के प्रीपोज़िशन का इस्तेमाल करें",
           "activityPattern": [],
           "activities": 1
         },
@@ -343,7 +343,7 @@
         {
           "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "सामाजिक गतिविधियाँ योजना बनाएँ",
+          "title": "सामाजिक कार्यक्रमों की योजना बनाएँ",
           "activityPattern": [],
           "activities": 3
         },
@@ -371,7 +371,7 @@
         {
           "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "काम का शेड्यूल प्रबंधित करें",
+          "title": "काम का शेड्यूल मैनेज करें",
           "activityPattern": [],
           "activities": 7
         },
@@ -385,7 +385,7 @@
         {
           "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "एडजेक्टिव से वस्तुओं का वर्णन करें",
+          "title": "एडजेक्टिव से चीजों के बारे में बताएँ",
           "activityPattern": [],
           "activities": 9
         },
@@ -406,7 +406,7 @@
         {
           "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "माफ़ी व्यक्त करें",
+          "title": "माफ़ी माँगें",
           "activityPattern": [],
           "activities": 12
         },
@@ -420,21 +420,21 @@
         {
           "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "स्वास्थ्य समस्याओं का प्रबंधन करें",
+          "title": "स्वास्थ्य समस्याओं पर ध्यान दें",
           "activityPattern": [],
           "activities": 14
         },
         {
           "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "कंपेरेटिव और सुपरलेटिव प्रयोग करें",
+          "title": "कंपेरेटिव और सुपरलेटिव का इस्तेमाल करें",
           "activityPattern": [],
           "activities": 15
         },
         {
           "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "यात्रा अनुभव साझा करें",
+          "title": "यात्रा का अनुभव शेयर करें",
           "activityPattern": [],
           "activities": 16
         },
@@ -462,14 +462,14 @@
         {
           "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "\"-래요\" के साथ इरादे व्यक्त करें",
+          "title": "\"-래요\" के साथ इरादे बताएँ",
           "activityPattern": [],
           "activities": 20
         },
         {
           "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "परीक्षा के अनुभव साझा करें",
+          "title": "परीक्षा का अनुभव शेयर करें",
           "activityPattern": [],
           "activities": 21
         },
@@ -483,7 +483,7 @@
         {
           "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "अपने करियर के लक्ष्य बताएँ",
+          "title": "अपने करियर का लक्ष्य बताएँ",
           "activityPattern": [],
           "activities": 23
         },
@@ -504,7 +504,7 @@
         {
           "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "यात्रा निर्देशों का पालन करें",
+          "title": "यात्रा के निर्देशों का पालन करें",
           "activityPattern": [],
           "activities": 26
         },
@@ -963,11 +963,11 @@
           "unitIndex": 4,
           "title": "निजी अनुभव और किस्से शेयर करें",
           "activityPattern": [
-            2025,
-            10,
-            8
+            2026,
+            6,
+            5
           ],
-          "activities": 2043
+          "activities": 2037
         }
       ]
     }

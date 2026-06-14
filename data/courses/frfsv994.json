@@ -2,8 +2,8 @@
   "meta": {
     "key": "frfsv994",
     "courseTitle": "Swedish → French",
-    "scrapedAt": "2026-06-04T18:19:46.476Z",
-    "sourceHash": "sha256:5ac582051a00ede4",
+    "scrapedAt": "2026-06-14T04:33:59.805Z",
+    "sourceHash": "sha256:4d1050619ebac1c8",
     "fromLang": "Swedish",
     "toLang": "French",
     "fromCode": "sv",
@@ -17,7 +17,7 @@
   },
   "totals": {
     "sections": 8,
-    "activities": 100910,
+    "activities": 100914,
     "units": 994
   },
   "sections": [
@@ -94,7 +94,7 @@
         {
           "sectionIndex": 1,
           "unitIndex": 1,
-          "title": "Prata om ditt kvarter",
+          "title": "Prata om ditt grannskap",
           "activityPattern": [],
           "activities": 10
         }
@@ -138,7 +138,7 @@
         {
           "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "Prata om lunchen på jobbet",
+          "title": "Använd presens",
           "activityPattern": [],
           "activities": 5
         },
@@ -201,14 +201,14 @@
         {
           "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "Prata om skolan",
+          "title": "Använd negationer i meningar",
           "activityPattern": [],
           "activities": 14
         },
         {
           "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "Prata om sport",
+          "title": "Prata om sporter",
           "activityPattern": [],
           "activities": 15
         },
@@ -222,7 +222,7 @@
         {
           "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "Beställ mat och dryck",
+          "title": "Använd \"avoir\" för tillstånd och ägande",
           "activityPattern": [],
           "activities": 17
         },
@@ -236,14 +236,14 @@
         {
           "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "Diskutera priser",
+          "title": "Prata om priser",
           "activityPattern": [],
           "activities": 19
         },
         {
           "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "Beskriv vad du ser",
+          "title": "Använd artiklar före vokaler och \"h\"",
           "activityPattern": [],
           "activities": 20
         },
@@ -257,7 +257,7 @@
         {
           "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "Prata om resplaner",
+          "title": "Prata om reseplaner",
           "activityPattern": [],
           "activities": 22
         },
@@ -278,14 +278,14 @@
         {
           "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "Beställ mat och dryck",
+          "title": "Använd partitiva artiklar",
           "activityPattern": [],
           "activities": 25
         },
         {
           "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "Prata om sport",
+          "title": "Prata om sporter",
           "activityPattern": [],
           "activities": 26
         },
@@ -299,7 +299,7 @@
         {
           "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "Boka ett hotellrum",
+          "title": "Använd modala verb för skyldighet",
           "activityPattern": [],
           "activities": 28
         },
@@ -329,7 +329,7 @@
         {
           "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "Planera tillsammans med vänner",
+          "title": "Planera med vänner",
           "activityPattern": [],
           "activities": 1
         },
@@ -343,14 +343,14 @@
         {
           "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "Hantera brådskande uppgifter",
+          "title": "Prata om tid och scheman",
           "activityPattern": [],
           "activities": 3
         },
         {
           "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "Förbered dig inför resan",
+          "title": "Förbered för resan",
           "activityPattern": [],
           "activities": 4
         },
@@ -385,21 +385,21 @@
         {
           "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "Planera fritidsaktiviteter",
+          "title": "Använd futurum",
           "activityPattern": [],
           "activities": 9
         },
         {
           "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "Handla för hälsa och hygien",
+          "title": "Handla hälso- och hygienartiklar",
           "activityPattern": [],
           "activities": 10
         },
         {
           "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "Uttryck känslor",
+          "title": "Använd negativa uttryck",
           "activityPattern": [],
           "activities": 11
         },
@@ -427,7 +427,7 @@
         {
           "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "Beskriv din dagliga rutin",
+          "title": "Använd reflexiva verb",
           "activityPattern": [],
           "activities": 15
         },
@@ -441,7 +441,7 @@
         {
           "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "Utvärdera produkter vid shopping",
+          "title": "Använd jämförelser",
           "activityPattern": [],
           "activities": 17
         },
@@ -455,7 +455,7 @@
         {
           "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "Spela spel och sporta",
+          "title": "Spela spel och sporter",
           "activityPattern": [],
           "activities": 19
         },
@@ -476,7 +476,7 @@
         {
           "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "Prata om erfarenheter i skolan",
+          "title": "Använd superlativer",
           "activityPattern": [],
           "activities": 22
         },
@@ -518,14 +518,14 @@
         {
           "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "Hitta matvaror i en butik",
+          "title": "Använd tempuset \"passé composé\"",
           "activityPattern": [],
           "activities": 28
         },
         {
           "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "Prata om familjetillställningar",
+          "title": "Prata om familjehändelser",
           "activityPattern": [],
           "activities": 29
         }
@@ -2756,7 +2756,7 @@
     },
     {
       "sectionIndex": 6,
-      "unitCount": 260,
+      "unitCount": 245,
       "title": ":",
       "rawTitle": "CEFR B1:",
       "cefr": "B1",
@@ -5749,7 +5749,7 @@
     },
     {
       "sectionIndex": 8,
-      "unitCount": 180,
+      "unitCount": 185,
       "title": ":",
       "rawTitle": "CEFR B2:",
       "cefr": "B2",
@@ -7047,11 +7047,11 @@
           "unitIndex": 8,
           "title": "Motivation: Dela dina mål",
           "activityPattern": [
-            2025,
-            12,
-            3
+            2026,
+            6,
+            12
           ],
-          "activities": 2040
+          "activities": 2044
         }
       ]
     }

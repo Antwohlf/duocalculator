@@ -2,8 +2,8 @@
   "meta": {
     "key": "esfhi991",
     "courseTitle": "Hindi → Spanish",
-    "scrapedAt": "2026-06-04T18:19:46.476Z",
-    "sourceHash": "sha256:c9c34fd5cf422e01",
+    "scrapedAt": "2026-06-14T04:33:59.805Z",
+    "sourceHash": "sha256:e2efe0ae178d07b8",
     "fromLang": "Hindi",
     "toLang": "Spanish",
     "fromCode": "hi",
@@ -17,7 +17,7 @@
   },
   "totals": {
     "sections": 8,
-    "activities": 100045,
+    "activities": 100039,
     "units": 991
   },
   "sections": [
@@ -102,7 +102,7 @@
     },
     {
       "sectionIndex": 2,
-      "unitCount": 31,
+      "unitCount": 30,
       "title": ":",
       "rawTitle": "CEFR A1:",
       "cefr": "A1",
@@ -328,7 +328,7 @@
     },
     {
       "sectionIndex": 3,
-      "unitCount": 30,
+      "unitCount": 31,
       "title": ":",
       "rawTitle": "CEFR A1:",
       "cefr": "A1",
@@ -549,8 +549,8 @@
       "sectionIndex": 4,
       "unitCount": 60,
       "title": ":",
-      "rawTitle": "CEFR A2:",
-      "cefr": "A2",
+      "rawTitle": "CEFR B2:",
+      "cefr": "B2",
       "units": [
         {
           "sectionIndex": 4,
@@ -976,7 +976,7 @@
     },
     {
       "sectionIndex": 5,
-      "unitCount": 255,
+      "unitCount": 250,
       "title": ":",
       "rawTitle": "CEFR B1:",
       "cefr": "B1",
@@ -2735,7 +2735,7 @@
     },
     {
       "sectionIndex": 6,
-      "unitCount": 260,
+      "unitCount": 250,
       "title": ":",
       "rawTitle": "CEFR B1:",
       "cefr": "B1",
@@ -7026,11 +7026,11 @@
           "unitIndex": 8,
           "title": "सीखना: अब समझो और बोलो",
           "activityPattern": [
-            2025,
-            12,
-            12
+            2026,
+            6,
+            11
           ],
-          "activities": 2049
+          "activities": 2043
         }
       ]
     }

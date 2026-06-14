@@ -2,8 +2,8 @@
   "meta": {
     "key": "ptfhi131",
     "courseTitle": "Hindi → Portuguese",
-    "scrapedAt": "2026-06-04T18:19:46.476Z",
-    "sourceHash": "sha256:833818d6d84e4824",
+    "scrapedAt": "2026-06-14T04:33:59.805Z",
+    "sourceHash": "sha256:16770dbd46e4929b",
     "fromLang": "Hindi",
     "toLang": "Portuguese",
     "fromCode": "hi",
@@ -17,7 +17,7 @@
   },
   "totals": {
     "sections": 4,
-    "activities": 4809,
+    "activities": 4810,
     "units": 131
   },
   "sections": [
@@ -970,11 +970,11 @@
           "unitIndex": 4,
           "title": "अपराध स्थल का वर्णन करें",
           "activityPattern": [
-            2025,
-            12,
-            6
+            2026,
+            6,
+            12
           ],
-          "activities": 2043
+          "activities": 2044
         }
       ]
     }

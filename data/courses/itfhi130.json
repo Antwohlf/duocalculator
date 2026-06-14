@@ -2,8 +2,8 @@
   "meta": {
     "key": "itfhi130",
     "courseTitle": "Hindi → Italian",
-    "scrapedAt": "2026-06-04T18:19:46.476Z",
-    "sourceHash": "sha256:2cdb54f38314b4e8",
+    "scrapedAt": "2026-06-14T04:33:59.805Z",
+    "sourceHash": "sha256:9572409ca331ec4f",
     "fromLang": "Hindi",
     "toLang": "Italian",
     "fromCode": "hi",
@@ -17,7 +17,7 @@
   },
   "totals": {
     "sections": 4,
-    "activities": 4798,
+    "activities": 4795,
     "units": 130
   },
   "sections": [
@@ -166,7 +166,7 @@
         {
           "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "नापसंद",
+          "title": "पसंद और नापसंद बताएँ",
           "activityPattern": [],
           "activities": 9
         },
@@ -963,11 +963,11 @@
           "unitIndex": 4,
           "title": "अंतरराष्ट्रीय एक्सपो में घूमना",
           "activityPattern": [
-            2025,
-            12,
-            6
+            2026,
+            6,
+            8
           ],
-          "activities": 2043
+          "activities": 2040
         }
       ]
     }

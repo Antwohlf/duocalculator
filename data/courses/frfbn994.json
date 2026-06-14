@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "key": "frfbn994",
+    "courseTitle": "Bengali → French",
+    "scrapedAt": "2026-06-14T04:33:59.805Z",
+    "sourceHash": "sha256:af7c1ea7b7c66ff6",
+    "fromLang": "Bengali",
+    "toLang": "French",
+    "fromCode": "bn",
+    "toCode": "fr",
+    "level": null,
+    "levelShort": null,
+    "detailHref": "https://duolingodata.com/dat/frfbn994.html",
+    "detailHrefHash": "sha256:2159f6c0c1760c2a",
+    "scrapeWarnings": [
+      "No sections parsed, using meta.unitsCount",
+      "No activities parsed, using meta.lessonsCount"
+    ],
+    "schemaVersion": "1.0.0"
+  },
+  "totals": {
+    "sections": 0,
+    "activities": 8405,
+    "units": 994
+  },
+  "sections": []
+}

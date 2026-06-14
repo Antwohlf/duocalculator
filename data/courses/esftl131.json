@@ -2,8 +2,8 @@
   "meta": {
     "key": "esftl131",
     "courseTitle": "Tagalog → Spanish",
-    "scrapedAt": "2026-06-04T18:19:46.476Z",
-    "sourceHash": "sha256:fc01fe61f8c62230",
+    "scrapedAt": "2026-06-14T04:33:59.805Z",
+    "sourceHash": "sha256:3ca22052cf14390e",
     "fromLang": "Tagalog",
     "toLang": "Spanish",
     "fromCode": "tl",
@@ -17,7 +17,7 @@
   },
   "totals": {
     "sections": 4,
-    "activities": 4828,
+    "activities": 4829,
     "units": 131
   },
   "sections": [
@@ -970,11 +970,11 @@
           "unitIndex": 4,
           "title": "Pag-report ng krimen",
           "activityPattern": [
-            2025,
-            12,
-            5
+            2026,
+            6,
+            11
           ],
-          "activities": 2042
+          "activities": 2043
         }
       ]
     }

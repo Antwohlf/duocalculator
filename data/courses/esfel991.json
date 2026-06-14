@@ -2,8 +2,8 @@
   "meta": {
     "key": "esfel991",
     "courseTitle": "Greek → Spanish",
-    "scrapedAt": "2026-06-04T18:19:46.476Z",
-    "sourceHash": "sha256:8719e03f34bf7d2b",
+    "scrapedAt": "2026-06-14T04:33:59.805Z",
+    "sourceHash": "sha256:07796b34fd4b4cea",
     "fromLang": "Greek",
     "toLang": "Spanish",
     "fromCode": "el",
@@ -17,7 +17,7 @@
   },
   "totals": {
     "sections": 8,
-    "activities": 100045,
+    "activities": 100040,
     "units": 991
   },
   "sections": [
@@ -7026,11 +7026,11 @@
           "unitIndex": 8,
           "title": "Μάθηση: Εξήγησε πώς βελτιώθηκες",
           "activityPattern": [
-            2025,
-            12,
+            2026,
+            6,
             12
           ],
-          "activities": 2049
+          "activities": 2044
         }
       ]
     }

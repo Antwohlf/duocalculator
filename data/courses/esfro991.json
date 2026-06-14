@@ -2,8 +2,8 @@
   "meta": {
     "key": "esfro991",
     "courseTitle": "Romanian → Spanish",
-    "scrapedAt": "2026-06-04T18:19:46.476Z",
-    "sourceHash": "sha256:1d8c66a4ccadf116",
+    "scrapedAt": "2026-06-14T04:33:59.805Z",
+    "sourceHash": "sha256:fb722bcb9a690c22",
     "fromLang": "Romanian",
     "toLang": "Spanish",
     "fromCode": "ro",
@@ -17,7 +17,7 @@
   },
   "totals": {
     "sections": 8,
-    "activities": 100044,
+    "activities": 100038,
     "units": 991
   },
   "sections": [
@@ -7026,11 +7026,11 @@
           "unitIndex": 8,
           "title": "Învățare: Descrie cum ai învățat",
           "activityPattern": [
-            2025,
-            12,
-            11
+            2026,
+            6,
+            10
           ],
-          "activities": 2048
+          "activities": 2042
         }
       ]
     }

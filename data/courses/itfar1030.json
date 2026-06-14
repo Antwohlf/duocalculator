@@ -1,0 +1,7307 @@
+{
+  "meta": {
+    "key": "itfar1030",
+    "courseTitle": "Arabic → Italian",
+    "scrapedAt": "2026-06-14T04:33:59.805Z",
+    "sourceHash": "sha256:2b9ee34a58cbe08e",
+    "fromLang": "Arabic",
+    "toLang": "Italian",
+    "fromCode": "ar",
+    "toCode": "it",
+    "level": "CEFR INTRO",
+    "levelShort": "INTRO",
+    "detailHref": "https://duolingodata.com/dat/itfar1030.html",
+    "detailHrefHash": "sha256:1c75755bdde13156",
+    "scrapeWarnings": [],
+    "schemaVersion": "1.0.0"
+  },
+  "totals": {
+    "sections": 8,
+    "activities": 105765,
+    "units": 1030
+  },
+  "sections": [
+    {
+      "sectionIndex": 1,
+      "unitCount": 10,
+      "title": "CEFR Intro:",
+      "rawTitle": "CEFR Intro:",
+      "cefr": "INTRO:",
+      "units": [
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "اطلب في المقهى",
+          "activityPattern": [],
+          "activities": 1
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "حيّ وودّع",
+          "activityPattern": [],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "تحدث عن موطنك الأصلي",
+          "activityPattern": [],
+          "activities": 3
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "تحدث عن عائلتك",
+          "activityPattern": [],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "صِف الشخصيات",
+          "activityPattern": [],
+          "activities": 5
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "حدّد أماكن في المدينة",
+          "activityPattern": [],
+          "activities": 6
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "استخدم الزمن الحاضر",
+          "activityPattern": [],
+          "activities": 7
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "تسوّق الفواكه والخضروات",
+          "activityPattern": [],
+          "activities": 8
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "استخدم التوافق في الجنس والعدد",
+          "activityPattern": [],
+          "activities": 9
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "أسأل عن الاتجاهات",
+          "activityPattern": [],
+          "activities": 10
+        }
+      ]
+    },
+    {
+      "sectionIndex": 2,
+      "unitCount": 30,
+      "title": ":",
+      "rawTitle": "CEFR A1:",
+      "cefr": "A1",
+      "units": [
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "اطلب الطعام والشراب",
+          "activityPattern": [],
+          "activities": 1
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "ابحث عن ملابس",
+          "activityPattern": [],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "استخدم صفات الملكية",
+          "activityPattern": [],
+          "activities": 3
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "ناقش دراساتك",
+          "activityPattern": [],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "ناقش عن الوظائف وأماكن العمل",
+          "activityPattern": [],
+          "activities": 5
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "صرّف أفعال -are في الزمن الحاضر",
+          "activityPattern": [],
+          "activities": 6
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "ناقش الهوايات والاهتمامات",
+          "activityPattern": [],
+          "activities": 7
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "استخدم \"يكون\" للحالات والمشاعر",
+          "activityPattern": [],
+          "activities": 8
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "عبّر عن الإعجاب وعدم الإعجاب",
+          "activityPattern": [],
+          "activities": 9
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "استكشف المدينة",
+          "activityPattern": [],
+          "activities": 10
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "تسوّق الملابس",
+          "activityPattern": [],
+          "activities": 11
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "أبلغ عن مشكلة",
+          "activityPattern": [],
+          "activities": 12
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "صِف محيطك",
+          "activityPattern": [],
+          "activities": 13
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "احتفل بعيد ميلاد",
+          "activityPattern": [],
+          "activities": 14
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "ناقش مهام العمل",
+          "activityPattern": [],
+          "activities": 15
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "تحدث عن حفلات الزفاف",
+          "activityPattern": [],
+          "activities": 16
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "شارك تفاصيل شخصية",
+          "activityPattern": [],
+          "activities": 17
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "استخدم حروف الجر للحركة",
+          "activityPattern": [],
+          "activities": 18
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "استخدم الأفعال المساعدة للحاجة",
+          "activityPattern": [],
+          "activities": 19
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "صِف الصفات والممتلكات",
+          "activityPattern": [],
+          "activities": 20
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "صِف غرفة",
+          "activityPattern": [],
+          "activities": 21
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "استخدم الزمن الحاضر للأعمال الروتينية",
+          "activityPattern": [],
+          "activities": 22
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "خطط لرحلة",
+          "activityPattern": [],
+          "activities": 23
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "عبّر عن الخوف والقلق",
+          "activityPattern": [],
+          "activities": 24
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "خطط لرحلة عمل",
+          "activityPattern": [],
+          "activities": 25
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "خطط للأنشطة الترفيهية",
+          "activityPattern": [],
+          "activities": 26
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "تحدث عن العائلة",
+          "activityPattern": [],
+          "activities": 27
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "خطط لرحلة إلى سويسرا",
+          "activityPattern": [],
+          "activities": 28
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "ناقش المواد الدراسية",
+          "activityPattern": [],
+          "activities": 29
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "ناقش عن الأعمال المنزلية",
+          "activityPattern": [],
+          "activities": 30
+        }
+      ]
+    },
+    {
+      "sectionIndex": 3,
+      "unitCount": 30,
+      "title": ":",
+      "rawTitle": "CEFR A1:",
+      "cefr": "A1",
+      "units": [
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "صِف حيّك",
+          "activityPattern": [],
+          "activities": 1
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "استخدم صفات الإشارة",
+          "activityPattern": [],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "قيّم مشترياتك",
+          "activityPattern": [],
+          "activities": 3
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "استخدم أفعال القدرة والرغبة",
+          "activityPattern": [],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "خطط لحفلة",
+          "activityPattern": [],
+          "activities": 5
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "عبّر عن المشاعر واطلب الإذن",
+          "activityPattern": [],
+          "activities": 6
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "تسوق منتجات النظافة",
+          "activityPattern": [],
+          "activities": 7
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "قدم واعتذر عن الدعوات",
+          "activityPattern": [],
+          "activities": 8
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "استخدم تراكيب الملكية",
+          "activityPattern": [],
+          "activities": 9
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "ناقش اهتمامات العائلة",
+          "activityPattern": [],
+          "activities": 10
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "احصل على خدمات الطوارئ",
+          "activityPattern": [],
+          "activities": 11
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "صِف منزلك",
+          "activityPattern": [],
+          "activities": 12
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "تحدث مع شخص بشكل رسمي",
+          "activityPattern": [],
+          "activities": 13
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "استخدم ضمائر المفعول بعد حروف الجر",
+          "activityPattern": [],
+          "activities": 14
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "ناقش إعدادات التعلم",
+          "activityPattern": [],
+          "activities": 15
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "استخدم الأوامر",
+          "activityPattern": [],
+          "activities": 16
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "ناقش الوصفات والمكوّنات",
+          "activityPattern": [],
+          "activities": 17
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "استخدم الأوامر السلبية",
+          "activityPattern": [],
+          "activities": 18
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "تحدث عن البريد والطرود",
+          "activityPattern": [],
+          "activities": 19
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "تحدث عن صحتك",
+          "activityPattern": [],
+          "activities": 20
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "استخدم زمن المستقبل",
+          "activityPattern": [],
+          "activities": 21
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "تحدث عن رحلة",
+          "activityPattern": [],
+          "activities": 22
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "شارك في الفعاليات",
+          "activityPattern": [],
+          "activities": 23
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "خطّط لعطلة على الشاطئ",
+          "activityPattern": [],
+          "activities": 24
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "تسوّق الهدايا التذكارية",
+          "activityPattern": [],
+          "activities": 25
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "قدّم أشخاصًا آخرين",
+          "activityPattern": [],
+          "activities": 26
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "صِف المظاهر",
+          "activityPattern": [],
+          "activities": 27
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "اطلب المساعدة الطبية",
+          "activityPattern": [],
+          "activities": 28
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "كوّن مقارنات إيجابية باستخدام \"دي\"",
+          "activityPattern": [],
+          "activities": 29
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "تحدث عن نجوم البوب",
+          "activityPattern": [],
+          "activities": 30
+        }
+      ]
+    },
+    {
+      "sectionIndex": 4,
+      "unitCount": 60,
+      "title": ":",
+      "rawTitle": "CEFR A2:",
+      "cefr": "A2",
+      "units": [
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "رفض الدعوات بأدب",
+          "activityPattern": [],
+          "activities": 1
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "ناقش الهوايات المفضلة",
+          "activityPattern": [],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "احجز غرفة في نزل",
+          "activityPattern": [],
+          "activities": 3
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "خطط لحفلة عيد ميلاد 18",
+          "activityPattern": [],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "ناقش حدث العمل",
+          "activityPattern": [],
+          "activities": 5
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "تفاوض لشراء منزل",
+          "activityPattern": [],
+          "activities": 6
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "افتح حساب بنكي",
+          "activityPattern": [],
+          "activities": 7
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "قابل شخصية مشهورة",
+          "activityPattern": [],
+          "activities": 8
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "اعطي تعليمات الجلوس مع الأطفال",
+          "activityPattern": [],
+          "activities": 9
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "خطط لحفلة مفاجأة",
+          "activityPattern": [],
+          "activities": 10
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "نظف البيت",
+          "activityPattern": [],
+          "activities": 11
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "التقديم على منحة",
+          "activityPattern": [],
+          "activities": 12
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "ناقش الانتخابات القادمة",
+          "activityPattern": [],
+          "activities": 13
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "ابحث عن فرص تطوع مناسبة",
+          "activityPattern": [],
+          "activities": 14
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "ناقش أهداف تحسين الذات",
+          "activityPattern": [],
+          "activities": 15
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "خطط لرحلة حفلة موسيقية",
+          "activityPattern": [],
+          "activities": 16
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "وصف الروتين الصباحي",
+          "activityPattern": [],
+          "activities": 17
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "اشتكي من زملاء السكن الفوضويين",
+          "activityPattern": [],
+          "activities": 18
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "ناقش تفضيلات الطعام",
+          "activityPattern": [],
+          "activities": 19
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "ساعد زائر غريب",
+          "activityPattern": [],
+          "activities": 20
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "احكي عن إجازة سابقة",
+          "activityPattern": [],
+          "activities": 21
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "تفاخر بالإنجازات",
+          "activityPattern": [],
+          "activities": 22
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "جمع المال للأعمال الخيرية",
+          "activityPattern": [],
+          "activities": 23
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "شارك قصص الأشباح",
+          "activityPattern": [],
+          "activities": 24
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "اطلب جيلاتو من الجيلاتيريا",
+          "activityPattern": [],
+          "activities": 25
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "أوصف مناظر توسكانا الطبيعية",
+          "activityPattern": [],
+          "activities": 26
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "الإبلاغ عن جريمة",
+          "activityPattern": [],
+          "activities": 27
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "ناقش المستند عن بُعد",
+          "activityPattern": [],
+          "activities": 28
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "شجع المشاركة مع الأصدقاء",
+          "activityPattern": [],
+          "activities": 29
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "جهز شنطتك للسفر",
+          "activityPattern": [],
+          "activities": 30
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "اعمل قرارات السنة الجديدة",
+          "activityPattern": [],
+          "activities": 31
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "وصف أعراض الألم",
+          "activityPattern": [],
+          "activities": 32
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "خطط لحفلة استقبال مولود",
+          "activityPattern": [],
+          "activities": 33
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "ناقش أنشطة العطلات الماضية",
+          "activityPattern": [],
+          "activities": 34
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "احكي عن مسيرتك المهنية",
+          "activityPattern": [],
+          "activities": 35
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "احكي عن تجربة انتقالك",
+          "activityPattern": [],
+          "activities": 36
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "أوصف هدايا من \"un ammiratore\"",
+          "activityPattern": [],
+          "activities": 37
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "عرف الجيران في \"palazzo\"",
+          "activityPattern": [],
+          "activities": 38
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "ناقش الآراء حول البيتزا",
+          "activityPattern": [],
+          "activities": 39
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "ناقش الأدوية مع الطبيب",
+          "activityPattern": [],
+          "activities": 40
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "ناقش عادات النظافة في التخييم",
+          "activityPattern": [],
+          "activities": 41
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "اطلب مساعدة دعم فني",
+          "activityPattern": [],
+          "activities": 42
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "اسحب فلوس من \"bancomat\"",
+          "activityPattern": [],
+          "activities": 43
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "احكي عن أنشطة الطفولة",
+          "activityPattern": [],
+          "activities": 44
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "ناقش تجاربك السابقة بالخارج",
+          "activityPattern": [],
+          "activities": 45
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "ناقش العطلات الماضية والحالية",
+          "activityPattern": [],
+          "activities": 46
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "ناقش خطط شراء الهدايا",
+          "activityPattern": [],
+          "activities": 47
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "نتكلم عن الموروثات العائلية",
+          "activityPattern": [],
+          "activities": 48
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "ناقش اهتماماتك الفنية",
+          "activityPattern": [],
+          "activities": 49
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "اعطي توصيات عن وسائل الإعلام",
+          "activityPattern": [],
+          "activities": 50
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "نتكلم عن الهدايا للمناسبات",
+          "activityPattern": [],
+          "activities": 51
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "صف صفات الماضي والحاضر",
+          "activityPattern": [],
+          "activities": 52
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "ناقش تجاربك الرياضية السابقة",
+          "activityPattern": [],
+          "activities": 53
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "ناقش أحداث إيطاليا التاريخية",
+          "activityPattern": [],
+          "activities": 54
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "ناقش مواعيد المشروع مع الزملاء",
+          "activityPattern": [],
+          "activities": 55
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "علّق على الأشياء الغريبة",
+          "activityPattern": [],
+          "activities": 56
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "ناقش زيارات العائلة في الويكند",
+          "activityPattern": [],
+          "activities": 57
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "تحديد موعد مع الطبيب",
+          "activityPattern": [],
+          "activities": 58
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "ناقش أداء الموظفين",
+          "activityPattern": [],
+          "activities": 59
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "التنقل في معرض دولي",
+          "activityPattern": [],
+          "activities": 60
+        }
+      ]
+    },
+    {
+      "sectionIndex": 5,
+      "unitCount": 250,
+      "title": ":",
+      "rawTitle": "CEFR B1:",
+      "cefr": "B1",
+      "units": [
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الحي: شارك في فعاليات الحي",
+          "activityPattern": [],
+          "activities": 1
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الحي: صف المحلات القريبة",
+          "activityPattern": [],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الحي: اسأل عن فعاليات الحي",
+          "activityPattern": [],
+          "activities": 3
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الحي: اعرض معالم الحي",
+          "activityPattern": [],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الحي: اشر إلى أماكن في الحي",
+          "activityPattern": [],
+          "activities": 5
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "إبداع: شارك فكرة جديدة",
+          "activityPattern": [],
+          "activities": 6
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "إبداع: شارك أفكارك الإبداعية",
+          "activityPattern": [],
+          "activities": 7
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "إبداع: شارك هواياتك المفضلة",
+          "activityPattern": [],
+          "activities": 8
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "إبداع: قدّم اقتراحات جديدة",
+          "activityPattern": [],
+          "activities": 9
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "إبداع: عبّر عن شخصيتك",
+          "activityPattern": [],
+          "activities": 10
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "النجاح: قيّم إنجازاتك",
+          "activityPattern": [],
+          "activities": 11
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "النجاح: صف شعورك عند النجاح",
+          "activityPattern": [],
+          "activities": 12
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "النجاح: شارك تجربتك السابقة",
+          "activityPattern": [],
+          "activities": 13
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "النجاح: قدم نفسك للمجموعة",
+          "activityPattern": [],
+          "activities": 14
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "النجاح: شارك قصص نجاحك",
+          "activityPattern": [],
+          "activities": 15
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الطبيعة: اسأل عن مغامرات المستكشفين",
+          "activityPattern": [],
+          "activities": 16
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الطبيعة: وصف مناظر طبيعية",
+          "activityPattern": [],
+          "activities": 17
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الطبيعة: صف المنتزهات الوطنية",
+          "activityPattern": [],
+          "activities": 18
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الطبيعة: صف المناظر الطبيعية",
+          "activityPattern": [],
+          "activities": 19
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الطبيعة: صف منظر الجبال",
+          "activityPattern": [],
+          "activities": 20
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "العائلة: صف أفراد عائلتك",
+          "activityPattern": [],
+          "activities": 21
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "العائلة: صف رحلتك مع العائلة",
+          "activityPattern": [],
+          "activities": 22
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "العائلة: صف شخصيات العائلة",
+          "activityPattern": [],
+          "activities": 23
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "العائلة: اطلب رأي عائلتك",
+          "activityPattern": [],
+          "activities": 24
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "العائلة: تحدث عن أفراد عائلتك",
+          "activityPattern": [],
+          "activities": 25
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "أدوات: قارن بين الأدوات",
+          "activityPattern": [],
+          "activities": 26
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "أدوات: استخدم الكمبيوتر في العمل",
+          "activityPattern": [],
+          "activities": 27
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "أدوات: ابحث عن الرسائل المهمة",
+          "activityPattern": [],
+          "activities": 28
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "أدوات: استخدم الأدوات الذكية",
+          "activityPattern": [],
+          "activities": 29
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "أدوات: نظم ملفاتك على الحاسوب",
+          "activityPattern": [],
+          "activities": 30
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الفصل: ناقش عادات الدراسة",
+          "activityPattern": [],
+          "activities": 31
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الفصل: اشرح مشكلة في الفصل",
+          "activityPattern": [],
+          "activities": 32
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الفصل: تحدث عن دورك في الفصل",
+          "activityPattern": [],
+          "activities": 33
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الفصل: وضح قواعد الفصل",
+          "activityPattern": [],
+          "activities": 34
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الفصل: شارك ملاحظاتك مع زميلك",
+          "activityPattern": [],
+          "activities": 35
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الفصول: صف ألوان الأشجار",
+          "activityPattern": [],
+          "activities": 36
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الفصول: صف ألوان الفصول",
+          "activityPattern": [],
+          "activities": 37
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الفصول: صف الطقس اليوم",
+          "activityPattern": [],
+          "activities": 38
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الفصول: شارك أنشطتك في كل فصل",
+          "activityPattern": [],
+          "activities": 39
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الفصول: تحدث عن تغير الفصول",
+          "activityPattern": [],
+          "activities": 40
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "التحضير: شارك خططك القادمة",
+          "activityPattern": [],
+          "activities": 41
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "التحضير: اختر المواد الدراسية",
+          "activityPattern": [],
+          "activities": 42
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "التحضير: رتب مواعيد السفر",
+          "activityPattern": [],
+          "activities": 43
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "التحضير: اسأل عن تفاصيل التحضير",
+          "activityPattern": [],
+          "activities": 44
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "التحضير: صف خطوات التحضير",
+          "activityPattern": [],
+          "activities": 45
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الهوايات: اختر خلفية جميلة",
+          "activityPattern": [],
+          "activities": 46
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الهوايات: تحدث عن هواياتك",
+          "activityPattern": [],
+          "activities": 47
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الهوايات: تحدث عن الهوايات مع الأصدقاء",
+          "activityPattern": [],
+          "activities": 48
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الهوايات: شارك أنشطتك المفضلة",
+          "activityPattern": [],
+          "activities": 49
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الهوايات: شارك قائمة أغانيك المفضلة",
+          "activityPattern": [],
+          "activities": 50
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "المسؤولية: اتبع تعليمات الأهل",
+          "activityPattern": [],
+          "activities": 51
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "المسؤولية: عبّر عن مسؤولياتك",
+          "activityPattern": [],
+          "activities": 52
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "المسؤولية: اطلب المساعدة في مهمة",
+          "activityPattern": [],
+          "activities": 53
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "المسؤولية: اعتنِ بالأطفال",
+          "activityPattern": [],
+          "activities": 54
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "المسؤولية: شارك في ترتيب الطاولة",
+          "activityPattern": [],
+          "activities": 55
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "المكتبة: اطلب مساعدة في المكتبة",
+          "activityPattern": [],
+          "activities": 56
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "المكتبة: اكتب بياناتك في النموذج",
+          "activityPattern": [],
+          "activities": 57
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "المكتبة: اسأل عن قسم الكتب",
+          "activityPattern": [],
+          "activities": 58
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "المكتبة: استعِر كتابا من المكتبة",
+          "activityPattern": [],
+          "activities": 59
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "المكتبة: اسأل عن مصادر المكتبة",
+          "activityPattern": [],
+          "activities": 60
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "المباراة: شارك خطة الفريق",
+          "activityPattern": [],
+          "activities": 61
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "المباراة: ناقش تجهيزات المباراة",
+          "activityPattern": [],
+          "activities": 62
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "المباراة: قدّم فريقك الجديد",
+          "activityPattern": [],
+          "activities": 63
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "المباراة: تحدث عن اللاعبين المفضلين",
+          "activityPattern": [],
+          "activities": 64
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "المباراة: صف أداء اللاعبين",
+          "activityPattern": [],
+          "activities": 65
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "المكتب: اسأل عن حلول للمشاكل",
+          "activityPattern": [],
+          "activities": 66
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "المكتب: صف أجواء المكتب",
+          "activityPattern": [],
+          "activities": 67
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "المكتب: صف أجواء العمل",
+          "activityPattern": [],
+          "activities": 68
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "المكتب: اشرح مسؤوليات الفريق",
+          "activityPattern": [],
+          "activities": 69
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "المكتب: شارك تفاصيل الاجتماع",
+          "activityPattern": [],
+          "activities": 70
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "حدث: اشرح تفاصيل الحدث",
+          "activityPattern": [],
+          "activities": 71
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "حدث: صف الحدث المدرسي",
+          "activityPattern": [],
+          "activities": 72
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "حدث: احكِ عن تجربة ثقافية",
+          "activityPattern": [],
+          "activities": 73
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "حدث: اشرح انطباعك عن الحدث",
+          "activityPattern": [],
+          "activities": 74
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "حدث: تحدث عن حدث مفاجئ",
+          "activityPattern": [],
+          "activities": 75
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "أفكار: اعرض فكرة علمية",
+          "activityPattern": [],
+          "activities": 76
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "أفكار: شارك أفكارك مع الآخرين",
+          "activityPattern": [],
+          "activities": 77
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "أفكار: شارك أفكارك حول البحث",
+          "activityPattern": [],
+          "activities": 78
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "أفكار: شارك فكرة جديدة",
+          "activityPattern": [],
+          "activities": 79
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "أفكار: عبّر عن رأيك بوضوح",
+          "activityPattern": [],
+          "activities": 80
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "مشاريع: قدم مشروعك",
+          "activityPattern": [],
+          "activities": 81
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "مشاريع: قدم فكرة لمشروعك",
+          "activityPattern": [],
+          "activities": 82
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "مشاريع: رتب مستلزمات المشروع",
+          "activityPattern": [],
+          "activities": 83
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "مشاريع: اسأل عن فرص العمل",
+          "activityPattern": [],
+          "activities": 84
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "مشاريع: صف مشروعك الحالي",
+          "activityPattern": [],
+          "activities": 85
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "السينما: اختر فيلماً للمشاهدة",
+          "activityPattern": [],
+          "activities": 86
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "السينما: صف فيلمك المفضل",
+          "activityPattern": [],
+          "activities": 87
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "السينما: قيّم قصة الفيلم",
+          "activityPattern": [],
+          "activities": 88
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "السينما: صف المشهد المفضل لديك",
+          "activityPattern": [],
+          "activities": 89
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "السينما: اسأل عن أحداث الفيلم",
+          "activityPattern": [],
+          "activities": 90
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "القوة: شارك رأيك في التحدي",
+          "activityPattern": [],
+          "activities": 91
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "القوة: تحدث عن حماس الجمهور",
+          "activityPattern": [],
+          "activities": 92
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "القوة: شارك قصة عن الشجاعة",
+          "activityPattern": [],
+          "activities": 93
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "القوة: عبّر عن أهمية الصبر",
+          "activityPattern": [],
+          "activities": 94
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "القوة: احكِ عن ذكرى عائلية",
+          "activityPattern": [],
+          "activities": 95
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الرحلة: شارك تجاربك في الرحلات",
+          "activityPattern": [],
+          "activities": 96
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الرحلة: شارك ذكريات الرحلات",
+          "activityPattern": [],
+          "activities": 97
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الرحلة: استعرض تجهيزات الرحلة",
+          "activityPattern": [],
+          "activities": 98
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الرحلة: اطلب مساعدة خدمة العملاء",
+          "activityPattern": [],
+          "activities": 99
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الرحلة: اسأل عن منح السفر",
+          "activityPattern": [],
+          "activities": 100
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "المقابلة: قدم خبراتك السابقة",
+          "activityPattern": [],
+          "activities": 101
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "المقابلة: صحح نطقك",
+          "activityPattern": [],
+          "activities": 102
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "المقابلة: صف مهاراتك في العمل",
+          "activityPattern": [],
+          "activities": 103
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "المقابلة: استعد للمقابلة",
+          "activityPattern": [],
+          "activities": 104
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "المقابلة: قدم نفسك للعمل",
+          "activityPattern": [],
+          "activities": 105
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "العائلة: شارك موقفاً مضحكاً",
+          "activityPattern": [],
+          "activities": 106
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "العائلة: تحدث عن علاقتك بعائلتك",
+          "activityPattern": [],
+          "activities": 107
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "العائلة: شارك قصص العائلة",
+          "activityPattern": [],
+          "activities": 108
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "العائلة: اسأل عن عادات الأسرة",
+          "activityPattern": [],
+          "activities": 109
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "العائلة: جهز نزهة عائلية",
+          "activityPattern": [],
+          "activities": 110
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الهدوء: عبّر عن إحساسك بالمكان",
+          "activityPattern": [],
+          "activities": 111
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الهدوء: حدث زميلك عن دراستك",
+          "activityPattern": [],
+          "activities": 112
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الهدوء: ناقش أهمية الهدوء",
+          "activityPattern": [],
+          "activities": 113
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الهدوء: شارك رأيك في الهدوء",
+          "activityPattern": [],
+          "activities": 114
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الهدوء: ناقش طرق الحفاظ على الهدوء",
+          "activityPattern": [],
+          "activities": 115
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "أسرار: شارك سرًا مع زميل",
+          "activityPattern": [],
+          "activities": 116
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "أسرار: اسأل عن سر مثير",
+          "activityPattern": [],
+          "activities": 117
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "أسرار: شارك سرًا بسيطًا",
+          "activityPattern": [],
+          "activities": 118
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "أسرار: شارك قصة غامضة",
+          "activityPattern": [],
+          "activities": 119
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "أسرار: شارك سرًا مع الآخرين",
+          "activityPattern": [],
+          "activities": 120
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الحياة: قدّم نفسك وزملاءك",
+          "activityPattern": [],
+          "activities": 121
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الحياة: تعرف إلى زملائك الجدد",
+          "activityPattern": [],
+          "activities": 122
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الحياة: تحدث عن خبراتك",
+          "activityPattern": [],
+          "activities": 123
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الحياة: شارك إنجازاتك الشخصية",
+          "activityPattern": [],
+          "activities": 124
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الحياة: شارك قصصك اليومية",
+          "activityPattern": [],
+          "activities": 125
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الموسيقى: شارك رأيك في الأغاني",
+          "activityPattern": [],
+          "activities": 126
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الموسيقى: تحدث عن أغانيك المفضلة",
+          "activityPattern": [],
+          "activities": 127
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الموسيقى: شارك رأيك في المقطوعة",
+          "activityPattern": [],
+          "activities": 128
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الموسيقى: شارك ذكريات الحفلات",
+          "activityPattern": [],
+          "activities": 129
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الموسيقى: تحدث عن ذوقك الموسيقي",
+          "activityPattern": [],
+          "activities": 130
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "المنزل: اشرح مهامك في المنزل",
+          "activityPattern": [],
+          "activities": 131
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "المنزل: اسأل عن الجيران",
+          "activityPattern": [],
+          "activities": 132
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "المنزل: نظم مهام المنزل",
+          "activityPattern": [],
+          "activities": 133
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "المنزل: صف المهام اليومية",
+          "activityPattern": [],
+          "activities": 134
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "المنزل: خطط لتنظيف المنزل",
+          "activityPattern": [],
+          "activities": 135
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الأعمال: نظم جدول أعمالك",
+          "activityPattern": [],
+          "activities": 136
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الأعمال: ناقش ترتيب الأعمال المنزلية",
+          "activityPattern": [],
+          "activities": 137
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الأعمال: اسأل عن المهام اليومية",
+          "activityPattern": [],
+          "activities": 138
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الأعمال: رتب جدول مهامك",
+          "activityPattern": [],
+          "activities": 139
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الأعمال: شارك روتينك اليومي",
+          "activityPattern": [],
+          "activities": 140
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الطقس: تسأل عن الطقس",
+          "activityPattern": [],
+          "activities": 141
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الطقس: صف حالة الطقس",
+          "activityPattern": [],
+          "activities": 142
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الطقس: اسأل عن أحوال الطقس",
+          "activityPattern": [],
+          "activities": 143
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الطقس: استعد للأمطار الغزيرة",
+          "activityPattern": [],
+          "activities": 144
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الطقس: اسأل عن الحرارة",
+          "activityPattern": [],
+          "activities": 145
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "تقدّم: شارك أهدافك الجديدة",
+          "activityPattern": [],
+          "activities": 146
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "تقدّم: عبّر عن مشاعرك تجاه التغيّر",
+          "activityPattern": [],
+          "activities": 147
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "تقدّم: شارك أهدافك مع صديق",
+          "activityPattern": [],
+          "activities": 148
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "تقدّم: اذكر أهدافك المستقبلية",
+          "activityPattern": [],
+          "activities": 149
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "تقدّم: تحدث عن إنجازاتك",
+          "activityPattern": [],
+          "activities": 150
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الأحلام: شارك أحلامك المستقبلية",
+          "activityPattern": [],
+          "activities": 151
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الأحلام: شارك أحلامك مع صديقك",
+          "activityPattern": [],
+          "activities": 152
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الأحلام: شارك أحلامك",
+          "activityPattern": [],
+          "activities": 153
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الأحلام: ناقش خططك القادمة",
+          "activityPattern": [],
+          "activities": 154
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الأحلام: تحدث عن أحلامك القديمة",
+          "activityPattern": [],
+          "activities": 155
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "وجبات: صف عاداتك الغذائية",
+          "activityPattern": [],
+          "activities": 156
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "وجبات: صف وجبتك المفضلة",
+          "activityPattern": [],
+          "activities": 157
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "وجبات: شارك عاداتك في الوجبات",
+          "activityPattern": [],
+          "activities": 158
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "وجبات: شارك وصفة صحية",
+          "activityPattern": [],
+          "activities": 159
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "وجبات: شارك خطتك الأسبوعية للوجبات",
+          "activityPattern": [],
+          "activities": 160
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الفن: صف مشاهد الطبيعة",
+          "activityPattern": [],
+          "activities": 161
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الفن: صف عملاً فنياً",
+          "activityPattern": [],
+          "activities": 162
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الفن: صف صورك الفنية",
+          "activityPattern": [],
+          "activities": 163
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الفن: عبر عن إعجابك بفن الطهي",
+          "activityPattern": [],
+          "activities": 164
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الفن: اقترح وجهات ثقافية",
+          "activityPattern": [],
+          "activities": 165
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "تخييم: رتب رحلة تخييم",
+          "activityPattern": [],
+          "activities": 166
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "تخييم: شارك تجربة التخييم",
+          "activityPattern": [],
+          "activities": 167
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "تخييم: استعد للذهاب للتخييم",
+          "activityPattern": [],
+          "activities": 168
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "تخييم: اطلب استراحة قصيرة",
+          "activityPattern": [],
+          "activities": 169
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "تخييم: خطط لنشاطات التخييم",
+          "activityPattern": [],
+          "activities": 170
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "المهام: شارك مهاراتك مع الآخرين",
+          "activityPattern": [],
+          "activities": 171
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "المهام: صف دورك في الفريق",
+          "activityPattern": [],
+          "activities": 172
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "المهام: شارك في المهام الجماعية",
+          "activityPattern": [],
+          "activities": 173
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "المهام: استفسر عن الأدوات اللازمة",
+          "activityPattern": [],
+          "activities": 174
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "المهام: عبّر عن مشاعرك حول المهمة",
+          "activityPattern": [],
+          "activities": 175
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الشارع: اسأل عن الاتجاهات",
+          "activityPattern": [],
+          "activities": 176
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الشارع: اشرح لافتات الشارع",
+          "activityPattern": [],
+          "activities": 177
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الشارع: صف الطريق الذي تسلكه",
+          "activityPattern": [],
+          "activities": 178
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الشارع: حدد موقع المكان على الخريطة",
+          "activityPattern": [],
+          "activities": 179
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الشارع: صف الطريق إلى منزلك",
+          "activityPattern": [],
+          "activities": 180
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الصحة: اسأل عن العلاج",
+          "activityPattern": [],
+          "activities": 181
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الصحة: اختر ألعاب مناسبة للأطفال",
+          "activityPattern": [],
+          "activities": 182
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الصحة: اطلب نصيحة للعناية بالصحة",
+          "activityPattern": [],
+          "activities": 183
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الصحة: تحدث عن الرعاية الطبية",
+          "activityPattern": [],
+          "activities": 184
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الصحة: اسأل الطبيب عن الفحوصات",
+          "activityPattern": [],
+          "activities": 185
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "السكن: ناقش تكاليف السكن",
+          "activityPattern": [],
+          "activities": 186
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "السكن: احسب نفقات السكن",
+          "activityPattern": [],
+          "activities": 187
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "السكن: اختر بدائل للسكن",
+          "activityPattern": [],
+          "activities": 188
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "السكن: قارن بين الشقق",
+          "activityPattern": [],
+          "activities": 189
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "السكن: ناقش تكلفة الإيجار",
+          "activityPattern": [],
+          "activities": 190
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "القواعد: قدّم مثالًا على قاعدة",
+          "activityPattern": [],
+          "activities": 191
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "القواعد: اشرح قاعدة جديدة",
+          "activityPattern": [],
+          "activities": 192
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "القواعد: اشرح جملة معقدة",
+          "activityPattern": [],
+          "activities": 193
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "القواعد: عبر عن رأيك في القواعد",
+          "activityPattern": [],
+          "activities": 194
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "القواعد: ناقش مع زملائك",
+          "activityPattern": [],
+          "activities": 195
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "العائلة: صف خطط عائلتك للعطلة",
+          "activityPattern": [],
+          "activities": 196
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "العائلة: صف أفراد عائلتك",
+          "activityPattern": [],
+          "activities": 197
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "العائلة: صف حالة غرفة العائلة",
+          "activityPattern": [],
+          "activities": 198
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "العائلة: اختر نشاطًا مع العائلة",
+          "activityPattern": [],
+          "activities": 199
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "العائلة: صف شخصيات عائلتك",
+          "activityPattern": [],
+          "activities": 200
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "المترو: اشرح طريقة استخدام المترو",
+          "activityPattern": [],
+          "activities": 201
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "المترو: اسأل عن مواعيد المترو",
+          "activityPattern": [],
+          "activities": 202
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "المترو: اشتر تذكرة المترو",
+          "activityPattern": [],
+          "activities": 203
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "المترو: اسأل عن خط المترو",
+          "activityPattern": [],
+          "activities": 204
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "المترو: اسأل عن محطة النزول",
+          "activityPattern": [],
+          "activities": 205
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "السوق: اسأل عن سعر الكتاب",
+          "activityPattern": [],
+          "activities": 206
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "السوق: اشترِ سلعاً من السوق",
+          "activityPattern": [],
+          "activities": 207
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "السوق: اختر المنتجات الطازجة",
+          "activityPattern": [],
+          "activities": 208
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "السوق: اطلب كمية من الأكياس",
+          "activityPattern": [],
+          "activities": 209
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "السوق: اطلب خصمًا إضافيًا",
+          "activityPattern": [],
+          "activities": 210
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "المطعم: صف وجبتك المفضلة",
+          "activityPattern": [],
+          "activities": 211
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "المطعم: اطلب طعامك المفضل",
+          "activityPattern": [],
+          "activities": 212
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "المطعم: اسأل عن أطباق اليوم",
+          "activityPattern": [],
+          "activities": 213
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "المطعم: شارك تجاربك في المطعم",
+          "activityPattern": [],
+          "activities": 214
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "المطعم: اطلب الطعام",
+          "activityPattern": [],
+          "activities": 215
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "المجتمع: ناقش دورك في المجتمع",
+          "activityPattern": [],
+          "activities": 216
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "المجتمع: شارك في نقاش عام",
+          "activityPattern": [],
+          "activities": 217
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "المجتمع: شارك في اجتماع الحي",
+          "activityPattern": [],
+          "activities": 218
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "المجتمع: اقترح فكرة للفعالية",
+          "activityPattern": [],
+          "activities": 219
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "المجتمع: اقترح حلًا لمشكلة",
+          "activityPattern": [],
+          "activities": 220
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "القانون: ناقش الإصلاحات القانونية",
+          "activityPattern": [],
+          "activities": 221
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "القانون: ناقش تغييرات القوانين",
+          "activityPattern": [],
+          "activities": 222
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "القانون: اسأل عن القوانين الجديدة",
+          "activityPattern": [],
+          "activities": 223
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "القانون: اشرح واجبات الناخب",
+          "activityPattern": [],
+          "activities": 224
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "القانون: اشرح ما يقوله القانون",
+          "activityPattern": [],
+          "activities": 225
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "القرية: اسأل عن تقاليد المهرجان",
+          "activityPattern": [],
+          "activities": 226
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "القرية: صف أجواء القرية",
+          "activityPattern": [],
+          "activities": 227
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "القرية: احكِ عن احتفالات القرية",
+          "activityPattern": [],
+          "activities": 228
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "القرية: اسأل عن معاني اللوحات",
+          "activityPattern": [],
+          "activities": 229
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "القرية: شارك صور المهرجان",
+          "activityPattern": [],
+          "activities": 230
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "لعبة: اشرح قواعد اللعبة",
+          "activityPattern": [],
+          "activities": 231
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "لعبة: تحدث عن المباراة",
+          "activityPattern": [],
+          "activities": 232
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "لعبة: تحدث عن الجوائز",
+          "activityPattern": [],
+          "activities": 233
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "لعبة: اسأل عن نتيجة اللعبة",
+          "activityPattern": [],
+          "activities": 234
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "لعبة: اختر لعبتك المفضلة",
+          "activityPattern": [],
+          "activities": 235
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الفريق: شارك خطة العمل",
+          "activityPattern": [],
+          "activities": 236
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الفريق: شارك خطط الفريق",
+          "activityPattern": [],
+          "activities": 237
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الفريق: اشرح قواعد الفريق",
+          "activityPattern": [],
+          "activities": 238
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الفريق: احجز غرفة للفريق",
+          "activityPattern": [],
+          "activities": 239
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "الفريق: اشرح دورك في الفريق",
+          "activityPattern": [],
+          "activities": 240
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "المواصلات: اسأل عن وسائل النقل المتاحة",
+          "activityPattern": [],
+          "activities": 241
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "المواصلات: تحدث عن رحلتك للعمل",
+          "activityPattern": [],
+          "activities": 242
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "المواصلات: اسأل عن حالة المرور",
+          "activityPattern": [],
+          "activities": 243
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "المواصلات: اسأل عن وسائل النقل",
+          "activityPattern": [],
+          "activities": 244
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "المواصلات: صف رحلتك اليومية",
+          "activityPattern": [],
+          "activities": 245
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "المكتب: صف الأجهزة في المكتب",
+          "activityPattern": [],
+          "activities": 246
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "المكتب: اقترح حلولًا لمشكلات العمل",
+          "activityPattern": [],
+          "activities": 247
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "المكتب: صف مكان العمل",
+          "activityPattern": [],
+          "activities": 248
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "المكتب: صف مشكلة في المكتب",
+          "activityPattern": [],
+          "activities": 249
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "المكتب: اسأل عن الرصيد المتاح",
+          "activityPattern": [],
+          "activities": 250
+        }
+      ]
+    },
+    {
+      "sectionIndex": 6,
+      "unitCount": 250,
+      "title": ":",
+      "rawTitle": "CEFR B1:",
+      "cefr": "B1",
+      "units": [
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "المطبخ: شارك ما وجدته في المطبخ",
+          "activityPattern": [],
+          "activities": 1
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "المطبخ: صف قواعد المطبخ",
+          "activityPattern": [],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "المطبخ: نظم أغراض المطبخ",
+          "activityPattern": [],
+          "activities": 3
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "المطبخ: اقترح طرق التخزين",
+          "activityPattern": [],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "المطبخ: ناقش استخدام المساحات المشتركة",
+          "activityPattern": [],
+          "activities": 5
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الدين: شارك تجاربك مع الصلاة",
+          "activityPattern": [],
+          "activities": 6
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الدين: صف احتفال ديني",
+          "activityPattern": [],
+          "activities": 7
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الدين: ناقش أهمية الصدق في الدين",
+          "activityPattern": [],
+          "activities": 8
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الدين: تحدث عن الملابس الدينية",
+          "activityPattern": [],
+          "activities": 9
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الدين: تحدث عن إيمانك",
+          "activityPattern": [],
+          "activities": 10
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الحياة: شارك رأيك عن أماكن السكن",
+          "activityPattern": [],
+          "activities": 11
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الحياة: ناقش تأثير الإنترنت",
+          "activityPattern": [],
+          "activities": 12
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الحياة: شارك صور رحلتك",
+          "activityPattern": [],
+          "activities": 13
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الحياة: شارك رأيك في الأخبار",
+          "activityPattern": [],
+          "activities": 14
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الحياة: استخدم مواردك بذكاء",
+          "activityPattern": [],
+          "activities": 15
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الخدمة: استفسر عن جودة المنتجات",
+          "activityPattern": [],
+          "activities": 16
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الخدمة: استفسر عن الطلب",
+          "activityPattern": [],
+          "activities": 17
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الخدمة: استفسر عن مشكلات الخدمة",
+          "activityPattern": [],
+          "activities": 18
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الخدمة: اطلب استرجاع المبلغ",
+          "activityPattern": [],
+          "activities": 19
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الخدمة: اسأل عن العروض المتوفرة",
+          "activityPattern": [],
+          "activities": 20
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الأشياء: صف غرفة المعيشة",
+          "activityPattern": [],
+          "activities": 21
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الأشياء: شارك رأيك في الطعم",
+          "activityPattern": [],
+          "activities": 22
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الأشياء: صف الأشياء الغريبة",
+          "activityPattern": [],
+          "activities": 23
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الأشياء: صف شكل الأشياء",
+          "activityPattern": [],
+          "activities": 24
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الأشياء: صف الأشياء في المطبخ",
+          "activityPattern": [],
+          "activities": 25
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "المنزل: اسأل عن أشياء في المنزل",
+          "activityPattern": [],
+          "activities": 26
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "المنزل: صف شكل الغرفة",
+          "activityPattern": [],
+          "activities": 27
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "المنزل: تحدث عن العادات اليومية",
+          "activityPattern": [],
+          "activities": 28
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "المنزل: عبّر عن استيائك من الطعام",
+          "activityPattern": [],
+          "activities": 29
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "المنزل: صف غرفتك",
+          "activityPattern": [],
+          "activities": 30
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الصيدلية: اطلب معلومات عن العلاج",
+          "activityPattern": [],
+          "activities": 31
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الصيدلية: اطلب نصيحة من الصيدلي",
+          "activityPattern": [],
+          "activities": 32
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الصيدلية: اسأل عن الأدوية",
+          "activityPattern": [],
+          "activities": 33
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الصيدلية: اسأل عن أدوية الألم",
+          "activityPattern": [],
+          "activities": 34
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الصيدلية: اطلب الأدوية من الصيدلية",
+          "activityPattern": [],
+          "activities": 35
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "روتين: احك عن روتينك اليومي",
+          "activityPattern": [],
+          "activities": 36
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "روتين: صف روتينك اليومي",
+          "activityPattern": [],
+          "activities": 37
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "روتين: اسأل عن عادات النوم",
+          "activityPattern": [],
+          "activities": 38
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "روتين: شارك عاداتك الصحية",
+          "activityPattern": [],
+          "activities": 39
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "روتين: ناقش أهمية النوم",
+          "activityPattern": [],
+          "activities": 40
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "المراهقة: صف مشاعر المراهقين",
+          "activityPattern": [],
+          "activities": 41
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "المراهقة: ناقش تغيرات المراهقة",
+          "activityPattern": [],
+          "activities": 42
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "المراهقة: اسأل عن أسباب التوتر",
+          "activityPattern": [],
+          "activities": 43
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "المراهقة: صف تحديات المراهقين",
+          "activityPattern": [],
+          "activities": 44
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "المراهقة: نظم جدول الأنشطة",
+          "activityPattern": [],
+          "activities": 45
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "المركز: تأكد من توفر المصعد",
+          "activityPattern": [],
+          "activities": 46
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "المركز: ناقش مشروع المجموعة",
+          "activityPattern": [],
+          "activities": 47
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "المركز: شارك تجربتك في المركز",
+          "activityPattern": [],
+          "activities": 48
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "المركز: اسأل عن أنشطة المركز",
+          "activityPattern": [],
+          "activities": 49
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "المركز: حدد أماكن الحواجز",
+          "activityPattern": [],
+          "activities": 50
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الترتيب: ناقش ترتيب المهام",
+          "activityPattern": [],
+          "activities": 51
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الترتيب: ادعُ أصدقاءك للقاء",
+          "activityPattern": [],
+          "activities": 52
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الترتيب: خطط لنشاط جديد",
+          "activityPattern": [],
+          "activities": 53
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الترتيب: خطط لموعد مع الأصدقاء",
+          "activityPattern": [],
+          "activities": 54
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الترتيب: شارك خطط نهاية الأسبوع",
+          "activityPattern": [],
+          "activities": 55
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الحياة: صف الحي الذي تعيش فيه",
+          "activityPattern": [],
+          "activities": 56
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الحياة: اسأل عن العادات الصحية",
+          "activityPattern": [],
+          "activities": 57
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الحياة: تكلم عن عاداتك اليومية",
+          "activityPattern": [],
+          "activities": 58
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الحياة: تحدث عن عادات صحية",
+          "activityPattern": [],
+          "activities": 59
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الحياة: تحدث عن جودة الحياة",
+          "activityPattern": [],
+          "activities": 60
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "المطبخ: اشرح وصفة طعام",
+          "activityPattern": [],
+          "activities": 61
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "المطبخ: اسأل عن دروس الطبخ",
+          "activityPattern": [],
+          "activities": 62
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "المطبخ: اشرح خطوات الطبخ",
+          "activityPattern": [],
+          "activities": 63
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "المطبخ: اشرح وصفة بسيطة",
+          "activityPattern": [],
+          "activities": 64
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "المطبخ: اقترح وصفة لصديقك",
+          "activityPattern": [],
+          "activities": 65
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "هدية: قدّم هدية لصديقك",
+          "activityPattern": [],
+          "activities": 66
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "هدية: اختر هدية لصديق",
+          "activityPattern": [],
+          "activities": 67
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "هدية: اشرح لماذا اخترت الهدية",
+          "activityPattern": [],
+          "activities": 68
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "هدية: اختر هدية مناسبة",
+          "activityPattern": [],
+          "activities": 69
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "هدية: شارك رأيك في الهدية",
+          "activityPattern": [],
+          "activities": 70
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الشعر: شارك نصائح العناية بالشعر",
+          "activityPattern": [],
+          "activities": 71
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الشعر: اسأل عن منتجات الشعر",
+          "activityPattern": [],
+          "activities": 72
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الشعر: ناقش خيارات القص",
+          "activityPattern": [],
+          "activities": 73
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الشعر: اسأل عن صالون حلاقة",
+          "activityPattern": [],
+          "activities": 74
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الشعر: اختَر فرشاة للشعر",
+          "activityPattern": [],
+          "activities": 75
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الطرق: اسأل عن الاتجاهات",
+          "activityPattern": [],
+          "activities": 76
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الطرق: اشرح قواعد المرور",
+          "activityPattern": [],
+          "activities": 77
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الطرق: اقترح حلولا للازدحام",
+          "activityPattern": [],
+          "activities": 78
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الطرق: اسأل عن إشارات الطرق",
+          "activityPattern": [],
+          "activities": 79
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الطرق: صف الممرات الآمنة",
+          "activityPattern": [],
+          "activities": 80
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الطبيعة: صف الطقس اليوم",
+          "activityPattern": [],
+          "activities": 81
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الطبيعة: اربط بين المناخ والمدن",
+          "activityPattern": [],
+          "activities": 82
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الطبيعة: صف طرق إعادة التدوير",
+          "activityPattern": [],
+          "activities": 83
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الطبيعة: تحدث عن تغيرات الطقس",
+          "activityPattern": [],
+          "activities": 84
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الطبيعة: ناقش حماية البيئة",
+          "activityPattern": [],
+          "activities": 85
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الموضة: عبّر عن ذوقك في الملابس",
+          "activityPattern": [],
+          "activities": 86
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الموضة: اختر ملابس مناسبة",
+          "activityPattern": [],
+          "activities": 87
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الموضة: تحدث عن المصممين",
+          "activityPattern": [],
+          "activities": 88
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الموضة: صف الألوان الغريبة",
+          "activityPattern": [],
+          "activities": 89
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الموضة: قارِن بين الألوان",
+          "activityPattern": [],
+          "activities": 90
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "المطعم: اطلب طبقًا مميزًا",
+          "activityPattern": [],
+          "activities": 91
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "المطعم: اسأل عن أطباق المطعم",
+          "activityPattern": [],
+          "activities": 92
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "المطعم: صف الأطباق المقدمة",
+          "activityPattern": [],
+          "activities": 93
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "المطعم: اطلب طبقك المفضل",
+          "activityPattern": [],
+          "activities": 94
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "المطعم: صف وجبة مشهورة",
+          "activityPattern": [],
+          "activities": 95
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "رياضة: تحدث عن روتين التمارين",
+          "activityPattern": [],
+          "activities": 96
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "رياضة: صف روتينك الرياضي",
+          "activityPattern": [],
+          "activities": 97
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "رياضة: اشرَح روتين التمارين",
+          "activityPattern": [],
+          "activities": 98
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "رياضة: شارك تمارينك المفضلة",
+          "activityPattern": [],
+          "activities": 99
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "رياضة: اسأل عن مسابقة الجري",
+          "activityPattern": [],
+          "activities": 100
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الفرح: صف لحظة سعيدة",
+          "activityPattern": [],
+          "activities": 101
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الفرح: شارك لحظات الفرح مع الأصدقاء",
+          "activityPattern": [],
+          "activities": 102
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الفرح: تبادل الحديث مع الضيوف",
+          "activityPattern": [],
+          "activities": 103
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الفرح: شارك لحظاتك السعيدة",
+          "activityPattern": [],
+          "activities": 104
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الفرح: رتب مقاعد الحضور",
+          "activityPattern": [],
+          "activities": 105
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "التاريخ: احكِ عن حدث تاريخي",
+          "activityPattern": [],
+          "activities": 106
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "التاريخ: ناقش معركة تاريخية",
+          "activityPattern": [],
+          "activities": 107
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "التاريخ: اسأل عن الأحداث التاريخية",
+          "activityPattern": [],
+          "activities": 108
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "التاريخ: شارك رأيك في سبب التغيير",
+          "activityPattern": [],
+          "activities": 109
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "التاريخ: احكِ عن اختراع تاريخي",
+          "activityPattern": [],
+          "activities": 110
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "المتحف: احكِ عن زيارتك للمتحف",
+          "activityPattern": [],
+          "activities": 111
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "المتحف: ناقش إجاباتك مع زملائك",
+          "activityPattern": [],
+          "activities": 112
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "المتحف: أبلغ عن الأعطال",
+          "activityPattern": [],
+          "activities": 113
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "المتحف: اقترح وقتًا جديدًا للقاء",
+          "activityPattern": [],
+          "activities": 114
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "المتحف: تحدث عن توقعاتك للمتحف",
+          "activityPattern": [],
+          "activities": 115
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الفريق: شارك في تنظيم العمل",
+          "activityPattern": [],
+          "activities": 116
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الفريق: اقترح مبادرة للفريق",
+          "activityPattern": [],
+          "activities": 117
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الفريق: انضم إلى الفريق",
+          "activityPattern": [],
+          "activities": 118
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الفريق: خطط لمهام الفريق",
+          "activityPattern": [],
+          "activities": 119
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الفريق: شارك أفكارك مع الفريق",
+          "activityPattern": [],
+          "activities": 120
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "السلامة: اطلب نصيحة حول التمارين",
+          "activityPattern": [],
+          "activities": 121
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "السلامة: اشرح قواعد السلامة",
+          "activityPattern": [],
+          "activities": 122
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "السلامة: اسأل عن قواعد السلامة",
+          "activityPattern": [],
+          "activities": 123
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "السلامة: صف أدوات الحماية",
+          "activityPattern": [],
+          "activities": 124
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "السلامة: اشرح خطة الطوارئ",
+          "activityPattern": [],
+          "activities": 125
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "البيئة: شارك في تحسين الحديقة",
+          "activityPattern": [],
+          "activities": 126
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "البيئة: صف معالم الحديقة",
+          "activityPattern": [],
+          "activities": 127
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "البيئة: ناقش حلول التلوث",
+          "activityPattern": [],
+          "activities": 128
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "البيئة: صف المعالم الطبيعية",
+          "activityPattern": [],
+          "activities": 129
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "البيئة: صف المنظر الطبيعي",
+          "activityPattern": [],
+          "activities": 130
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "البيئة: ناقش إعادة التدوير",
+          "activityPattern": [],
+          "activities": 131
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "البيئة: اسأل عن إعادة التدوير",
+          "activityPattern": [],
+          "activities": 132
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "البيئة: اشرح أهمية إعادة التدوير",
+          "activityPattern": [],
+          "activities": 133
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "البيئة: اقترح حلًا للنفايات",
+          "activityPattern": [],
+          "activities": 134
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "البيئة: اشرح كيفية فرز النفايات",
+          "activityPattern": [],
+          "activities": 135
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "العمل: اعرض فكرتك للمجموعة",
+          "activityPattern": [],
+          "activities": 136
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "العمل: اتفق مع الفريق",
+          "activityPattern": [],
+          "activities": 137
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "العمل: تحدث عن مواعيد التسليم",
+          "activityPattern": [],
+          "activities": 138
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "العمل: ناقش شروط العقد",
+          "activityPattern": [],
+          "activities": 139
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "العمل: اقتراح أفكار للمشاريع",
+          "activityPattern": [],
+          "activities": 140
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "العلاقة: صف صديقك المقرب",
+          "activityPattern": [],
+          "activities": 141
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "العلاقة: خطط لموعد رومانسي",
+          "activityPattern": [],
+          "activities": 142
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "العلاقة: تحدّث عن مشاعرك مع الشريك",
+          "activityPattern": [],
+          "activities": 143
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "العلاقة: صف شريك حياتك",
+          "activityPattern": [],
+          "activities": 144
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "العلاقة: تحدث عن شريك حياتك",
+          "activityPattern": [],
+          "activities": 145
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الفعالية: رتب مستلزمات الفعالية",
+          "activityPattern": [],
+          "activities": 146
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الفعالية: صف الأماكن العامة",
+          "activityPattern": [],
+          "activities": 147
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الفعالية: نظم نزهة مع الأصدقاء",
+          "activityPattern": [],
+          "activities": 148
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الفعالية: قارن بين المدن",
+          "activityPattern": [],
+          "activities": 149
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الفعالية: نظّم الفعالية مع الأصدقاء",
+          "activityPattern": [],
+          "activities": 150
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "بيانات: وضّح أهمية البيانات",
+          "activityPattern": [],
+          "activities": 151
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "بيانات: حدّث الملفات",
+          "activityPattern": [],
+          "activities": 152
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "بيانات: غيّر كلمة السر",
+          "activityPattern": [],
+          "activities": 153
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "بيانات: اشرح فوائد البيانات",
+          "activityPattern": [],
+          "activities": 154
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "بيانات: شارك الملفات مع الفريق",
+          "activityPattern": [],
+          "activities": 155
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "النقاش: قدّم ملخصًا للدرس",
+          "activityPattern": [],
+          "activities": 156
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "النقاش: شارك أفكارك في النقاش",
+          "activityPattern": [],
+          "activities": 157
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "النقاش: عبّر عن رأيك بهدوء",
+          "activityPattern": [],
+          "activities": 158
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "النقاش: اعرض وجهة نظرك",
+          "activityPattern": [],
+          "activities": 159
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "النقاش: شارك رأيك في الدورات",
+          "activityPattern": [],
+          "activities": 160
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "حفلة: اسأل عن تجهيزات الحفلة",
+          "activityPattern": [],
+          "activities": 161
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "حفلة: خطط لحفلتك القادمة",
+          "activityPattern": [],
+          "activities": 162
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "حفلة: عبّر عن رضاك عن الحفلة",
+          "activityPattern": [],
+          "activities": 163
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "حفلة: اقترح فكرة للحفلة",
+          "activityPattern": [],
+          "activities": 164
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "حفلة: احكِ عن ذكريات الحفلة",
+          "activityPattern": [],
+          "activities": 165
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "إسعاف: وضح أهمية البقاء هادئًا",
+          "activityPattern": [],
+          "activities": 166
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "إسعاف: جهز حقيبة إسعاف",
+          "activityPattern": [],
+          "activities": 167
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "إسعاف: صف طريقة تعقيم الجرح",
+          "activityPattern": [],
+          "activities": 168
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "إسعاف: اشرح خطوات الإسعاف",
+          "activityPattern": [],
+          "activities": 169
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "إسعاف: اشرح الإسعافات الأولية",
+          "activityPattern": [],
+          "activities": 170
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الحيوانات: اسأل عن وزن حيوانك",
+          "activityPattern": [],
+          "activities": 171
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الحيوانات: اسأل عن رعاية الحيوانات",
+          "activityPattern": [],
+          "activities": 172
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الحيوانات: وضح احتياجات الحيوان",
+          "activityPattern": [],
+          "activities": 173
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الحيوانات: صف حيوانًا مريضًا",
+          "activityPattern": [],
+          "activities": 174
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الحيوانات: اسأل عن صحة الحيوان",
+          "activityPattern": [],
+          "activities": 175
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "المدينة: ادعُ صديقك لمقهى",
+          "activityPattern": [],
+          "activities": 176
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "المدينة: تعرف على معالم المدينة",
+          "activityPattern": [],
+          "activities": 177
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "المدينة: صف الأماكن العامة",
+          "activityPattern": [],
+          "activities": 178
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "المدينة: وصف معالم المدينة",
+          "activityPattern": [],
+          "activities": 179
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "المدينة: اسأل عن محطة القطار",
+          "activityPattern": [],
+          "activities": 180
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الحديقة: صف حالة الحديقة",
+          "activityPattern": [],
+          "activities": 181
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الحديقة: جهز أدوات الزراعة",
+          "activityPattern": [],
+          "activities": 182
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الحديقة: اطلب أدوات البستنة",
+          "activityPattern": [],
+          "activities": 183
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الحديقة: رتب البذور حسب النوع",
+          "activityPattern": [],
+          "activities": 184
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الحديقة: صف أدوات الحديقة",
+          "activityPattern": [],
+          "activities": 185
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "عرض: وضح أماكن العروض",
+          "activityPattern": [],
+          "activities": 186
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "عرض: احكِ عن حفل موسيقي",
+          "activityPattern": [],
+          "activities": 187
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "عرض: احجز تذاكر العرض",
+          "activityPattern": [],
+          "activities": 188
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "عرض: اختر مقعدك في العرض",
+          "activityPattern": [],
+          "activities": 189
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "عرض: اسأل عن رأي الآخرين في العرض",
+          "activityPattern": [],
+          "activities": 190
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الريف: صف حياة الريف",
+          "activityPattern": [],
+          "activities": 191
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الريف: صف الحياة في الريف",
+          "activityPattern": [],
+          "activities": 192
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الريف: عبّر عن حماسك للريف",
+          "activityPattern": [],
+          "activities": 193
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الريف: تحدث عن السياحة في الريف",
+          "activityPattern": [],
+          "activities": 194
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الريف: تحدث عن المزارعين",
+          "activityPattern": [],
+          "activities": 195
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "السلوك: صف سلوكك في المواقف الصعبة",
+          "activityPattern": [],
+          "activities": 196
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "السلوك: اشرح تصرفات المجموعة",
+          "activityPattern": [],
+          "activities": 197
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "السلوك: اشرح كيف تساعد الآخرين",
+          "activityPattern": [],
+          "activities": 198
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "السلوك: ناقش ردود الفعل المختلفة",
+          "activityPattern": [],
+          "activities": 199
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "السلوك: عبر عن رأيك في السلوك",
+          "activityPattern": [],
+          "activities": 200
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "فريق: شارك رأيك مع الفريق",
+          "activityPattern": [],
+          "activities": 201
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "فريق: قدّم نفسك لفريقك",
+          "activityPattern": [],
+          "activities": 202
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "فريق: ناقش أهمية التنوع",
+          "activityPattern": [],
+          "activities": 203
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "فريق: اسأل عن خلفيات أعضاء الفريق",
+          "activityPattern": [],
+          "activities": 204
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "فريق: تحدث عن تنوع المجموعة",
+          "activityPattern": [],
+          "activities": 205
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "المعرض: عبّر عن رأيك في المعروضات",
+          "activityPattern": [],
+          "activities": 206
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "المعرض: اسأل عن وقت المعرض",
+          "activityPattern": [],
+          "activities": 207
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "المعرض: وصف الأعمال الفنية",
+          "activityPattern": [],
+          "activities": 208
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "المعرض: اطلب رأي صديقك",
+          "activityPattern": [],
+          "activities": 209
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "المعرض: صف لوحة تراها",
+          "activityPattern": [],
+          "activities": 210
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "المجتمع: ناقش أنظمة الحكم",
+          "activityPattern": [],
+          "activities": 211
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "المجتمع: ناقش قرارات الحكومة",
+          "activityPattern": [],
+          "activities": 212
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "المجتمع: ناقش حقوقك في المجتمع",
+          "activityPattern": [],
+          "activities": 213
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "المجتمع: ناقش قضايا المجتمع",
+          "activityPattern": [],
+          "activities": 214
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "المجتمع: اشرح دور البرلمان",
+          "activityPattern": [],
+          "activities": 215
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "المجموعة: اختر مادة دراسية",
+          "activityPattern": [],
+          "activities": 216
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "المجموعة: صف دورك في المجموعة",
+          "activityPattern": [],
+          "activities": 217
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "المجموعة: عبّر عن رأيك في المجموعة",
+          "activityPattern": [],
+          "activities": 218
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "المجموعة: اعرض رأيك بصدق",
+          "activityPattern": [],
+          "activities": 219
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "المجموعة: شارك رأيك مع المجموعة",
+          "activityPattern": [],
+          "activities": 220
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "كتب: عبّر عن شعورك تجاه الكتب",
+          "activityPattern": [],
+          "activities": 221
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "كتب: شارك رأيك في الكتاب",
+          "activityPattern": [],
+          "activities": 222
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "كتب: تحدث عن حبكة الرواية",
+          "activityPattern": [],
+          "activities": 223
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "كتب: صف كتابا قرأته",
+          "activityPattern": [],
+          "activities": 224
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "كتب: تحدث عن شخصيات الكتب",
+          "activityPattern": [],
+          "activities": 225
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الفرص: ناقش فرص العمل",
+          "activityPattern": [],
+          "activities": 226
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الفرص: اقترح حلاً مستداماً",
+          "activityPattern": [],
+          "activities": 227
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الفرص: ناقش فرص العمل الخضراء",
+          "activityPattern": [],
+          "activities": 228
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الفرص: اسأل عن النتائج المتوقعة",
+          "activityPattern": [],
+          "activities": 229
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الفرص: ناقش المنتجات العضوية",
+          "activityPattern": [],
+          "activities": 230
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "المعالم: صف المعالم",
+          "activityPattern": [],
+          "activities": 231
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "المعالم: صف معلمًا مشهورًا",
+          "activityPattern": [],
+          "activities": 232
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "المعالم: اسأل عن زيارة معلم",
+          "activityPattern": [],
+          "activities": 233
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "المعالم: شارك تجربتك في زيارة معلم",
+          "activityPattern": [],
+          "activities": 234
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "المعالم: صف معلمًا سياحيًا",
+          "activityPattern": [],
+          "activities": 235
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الحوار: اسأل عن مهنة صديقك",
+          "activityPattern": [],
+          "activities": 236
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الحوار: شارك رأيك في التعليم",
+          "activityPattern": [],
+          "activities": 237
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الحوار: اسأل عن العادات الصحية",
+          "activityPattern": [],
+          "activities": 238
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الحوار: شارك رأيك بهدوء",
+          "activityPattern": [],
+          "activities": 239
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الحوار: اسأل عن وجهات نظر الزملاء",
+          "activityPattern": [],
+          "activities": 240
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "العمر: تحدث عن احتياجات كبار السن",
+          "activityPattern": [],
+          "activities": 241
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "العمر: اسأل عن التقاعد",
+          "activityPattern": [],
+          "activities": 242
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "العمر: اطلب نصيحة عن الصحة",
+          "activityPattern": [],
+          "activities": 243
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "العمر: تحدث عن مراحل حياتك",
+          "activityPattern": [],
+          "activities": 244
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "العمر: تحدث عن مراحل العمر",
+          "activityPattern": [],
+          "activities": 245
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الفن: صف لوحة فنية",
+          "activityPattern": [],
+          "activities": 246
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الفن: اشرح فكرة عمل فني",
+          "activityPattern": [],
+          "activities": 247
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الفن: صف لوحة تشاهدها",
+          "activityPattern": [],
+          "activities": 248
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الفن: صف الأعمال الفنية",
+          "activityPattern": [],
+          "activities": 249
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "الفن: عبّر عن رأيك في لوحة",
+          "activityPattern": [],
+          "activities": 250
+        }
+      ]
+    },
+    {
+      "sectionIndex": 7,
+      "unitCount": 200,
+      "title": ":",
+      "rawTitle": "CEFR B2:",
+      "cefr": "B2",
+      "units": [
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "فريق: شارك رأيك مع الفريق",
+          "activityPattern": [],
+          "activities": 1
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "فريق: شارك تحديثات الفريق",
+          "activityPattern": [],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "فريق: اشرح قرار الفريق باختصار",
+          "activityPattern": [],
+          "activities": 3
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "فريق: أبلغ عن تغييرات في الاجتماع",
+          "activityPattern": [],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "فريق: تفاوض على تفاصيل المهمة",
+          "activityPattern": [],
+          "activities": 5
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "بيانات: اسأل عن مصدر البيانات",
+          "activityPattern": [],
+          "activities": 6
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "بيانات: اشرح خصائص البيانات",
+          "activityPattern": [],
+          "activities": 7
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "بيانات: اشرح أهمية البيانات",
+          "activityPattern": [],
+          "activities": 8
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "بيانات: ناقش الثقة في البيانات",
+          "activityPattern": [],
+          "activities": 9
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "بيانات: شارك رأيك في البيانات",
+          "activityPattern": [],
+          "activities": 10
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "الطموح: اسأل عن طموحات الآخرين",
+          "activityPattern": [],
+          "activities": 11
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "الطموح: شارك أهدافك المستقبلية",
+          "activityPattern": [],
+          "activities": 12
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "الطموح: احكِ عن طموحاتك",
+          "activityPattern": [],
+          "activities": 13
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "الطموح: حدد هدفك الشخصي",
+          "activityPattern": [],
+          "activities": 14
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "الطموح: عبّر عن أهمية التطوير الذاتي",
+          "activityPattern": [],
+          "activities": 15
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "ألعاب: احكِ عن لعبتك المفضلة",
+          "activityPattern": [],
+          "activities": 16
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "ألعاب: اشرح قواعد اللعب",
+          "activityPattern": [],
+          "activities": 17
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "ألعاب: ابحث عن الأدلة في اللعبة",
+          "activityPattern": [],
+          "activities": 18
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "ألعاب: صف طريقة اللعب",
+          "activityPattern": [],
+          "activities": 19
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "ألعاب: اعرض خطتك لحل الأحجية",
+          "activityPattern": [],
+          "activities": 20
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "الجامعة: اطلب مساعدة في مشروع",
+          "activityPattern": [],
+          "activities": 21
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "الجامعة: استفسر عن المواد المطلوبة",
+          "activityPattern": [],
+          "activities": 22
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "الجامعة: اشرح أهمية الحضور",
+          "activityPattern": [],
+          "activities": 23
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "الجامعة: حدد الواجبات اليومية",
+          "activityPattern": [],
+          "activities": 24
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "الجامعة: اسأل عن خدمات الجامعة",
+          "activityPattern": [],
+          "activities": 25
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "دعوة: ارفض دعوة بأدب",
+          "activityPattern": [],
+          "activities": 26
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "دعوة: ادعُ صديقًا للقاء",
+          "activityPattern": [],
+          "activities": 27
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "دعوة: عبر عن سعادتك بالدعوة",
+          "activityPattern": [],
+          "activities": 28
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "دعوة: أكد تفاصيل الدعوة",
+          "activityPattern": [],
+          "activities": 29
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "دعوة: اطلب تأكيد المشاركة",
+          "activityPattern": [],
+          "activities": 30
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "انتخاب: عبّر عن رغبتك في التصويت",
+          "activityPattern": [],
+          "activities": 31
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "انتخاب: اشرح طريقة اتخاذ القرار",
+          "activityPattern": [],
+          "activities": 32
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "انتخاب: اشرح خطوات التصويت",
+          "activityPattern": [],
+          "activities": 33
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "انتخاب: اسأل عن بطاقة الناخب",
+          "activityPattern": [],
+          "activities": 34
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "انتخاب: اشرح كيف تصوت",
+          "activityPattern": [],
+          "activities": 35
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "جدول: رتب مهامك اليومية",
+          "activityPattern": [],
+          "activities": 36
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "جدول: احسب عدد المهام",
+          "activityPattern": [],
+          "activities": 37
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "جدول: راجع جدول الأعمال",
+          "activityPattern": [],
+          "activities": 38
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "جدول: خطط جدولك الأسبوعي",
+          "activityPattern": [],
+          "activities": 39
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "جدول: نظم جدولك اليومي",
+          "activityPattern": [],
+          "activities": 40
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "ملابس: صف قميصًا يعجبك",
+          "activityPattern": [],
+          "activities": 41
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "ملابس: وصف قطعة ملابس",
+          "activityPattern": [],
+          "activities": 42
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "ملابس: صف ملابسك",
+          "activityPattern": [],
+          "activities": 43
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "ملابس: اوصف ملابسك المفضلة",
+          "activityPattern": [],
+          "activities": 44
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "ملابس: عبّر عن رأيك في الألوان",
+          "activityPattern": [],
+          "activities": 45
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "التعاون: اقترح حلًا للخلاف",
+          "activityPattern": [],
+          "activities": 46
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "التعاون: شارك أفكارك لتحسين التعاون",
+          "activityPattern": [],
+          "activities": 47
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "التعاون: اقترح طرق التعاون",
+          "activityPattern": [],
+          "activities": 48
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "التعاون: وضّح أهمية التسامح",
+          "activityPattern": [],
+          "activities": 49
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "التعاون: اطلب توضيح الإجابات",
+          "activityPattern": [],
+          "activities": 50
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "راحة: تحدث عن مشاعرك عند القلق",
+          "activityPattern": [],
+          "activities": 51
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "راحة: اقترح طرقًا للاسترخاء",
+          "activityPattern": [],
+          "activities": 52
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "راحة: صف بيئة هادئة",
+          "activityPattern": [],
+          "activities": 53
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "راحة: اشرح خطوات التأمل",
+          "activityPattern": [],
+          "activities": 54
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "راحة: شارك أسباب التوتر",
+          "activityPattern": [],
+          "activities": 55
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "السياسة: اشرح دور البرلمان",
+          "activityPattern": [],
+          "activities": 56
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "السياسة: عبّر عن رأيك السياسي",
+          "activityPattern": [],
+          "activities": 57
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "السياسة: ناقش نتائج الانتخابات",
+          "activityPattern": [],
+          "activities": 58
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "السياسة: رشح شخصًا لمنصب عام",
+          "activityPattern": [],
+          "activities": 59
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "السياسة: صف المناصب السياسية",
+          "activityPattern": [],
+          "activities": 60
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "الطلاق: اسأل عن قرار القاضي",
+          "activityPattern": [],
+          "activities": 61
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "الطلاق: استفسر عن دعم العلاج",
+          "activityPattern": [],
+          "activities": 62
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "الطلاق: عبر عن مشاعرك حول الطلاق",
+          "activityPattern": [],
+          "activities": 63
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "الطلاق: تسأل عن ترتيبات الحضانة",
+          "activityPattern": [],
+          "activities": 64
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "الطلاق: وضح أسباب الانفصال",
+          "activityPattern": [],
+          "activities": 65
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "المشاعر: عبّر عن مشاعرك وقراراتك",
+          "activityPattern": [],
+          "activities": 66
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "المشاعر: شارك مشاعرك في موقف مؤثر",
+          "activityPattern": [],
+          "activities": 67
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "المشاعر: عبّر عن إحساسك",
+          "activityPattern": [],
+          "activities": 68
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "المشاعر: عبّر عن مشاعرك",
+          "activityPattern": [],
+          "activities": 69
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "المشاعر: تحدث عن ذكرى تؤثر فيك",
+          "activityPattern": [],
+          "activities": 70
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "الأخطاء: اشرح سبب الخطأ",
+          "activityPattern": [],
+          "activities": 71
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "الأخطاء: قدم اعتذارك بصدق",
+          "activityPattern": [],
+          "activities": 72
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "الأخطاء: فسر سبب التأخير",
+          "activityPattern": [],
+          "activities": 73
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "الأخطاء: اعترف بالخطأ",
+          "activityPattern": [],
+          "activities": 74
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "الأخطاء: اختر التصرف الأنسب",
+          "activityPattern": [],
+          "activities": 75
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "السفر: احكِ عن رحلتك الأخيرة",
+          "activityPattern": [],
+          "activities": 76
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "السفر: صف رحلتك السابقة",
+          "activityPattern": [],
+          "activities": 77
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "السفر: شارك خطط السفر",
+          "activityPattern": [],
+          "activities": 78
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "السفر: صف وجهة سياحية",
+          "activityPattern": [],
+          "activities": 79
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "السفر: خطط رحلتك القادمة",
+          "activityPattern": [],
+          "activities": 80
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "الجبل: خطط لرحلتك الجبلية",
+          "activityPattern": [],
+          "activities": 81
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "الجبل: صف المنظر من القمة",
+          "activityPattern": [],
+          "activities": 82
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "الجبل: احكِ عن صعود الجبل",
+          "activityPattern": [],
+          "activities": 83
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "الجبل: اقترح مكانًا للاستراحة",
+          "activityPattern": [],
+          "activities": 84
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "الجبل: صف تجربتك في الجبل",
+          "activityPattern": [],
+          "activities": 85
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "البنوك: اطلب مساعدة الموظف",
+          "activityPattern": [],
+          "activities": 86
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "البنوك: اشرح طريقة الدفع",
+          "activityPattern": [],
+          "activities": 87
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "البنوك: استفسر عن فتح حساب",
+          "activityPattern": [],
+          "activities": 88
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "البنوك: اشرح سبب تغير رصيدك",
+          "activityPattern": [],
+          "activities": 89
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "البنوك: استفسر عن الحسابات البنكية",
+          "activityPattern": [],
+          "activities": 90
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "العمل: وضح دوافعك المهنية",
+          "activityPattern": [],
+          "activities": 91
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "العمل: قارن بين الوظائف",
+          "activityPattern": [],
+          "activities": 92
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "العمل: صف تجربتك في العمل",
+          "activityPattern": [],
+          "activities": 93
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "العمل: اشرح عوامل اختيار العمل",
+          "activityPattern": [],
+          "activities": 94
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "العمل: اختر أهم المهارات للعمل",
+          "activityPattern": [],
+          "activities": 95
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "حادث: صف الحادث",
+          "activityPattern": [],
+          "activities": 96
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "حادث: صف إصابتك بعد الحادث",
+          "activityPattern": [],
+          "activities": 97
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "حادث: اسأل عن حالة المصاب",
+          "activityPattern": [],
+          "activities": 98
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "حادث: صف تفاصيل الحادث",
+          "activityPattern": [],
+          "activities": 99
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "حادث: صف مشهد الحادث",
+          "activityPattern": [],
+          "activities": 100
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "إعلان: قارن الإعلانات",
+          "activityPattern": [],
+          "activities": 101
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "إعلان: حلل نتائج الحملة",
+          "activityPattern": [],
+          "activities": 102
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "إعلان: قدّم إعلانًا مبتكرًا",
+          "activityPattern": [],
+          "activities": 103
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "إعلان: اقرأ النشرة بسرعة",
+          "activityPattern": [],
+          "activities": 104
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "إعلان: قارن بين ملصقين",
+          "activityPattern": [],
+          "activities": 105
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "لغة: تجنب استخدام السخرية",
+          "activityPattern": [],
+          "activities": 106
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "لغة: حدد متلقي الرسالة",
+          "activityPattern": [],
+          "activities": 107
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "لغة: تحدث عن المواضيع الحساسة",
+          "activityPattern": [],
+          "activities": 108
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "لغة: قارن بين اللغات",
+          "activityPattern": [],
+          "activities": 109
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "لغة: عبر عن رأيك بلطف",
+          "activityPattern": [],
+          "activities": 110
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "المدرسة: اسأل عن أدواتك المدرسية",
+          "activityPattern": [],
+          "activities": 111
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "المدرسة: صف مستلزمات المدرسة",
+          "activityPattern": [],
+          "activities": 112
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "المدرسة: اطلب أدوات المدرسة",
+          "activityPattern": [],
+          "activities": 113
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "المدرسة: اسأل عن موظفي المدرسة",
+          "activityPattern": [],
+          "activities": 114
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "المدرسة: شارك تجربتك في المدرسة",
+          "activityPattern": [],
+          "activities": 115
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "نقاش: شارك رأيك في النقاش",
+          "activityPattern": [],
+          "activities": 116
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "نقاش: اعرض وجهة نظرك",
+          "activityPattern": [],
+          "activities": 117
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "نقاش: ناقش مصداقية المعلومات",
+          "activityPattern": [],
+          "activities": 118
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "نقاش: تعرّف على آراء الآخرين",
+          "activityPattern": [],
+          "activities": 119
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "نقاش: قيّم المساهمات في النقاش",
+          "activityPattern": [],
+          "activities": 120
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "فضول: عبّر عن رأيك حول الشائعات",
+          "activityPattern": [],
+          "activities": 121
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "فضول: تحدث عن الشائعات",
+          "activityPattern": [],
+          "activities": 122
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "فضول: شارك رأيك في الشائعات",
+          "activityPattern": [],
+          "activities": 123
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "فضول: تجنب التدخل في شؤون غيرك",
+          "activityPattern": [],
+          "activities": 124
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "فضول: خمّن الدافع الحقيقي",
+          "activityPattern": [],
+          "activities": 125
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "مباراة: وصف لحظة في المباراة",
+          "activityPattern": [],
+          "activities": 126
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "مباراة: احكِ عن مباراة حضرتها",
+          "activityPattern": [],
+          "activities": 127
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "مباراة: احكِ عن تجربة المباراة",
+          "activityPattern": [],
+          "activities": 128
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "مباراة: صف أماكن الجلوس في الملعب",
+          "activityPattern": [],
+          "activities": 129
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "مباراة: صف أحداث المباراة",
+          "activityPattern": [],
+          "activities": 130
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "الهجرة: شارك تجربتك في الهجرة",
+          "activityPattern": [],
+          "activities": 131
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "الهجرة: احكِ عن التكيّف في بلد جديد",
+          "activityPattern": [],
+          "activities": 132
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "الهجرة: شارك تجربتك في الاندماج",
+          "activityPattern": [],
+          "activities": 133
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "الهجرة: اشرح سبب الهجرة",
+          "activityPattern": [],
+          "activities": 134
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "الهجرة: قارن تجربتك بتوقعاتك",
+          "activityPattern": [],
+          "activities": 135
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "الإعلام: شارك تفاصيل الحدث",
+          "activityPattern": [],
+          "activities": 136
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "الإعلام: ناقش مصادر الأخبار",
+          "activityPattern": [],
+          "activities": 137
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "الإعلام: تحدث عن مقدم البرنامج",
+          "activityPattern": [],
+          "activities": 138
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "الإعلام: اسأل عن رأي الآخرين",
+          "activityPattern": [],
+          "activities": 139
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "الإعلام: شارك رأيك في الأخبار",
+          "activityPattern": [],
+          "activities": 140
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "المسرح: شارك انطباعك عن الأداء",
+          "activityPattern": [],
+          "activities": 141
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "المسرح: علق على البرنامج",
+          "activityPattern": [],
+          "activities": 142
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "المسرح: اقترح مسرحية جديدة",
+          "activityPattern": [],
+          "activities": 143
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "المسرح: شارك رأيك عن عرض مسرحي",
+          "activityPattern": [],
+          "activities": 144
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "المسرح: احكِ عن دورك الأول",
+          "activityPattern": [],
+          "activities": 145
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "منصة: شارك في بث مباشر",
+          "activityPattern": [],
+          "activities": 146
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "منصة: سجل في المنصة",
+          "activityPattern": [],
+          "activities": 147
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "منصة: اشرح سبب الاشتراك",
+          "activityPattern": [],
+          "activities": 148
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "منصة: شارك محتوى في المجموعة",
+          "activityPattern": [],
+          "activities": 149
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "منصة: تجاهل الرسائل المسيئة",
+          "activityPattern": [],
+          "activities": 150
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "تمارين: اشرَح تمرينك المفضل",
+          "activityPattern": [],
+          "activities": 151
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "تمارين: صف تمارينك اليومية",
+          "activityPattern": [],
+          "activities": 152
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "تمارين: اشرح كيف تستخدم معداتك",
+          "activityPattern": [],
+          "activities": 153
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "تمارين: اشرح روتينك الرياضي",
+          "activityPattern": [],
+          "activities": 154
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "تمارين: اشرح خطوات التمرين",
+          "activityPattern": [],
+          "activities": 155
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "قصة: اكتب نهاية مختلفة للقصة",
+          "activityPattern": [],
+          "activities": 156
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "قصة: اقترح نهاية مختلفة",
+          "activityPattern": [],
+          "activities": 157
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "قصة: احكِ قصة قصيرة",
+          "activityPattern": [],
+          "activities": 158
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "قصة: ناقش قصة مع صديق",
+          "activityPattern": [],
+          "activities": 159
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "قصة: صف المشاهد الدرامية",
+          "activityPattern": [],
+          "activities": 160
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "اتفاق: عبّر عن رأيك في الاتفاق",
+          "activityPattern": [],
+          "activities": 161
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "اتفاق: ناقش شروط الاتفاق",
+          "activityPattern": [],
+          "activities": 162
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "اتفاق: ناقش طرق التعاون",
+          "activityPattern": [],
+          "activities": 163
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "اتفاق: قيم معايير النجاح",
+          "activityPattern": [],
+          "activities": 164
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "اتفاق: اعرض اقتراحك للفريق",
+          "activityPattern": [],
+          "activities": 165
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "مشاعر: عبّر عن مشاعرك",
+          "activityPattern": [],
+          "activities": 166
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "مشاعر: صف تعبيرات الوجه",
+          "activityPattern": [],
+          "activities": 167
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "مشاعر: صف مشاعرك تجاه شخص",
+          "activityPattern": [],
+          "activities": 168
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "مشاعر: شارك لحظة خاصة",
+          "activityPattern": [],
+          "activities": 169
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "مشاعر: اطلب نصيحة صديق",
+          "activityPattern": [],
+          "activities": 170
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "التخييم: صف تجربتك في التخييم",
+          "activityPattern": [],
+          "activities": 171
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "التخييم: جهز معدات التخييم",
+          "activityPattern": [],
+          "activities": 172
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "التخييم: حدد المعدات التي تحتاجها",
+          "activityPattern": [],
+          "activities": 173
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "التخييم: اذكر أغراض التخييم",
+          "activityPattern": [],
+          "activities": 174
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "التخييم: اشرح كيفية إشعال النار",
+          "activityPattern": [],
+          "activities": 175
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "السكن: تحدث عن تجربة الانتقال",
+          "activityPattern": [],
+          "activities": 176
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "السكن: شارك تجربتك في السكن",
+          "activityPattern": [],
+          "activities": 177
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "السكن: قدّم طلب السكن",
+          "activityPattern": [],
+          "activities": 178
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "السكن: وضح شروط السكن",
+          "activityPattern": [],
+          "activities": 179
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "السكن: اسأل عن شروط السكن",
+          "activityPattern": [],
+          "activities": 180
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "تقنية: اشرح كيفية الاتصال بالواي فاي",
+          "activityPattern": [],
+          "activities": 181
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "تقنية: صف خطوات الانضمام للمكالمة",
+          "activityPattern": [],
+          "activities": 182
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "تقنية: استخدم الهاشتاغات الفعالة",
+          "activityPattern": [],
+          "activities": 183
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "تقنية: اشرح أهمية الذكاء الاصطناعي",
+          "activityPattern": [],
+          "activities": 184
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "تقنية: صف كيفية مزامنة الأجهزة",
+          "activityPattern": [],
+          "activities": 185
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "البريد: اطلب مساعدة بشأن الطرود",
+          "activityPattern": [],
+          "activities": 186
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "البريد: تتبع الطرد البريدي",
+          "activityPattern": [],
+          "activities": 187
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "البريد: اسأل عن إرسال الطرود",
+          "activityPattern": [],
+          "activities": 188
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "البريد: اشرح سبب تأخر الطرد",
+          "activityPattern": [],
+          "activities": 189
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "البريد: جهز طردًا للإرسال",
+          "activityPattern": [],
+          "activities": 190
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "الفصل: شارك رأيك في التجمع",
+          "activityPattern": [],
+          "activities": 191
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "الفصل: تحدث عن يومك في الفصل",
+          "activityPattern": [],
+          "activities": 192
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "الفصل: اسأل عن اللوازم الدراسية",
+          "activityPattern": [],
+          "activities": 193
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "الفصل: صف تجربتك في الفصل",
+          "activityPattern": [],
+          "activities": 194
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "الفصل: اسأل عن أداء الطلاب",
+          "activityPattern": [],
+          "activities": 195
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "المال: اشرح كيف تدير أموالك",
+          "activityPattern": [],
+          "activities": 196
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "المال: ناقش أهمية الادخار",
+          "activityPattern": [],
+          "activities": 197
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "المال: اسأل عن رصيد الحساب",
+          "activityPattern": [],
+          "activities": 198
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "المال: ناقش خيارات القروض",
+          "activityPattern": [],
+          "activities": 199
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "المال: اقترح طرق زيادة الدخل",
+          "activityPattern": [],
+          "activities": 200
+        }
+      ]
+    },
+    {
+      "sectionIndex": 8,
+      "unitCount": 200,
+      "title": ":",
+      "rawTitle": "CEFR B2:",
+      "cefr": "B2",
+      "units": [
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الثقة: اعرض دعمك لصديق",
+          "activityPattern": [],
+          "activities": 1
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الثقة: صف موقفًا يتطلب الثقة",
+          "activityPattern": [],
+          "activities": 2
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الثقة: عبّر عن مشاعرك تجاه الأصدقاء",
+          "activityPattern": [],
+          "activities": 3
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الثقة: احكِ عن صداقة قوية",
+          "activityPattern": [],
+          "activities": 4
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الثقة: عبّر عن شعورك بالخيانة",
+          "activityPattern": [],
+          "activities": 5
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "جريمة: أبلغ عن جريمة",
+          "activityPattern": [],
+          "activities": 6
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "جريمة: صف ما حدث في الجريمة",
+          "activityPattern": [],
+          "activities": 7
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "جريمة: اسأل عن تفاصيل الجريمة",
+          "activityPattern": [],
+          "activities": 8
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "جريمة: أجب على أسئلة الشرطة",
+          "activityPattern": [],
+          "activities": 9
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "جريمة: استفسر عن ملابسات الجريمة",
+          "activityPattern": [],
+          "activities": 10
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الشركة: اشرح فكرة شركتك",
+          "activityPattern": [],
+          "activities": 11
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الشركة: صف فكرة الشركة",
+          "activityPattern": [],
+          "activities": 12
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الشركة: اسأل عن المنافسة في السوق",
+          "activityPattern": [],
+          "activities": 13
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الشركة: اختبر خدمة جديدة",
+          "activityPattern": [],
+          "activities": 14
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الشركة: اشرح خطة الشركة",
+          "activityPattern": [],
+          "activities": 15
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "لعبة: اشرح قواعد اللعبة",
+          "activityPattern": [],
+          "activities": 16
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "لعبة: صف تجربتك في اللعبة",
+          "activityPattern": [],
+          "activities": 17
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "لعبة: توقع الفائز في اللعبة",
+          "activityPattern": [],
+          "activities": 18
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "لعبة: صف خطوات اللعبة",
+          "activityPattern": [],
+          "activities": 19
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "لعبة: كوّن فريقك للعبة",
+          "activityPattern": [],
+          "activities": 20
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "رياضة: اقترح طرق تحسين الأداء",
+          "activityPattern": [],
+          "activities": 21
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "رياضة: شارك في التمرين",
+          "activityPattern": [],
+          "activities": 22
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "رياضة: صف معداتك الرياضية",
+          "activityPattern": [],
+          "activities": 23
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "رياضة: اسأل عن نتائج المباراة",
+          "activityPattern": [],
+          "activities": 24
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "رياضة: احكِ عن تجربتك الرياضية",
+          "activityPattern": [],
+          "activities": 25
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الطفل: اسأل عن طعام الطفل",
+          "activityPattern": [],
+          "activities": 26
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الطفل: صف الأيام الأولى للطفل",
+          "activityPattern": [],
+          "activities": 27
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الطفل: اسأل عن احتياجات الطفل",
+          "activityPattern": [],
+          "activities": 28
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الطفل: اختر مريلة مناسبة للطفل",
+          "activityPattern": [],
+          "activities": 29
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الطفل: صف روتين الطفل اليومي",
+          "activityPattern": [],
+          "activities": 30
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "البيئة: عبر عن مشاعرك تجاه الحدائق",
+          "activityPattern": [],
+          "activities": 31
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "البيئة: اشرح خطوات حماية البيئة",
+          "activityPattern": [],
+          "activities": 32
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "البيئة: وضح أهمية إعادة التدوير",
+          "activityPattern": [],
+          "activities": 33
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "البيئة: اقترح حلولًا للتلوث",
+          "activityPattern": [],
+          "activities": 34
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "البيئة: ناقش مشكلات التلوث",
+          "activityPattern": [],
+          "activities": 35
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "تعاطف: عبّر عن مشاعرك للآخرين",
+          "activityPattern": [],
+          "activities": 36
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "تعاطف: استمع للآخرين باهتمام",
+          "activityPattern": [],
+          "activities": 37
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "تعاطف: شارك مشاعرك مع الآخرين",
+          "activityPattern": [],
+          "activities": 38
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "تعاطف: عبّر عن تعاطفك",
+          "activityPattern": [],
+          "activities": 39
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "تعاطف: اشكر من ساعدك",
+          "activityPattern": [],
+          "activities": 40
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "اقتصاد: صف تأثير العولمة",
+          "activityPattern": [],
+          "activities": 41
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "اقتصاد: فسّر الرسوم الجمركية",
+          "activityPattern": [],
+          "activities": 42
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "اقتصاد: اشرح الفروق في الدخل",
+          "activityPattern": [],
+          "activities": 43
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "اقتصاد: اشرح أهمية الموارد",
+          "activityPattern": [],
+          "activities": 44
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "اقتصاد: اشرح تأثير التجارة العالمية",
+          "activityPattern": [],
+          "activities": 45
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الإقامة: عبّر عن صعوبات الإقامة",
+          "activityPattern": [],
+          "activities": 46
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الإقامة: شارك تجربتك في السكن",
+          "activityPattern": [],
+          "activities": 47
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الإقامة: احكِ قصة الهجرة",
+          "activityPattern": [],
+          "activities": 48
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الإقامة: اشرح سبب إقامتك",
+          "activityPattern": [],
+          "activities": 49
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الإقامة: صف تجربة الانتقال",
+          "activityPattern": [],
+          "activities": 50
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "اجتماع: اطلب الانضمام للمجموعة",
+          "activityPattern": [],
+          "activities": 51
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "اجتماع: شارك تجربتك في الاجتماع",
+          "activityPattern": [],
+          "activities": 52
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "اجتماع: اشرح دور المتطوعين",
+          "activityPattern": [],
+          "activities": 53
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "اجتماع: انضم إلى الاجتماع",
+          "activityPattern": [],
+          "activities": 54
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "اجتماع: شارك في تنظيم الاجتماع",
+          "activityPattern": [],
+          "activities": 55
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "العيادة: استفسر عن نتائج الفحص",
+          "activityPattern": [],
+          "activities": 56
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "العيادة: صف حالة المريض",
+          "activityPattern": [],
+          "activities": 57
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "العيادة: اشرح مشكلتك الصحية",
+          "activityPattern": [],
+          "activities": 58
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "العيادة: احجز موعدًا في العيادة",
+          "activityPattern": [],
+          "activities": 59
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "العيادة: اشرح أعراضك للطبيب",
+          "activityPattern": [],
+          "activities": 60
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "قادة: تحدث عن كاريزما القادة",
+          "activityPattern": [],
+          "activities": 61
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "قادة: صف صفات القائد",
+          "activityPattern": [],
+          "activities": 62
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "قادة: صف إنجازات القادة",
+          "activityPattern": [],
+          "activities": 63
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "قادة: اشرح دور المؤسس",
+          "activityPattern": [],
+          "activities": 64
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "قادة: صف تأثير القادة",
+          "activityPattern": [],
+          "activities": 65
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "حفلة: احكِ عن حفلتك المفضلة",
+          "activityPattern": [],
+          "activities": 66
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "حفلة: زَيِّن مكان الحفلة",
+          "activityPattern": [],
+          "activities": 67
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "حفلة: صف الحلويات المقدمة",
+          "activityPattern": [],
+          "activities": 68
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "حفلة: هنئ شخصًا بالنجاح",
+          "activityPattern": [],
+          "activities": 69
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "حفلة: اشكر من ساعدك",
+          "activityPattern": [],
+          "activities": 70
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "تاريخ: استعرض حدثًا تاريخيًا",
+          "activityPattern": [],
+          "activities": 71
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "تاريخ: صف فترات تاريخية",
+          "activityPattern": [],
+          "activities": 72
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "تاريخ: احكِ عن حضارة قديمة",
+          "activityPattern": [],
+          "activities": 73
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "تاريخ: احكِ عن عصر تاريخي",
+          "activityPattern": [],
+          "activities": 74
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "تاريخ: صف ثورة أو حركة",
+          "activityPattern": [],
+          "activities": 75
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "اندماج: اقترح حلولًا للاندماج",
+          "activityPattern": [],
+          "activities": 76
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "اندماج: اسأل عن أدوات تسهل الاندماج",
+          "activityPattern": [],
+          "activities": 77
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "اندماج: اقترح حلولاً للمشاكل",
+          "activityPattern": [],
+          "activities": 78
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "اندماج: اشرح كيف تطور مهاراتك",
+          "activityPattern": [],
+          "activities": 79
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "اندماج: اشرح حاجتك للمساعدة",
+          "activityPattern": [],
+          "activities": 80
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "السيارة: اشرح مشكلة في السيارة",
+          "activityPattern": [],
+          "activities": 81
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "السيارة: اشرح قواعد التجاوز",
+          "activityPattern": [],
+          "activities": 82
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "السيارة: تحقق من عدادات السيارة",
+          "activityPattern": [],
+          "activities": 83
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "السيارة: اشرح طريقة الركن",
+          "activityPattern": [],
+          "activities": 84
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "السيارة: صف كيفية ركن السيارة",
+          "activityPattern": [],
+          "activities": 85
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الطبيعة: صف تجربتك في الطبيعة",
+          "activityPattern": [],
+          "activities": 86
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الطبيعة: شارك تجربتك في المنتزه",
+          "activityPattern": [],
+          "activities": 87
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الطبيعة: استمتع بالهواء الطلق",
+          "activityPattern": [],
+          "activities": 88
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الطبيعة: صف استعدادك للرحلة",
+          "activityPattern": [],
+          "activities": 89
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الطبيعة: صف تجربة بيئية",
+          "activityPattern": [],
+          "activities": 90
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الريف: صف الحياة في الريف",
+          "activityPattern": [],
+          "activities": 91
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الريف: احكِ عن زيارتك للريف",
+          "activityPattern": [],
+          "activities": 92
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الريف: صف يوماً في الريف",
+          "activityPattern": [],
+          "activities": 93
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الريف: صف حياة الريف",
+          "activityPattern": [],
+          "activities": 94
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الريف: صف أنشطة الصباح في الريف",
+          "activityPattern": [],
+          "activities": 95
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الممشى: احكِ عن نزهتك في الممشى",
+          "activityPattern": [],
+          "activities": 96
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الممشى: شارك تجربتك في الممشى",
+          "activityPattern": [],
+          "activities": 97
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الممشى: شارك ذكرياتك عن الممشى",
+          "activityPattern": [],
+          "activities": 98
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الممشى: صف شقة سكنية",
+          "activityPattern": [],
+          "activities": 99
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الممشى: حدد موقع الأماكن المهمة",
+          "activityPattern": [],
+          "activities": 100
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الفن: اشرح لوحتك المفضلة",
+          "activityPattern": [],
+          "activities": 101
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الفن: صف لوحة أعجبتك",
+          "activityPattern": [],
+          "activities": 102
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الفن: تحدث عن أعمال الفنانين",
+          "activityPattern": [],
+          "activities": 103
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الفن: صف قطعة فنية",
+          "activityPattern": [],
+          "activities": 104
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الفن: وصف لوحة فنية",
+          "activityPattern": [],
+          "activities": 105
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الفضاء: صف ما تراه في الأفق",
+          "activityPattern": [],
+          "activities": 106
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الفضاء: صف المذنبات",
+          "activityPattern": [],
+          "activities": 107
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الفضاء: صف حدثًا فلكيًا",
+          "activityPattern": [],
+          "activities": 108
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الفضاء: صف كوكبًا",
+          "activityPattern": [],
+          "activities": 109
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الفضاء: احكِ قصة عن الفضاء",
+          "activityPattern": [],
+          "activities": 110
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الصحة: احك عن تجربة جراحية",
+          "activityPattern": [],
+          "activities": 111
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الصحة: صف أعراض المرض",
+          "activityPattern": [],
+          "activities": 112
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الصحة: احكِ عن موعد الطبيب",
+          "activityPattern": [],
+          "activities": 113
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الصحة: اشرح أعراض الدوار",
+          "activityPattern": [],
+          "activities": 114
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الصحة: شارك تجربتك مع التطعيم",
+          "activityPattern": [],
+          "activities": 115
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "التسوق: شارك تجربتك مع المنتجات",
+          "activityPattern": [],
+          "activities": 116
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "التسوق: اشتر منتجات موسمية",
+          "activityPattern": [],
+          "activities": 117
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "التسوق: اختر منتجات صديقة للبيئة",
+          "activityPattern": [],
+          "activities": 118
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "التسوق: صف منتج مستدام",
+          "activityPattern": [],
+          "activities": 119
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "التسوق: اختر منتجات مستدامة",
+          "activityPattern": [],
+          "activities": 120
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الصادرات: حلل قائمة الصادرات",
+          "activityPattern": [],
+          "activities": 121
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الصادرات: اشرح خطوات تصدير البضائع",
+          "activityPattern": [],
+          "activities": 122
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الصادرات: تابع حالة الشحنة",
+          "activityPattern": [],
+          "activities": 123
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الصادرات: صف خطوات التصدير",
+          "activityPattern": [],
+          "activities": 124
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الصادرات: اشرح معايير الجودة",
+          "activityPattern": [],
+          "activities": 125
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "المطبخ: صف طريقة الطهو",
+          "activityPattern": [],
+          "activities": 126
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "المطبخ: جهز طبقك المفضل",
+          "activityPattern": [],
+          "activities": 127
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "المطبخ: حضّر مكونات الطبخ",
+          "activityPattern": [],
+          "activities": 128
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "المطبخ: اشرح وصفة بسيطة",
+          "activityPattern": [],
+          "activities": 129
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "المطبخ: اشرح طريقة تحضير الخضار",
+          "activityPattern": [],
+          "activities": 130
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الفاتورة: اسأل عن الفاتورة",
+          "activityPattern": [],
+          "activities": 131
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الفاتورة: تابع حالة فاتورتك",
+          "activityPattern": [],
+          "activities": 132
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الفاتورة: تحقق من اشتراكك",
+          "activityPattern": [],
+          "activities": 133
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الفاتورة: اطلب استرداد مبلغك",
+          "activityPattern": [],
+          "activities": 134
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الفاتورة: اشرح مشكلة في الفاتورة",
+          "activityPattern": [],
+          "activities": 135
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الحي: صف ما تراه في الحي",
+          "activityPattern": [],
+          "activities": 136
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الحي: صف التغييرات في الحي",
+          "activityPattern": [],
+          "activities": 137
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الحي: صف شقتك",
+          "activityPattern": [],
+          "activities": 138
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الحي: اسأل عن نظافة الحي",
+          "activityPattern": [],
+          "activities": 139
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الحي: اسأل عن الاتجاهات في الحي",
+          "activityPattern": [],
+          "activities": 140
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "لجنة: وضح هدف اللجنة",
+          "activityPattern": [],
+          "activities": 141
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "لجنة: شارك رأيك في الحلول",
+          "activityPattern": [],
+          "activities": 142
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "لجنة: اشرح دورك في اللجنة",
+          "activityPattern": [],
+          "activities": 143
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "لجنة: اشرح أسباب رفضك",
+          "activityPattern": [],
+          "activities": 144
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "لجنة: اقترح موعداً للاجتماع",
+          "activityPattern": [],
+          "activities": 145
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الأطباق: قارن بين الأطباق",
+          "activityPattern": [],
+          "activities": 146
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الأطباق: صف طبقك المفضل",
+          "activityPattern": [],
+          "activities": 147
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الأطباق: اسأل عن مكونات الطبق",
+          "activityPattern": [],
+          "activities": 148
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الأطباق: اقترح طبقًا مناسبًا",
+          "activityPattern": [],
+          "activities": 149
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الأطباق: شارك رأيك في الأطباق",
+          "activityPattern": [],
+          "activities": 150
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "التعلم: قدم نصائح للاستعداد للاختبار",
+          "activityPattern": [],
+          "activities": 151
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "التعلم: خطط روتينك الدراسي",
+          "activityPattern": [],
+          "activities": 152
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "التعلم: راجع المفردات يوميًا",
+          "activityPattern": [],
+          "activities": 153
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "التعلم: شارك تحدياتك في التعلم",
+          "activityPattern": [],
+          "activities": 154
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "التعلم: شارك تجربة تعلمك",
+          "activityPattern": [],
+          "activities": 155
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الموسيقى: صف أداء الموسيقيين",
+          "activityPattern": [],
+          "activities": 156
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الموسيقى: اسأل عن الحفل الموسيقي",
+          "activityPattern": [],
+          "activities": 157
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الموسيقى: صف أعضاء الفرقة",
+          "activityPattern": [],
+          "activities": 158
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الموسيقى: تحدث عن الأغاني المفضلة",
+          "activityPattern": [],
+          "activities": 159
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الموسيقى: صف لحن أغنية",
+          "activityPattern": [],
+          "activities": 160
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الأدوات: استخدم الأدوات في الطبخ",
+          "activityPattern": [],
+          "activities": 161
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الأدوات: شارك طريقة خلط المكونات",
+          "activityPattern": [],
+          "activities": 162
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الأدوات: اشرح طريقة استخدام الأدوات",
+          "activityPattern": [],
+          "activities": 163
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الأدوات: استخدم الغطاء عند الطهي",
+          "activityPattern": [],
+          "activities": 164
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الأدوات: اختر أداة للطهي",
+          "activityPattern": [],
+          "activities": 165
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الأخبار: اسأل عن تفاصيل الخبر",
+          "activityPattern": [],
+          "activities": 166
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الأخبار: لخص أخبار اليوم",
+          "activityPattern": [],
+          "activities": 167
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الأخبار: صف ما حدث اليوم",
+          "activityPattern": [],
+          "activities": 168
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الأخبار: احكِ عن خبر جديد",
+          "activityPattern": [],
+          "activities": 169
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الأخبار: لخص الأخبار",
+          "activityPattern": [],
+          "activities": 170
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الجهاز: اسأل عن إعدادات الجهاز",
+          "activityPattern": [],
+          "activities": 171
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الجهاز: اشرح ربط الجهاز بالإنترنت",
+          "activityPattern": [],
+          "activities": 172
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الجهاز: تحقق من تشغيل الجهاز",
+          "activityPattern": [],
+          "activities": 173
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الجهاز: اشرح مشكلة في الجهاز",
+          "activityPattern": [],
+          "activities": 174
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الجهاز: اشرح طريقة عمل الجهاز",
+          "activityPattern": [],
+          "activities": 175
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "علم: اشرح تجربة علمية",
+          "activityPattern": [],
+          "activities": 176
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "علم: اسأل عن سبب الأحداث",
+          "activityPattern": [],
+          "activities": 177
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "علم: تحدث عن أدوات البحث العلمي",
+          "activityPattern": [],
+          "activities": 178
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "علم: اشرح تقنية جديدة",
+          "activityPattern": [],
+          "activities": 179
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "علم: صف تركيب الذرة",
+          "activityPattern": [],
+          "activities": 180
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "أزمة: صف ما حدث أثناء الأزمة",
+          "activityPattern": [],
+          "activities": 181
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "أزمة: اشرح كيف تجنبت الخطر",
+          "activityPattern": [],
+          "activities": 182
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "أزمة: تحدث عن تجربة صعبة",
+          "activityPattern": [],
+          "activities": 183
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "أزمة: صف كيف تصرفت في أزمة",
+          "activityPattern": [],
+          "activities": 184
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "أزمة: صف حدثًا كارثيًا",
+          "activityPattern": [],
+          "activities": 185
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "هوية: شارك قصتك الشخصية",
+          "activityPattern": [],
+          "activities": 186
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "هوية: شارك قصة انتقالك",
+          "activityPattern": [],
+          "activities": 187
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "هوية: عبّر عن هويتك",
+          "activityPattern": [],
+          "activities": 188
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "هوية: شارك قصة عن نفسك",
+          "activityPattern": [],
+          "activities": 189
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "هوية: صف تجاربك الشخصية",
+          "activityPattern": [],
+          "activities": 190
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "العلم: اشرح تجربتك العلمية",
+          "activityPattern": [],
+          "activities": 191
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "العلم: صف تجربة علمية",
+          "activityPattern": [],
+          "activities": 192
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "العلم: صف خطوات التجربة",
+          "activityPattern": [],
+          "activities": 193
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "العلم: احكِ عن تجربة علمية",
+          "activityPattern": [],
+          "activities": 194
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "العلم: شارك نتائج البحث",
+          "activityPattern": [],
+          "activities": 195
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الحياة: صف ما رأيت في الطبيعة",
+          "activityPattern": [],
+          "activities": 196
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الحياة: صف مشهد من الطبيعة",
+          "activityPattern": [],
+          "activities": 197
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الحياة: شارك قصصك عن الحيوانات",
+          "activityPattern": [],
+          "activities": 198
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الحياة: احكِ عن مغامرة في الجبال",
+          "activityPattern": [],
+          "activities": 199
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 8,
+          "title": "الحياة: صف منظر الطبيعة",
+          "activityPattern": [],
+          "activities": 200
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "key": "enfur1005",
+    "courseTitle": "Urdu → English",
+    "scrapedAt": "2026-06-21T04:34:02.489Z",
+    "sourceHash": "sha256:8e519896fb375cea",
+    "fromLang": "Urdu",
+    "toLang": "English",
+    "fromCode": "ur",
+    "toCode": "en",
+    "level": null,
+    "levelShort": null,
+    "detailHref": "https://duolingodata.com/dat/enfur1005.html",
+    "detailHrefHash": "sha256:0cd6cad51aaf103c",
+    "scrapeWarnings": [
+      "No sections parsed, using meta.unitsCount",
+      "No activities parsed, using meta.lessonsCount"
+    ],
+    "schemaVersion": "1.0.0"
+  },
+  "totals": {
+    "sections": 0,
+    "activities": 9846,
+    "units": 1005
+  },
+  "sections": []
+}

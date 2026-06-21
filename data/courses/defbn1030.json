@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "key": "defbn1030",
+    "courseTitle": "Bengali → German",
+    "scrapedAt": "2026-06-21T04:34:02.489Z",
+    "sourceHash": "sha256:11389273192d06ba",
+    "fromLang": "Bengali",
+    "toLang": "German",
+    "fromCode": "bn",
+    "toCode": "de",
+    "level": null,
+    "levelShort": null,
+    "detailHref": "https://duolingodata.com/dat/defbn1030.html",
+    "detailHrefHash": "sha256:8724f22e5fcbd22b",
+    "scrapeWarnings": [
+      "No sections parsed, using meta.unitsCount",
+      "No activities parsed, using meta.lessonsCount"
+    ],
+    "schemaVersion": "1.0.0"
+  },
+  "totals": {
+    "sections": 0,
+    "activities": 8525,
+    "units": 1030
+  },
+  "sections": []
+}

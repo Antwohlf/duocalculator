@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "key": "ptfbn131",
+    "courseTitle": "Bengali → Portuguese",
+    "scrapedAt": "2026-06-21T04:34:02.489Z",
+    "sourceHash": "sha256:b4d019f229585932",
+    "fromLang": "Bengali",
+    "toLang": "Portuguese",
+    "fromCode": "bn",
+    "toCode": "pt",
+    "level": null,
+    "levelShort": null,
+    "detailHref": "https://duolingodata.com/dat/ptfbn131.html",
+    "detailHrefHash": "sha256:8f6b82db27d3b744",
+    "scrapeWarnings": [
+      "No sections parsed, using meta.unitsCount",
+      "No activities parsed, using meta.lessonsCount"
+    ],
+    "schemaVersion": "1.0.0"
+  },
+  "totals": {
+    "sections": 0,
+    "activities": 3203,
+    "units": 131
+  },
+  "sections": []
+}

@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "key": "defte630",
+    "courseTitle": "Telugu → German",
+    "scrapedAt": "2026-06-21T04:34:02.489Z",
+    "sourceHash": "sha256:f45bdff8f5851211",
+    "fromLang": "Telugu",
+    "toLang": "German",
+    "fromCode": "te",
+    "toCode": "de",
+    "level": null,
+    "levelShort": null,
+    "detailHref": "https://duolingodata.com/dat/defte630.html",
+    "detailHrefHash": "sha256:d2b28c59e2dd194b",
+    "scrapeWarnings": [
+      "No sections parsed, using meta.unitsCount",
+      "No activities parsed, using meta.lessonsCount"
+    ],
+    "schemaVersion": "1.0.0"
+  },
+  "totals": {
+    "sections": 0,
+    "activities": 5585,
+    "units": 630
+  },
+  "sections": []
+}

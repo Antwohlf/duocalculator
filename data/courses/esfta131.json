@@ -2,8 +2,8 @@
   "meta": {
     "key": "esfta131",
     "courseTitle": "Tamil → Spanish",
-    "scrapedAt": "2026-06-14T04:33:59.805Z",
-    "sourceHash": "sha256:a3d11d28c712135d",
+    "scrapedAt": "2026-06-21T04:34:02.489Z",
+    "sourceHash": "sha256:0e9307b15457dd3a",
     "fromLang": "Tamil",
     "toLang": "Spanish",
     "fromCode": "ta",
@@ -17,7 +17,7 @@
   },
   "totals": {
     "sections": 4,
-    "activities": 4828,
+    "activities": 4832,
     "units": 131
   },
   "sections": [
@@ -45,7 +45,7 @@
         {
           "sectionIndex": 1,
           "unitIndex": 1,
-          "title": "Ser de பயன்படுத்தி வரலாறு கூறவும்",
+          "title": "ser de பயன்படுத்தி வரலாறு கூறவும்",
           "activityPattern": [],
           "activities": 3
         },
@@ -87,7 +87,7 @@
         {
           "sectionIndex": 1,
           "unitIndex": 1,
-          "title": "Hace பயன்படுத்தி வானிலை கூறவும்",
+          "title": "hace பயன்படுத்தி வானிலை கூறவும்",
           "activityPattern": [],
           "activities": 9
         },
@@ -539,7 +539,7 @@
         {
           "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "Por மற்றும் \"para\" பயன்படுத்தவும்",
+          "title": "por மற்றும் \"para\" பயன்படுத்தவும்",
           "activityPattern": [],
           "activities": 30
         }
@@ -970,11 +970,11 @@
           "unitIndex": 4,
           "title": "ஒரு குற்றத்தை பற்றி புகாரளிக்கவும்",
           "activityPattern": [
-            2025,
-            12,
-            5
+            2026,
+            6,
+            14
           ],
-          "activities": 2042
+          "activities": 2046
         }
       ]
     }

@@ -180,6 +180,56 @@ test.describe('Course Selection Flow', () => {
     await expect(page.locator('#stat-lessons-left')).not.toHaveText('—');
   });
 
+  test('Urdu to English course can be selected', async ({ page }) => {
+    const baseUrl = await readBaseUrl();
+    await page.goto(`${baseUrl}/`, { waitUntil: 'domcontentloaded' });
+
+    const fromSelect = page.locator('#from-lang-select');
+    const toSelect = page.locator('#to-lang-select');
+    const sectionSelect = page.locator('#section-select');
+    const unitSelect = page.locator('#unit-select');
+    const resultHeadline = page.locator('#result-headline');
+
+    await expect(fromSelect).toBeEnabled();
+    await expect
+      .poll(async () => fromSelect.locator('option[value="Urdu"]').count())
+      .toBe(1);
+
+    await fromSelect.selectOption('Urdu');
+
+    await expect(toSelect).toBeEnabled();
+    const englishCourseKey = await toSelect.locator('option').evaluateAll((options) => {
+      const english = options.find((option) => {
+        const value = option.getAttribute('value') || '';
+        const text = option.textContent || '';
+        return value.includes('enfur1005.html') && text.includes('English');
+      });
+      return english ? english.getAttribute('value') : null;
+    });
+
+    expect(englishCourseKey).toBe('https://duolingodata.com/dat/enfur1005.html');
+    await toSelect.selectOption(englishCourseKey);
+
+    await expect(sectionSelect).toBeEnabled();
+    await expect
+      .poll(async () => sectionSelect.locator('option:not([value=""])').count())
+      .toBeGreaterThan(0);
+
+    const firstSection = await sectionSelect.locator('option:not([value=""])').first().getAttribute('value');
+    await sectionSelect.selectOption(firstSection);
+
+    await expect(unitSelect).toBeEnabled();
+    await expect
+      .poll(async () => unitSelect.locator('option:not([value=""])').count())
+      .toBeGreaterThan(0);
+
+    const firstUnit = await unitSelect.locator('option:not([value=""])').first().getAttribute('value');
+    await unitSelect.selectOption(firstUnit);
+
+    await expect(resultHeadline).not.toContainText('Pick languages');
+    await expect(page.locator('#progress-counts')).toContainText('of 8275 lessons completed');
+  });
+
   test('Swap languages button swaps from/to values and resets downstream', async ({ page }) => {
     const baseUrl = await readBaseUrl();
     await page.goto(`${baseUrl}/`, { waitUntil: 'domcontentloaded' });

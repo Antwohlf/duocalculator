@@ -166,3 +166,36 @@ test('scraper re-fetches when detailHref changes', async () => {
 
   assert.ok(fetchCalls.includes('https://duolingodata.com/esfen.html'));
 });
+
+test('scraper generates synthetic sections when detail page has only totals', async () => {
+  const outputDir = await mkdtemp(join(tmpdir(), 'duo-scraper-'));
+  const mainHtml = await readFixture('course-list.html');
+  const detailHtml = await readFixture('course-detail-empty.html');
+  const dailyHtml = await readFixture('dailynews.html');
+
+  await runScraper({
+    outputDir,
+    fullRefresh: true,
+    htmlMap: {
+      'https://duolingodata.com/': mainHtml,
+      'https://duolingodata.com/esfen.html': detailHtml,
+      'https://duolingodata.com/dailynews.html': dailyHtml,
+    },
+  });
+
+  const detailJson = JSON.parse(
+    await readFile(join(outputDir, 'courses', 'esfen.json'), 'utf8')
+  );
+
+  assert.equal(detailJson.totals.sections, 1);
+  assert.equal(detailJson.totals.units, 5);
+  assert.equal(detailJson.totals.activities, 30);
+  assert.equal(detailJson.sections.length, 1);
+  assert.equal(detailJson.sections[0].units.length, 5);
+  assert.equal(detailJson.sections[0].units[0].title, 'Unit 1');
+  assert.ok(
+    detailJson.meta.scrapeWarnings.includes(
+      'No sections parsed, generated synthetic units from course totals'
+    )
+  );
+});

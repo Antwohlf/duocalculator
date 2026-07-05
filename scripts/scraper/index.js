@@ -156,7 +156,11 @@ async function main() {
 
     try {
       const html = await fetchWithRetry(course.detailHref);
-      const detail = parseCourseDetail(html, course);
+      const parsedDetail = parseCourseDetail(html, course);
+      const detail =
+        !parsedDetail.sections?.length && parsedDetail.totals?.units > 0
+          ? buildSyntheticDetail(course, parsedDetail)
+          : parsedDetail;
       
       // Generate hashes for change detection
       const sourceHash = createHash('sha256').update(html).digest('hex').slice(0, 16);
@@ -302,6 +306,59 @@ function extractKey(href) {
   } catch {
     return null;
   }
+}
+
+function buildSyntheticDetail(course, parsedDetail) {
+  const unitsCount = Math.max(1, parsedDetail?.totals?.units || course.unitsCount || 1);
+  const totalActivities = Math.max(
+    unitsCount,
+    parsedDetail?.totals?.activities || course.lessonsCount || unitsCount * 10,
+  );
+  const perUnitBase = Math.max(1, Math.floor(totalActivities / unitsCount));
+  let remaining = totalActivities - perUnitBase * unitsCount;
+  const unitsPerSection = 10;
+  const sections = [];
+  let unitIndex = 1;
+  let sectionIndex = 1;
+
+  while (unitIndex <= unitsCount) {
+    const units = [];
+    for (let i = 0; i < unitsPerSection && unitIndex <= unitsCount; i += 1) {
+      const extra = remaining > 0 ? 1 : 0;
+      if (remaining > 0) remaining -= 1;
+      units.push({
+        sectionIndex,
+        unitIndex,
+        title: `Unit ${unitIndex}`,
+        activityPattern: [],
+        activities: perUnitBase + extra,
+      });
+      unitIndex += 1;
+    }
+    sections.push({
+      sectionIndex,
+      unitCount: units.length,
+      title: '',
+      rawTitle: '',
+      cefr: course.levelShort || '',
+      units,
+    });
+    sectionIndex += 1;
+  }
+
+  return {
+    sections,
+    totals: {
+      sections: sections.length,
+      activities: totalActivities,
+      units: unitsCount,
+      estimated: true,
+    },
+    warnings: [
+      ...(parsedDetail?.warnings || []),
+      'No sections parsed, generated synthetic units from course totals',
+    ],
+  };
 }
 
 /**

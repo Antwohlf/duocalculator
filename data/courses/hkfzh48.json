@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "key": "hkfzh48",
+    "courseTitle": "Chinese → Cantonese",
+    "scrapedAt": "2026-07-05T04:25:34.664Z",
+    "sourceHash": "sha256:38d919ea87b0aa47",
+    "fromLang": "Chinese",
+    "toLang": "Cantonese",
+    "fromCode": "zh",
+    "toCode": "hk",
+    "level": null,
+    "levelShort": null,
+    "detailHref": "https://duolingodata.com/dat/hkfzh48.html",
+    "detailHrefHash": "sha256:c51eaf185a907623",
+    "scrapeWarnings": [
+      "No sections parsed, using meta.unitsCount",
+      "No activities parsed, using meta.lessonsCount"
+    ],
+    "schemaVersion": "1.0.0"
+  },
+  "totals": {
+    "sections": 0,
+    "activities": 820,
+    "units": 48
+  },
+  "sections": []
+}

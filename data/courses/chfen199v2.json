@@ -1,23 +1,23 @@
 {
   "meta": {
-    "key": "chfes199",
-    "courseTitle": "Spanish → Ch",
+    "key": "chfen199v2",
+    "courseTitle": "English → Ch",
     "scrapedAt": "2026-07-12T04:12:58.833Z",
-    "sourceHash": "sha256:7639b0ae56ea42b3",
-    "fromLang": "Spanish",
+    "sourceHash": "sha256:f283af4e31ce4def",
+    "fromLang": "English",
     "toLang": "Ch",
-    "fromCode": "es",
+    "fromCode": "en",
     "toCode": "ch",
     "level": "CEFR ELO 200",
     "levelShort": "ELO 200",
-    "detailHref": "https://duolingodata.com/dat/chfes199.html",
-    "detailHrefHash": "sha256:0a32d66f4bc96af1",
+    "detailHref": "https://duolingodata.com/dat/chfen199v2.html",
+    "detailHrefHash": "sha256:a1825c284a873ab8",
     "scrapeWarnings": [],
     "schemaVersion": "1.0.0"
   },
   "totals": {
     "sections": 7,
-    "activities": 5597,
+    "activities": 5589,
     "units": 199
   },
   "sections": [
@@ -31,42 +31,42 @@
         {
           "sectionIndex": 1,
           "unitIndex": 1,
-          "title": "Movimiento de piezas",
+          "title": "Piece movement",
           "activityPattern": [],
           "activities": 1
         },
         {
           "sectionIndex": 1,
           "unitIndex": 1,
-          "title": "Capturar y atacar",
+          "title": "Capturing and attacking",
           "activityPattern": [],
           "activities": 2
         },
         {
           "sectionIndex": 1,
           "unitIndex": 1,
-          "title": "Defendiendo tus piezas",
+          "title": "Defending your pieces",
           "activityPattern": [],
           "activities": 3
         },
         {
           "sectionIndex": 1,
           "unitIndex": 1,
-          "title": "Jaque, atacando al rey",
+          "title": "Check, attacking the king",
           "activityPattern": [],
           "activities": 4
         },
         {
           "sectionIndex": 1,
           "unitIndex": 1,
-          "title": "Jaque mate, el objetivo del juego",
+          "title": "Checkmate, the point of the game",
           "activityPattern": [],
           "activities": 5
         },
         {
           "sectionIndex": 1,
           "unitIndex": 1,
-          "title": "Empezar la partida",
+          "title": "Starting the game",
           "activityPattern": [],
           "activities": 6
         }
@@ -82,175 +82,175 @@
         {
           "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "Valor de las piezas y capturas favorables",
+          "title": "Piece value and favorable captures",
           "activityPattern": [],
           "activities": 1
         },
         {
           "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "Práctica de seguridad y jaque mate",
+          "title": "Safety and checkmate practice",
           "activityPattern": [],
           "activities": 2
         },
         {
           "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "Practicando una partida",
+          "title": "Opening principles",
           "activityPattern": [],
           "activities": 3
         },
         {
           "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "Patrones de rey ahogado y jaque mate",
+          "title": "Stalemate and checkmate patterns",
           "activityPattern": [],
           "activities": 4
         },
         {
           "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "Intercambios",
+          "title": "Exchanges",
           "activityPattern": [],
           "activities": 5
         },
         {
           "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "Coronación de peones y carreras",
+          "title": "Pawn promotion and races",
           "activityPattern": [],
           "activities": 6
         },
         {
           "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "Tenedores",
+          "title": "Forks",
           "activityPattern": [],
           "activities": 7
         },
         {
           "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "Práctica de jaque mate",
+          "title": "Checkmate and fork practice practice",
           "activityPattern": [],
           "activities": 8
         },
         {
           "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "Clavadas absolutas",
+          "title": "Absolute pins",
           "activityPattern": [],
           "activities": 9
         },
         {
           "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "Entendiendo el peón",
+          "title": "Understanding the pawn",
           "activityPattern": [],
           "activities": 10
         },
         {
           "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "Practicando planificar para jaque mate",
+          "title": "Practicing planning for checkmate",
           "activityPattern": [],
           "activities": 11
         },
         {
           "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "Continuando la apertura",
+          "title": "Continuing the opening",
           "activityPattern": [],
           "activities": 12
         },
         {
           "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "Aprovechando las clavadas",
+          "title": "Exploiting pins",
           "activityPattern": [],
           "activities": 13
         },
         {
           "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "Mate de la coz y enfiladas",
+          "title": "Smothered mate and skewers",
           "activityPattern": [],
           "activities": 14
         },
         {
           "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "Sacrificio",
+          "title": "Sacrifice",
           "activityPattern": [],
           "activities": 15
         },
         {
           "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "Ataques descubiertos y dobles",
+          "title": "Discovered and double attacks",
           "activityPattern": [],
           "activities": 16
         },
         {
           "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "Jaque descubierto y jaque doble",
+          "title": "Backward moves",
           "activityPattern": [],
           "activities": 17
         },
         {
           "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "Tácticas de jaque mate",
+          "title": "Happy pieces",
           "activityPattern": [],
           "activities": 18
         },
         {
           "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "Batería",
+          "title": "Battery",
           "activityPattern": [],
           "activities": 19
         },
         {
           "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "Eliminar las defensas y conectar torres",
+          "title": "Finishing the opening",
           "activityPattern": [],
           "activities": 20
         },
         {
           "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "Ganar material",
+          "title": "Gaining material",
           "activityPattern": [],
           "activities": 21
         },
         {
           "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "Acumulando clavadas",
+          "title": "Finding opportunities",
           "activityPattern": [],
           "activities": 22
         },
         {
           "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "Jugadas intermedias",
+          "title": "Spotting tactics",
           "activityPattern": [],
           "activities": 23
         },
         {
           "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "Defenderse contra el mate",
+          "title": "Defending against mate",
           "activityPattern": [],
           "activities": 24
         },
         {
           "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "Práctica de finales comunes",
+          "title": "Common endgame practice",
           "activityPattern": [],
           "activities": 25
         }
@@ -266,168 +266,168 @@
         {
           "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "Jugadas forzadas y jaque mate doble",
+          "title": "Using pins in a game",
           "activityPattern": [],
           "activities": 1
         },
         {
           "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "Tenedores y mate de Lolli",
+          "title": "Knight and pawn forks",
           "activityPattern": [],
           "activities": 2
         },
         {
           "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "Clavadas y clavadas cruzadas",
+          "title": "Responding to checks",
           "activityPattern": [],
           "activities": 3
         },
         {
           "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "Forzar tablas",
+          "title": "Obstacles to castling",
           "activityPattern": [],
           "activities": 4
         },
         {
           "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "Escapar de tenedores",
+          "title": "Effective pawn play",
           "activityPattern": [],
           "activities": 5
         },
         {
           "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "Escapar de clavadas",
+          "title": "Essential checkmates",
           "activityPattern": [],
           "activities": 6
         },
         {
           "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "Dominando los ataques descubiertos y dobles",
+          "title": "Stalemate traps",
           "activityPattern": [],
           "activities": 7
         },
         {
           "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "Entendiendo la torre",
+          "title": "Attacking defenders",
           "activityPattern": [],
           "activities": 8
         },
         {
           "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "Sacrificio de despeje",
+          "title": "Prevent mate—move or capture",
           "activityPattern": [],
           "activities": 9
         },
         {
           "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "Entrenamiento de jaque mate",
+          "title": "Prevent mate—defend or block",
           "activityPattern": [],
           "activities": 10
         },
         {
           "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "ataques de rayos X",
+          "title": "Pawn structure",
           "activityPattern": [],
           "activities": 11
         },
         {
           "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "Escapar de ataques y jaques",
+          "title": "Preventing forks",
           "activityPattern": [],
           "activities": 12
         },
         {
           "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "Tácticas defensivas",
+          "title": "Escaping pins",
           "activityPattern": [],
           "activities": 13
         },
         {
           "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "Oposición",
+          "title": "Forcing moves",
           "activityPattern": [],
           "activities": 14
         },
         {
           "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "Clavadas complejas",
+          "title": "Discovered checks and attacks",
           "activityPattern": [],
           "activities": 15
         },
         {
           "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "Desarrollar piezas",
+          "title": "Weaknesses",
           "activityPattern": [],
           "activities": 16
         },
         {
           "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "Entendiendo la reina",
+          "title": "Open and semi-open files",
           "activityPattern": [],
           "activities": 17
         },
         {
           "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "Jaque mate en la apertura",
+          "title": "Placing knights and bishops",
           "activityPattern": [],
           "activities": 18
         },
         {
           "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "Piezas atrapadas",
+          "title": "Using your queen",
           "activityPattern": [],
           "activities": 19
         },
         {
           "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "Celadas de apertura",
+          "title": "Pawn majorities and promotion",
           "activityPattern": [],
           "activities": 20
         },
         {
           "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "Ganar material",
+          "title": "Opposition",
           "activityPattern": [],
           "activities": 21
         },
         {
           "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "Práctica de jaque mate",
+          "title": "Rooks vs queens",
           "activityPattern": [],
           "activities": 22
         },
         {
           "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "Tácticas con múltiples piezas",
+          "title": "Trapped bishops and knights",
           "activityPattern": [],
           "activities": 23
         },
         {
           "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "Importancia de los peones",
+          "title": "Queen mates on a castled king",
           "activityPattern": [],
           "activities": 24
         }
@@ -443,119 +443,119 @@
         {
           "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "Práctica de jaque mate",
+          "title": "Checkmate practice",
           "activityPattern": [],
           "activities": 1
         },
         {
           "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "Apertura de una partida",
+          "title": "Opening a match",
           "activityPattern": [],
           "activities": 2
         },
         {
           "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "Tácticas de ataque",
+          "title": "Attacking tactics",
           "activityPattern": [],
           "activities": 3
         },
         {
           "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "Interferencia",
+          "title": "Interference",
           "activityPattern": [],
           "activities": 4
         },
         {
           "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "Tácticas de escape",
+          "title": "Escaping tactics",
           "activityPattern": [],
           "activities": 5
         },
         {
           "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "Desviación",
+          "title": "Deflection",
           "activityPattern": [],
           "activities": 6
         },
         {
           "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "prevenir jaque mate",
+          "title": "Checkmate prevention",
           "activityPattern": [],
           "activities": 7
         },
         {
           "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "Dominando los finales comunes",
+          "title": "Mastering common endgames",
           "activityPattern": [],
           "activities": 8
         },
         {
           "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "Atracción",
+          "title": "Attraction",
           "activityPattern": [],
           "activities": 9
         },
         {
           "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "Tácticas defensivas",
+          "title": "Defending tactics",
           "activityPattern": [],
           "activities": 10
         },
         {
           "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "Dominando el alfil",
+          "title": "Mastering the bishop",
           "activityPattern": [],
           "activities": 11
         },
         {
           "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "Planificar el jaque mate",
+          "title": "Planning the checkmate",
           "activityPattern": [],
           "activities": 12
         },
         {
           "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "Tácticas con múltiples piezas",
+          "title": "Multipiece tactics",
           "activityPattern": [],
           "activities": 13
         },
         {
           "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "Peones avanzados",
+          "title": "Advanced pawns",
           "activityPattern": [],
           "activities": 14
         },
         {
           "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "Mates y trampas en la apertura",
+          "title": "Early game checkmates and traps",
           "activityPattern": [],
           "activities": 15
         },
         {
           "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "Ganar material",
+          "title": "Gaining material",
           "activityPattern": [],
           "activities": 16
         },
         {
           "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "Dominando el caballo",
+          "title": "Mastering the knight",
           "activityPattern": [],
           "activities": 17
         },
@@ -569,42 +569,42 @@
         {
           "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "Redes de mate",
+          "title": "Mating nets",
           "activityPattern": [],
           "activities": 19
         },
         {
           "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "Práctica del medio juego",
+          "title": "Middlegame practice",
           "activityPattern": [],
           "activities": 20
         },
         {
           "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "Planificando sacrificios",
+          "title": "Planning sacrifices",
           "activityPattern": [],
           "activities": 21
         },
         {
           "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "Peones aislados y retrasados",
+          "title": "Isolated and backward pawns",
           "activityPattern": [],
           "activities": 22
         },
         {
           "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "Tablas, jugada intermedia y zugzwang",
+          "title": "Draws, intermezzo, and zugzwang",
           "activityPattern": [],
           "activities": 23
         },
         {
           "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "Dominando el rey",
+          "title": "Mastering the king",
           "activityPattern": [],
           "activities": 24
         }
@@ -620,168 +620,168 @@
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "Oposición",
+          "title": "Opposition",
           "activityPattern": [],
           "activities": 1
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "Jaque descubiertos",
+          "title": "Discovered checks",
           "activityPattern": [],
           "activities": 2
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "Mates con caballo",
+          "title": "Knight mates",
           "activityPattern": [],
           "activities": 3
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "Duplicar torres y el cañón de Alekhine",
+          "title": "Doubling rooks and Alekhine's gun",
           "activityPattern": [],
           "activities": 4
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "Sacrificios",
+          "title": "Sacrifices",
           "activityPattern": [],
           "activities": 5
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "Peones pasados",
+          "title": "Passed pawns",
           "activityPattern": [],
           "activities": 6
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "Mejorar tus piezas",
+          "title": "Improving your pieces",
           "activityPattern": [],
           "activities": 7
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "Tácticas de apertura",
+          "title": "Early game tactics",
           "activityPattern": [],
           "activities": 8
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "Mejorar tus torres y tu reina",
+          "title": "Improving your rooks and queen",
           "activityPattern": [],
           "activities": 9
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "Mates de torre y alfil",
+          "title": "Rook and bishop mates",
           "activityPattern": [],
           "activities": 10
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "Carreras de peones y rupturas",
+          "title": "Pawn races and breakthroughs",
           "activityPattern": [],
           "activities": 11
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "Saber cuándo cambiar",
+          "title": "Knowing when to trade",
           "activityPattern": [],
           "activities": 12
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "Más mates de torre",
+          "title": "More rook mates",
           "activityPattern": [],
           "activities": 13
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "Ataque de alfil",
+          "title": "Bishop attacks",
           "activityPattern": [],
           "activities": 14
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "Poder de peones",
+          "title": "Pawn power",
           "activityPattern": [],
           "activities": 15
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "Mates con la reina y el alfil",
+          "title": "Queen and bishop mates",
           "activityPattern": [],
           "activities": 16
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "Tenedor de reina",
+          "title": "Queen forks",
           "activityPattern": [],
           "activities": 17
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "Hombro a hombro y zugzwang",
+          "title": "Shouldering and zugzwang",
           "activityPattern": [],
           "activities": 18
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "Mate con pareja de alfiles",
+          "title": "Bishop pair mates",
           "activityPattern": [],
           "activities": 19
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "Torres en la fila de peones",
+          "title": "Rooks on the pawn row",
           "activityPattern": [],
           "activities": 20
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "Ataques al rey enrocado",
+          "title": "Attacks on a castled king",
           "activityPattern": [],
           "activities": 21
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "Mates con torre y caballo",
+          "title": "Rook and knight mates",
           "activityPattern": [],
           "activities": 22
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "Interferencia y jugada intermedia",
+          "title": "Interference and intermezzo",
           "activityPattern": [],
           "activities": 23
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "Mates con piezas menores",
+          "title": "Minor piece checkmates",
           "activityPattern": [],
           "activities": 24
         }
@@ -797,336 +797,336 @@
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "Practicando patrones de jaque mate",
+          "title": "Practicing checkmating patterns",
           "activityPattern": [],
           "activities": 1
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "Repertorio de aperturas",
+          "title": "Opening repertoire",
           "activityPattern": [],
           "activities": 2
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "Tácticas defensivas",
+          "title": "Defending tactics",
           "activityPattern": [],
           "activities": 3
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "Ataques a la descubierta",
+          "title": "Discovered attacks",
           "activityPattern": [],
           "activities": 4
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "Dominando el caballo",
+          "title": "Mastering the knight",
           "activityPattern": [],
           "activities": 5
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "Tácticas de ataque",
+          "title": "Attacking tactics",
           "activityPattern": [],
           "activities": 6
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "Obtener ventaja en la apertura",
+          "title": "Gaining advantage in the early game",
           "activityPattern": [],
           "activities": 7
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "Dominando el peón",
+          "title": "Mastering the pawn",
           "activityPattern": [],
           "activities": 8
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "Planificando sacrificios",
+          "title": "Planning sacrifices",
           "activityPattern": [],
           "activities": 9
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "Practicando mates frecuentes",
+          "title": "Practicing frequent checkmates",
           "activityPattern": [],
           "activities": 10
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "Práctica del medio juego",
+          "title": "Middlegame practice",
           "activityPattern": [],
           "activities": 11
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "Aprovechar errores",
+          "title": "Exploiting mistakes",
           "activityPattern": [],
           "activities": 12
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "Dominando el rey",
+          "title": "Mastering the king",
           "activityPattern": [],
           "activities": 13
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "Tácticas con múltiples piezas",
+          "title": "Multipiece tactics",
           "activityPattern": [],
           "activities": 14
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "Obtener la ventaja",
+          "title": "Obtaining the advantage",
           "activityPattern": [],
           "activities": 15
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "Sorprendiendo a tu oponente",
+          "title": "Surprising your opponent",
           "activityPattern": [],
           "activities": 16
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "Mejorando tu posición",
+          "title": "Improving your position",
           "activityPattern": [],
           "activities": 17
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "Dominando la reina",
+          "title": "Mastering the queen",
           "activityPattern": [],
           "activities": 18
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "Práctica de finales",
+          "title": "Endgame practice",
           "activityPattern": [],
           "activities": 19
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "Evitar ataques",
+          "title": "Avoiding attacks",
           "activityPattern": [],
           "activities": 20
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "Dominando la torre",
+          "title": "Mastering the rook",
           "activityPattern": [],
           "activities": 21
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "Dominando los jaque mate",
+          "title": "Mastering checkmates",
           "activityPattern": [],
           "activities": 22
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "Dominando la séptima fila",
+          "title": "Mastering the seventh rank",
           "activityPattern": [],
           "activities": 23
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "Dominando el alfil",
+          "title": "Mastering the bishop",
           "activityPattern": [],
           "activities": 24
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "Desventajas",
+          "title": "Disadvantages",
           "activityPattern": [],
           "activities": 25
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "Finales complicados",
+          "title": "Tricky endgames",
           "activityPattern": [],
           "activities": 26
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "Atracción y despeje",
+          "title": "Attraction and clearance",
           "activityPattern": [],
           "activities": 27
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "Tácticas de medio juego I",
+          "title": "Midgame tactics I",
           "activityPattern": [],
           "activities": 28
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "Enfoque equilibrado I",
+          "title": "Balanced focus I",
           "activityPattern": [],
           "activities": 29
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "Mates más largos I",
+          "title": "Longer checkmates I",
           "activityPattern": [],
           "activities": 30
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "Despeje y desviación",
+          "title": "Clearance and deflection",
           "activityPattern": [],
           "activities": 31
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "Atracción y medio juego",
+          "title": "Attraction and midgame",
           "activityPattern": [],
           "activities": 32
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "Tácticas del medio juego II",
+          "title": "Midgame tactics II",
           "activityPattern": [],
           "activities": 33
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "Enfoque equilibrado II",
+          "title": "Balanced focus II",
           "activityPattern": [],
           "activities": 34
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "Finales I",
+          "title": "Endgames I",
           "activityPattern": [],
           "activities": 35
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "Finales II",
+          "title": "Endgames II",
           "activityPattern": [],
           "activities": 36
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "Tácticas del medio juego III",
+          "title": "Midgame tactics III",
           "activityPattern": [],
           "activities": 37
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "Finales de torre y dama",
+          "title": "Rook and queen endgames",
           "activityPattern": [],
           "activities": 38
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "Finales de alfil y caballo",
+          "title": "Bishop and knight endgames",
           "activityPattern": [],
           "activities": 39
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "Práctica de jaque mate",
+          "title": "Checkmate practice",
           "activityPattern": [],
           "activities": 40
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "Ataques descubiertos y dobles",
+          "title": "Discovered and double attacks",
           "activityPattern": [],
           "activities": 41
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "Jaques mate más largos II",
+          "title": "Longer checkmates II",
           "activityPattern": [],
           "activities": 42
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "Enfoque equilibrado III",
+          "title": "Balanced focus III",
           "activityPattern": [],
           "activities": 43
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "Finales de peones y coronaciones",
+          "title": "Pawn endgames and promotions",
           "activityPattern": [],
           "activities": 44
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "Desviación y atracción",
+          "title": "Deflection and attraction",
           "activityPattern": [],
           "activities": 45
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "Ganar piezas",
+          "title": "Winning pieces",
           "activityPattern": [],
           "activities": 46
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "Enfoque equilibrado IV",
+          "title": "Balanced focus IV",
           "activityPattern": [],
           "activities": 47
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "apertura",
+          "title": "Early game",
           "activityPattern": [],
           "activities": 48
         }
@@ -1142,342 +1142,342 @@
         {
           "sectionIndex": 7,
           "unitIndex": 7,
-          "title": "Tácticas de medio juego I",
+          "title": "Midgame tactics I",
           "activityPattern": [],
           "activities": 1
         },
         {
           "sectionIndex": 7,
           "unitIndex": 7,
-          "title": "Finales de torre y dama",
+          "title": "Rook and queen endgames",
           "activityPattern": [],
           "activities": 2
         },
         {
           "sectionIndex": 7,
           "unitIndex": 7,
-          "title": "Finales de alfil y caballo",
+          "title": "Bishop and knight endgames",
           "activityPattern": [],
           "activities": 3
         },
         {
           "sectionIndex": 7,
           "unitIndex": 7,
-          "title": "Práctica de jaque mate",
+          "title": "Checkmate practice",
           "activityPattern": [],
           "activities": 4
         },
         {
           "sectionIndex": 7,
           "unitIndex": 7,
-          "title": "Ataques descubiertos y dobles I",
+          "title": "Discovered and double attacks I",
           "activityPattern": [],
           "activities": 5
         },
         {
           "sectionIndex": 7,
           "unitIndex": 7,
-          "title": "Mates más largos",
+          "title": "Longer checkmates",
           "activityPattern": [],
           "activities": 6
         },
         {
           "sectionIndex": 7,
           "unitIndex": 7,
-          "title": "Enfoque equilibrado",
+          "title": "Balanced focus",
           "activityPattern": [],
           "activities": 7
         },
         {
           "sectionIndex": 7,
           "unitIndex": 7,
-          "title": "Finales de peones y coronaciones",
+          "title": "Pawn endgames and promotions",
           "activityPattern": [],
           "activities": 8
         },
         {
           "sectionIndex": 7,
           "unitIndex": 7,
-          "title": "Desviación y atracción",
+          "title": "Deflection and attraction",
           "activityPattern": [],
           "activities": 9
         },
         {
           "sectionIndex": 7,
           "unitIndex": 7,
-          "title": "Ganar piezas",
+          "title": "Winning pieces",
           "activityPattern": [],
           "activities": 10
         },
         {
           "sectionIndex": 7,
           "unitIndex": 7,
-          "title": "Enfoque equilibrado",
+          "title": "Balanced focus",
           "activityPattern": [],
           "activities": 11
         },
         {
           "sectionIndex": 7,
           "unitIndex": 7,
-          "title": "apertura",
+          "title": "Early game",
           "activityPattern": [],
           "activities": 12
         },
         {
           "sectionIndex": 7,
           "unitIndex": 7,
-          "title": "Desventajas",
+          "title": "Disadvantages",
           "activityPattern": [],
           "activities": 13
         },
         {
           "sectionIndex": 7,
           "unitIndex": 7,
-          "title": "Finales complicados",
+          "title": "Tricky endgames",
           "activityPattern": [],
           "activities": 14
         },
         {
           "sectionIndex": 7,
           "unitIndex": 7,
-          "title": "Atracción y despeje",
+          "title": "Attraction and clearance",
           "activityPattern": [],
           "activities": 15
         },
         {
           "sectionIndex": 7,
           "unitIndex": 7,
-          "title": "Tácticas del medio juego II",
+          "title": "Midgame tactics II",
           "activityPattern": [],
           "activities": 16
         },
         {
           "sectionIndex": 7,
           "unitIndex": 7,
-          "title": "Enfoque equilibrado",
+          "title": "Balanced focus",
           "activityPattern": [],
           "activities": 17
         },
         {
           "sectionIndex": 7,
           "unitIndex": 7,
-          "title": "Mates más largos",
+          "title": "Longer checkmates",
           "activityPattern": [],
           "activities": 18
         },
         {
           "sectionIndex": 7,
           "unitIndex": 7,
-          "title": "Despeje y desviación",
+          "title": "Clearance and deflection",
           "activityPattern": [],
           "activities": 19
         },
         {
           "sectionIndex": 7,
           "unitIndex": 7,
-          "title": "Atracción y medio juego",
+          "title": "Attraction and midgame",
           "activityPattern": [],
           "activities": 20
         },
         {
           "sectionIndex": 7,
           "unitIndex": 7,
-          "title": "Tácticas del medio juego III",
+          "title": "Midgame tactics III",
           "activityPattern": [],
           "activities": 21
         },
         {
           "sectionIndex": 7,
           "unitIndex": 7,
-          "title": "Enfoque equilibrado",
+          "title": "Balanced focus",
           "activityPattern": [],
           "activities": 22
         },
         {
           "sectionIndex": 7,
           "unitIndex": 7,
-          "title": "Finales I",
+          "title": "Endgames I",
           "activityPattern": [],
           "activities": 23
         },
         {
           "sectionIndex": 7,
           "unitIndex": 7,
-          "title": "Finales II",
+          "title": "Endgames II",
           "activityPattern": [],
           "activities": 24
         },
         {
           "sectionIndex": 7,
           "unitIndex": 7,
-          "title": "Equilibrio estratégico I",
+          "title": "Strategic balance I",
           "activityPattern": [],
           "activities": 25
         },
         {
           "sectionIndex": 7,
           "unitIndex": 7,
-          "title": "Maestría en jaque mate I",
+          "title": "Checkmate mastery I",
           "activityPattern": [],
           "activities": 26
         },
         {
           "sectionIndex": 7,
           "unitIndex": 7,
-          "title": "Precisión táctica",
+          "title": "Tactical precision",
           "activityPattern": [],
           "activities": 27
         },
         {
           "sectionIndex": 7,
           "unitIndex": 7,
-          "title": "Juego posicional",
+          "title": "Positional play",
           "activityPattern": [],
           "activities": 28
         },
         {
           "sectionIndex": 7,
           "unitIndex": 7,
-          "title": "Tácticas avanzadas I",
+          "title": "Advanced tactics I",
           "activityPattern": [],
           "activities": 29
         },
         {
           "sectionIndex": 7,
           "unitIndex": 7,
-          "title": "Equilibrio estratégico II",
+          "title": "Strategic balance II",
           "activityPattern": [],
           "activities": 30
         },
         {
           "sectionIndex": 7,
           "unitIndex": 7,
-          "title": "Finales complejos I",
+          "title": "Complex endgames I",
           "activityPattern": [],
           "activities": 31
         },
         {
           "sectionIndex": 7,
           "unitIndex": 7,
-          "title": "Finales complejos II",
+          "title": "Complex endgames II",
           "activityPattern": [],
           "activities": 32
         },
         {
           "sectionIndex": 7,
           "unitIndex": 7,
-          "title": "Tácticas avanzadas II",
+          "title": "Advanced tactics II",
           "activityPattern": [],
           "activities": 33
         },
         {
           "sectionIndex": 7,
           "unitIndex": 7,
-          "title": "Finales complejos III",
+          "title": "Complex endgames III",
           "activityPattern": [],
           "activities": 34
         },
         {
           "sectionIndex": 7,
           "unitIndex": 7,
-          "title": "Finales de piezas",
+          "title": "Piece endgames",
           "activityPattern": [],
           "activities": 35
         },
         {
           "sectionIndex": 7,
           "unitIndex": 7,
-          "title": "Dominio del jaque mate II",
+          "title": "Checkmate mastery II",
           "activityPattern": [],
           "activities": 36
         },
         {
           "sectionIndex": 7,
           "unitIndex": 7,
-          "title": "Ataques descubiertos avanzados",
+          "title": "Advanced discovered attacks",
           "activityPattern": [],
           "activities": 37
         },
         {
           "sectionIndex": 7,
           "unitIndex": 7,
-          "title": "Mates largos",
+          "title": "Long checkmates",
           "activityPattern": [],
           "activities": 38
         },
         {
           "sectionIndex": 7,
           "unitIndex": 7,
-          "title": "Equilibrio estratégico III",
+          "title": "Strategic balance III",
           "activityPattern": [],
           "activities": 39
         },
         {
           "sectionIndex": 7,
           "unitIndex": 7,
-          "title": "Estructura de peones",
+          "title": "Pawn structure",
           "activityPattern": [],
           "activities": 40
         },
         {
           "sectionIndex": 7,
           "unitIndex": 7,
-          "title": "Combinaciones tácticas I",
+          "title": "Tactical combinations I",
           "activityPattern": [],
           "activities": 41
         },
         {
           "sectionIndex": 7,
           "unitIndex": 7,
-          "title": "ventaja de material",
+          "title": "Material advantage",
           "activityPattern": [],
           "activities": 42
         },
         {
           "sectionIndex": 7,
           "unitIndex": 7,
-          "title": "Equilibrio estratégico IV",
+          "title": "Strategic balance IV",
           "activityPattern": [],
           "activities": 43
         },
         {
           "sectionIndex": 7,
           "unitIndex": 7,
-          "title": "Principios de apertura",
+          "title": "Opening principles",
           "activityPattern": [],
           "activities": 44
         },
         {
           "sectionIndex": 7,
           "unitIndex": 7,
-          "title": "Tácticas de remontada",
+          "title": "Comeback tactics",
           "activityPattern": [],
           "activities": 45
         },
         {
           "sectionIndex": 7,
           "unitIndex": 7,
-          "title": "Finura en el final",
+          "title": "Endgame finesse",
           "activityPattern": [],
           "activities": 46
         },
         {
           "sectionIndex": 7,
           "unitIndex": 7,
-          "title": "Combinaciones tácticas II",
+          "title": "Tactical combinations II",
           "activityPattern": [],
           "activities": 47
         },
         {
           "sectionIndex": 7,
           "unitIndex": 7,
-          "title": "Tácticas avanzadas III",
+          "title": "Advanced tactics III",
           "activityPattern": [
             2026,
-            5,
-            16
+            7,
+            6
           ],
-          "activities": 2047
+          "activities": 2039
         }
       ]
     }

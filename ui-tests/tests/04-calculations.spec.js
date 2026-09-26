@@ -126,6 +126,22 @@ test.describe('Calculation Results', () => {
     await expect(page.locator('#result-meta')).toContainText('positions are estimated');
   });
 
+  test('missing source unit titles stay selectable and clearly labeled', async ({ page }) => {
+    const baseUrl = await readBaseUrl();
+    await page.goto(`${baseUrl}/`, { waitUntil: 'domcontentloaded' });
+    const index = await page.request.get(`${baseUrl}/data/courses.json`).then((response) => response.json());
+    const course = index.courses.find((entry) => entry.detailKey === 'zhfte630');
+    await page.locator('#from-lang-select').selectOption(course.fromLang);
+    await page.locator('#to-lang-select').selectOption(course.key);
+    await expect(page.locator('#section-select option')).toHaveCount(6);
+    await page.locator('#section-select').selectOption('4');
+    await expect(page.locator('#unit-select option').first()).toContainText(/^Unit 1 \(details unavailable\) \(\d+ estimated lessons\)$/);
+    await page.locator('#target-section-select').selectOption('5');
+    await page.locator('#target-unit-select').selectOption('0');
+    await expect(page.locator('#result-headline')).toContainText('Section 6, Unit 1');
+    await expect(page.locator('#result-meta')).toContainText('Lesson counts are estimated');
+  });
+
   test('Finish-mode calculation shows valid results', async ({ page }) => {
     const baseUrl = await readBaseUrl();
     await page.goto(`${baseUrl}/`, { waitUntil: 'domcontentloaded' });

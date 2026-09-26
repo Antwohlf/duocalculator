@@ -974,10 +974,13 @@ function populateUnits({ autoSelect = false } = {}) {
       
       // Check if title is just "Unit X" (redundant with unitIndex)
       const isGenericTitle = /^Unit\s+\d+$/i.test(unit.title?.trim() || '');
+      const isMissingTitle = /^Unit\s+\d+\s+\(details unavailable\)$/i.test(unit.title?.trim() || '');
       
       // Build label: avoid duplication if title is just "Unit X"
       const label = course.meta?.synthetic && isGenericTitle
         ? `Approx. ${unit.title}`
+        : isMissingTitle
+        ? `Unit ${unit.unitIndex} (details unavailable)`
         : isGenericTitle
         ? `Unit ${unit.unitIndex}`
         : `Unit ${unit.unitIndex}: ${unit.title}`;

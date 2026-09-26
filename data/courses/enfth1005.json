@@ -2,16 +2,16 @@
   "meta": {
     "key": "enfth1005",
     "courseTitle": "Thai → English",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:45da5d9e2150012d",
     "fromLang": "Thai",
     "toLang": "English",
     "fromCode": "th",
     "toCode": "en",
-    "level": "CEFR ภาษาอังกฤษจากภาษาไทย",
-    "levelShort": "ภาษาอังกฤษจากภาษาไทย",
+    "level": "CEFR B2",
+    "levelShort": "B2",
     "detailHref": "https://duolingodata.com/dat/enfth1005.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 1005,
     "indexLessonsCount": 8399,
     "sourceSectionCounts": [
@@ -43,7 +43,7 @@
       "unitCount": 10,
       "title": "CEFR Intro:",
       "rawTitle": "CEFR Intro:",
-      "cefr": "INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,

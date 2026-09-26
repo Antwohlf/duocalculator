@@ -2,16 +2,16 @@
   "meta": {
     "key": "ukfen51v2",
     "courseTitle": "English → Ukrainian",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:d8c0b1d8511b0e47",
     "fromLang": "English",
     "toLang": "Ukrainian",
     "fromCode": "en",
     "toCode": "uk",
-    "level": "CEFR UKRAINIAN FROM ENGLISH",
-    "levelShort": "UKRAINIAN FROM ENGLISH",
+    "level": "CEFR A1",
+    "levelShort": "A1",
     "detailHref": "https://duolingodata.com/dat/ukfen51v2.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 51,
     "indexLessonsCount": 826,
     "sourceSectionCounts": [
@@ -38,7 +38,7 @@
       "unitCount": 9,
       "title": "CEFR Intro:",
       "rawTitle": "CEFR Intro:",
-      "cefr": "INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,

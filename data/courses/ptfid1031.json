@@ -2,16 +2,16 @@
   "meta": {
     "key": "ptfid1031",
     "courseTitle": "Indonesian → Portuguese",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:d4b46f42d01d8675",
     "fromLang": "Indonesian",
     "toLang": "Portuguese",
     "fromCode": "id",
     "toCode": "pt",
-    "level": "CEFR BAHASA PORTUGIS DARI BAHASA INDONESIA,",
-    "levelShort": "BAHASA PORTUGIS DARI BAHASA INDONESIA,",
+    "level": "CEFR B2",
+    "levelShort": "B2",
     "detailHref": "https://duolingodata.com/dat/ptfid1031.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 1031,
     "indexLessonsCount": 8586,
     "sourceSectionCounts": [
@@ -43,7 +43,7 @@
       "unitCount": 11,
       "title": "CEFR Intro:",
       "rawTitle": "CEFR Intro:",
-      "cefr": "INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,

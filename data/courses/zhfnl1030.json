@@ -2,16 +2,16 @@
   "meta": {
     "key": "zhfnl1030",
     "courseTitle": "Dutch → Chinese",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:6b301731ac38cb90",
     "fromLang": "Dutch",
     "toLang": "Chinese",
     "fromCode": "nl",
     "toCode": "zh",
-    "level": "CEFR CHINEES UIT HET NEDERLANDS,",
-    "levelShort": "CHINEES UIT HET NEDERLANDS,",
+    "level": "CEFR B2",
+    "levelShort": "B2",
     "detailHref": "https://duolingodata.com/dat/zhfnl1030.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 1030,
     "indexLessonsCount": 8707,
     "sourceSectionCounts": [
@@ -43,7 +43,7 @@
       "unitCount": 10,
       "title": "CEFR Intro:",
       "rawTitle": "CEFR Intro:",
-      "cefr": "INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,
@@ -3168,7 +3168,7 @@
       "unitCount": 245,
       "title": "Section",
       "rawTitle": "Section",
-      "cefr": "SECTION",
+      "cefr": "",
       "units": [
         {
           "sectionIndex": 6,

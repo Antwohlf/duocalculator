@@ -2,16 +2,16 @@
   "meta": {
     "key": "zhfel1030",
     "courseTitle": "Greek → Chinese",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:b09e3e108c4ef5fc",
     "fromLang": "Greek",
     "toLang": "Chinese",
     "fromCode": "el",
     "toCode": "zh",
-    "level": "CEFR ΚΙΝΕΖΙΚΆ ΑΠΌ ΕΛΛΗΝΙΚΆ",
-    "levelShort": "ΚΙΝΕΖΙΚΆ ΑΠΌ ΕΛΛΗΝΙΚΆ",
+    "level": "CEFR B2",
+    "levelShort": "B2",
     "detailHref": "https://duolingodata.com/dat/zhfel1030.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 1030,
     "indexLessonsCount": 8710,
     "sourceSectionCounts": [
@@ -44,7 +44,7 @@
       "unitCount": 10,
       "title": "CEFR Intro:",
       "rawTitle": "CEFR Intro:",
-      "cefr": "INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,

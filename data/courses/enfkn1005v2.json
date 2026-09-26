@@ -2,16 +2,16 @@
   "meta": {
     "key": "enfkn1005v2",
     "courseTitle": "Kn → English",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:e5c1ac578b857bec",
     "fromLang": "Kn",
     "toLang": "English",
     "fromCode": "kn",
     "toCode": "en",
-    "level": "CEFR ಕನ್ನಡದಿಂದ ಇಂಗ್ಲಿಷ್‌ಗೆ,",
-    "levelShort": "ಕನ್ನಡದಿಂದ ಇಂಗ್ಲಿಷ್‌ಗೆ,",
+    "level": "CEFR B2",
+    "levelShort": "B2",
     "detailHref": "https://duolingodata.com/dat/enfkn1005v2.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 1005,
     "indexLessonsCount": 8071,
     "sourceSectionCounts": [
@@ -43,7 +43,7 @@
       "unitCount": 10,
       "title": "CEFR Intro:",
       "rawTitle": "CEFR Intro:",
-      "cefr": "INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,

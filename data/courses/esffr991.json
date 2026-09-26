@@ -2,16 +2,16 @@
   "meta": {
     "key": "esffr991",
     "courseTitle": "French → Spanish",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:64cb984d6d494d45",
     "fromLang": "French",
     "toLang": "Spanish",
     "fromCode": "fr",
     "toCode": "es",
-    "level": "CEFR ESPAGNOL DEPUIS LE FRANÇAIS,",
-    "levelShort": "ESPAGNOL DEPUIS LE FRANÇAIS,",
+    "level": "CEFR B2",
+    "levelShort": "B2",
     "detailHref": "https://duolingodata.com/dat/esffr991.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 991,
     "indexLessonsCount": 8422,
     "sourceSectionCounts": [
@@ -43,7 +43,7 @@
       "unitCount": 10,
       "title": "CEFR Intro:",
       "rawTitle": "CEFR Intro:",
-      "cefr": "INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,

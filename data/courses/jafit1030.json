@@ -2,16 +2,16 @@
   "meta": {
     "key": "jafit1030",
     "courseTitle": "Italian → Japanese",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:e33ca41e88e46abd",
     "fromLang": "Italian",
     "toLang": "Japanese",
     "fromCode": "it",
     "toCode": "ja",
-    "level": "CEFR GIAPPONESE DALL'ITALIANO",
-    "levelShort": "GIAPPONESE DALL'ITALIANO",
+    "level": "CEFR B2",
+    "levelShort": "B2",
     "detailHref": "https://duolingodata.com/dat/jafit1030.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 1030,
     "indexLessonsCount": 8302,
     "sourceSectionCounts": [
@@ -44,7 +44,7 @@
       "unitCount": 10,
       "title": "CEFR Intro:",
       "rawTitle": "CEFR Intro:",
-      "cefr": "INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,

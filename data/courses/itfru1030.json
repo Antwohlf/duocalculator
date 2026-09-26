@@ -2,16 +2,16 @@
   "meta": {
     "key": "itfru1030",
     "courseTitle": "Russian → Italian",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:9290d7e379cc3df1",
     "fromLang": "Russian",
     "toLang": "Italian",
     "fromCode": "ru",
     "toCode": "it",
-    "level": "CEFR ИТАЛЬЯНСКИЙ С РУССКОГО",
-    "levelShort": "ИТАЛЬЯНСКИЙ С РУССКОГО",
+    "level": "CEFR B2",
+    "levelShort": "B2",
     "detailHref": "https://duolingodata.com/dat/itfru1030.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 1030,
     "indexLessonsCount": 8301,
     "sourceSectionCounts": [
@@ -43,7 +43,7 @@
       "unitCount": 10,
       "title": "CEFR Intro:",
       "rawTitle": "CEFR Intro:",
-      "cefr": "INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,

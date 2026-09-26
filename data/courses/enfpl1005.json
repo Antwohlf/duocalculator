@@ -2,16 +2,16 @@
   "meta": {
     "key": "enfpl1005",
     "courseTitle": "Polish → English",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:bc4a5a435bf8bb79",
     "fromLang": "Polish",
     "toLang": "English",
     "fromCode": "pl",
     "toCode": "en",
-    "level": "CEFR ANGIELSKI Z POLSKIEGO",
-    "levelShort": "ANGIELSKI Z POLSKIEGO",
+    "level": "CEFR B2",
+    "levelShort": "B2",
     "detailHref": "https://duolingodata.com/dat/enfpl1005.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 1005,
     "indexLessonsCount": 8379,
     "sourceSectionCounts": [
@@ -43,7 +43,7 @@
       "unitCount": 10,
       "title": "CEFR Intro:",
       "rawTitle": "CEFR Intro:",
-      "cefr": "INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,

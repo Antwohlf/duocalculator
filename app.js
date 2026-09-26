@@ -1739,20 +1739,11 @@ function humanizeLanguageLabel(raw) {
 
 function normalizeLevel(level) {
   if (!level) return "";
-  const match = level.match(/([A-C][0-3](?:\+|-)?)/i);
+  const match = level.match(/\b([A-C][0-3](?:\+|-)?)\b/i);
   if (match) {
     return match[1].toUpperCase();
   }
-  const cleaned = level
-    .replace(/CEFR\s*/i, "")
-    .replace(/nivel\s*/i, "")
-    .replace(/niveau\s*/i, "")
-    .replace(/livello\s*/i, "")
-    .replace(/nivel\s*/i, "")
-    .replace(/nivå\s*/i, "")
-    .replace(/ระดับ\s*/i, "")
-    .trim();
-  return cleaned.toUpperCase();
+  return /\bintro\b/i.test(level) ? "INTRO" : "";
 }
 
 function codeToFlag(code) {

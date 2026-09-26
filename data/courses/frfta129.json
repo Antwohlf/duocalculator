@@ -2,16 +2,16 @@
   "meta": {
     "key": "frfta129",
     "courseTitle": "Tamil → French",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:20454b835e3e3156",
     "fromLang": "Tamil",
     "toLang": "French",
     "fromCode": "ta",
     "toCode": "fr",
-    "level": "CEFR தமிழிலிருந்து பிரெஞ்சு,",
-    "levelShort": "தமிழிலிருந்து பிரெஞ்சு,",
+    "level": "CEFR A2",
+    "levelShort": "A2",
     "detailHref": "https://duolingodata.com/dat/frfta129.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 129,
     "indexLessonsCount": 3034,
     "sourceSectionCounts": [
@@ -39,7 +39,7 @@
       "unitCount": 10,
       "title": "CEFR Intro:",
       "rawTitle": "CEFR Intro:",
-      "cefr": "INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,

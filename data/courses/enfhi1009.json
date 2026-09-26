@@ -2,16 +2,16 @@
   "meta": {
     "key": "enfhi1009",
     "courseTitle": "Hindi → English",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:b8dbb51ffe81cde1",
     "fromLang": "Hindi",
     "toLang": "English",
     "fromCode": "hi",
     "toCode": "en",
-    "level": "CEFR अंग्रेज़ी से हिंदी",
-    "levelShort": "अंग्रेज़ी से हिंदी",
+    "level": "CEFR B2",
+    "levelShort": "B2",
     "detailHref": "https://duolingodata.com/dat/enfhi1009.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 1009,
     "indexLessonsCount": 8407,
     "sourceSectionCounts": [
@@ -43,7 +43,7 @@
       "unitCount": 14,
       "title": "CEFR Intro:",
       "rawTitle": "CEFR Intro:",
-      "cefr": "INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,

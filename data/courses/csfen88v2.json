@@ -2,16 +2,16 @@
   "meta": {
     "key": "csfen88v2",
     "courseTitle": "English → Czech",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:241e8c7ce8452264",
     "fromLang": "English",
     "toLang": "Czech",
     "fromCode": "en",
     "toCode": "cs",
-    "level": "CEFR CZECH FROM ENGLISH",
-    "levelShort": "CZECH FROM ENGLISH",
+    "level": "CEFR A2",
+    "levelShort": "A2",
     "detailHref": "https://duolingodata.com/dat/csfen88v2.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 88,
     "indexLessonsCount": 1592,
     "sourceSectionCounts": [
@@ -39,7 +39,7 @@
       "unitCount": 9,
       "title": "CEFR Intro:",
       "rawTitle": "CEFR Intro:",
-      "cefr": "INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,

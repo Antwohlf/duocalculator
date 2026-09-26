@@ -2,16 +2,16 @@
   "meta": {
     "key": "jafid1030",
     "courseTitle": "Indonesian → Japanese",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:a7bd83fee12dc7bd",
     "fromLang": "Indonesian",
     "toLang": "Japanese",
     "fromCode": "id",
     "toCode": "ja",
-    "level": "CEFR BAHASA JEPANG DARI BAHASA INDONESIA,",
-    "levelShort": "BAHASA JEPANG DARI BAHASA INDONESIA,",
+    "level": "CEFR B2",
+    "levelShort": "B2",
     "detailHref": "https://duolingodata.com/dat/jafid1030.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 1030,
     "indexLessonsCount": 8304,
     "sourceSectionCounts": [
@@ -43,7 +43,7 @@
       "unitCount": 10,
       "title": "CEFR Intro:",
       "rawTitle": "CEFR Intro:",
-      "cefr": "INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,

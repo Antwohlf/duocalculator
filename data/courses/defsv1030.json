@@ -2,16 +2,16 @@
   "meta": {
     "key": "defsv1030",
     "courseTitle": "Swedish → German",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:d9e7077064ab985a",
     "fromLang": "Swedish",
     "toLang": "German",
     "fromCode": "sv",
     "toCode": "de",
-    "level": "CEFR LEKTIONER",
-    "levelShort": "LEKTIONER",
+    "level": "CEFR B2",
+    "levelShort": "B2",
     "detailHref": "https://duolingodata.com/dat/defsv1030.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 1030,
     "indexLessonsCount": 8606,
     "sourceSectionCounts": [
@@ -43,7 +43,7 @@
       "unitCount": 10,
       "title": "CEFR Intro:",
       "rawTitle": "CEFR Intro:",
-      "cefr": "INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,

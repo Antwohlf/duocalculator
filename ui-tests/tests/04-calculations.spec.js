@@ -77,6 +77,8 @@ test.describe('Calculation Results', () => {
 
     // The old parser interpreted unit numbers as lesson counts, inflating this course about tenfold.
     await expect(page.locator('#progress-counts')).toHaveText(`0 of ${course.lessonsCount} lessons completed`);
+    await expect(page.locator('#course-meta')).toContainText('CEFR B2');
+    await expect(page.locator('#course-meta')).not.toContainText('CEFR SPANISH FROM ENGLISH');
     await expect(page.locator('#stat-lessons-left')).toHaveText(course.lessonsCount.toLocaleString('en-US'));
     await expect(page.locator('#unit-select option').first()).toContainText(/Unit 1:.*\(\d+ estimated lessons\)/);
 

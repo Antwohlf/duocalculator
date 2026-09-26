@@ -2,16 +2,16 @@
   "meta": {
     "key": "ptfpl1031",
     "courseTitle": "Polish → Portuguese",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:50f92e588417c921",
     "fromLang": "Polish",
     "toLang": "Portuguese",
     "fromCode": "pl",
     "toCode": "pt",
-    "level": "CEFR PORTUGALSKI Z POLSKIEGO,",
-    "levelShort": "PORTUGALSKI Z POLSKIEGO,",
+    "level": "CEFR B2",
+    "levelShort": "B2",
     "detailHref": "https://duolingodata.com/dat/ptfpl1031.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 1031,
     "indexLessonsCount": 8517,
     "sourceSectionCounts": [
@@ -43,7 +43,7 @@
       "unitCount": 11,
       "title": "CEFR Intro:",
       "rawTitle": "CEFR Intro:",
-      "cefr": "INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,

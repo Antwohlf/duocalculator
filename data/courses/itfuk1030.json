@@ -2,16 +2,16 @@
   "meta": {
     "key": "itfuk1030",
     "courseTitle": "Ukrainian → Italian",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:68192bd7f1cececd",
     "fromLang": "Ukrainian",
     "toLang": "Italian",
     "fromCode": "uk",
     "toCode": "it",
-    "level": "CEFR З ІТАЛІЙСЬКОЇ НА УКРАЇНСЬКУ",
-    "levelShort": "З ІТАЛІЙСЬКОЇ НА УКРАЇНСЬКУ",
+    "level": "CEFR B2",
+    "levelShort": "B2",
     "detailHref": "https://duolingodata.com/dat/itfuk1030.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 1030,
     "indexLessonsCount": 8306,
     "sourceSectionCounts": [
@@ -43,7 +43,7 @@
       "unitCount": 10,
       "title": "CEFR Intro:",
       "rawTitle": "CEFR Intro:",
-      "cefr": "INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,

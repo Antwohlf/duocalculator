@@ -2,16 +2,16 @@
   "meta": {
     "key": "klfen65v2",
     "courseTitle": "English → Klingon",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:75cb2c6b2a772ee5",
     "fromLang": "English",
     "toLang": "Klingon",
     "fromCode": "en",
     "toCode": "kl",
-    "level": "CEFR KLINGON FROM ENGLISH",
-    "levelShort": "KLINGON FROM ENGLISH",
+    "level": "CEFR A1",
+    "levelShort": "A1",
     "detailHref": "https://duolingodata.com/dat/klfen65v2.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 65,
     "indexLessonsCount": 1007,
     "sourceSectionCounts": [
@@ -38,7 +38,7 @@
       "unitCount": 9,
       "title": "CEFR Intro:",
       "rawTitle": "CEFR Intro:",
-      "cefr": "INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,

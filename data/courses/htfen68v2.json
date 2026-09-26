@@ -2,16 +2,16 @@
   "meta": {
     "key": "htfen68v2",
     "courseTitle": "English → Haitian Creole",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:513d1eaae577a460",
     "fromLang": "English",
     "toLang": "Haitian Creole",
     "fromCode": "en",
     "toCode": "ht",
-    "level": "CEFR HAITIAN CREOLE FROM ENGLISH",
-    "levelShort": "HAITIAN CREOLE FROM ENGLISH",
+    "level": "CEFR A1",
+    "levelShort": "A1",
     "detailHref": "https://duolingodata.com/dat/htfen68v2.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 68,
     "indexLessonsCount": 1069,
     "sourceSectionCounts": [
@@ -38,7 +38,7 @@
       "unitCount": 9,
       "title": "CEFR Intro:",
       "rawTitle": "CEFR Intro:",
-      "cefr": "INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,

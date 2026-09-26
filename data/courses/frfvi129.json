@@ -2,16 +2,16 @@
   "meta": {
     "key": "frfvi129",
     "courseTitle": "Vietnamese → French",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:fd3a35fe35a1af57",
     "fromLang": "Vietnamese",
     "toLang": "French",
     "fromCode": "vi",
     "toCode": "fr",
-    "level": "CEFR TIẾNG PHÁP TỪ TIẾNG VIỆT",
-    "levelShort": "TIẾNG PHÁP TỪ TIẾNG VIỆT",
+    "level": "CEFR A2",
+    "levelShort": "A2",
     "detailHref": "https://duolingodata.com/dat/frfvi129.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 129,
     "indexLessonsCount": 2996,
     "sourceSectionCounts": [
@@ -39,7 +39,7 @@
       "unitCount": 10,
       "title": "CEFR Intro:",
       "rawTitle": "CEFR Intro:",
-      "cefr": "INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,

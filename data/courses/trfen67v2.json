@@ -2,16 +2,16 @@
   "meta": {
     "key": "trfen67v2",
     "courseTitle": "English → Turkish",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:d48e04e1c7e60776",
     "fromLang": "English",
     "toLang": "Turkish",
     "fromCode": "en",
     "toCode": "tr",
-    "level": "CEFR TURKISH FROM ENGLISH",
-    "levelShort": "TURKISH FROM ENGLISH",
+    "level": "CEFR A1",
+    "levelShort": "A1",
     "detailHref": "https://duolingodata.com/dat/trfen67v2.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 67,
     "indexLessonsCount": 902,
     "sourceSectionCounts": [
@@ -38,7 +38,7 @@
       "unitCount": 9,
       "title": "CEFR Intro:",
       "rawTitle": "CEFR Intro:",
-      "cefr": "INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,

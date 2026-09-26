@@ -2,16 +2,16 @@
   "meta": {
     "key": "kofcs1030",
     "courseTitle": "Czech → Korean",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:6ce4ca45ed779157",
     "fromLang": "Czech",
     "toLang": "Korean",
     "fromCode": "cs",
     "toCode": "ko",
-    "level": "CEFR KOREJŠTINA Z ČEŠTINY,",
-    "levelShort": "KOREJŠTINA Z ČEŠTINY,",
+    "level": "CEFR B2",
+    "levelShort": "B2",
     "detailHref": "https://duolingodata.com/dat/kofcs1030.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 1030,
     "indexLessonsCount": 8227,
     "sourceSectionCounts": [
@@ -43,7 +43,7 @@
       "unitCount": 10,
       "title": "CEFR Intro:",
       "rawTitle": "CEFR Intro:",
-      "cefr": "INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,
@@ -3128,7 +3128,7 @@
       "unitCount": 250,
       "title": "Sekce",
       "rawTitle": "Sekce",
-      "cefr": "SEKCE",
+      "cefr": "",
       "units": [
         {
           "sectionIndex": 6,

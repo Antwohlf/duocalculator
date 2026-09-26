@@ -2,16 +2,16 @@
   "meta": {
     "key": "kofar1030",
     "courseTitle": "Arabic → Korean",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:483e3f150d6ebe2d",
     "fromLang": "Arabic",
     "toLang": "Korean",
     "fromCode": "ar",
     "toCode": "ko",
-    "level": "CEFR الكورية من العربية",
-    "levelShort": "الكورية من العربية",
+    "level": "CEFR B2",
+    "levelShort": "B2",
     "detailHref": "https://duolingodata.com/dat/kofar1030.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 1030,
     "indexLessonsCount": 8224,
     "sourceSectionCounts": [
@@ -43,7 +43,7 @@
       "unitCount": 10,
       "title": "CEFR Intro:",
       "rawTitle": "CEFR Intro:",
-      "cefr": "INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,

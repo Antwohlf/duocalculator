@@ -2,16 +2,16 @@
   "meta": {
     "key": "ptftl1031",
     "courseTitle": "Tagalog → Portuguese",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:bb60154c9d04121e",
     "fromLang": "Tagalog",
     "toLang": "Portuguese",
     "fromCode": "tl",
     "toCode": "pt",
-    "level": "CEFR PORTUGES MULA SA TAGALOG,",
-    "levelShort": "PORTUGES MULA SA TAGALOG,",
+    "level": "CEFR B2",
+    "levelShort": "B2",
     "detailHref": "https://duolingodata.com/dat/ptftl1031.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 1031,
     "indexLessonsCount": 8679,
     "sourceSectionCounts": [
@@ -43,7 +43,7 @@
       "unitCount": 11,
       "title": "CEFR Intro:",
       "rawTitle": "CEFR Intro:",
-      "cefr": "INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,
@@ -3176,7 +3176,7 @@
       "unitCount": 245,
       "title": "Bahagi",
       "rawTitle": "Bahagi",
-      "cefr": "BAHAGI",
+      "cefr": "",
       "units": [
         {
           "sectionIndex": 6,

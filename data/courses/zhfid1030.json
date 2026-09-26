@@ -2,16 +2,16 @@
   "meta": {
     "key": "zhfid1030",
     "courseTitle": "Indonesian → Chinese",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:39ab4295d4c6d0bb",
     "fromLang": "Indonesian",
     "toLang": "Chinese",
     "fromCode": "id",
     "toCode": "zh",
-    "level": "CEFR BAHASA CHINA DARI BAHASA INDONESIA,",
-    "levelShort": "BAHASA CHINA DARI BAHASA INDONESIA,",
+    "level": "CEFR B2",
+    "levelShort": "B2",
     "detailHref": "https://duolingodata.com/dat/zhfid1030.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 1030,
     "indexLessonsCount": 8701,
     "sourceSectionCounts": [
@@ -43,7 +43,7 @@
       "unitCount": 10,
       "title": "CEFR Intro:",
       "rawTitle": "CEFR Intro:",
-      "cefr": "INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,

@@ -2,16 +2,16 @@
   "meta": {
     "key": "defid1030",
     "courseTitle": "Indonesian → German",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:9b4e09d889f46d7d",
     "fromLang": "Indonesian",
     "toLang": "German",
     "fromCode": "id",
     "toCode": "de",
-    "level": "CEFR BAHASA JERMAN DARI BAHASA INDONESIA,",
-    "levelShort": "BAHASA JERMAN DARI BAHASA INDONESIA,",
+    "level": "CEFR B2",
+    "levelShort": "B2",
     "detailHref": "https://duolingodata.com/dat/defid1030.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 1030,
     "indexLessonsCount": 8435,
     "sourceSectionCounts": [
@@ -43,7 +43,7 @@
       "unitCount": 10,
       "title": "CEFR Intro:",
       "rawTitle": "CEFR Intro:",
-      "cefr": "INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,

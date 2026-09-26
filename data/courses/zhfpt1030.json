@@ -2,16 +2,16 @@
   "meta": {
     "key": "zhfpt1030",
     "courseTitle": "Portuguese → Chinese",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:aeaf41742549939e",
     "fromLang": "Portuguese",
     "toLang": "Chinese",
     "fromCode": "pt",
     "toCode": "zh",
-    "level": "CEFR CHINÊS DO PORTUGUÊS",
-    "levelShort": "CHINÊS DO PORTUGUÊS",
+    "level": "CEFR B2",
+    "levelShort": "B2",
     "detailHref": "https://duolingodata.com/dat/zhfpt1030.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 1030,
     "indexLessonsCount": 8726,
     "sourceSectionCounts": [
@@ -43,7 +43,7 @@
       "unitCount": 10,
       "title": "CEFR Intro:",
       "rawTitle": "CEFR Intro:",
-      "cefr": "INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,

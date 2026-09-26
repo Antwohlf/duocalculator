@@ -2,16 +2,16 @@
   "meta": {
     "key": "vifen75v2",
     "courseTitle": "English → Vietnamese",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:9aca00f64e098c79",
     "fromLang": "English",
     "toLang": "Vietnamese",
     "fromCode": "en",
     "toCode": "vi",
-    "level": "CEFR VIETNAMESE FROM ENGLISH",
-    "levelShort": "VIETNAMESE FROM ENGLISH",
+    "level": "CEFR A2",
+    "levelShort": "A2",
     "detailHref": "https://duolingodata.com/dat/vifen75v2.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 75,
     "indexLessonsCount": 1294,
     "sourceSectionCounts": [
@@ -39,7 +39,7 @@
       "unitCount": 9,
       "title": "CEFR Intro:",
       "rawTitle": "CEFR Intro:",
-      "cefr": "INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,

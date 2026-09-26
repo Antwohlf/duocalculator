@@ -2,16 +2,16 @@
   "meta": {
     "key": "esfru991",
     "courseTitle": "Russian → Spanish",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:e9505eb0b4d13302",
     "fromLang": "Russian",
     "toLang": "Spanish",
     "fromCode": "ru",
     "toCode": "es",
-    "level": "CEFR ИСПАНСКИЙ С РУССКОГО",
-    "levelShort": "ИСПАНСКИЙ С РУССКОГО",
+    "level": "CEFR B2",
+    "levelShort": "B2",
     "detailHref": "https://duolingodata.com/dat/esfru991.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 991,
     "indexLessonsCount": 8442,
     "sourceSectionCounts": [
@@ -43,7 +43,7 @@
       "unitCount": 10,
       "title": "CEFR Intro:",
       "rawTitle": "CEFR Intro:",
-      "cefr": "INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,

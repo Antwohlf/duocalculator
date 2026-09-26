@@ -2,16 +2,16 @@
   "meta": {
     "key": "eoffr69",
     "courseTitle": "French → Esperanto",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:16acead21e599dc2",
     "fromLang": "French",
     "toLang": "Esperanto",
     "fromCode": "fr",
     "toCode": "eo",
-    "level": "CEFR CECR INTRO",
-    "levelShort": "CECR INTRO",
+    "level": "CEFR A1",
+    "levelShort": "A1",
     "detailHref": "https://duolingodata.com/dat/eoffr69.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 69,
     "indexLessonsCount": 1321,
     "sourceSectionCounts": [
@@ -38,7 +38,7 @@
       "unitCount": 9,
       "title": "CECR Intro",
       "rawTitle": "CECR Intro",
-      "cefr": "CECR INTRO",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,

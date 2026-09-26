@@ -286,9 +286,10 @@ async function validateScrapedData() {
       catch (error) { errors.push(`Invalid detail for ${key}: ${error.message}`); continue; }
       const fail = (message) => errors.push(`${key}: ${message}`);
       if (detail.meta?.key !== key || detail.meta?.detailHref !== course.detailHref ||
-          detail.meta?.parserVersion !== 3 ||
+          detail.meta?.parserVersion !== 4 ||
           detail.meta?.indexUnitsCount !== course.unitsCount ||
           detail.meta?.indexLessonsCount !== course.lessonsCount) fail('stale or mismatched source metadata');
+      if (detail.meta?.levelShort && !/^(?:INTRO|[A-C][0-3][+-]?)$/.test(detail.meta.levelShort)) fail('invalid CEFR level');
       if (detail.meta?.scrapedAt !== manifest.scrapedAt &&
           Date.parse(detail.meta?.scrapedAt) < Date.now() - 6 * 86400000) fail('stale detail');
       if (!Array.isArray(detail.sections) || !detail.sections.length) { fail('has no sections'); continue; }

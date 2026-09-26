@@ -2,16 +2,16 @@
   "meta": {
     "key": "defte630",
     "courseTitle": "Telugu → German",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:8cc4e2e483e1a99f",
     "fromLang": "Telugu",
     "toLang": "German",
     "fromCode": "te",
     "toCode": "de",
-    "level": "CEFR తెలుగు నుండి జర్మన్,",
-    "levelShort": "తెలుగు నుండి జర్మన్,",
+    "level": "CEFR B1",
+    "levelShort": "B1",
     "detailHref": "https://duolingodata.com/dat/defte630.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 630,
     "indexLessonsCount": 5585,
     "sourceSectionCounts": [
@@ -41,7 +41,7 @@
       "unitCount": 10,
       "title": "CEFR Intro:",
       "rawTitle": "CEFR Intro:",
-      "cefr": "INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,

@@ -2,16 +2,16 @@
   "meta": {
     "key": "esfcs991",
     "courseTitle": "Czech → Spanish",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:a0f5d5e84175c9d7",
     "fromLang": "Czech",
     "toLang": "Spanish",
     "fromCode": "cs",
     "toCode": "es",
-    "level": "CEFR ŠPANĚLŠTINA Z ČEŠTINY,",
-    "levelShort": "ŠPANĚLŠTINA Z ČEŠTINY,",
+    "level": "CEFR B2",
+    "levelShort": "B2",
     "detailHref": "https://duolingodata.com/dat/esfcs991.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 991,
     "indexLessonsCount": 8430,
     "sourceSectionCounts": [
@@ -43,7 +43,7 @@
       "unitCount": 10,
       "title": "CEFR Intro:",
       "rawTitle": "CEFR Intro:",
-      "cefr": "INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,
@@ -3136,7 +3136,7 @@
       "unitCount": 250,
       "title": "Sekce",
       "rawTitle": "Sekce",
-      "cefr": "SEKCE",
+      "cefr": "",
       "units": [
         {
           "sectionIndex": 6,

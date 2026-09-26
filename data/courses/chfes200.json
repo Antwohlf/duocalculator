@@ -2,16 +2,16 @@
   "meta": {
     "key": "chfes200",
     "courseTitle": "Spanish → Ch",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:b30c1636ff61ab5d",
     "fromLang": "Spanish",
     "toLang": "Ch",
     "fromCode": "es",
     "toCode": "ch",
-    "level": "CEFR AJEDREZ DESDE ESPAÑOL,",
-    "levelShort": "AJEDREZ DESDE ESPAÑOL,",
+    "level": null,
+    "levelShort": null,
     "detailHref": "https://duolingodata.com/dat/chfes200.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 200,
     "indexLessonsCount": 1845,
     "sourceSectionCounts": [
@@ -42,7 +42,7 @@
       "unitCount": 6,
       "title": "ELO 200:",
       "rawTitle": "ELO 200:",
-      "cefr": "ELO 200:",
+      "cefr": "",
       "units": [
         {
           "sectionIndex": 1,
@@ -99,7 +99,7 @@
       "unitCount": 26,
       "title": "ELO 500:",
       "rawTitle": "ELO 500:",
-      "cefr": "ELO 500:",
+      "cefr": "",
       "units": [
         {
           "sectionIndex": 2,
@@ -316,7 +316,7 @@
       "unitCount": 24,
       "title": "ELO 800:",
       "rawTitle": "ELO 800:",
-      "cefr": "ELO 800:",
+      "cefr": "",
       "units": [
         {
           "sectionIndex": 3,
@@ -517,7 +517,7 @@
       "unitCount": 24,
       "title": "ELO 1000:",
       "rawTitle": "ELO 1000:",
-      "cefr": "ELO 1000:",
+      "cefr": "",
       "units": [
         {
           "sectionIndex": 4,
@@ -718,7 +718,7 @@
       "unitCount": 24,
       "title": "ELO 1100:",
       "rawTitle": "ELO 1100:",
-      "cefr": "ELO 1100:",
+      "cefr": "",
       "units": [
         {
           "sectionIndex": 5,
@@ -919,7 +919,7 @@
       "unitCount": 48,
       "title": "ELO 1200:",
       "rawTitle": "ELO 1200:",
-      "cefr": "ELO 1200:",
+      "cefr": "",
       "units": [
         {
           "sectionIndex": 6,
@@ -1312,7 +1312,7 @@
       "unitCount": 48,
       "title": "ELO 1500:",
       "rawTitle": "ELO 1500:",
-      "cefr": "ELO 1500:",
+      "cefr": "",
       "units": [
         {
           "sectionIndex": 7,

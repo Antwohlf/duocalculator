@@ -2,16 +2,16 @@
   "meta": {
     "key": "jafth1030",
     "courseTitle": "Thai → Japanese",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:076cb932e74e35bc",
     "fromLang": "Thai",
     "toLang": "Japanese",
     "fromCode": "th",
     "toCode": "ja",
-    "level": "CEFR ภาษาญี่ปุ่นจากภาษาไทย",
-    "levelShort": "ภาษาญี่ปุ่นจากภาษาไทย",
+    "level": "CEFR B2",
+    "levelShort": "B2",
     "detailHref": "https://duolingodata.com/dat/jafth1030.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 1030,
     "indexLessonsCount": 8302,
     "sourceSectionCounts": [
@@ -43,7 +43,7 @@
       "unitCount": 10,
       "title": "CEFR Intro:",
       "rawTitle": "CEFR Intro:",
-      "cefr": "INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,

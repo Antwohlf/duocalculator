@@ -2,16 +2,16 @@
   "meta": {
     "key": "kofel1030",
     "courseTitle": "Greek → Korean",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:96a98deadf7bba11",
     "fromLang": "Greek",
     "toLang": "Korean",
     "fromCode": "el",
     "toCode": "ko",
-    "level": "CEFR ΜΑΘΉΜΑΤΑ",
-    "levelShort": "ΜΑΘΉΜΑΤΑ",
+    "level": "CEFR B2",
+    "levelShort": "B2",
     "detailHref": "https://duolingodata.com/dat/kofel1030.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 1030,
     "indexLessonsCount": 8218,
     "sourceSectionCounts": [
@@ -43,7 +43,7 @@
       "unitCount": 10,
       "title": "CEFR Intro:",
       "rawTitle": "CEFR Intro:",
-      "cefr": "INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,

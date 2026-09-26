@@ -2,16 +2,16 @@
   "meta": {
     "key": "zhfth1030",
     "courseTitle": "Thai → Chinese",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:aa3127057a9ff4ed",
     "fromLang": "Thai",
     "toLang": "Chinese",
     "fromCode": "th",
     "toCode": "zh",
-    "level": "CEFR ภาษาเยอรมันจากภาษาไทย",
-    "levelShort": "ภาษาเยอรมันจากภาษาไทย",
+    "level": "CEFR B2",
+    "levelShort": "B2",
     "detailHref": "https://duolingodata.com/dat/zhfth1030.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 1030,
     "indexLessonsCount": 8773,
     "sourceSectionCounts": [
@@ -43,7 +43,7 @@
       "unitCount": 10,
       "title": "CEFR Intro:",
       "rawTitle": "CEFR Intro:",
-      "cefr": "INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,

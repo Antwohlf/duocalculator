@@ -2,16 +2,16 @@
   "meta": {
     "key": "zhfja1030",
     "courseTitle": "Japanese → Chinese",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:faff73035a9bb9f8",
     "fromLang": "Japanese",
     "toLang": "Chinese",
     "fromCode": "ja",
     "toCode": "zh",
-    "level": "CEFR 日本語から中国語を学ぶ、",
-    "levelShort": "日本語から中国語を学ぶ、",
+    "level": "CEFR B2",
+    "levelShort": "B2",
     "detailHref": "https://duolingodata.com/dat/zhfja1030.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 1030,
     "indexLessonsCount": 8690,
     "sourceSectionCounts": [
@@ -43,7 +43,7 @@
       "unitCount": 10,
       "title": "CEFR Intro:",
       "rawTitle": "CEFR Intro:",
-      "cefr": "INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,

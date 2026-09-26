@@ -2,16 +2,16 @@
   "meta": {
     "key": "defru1030",
     "courseTitle": "Russian → German",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:b5706e29a830538a",
     "fromLang": "Russian",
     "toLang": "German",
     "fromCode": "ru",
     "toCode": "de",
-    "level": "CEFR НЕМЕЦКИЙ С РУССКОГО",
-    "levelShort": "НЕМЕЦКИЙ С РУССКОГО",
+    "level": "CEFR B2",
+    "levelShort": "B2",
     "detailHref": "https://duolingodata.com/dat/defru1030.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 1030,
     "indexLessonsCount": 8547,
     "sourceSectionCounts": [
@@ -43,7 +43,7 @@
       "unitCount": 10,
       "title": "CEFR Intro:",
       "rawTitle": "CEFR Intro:",
-      "cefr": "INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,

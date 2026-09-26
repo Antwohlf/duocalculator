@@ -2,16 +2,16 @@
   "meta": {
     "key": "esfte131",
     "courseTitle": "Telugu → Spanish",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:eab2b71f0b5fd73f",
     "fromLang": "Telugu",
     "toLang": "Spanish",
     "fromCode": "te",
     "toCode": "es",
-    "level": "CEFR తెలుగు భాష నుండి స్పానిష్ నేర్చుకోండి – మొత్తం",
-    "levelShort": "తెలుగు భాష నుండి స్పానిష్ నేర్చుకోండి – మొత్తం",
+    "level": "CEFR A2",
+    "levelShort": "A2",
     "detailHref": "https://duolingodata.com/dat/esfte131.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 131,
     "indexLessonsCount": 2898,
     "sourceSectionCounts": [
@@ -39,7 +39,7 @@
       "unitCount": 10,
       "title": "CEFR Intro:",
       "rawTitle": "CEFR Intro:",
-      "cefr": "INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,

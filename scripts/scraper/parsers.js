@@ -265,10 +265,6 @@ export function parseCourseDetail(html, meta) {
       currentUnit = null;
       awaitingPattern = false;
       
-      if (levelInTitle && !meta.levelShort && meta.toLang !== 'Math') {
-        meta.levelShort = levelInTitle;
-        meta.level = `CEFR ${levelInTitle}`;
-      }
       continue;
     }
 
@@ -371,6 +367,16 @@ export function parseCourseDetail(html, meta) {
       if (section.units.some((unit) => unit.estimated)) {
         warnings.push(`Section ${section.sectionIndex} has missing unit details`);
       }
+    }
+  }
+
+  if (!meta.levelShort && meta.toLang !== 'Math') {
+    const levels = filteredSections.map((section) => section.cefr)
+      .filter((level) => /^[A-C][0-3](?:\+|-)?$/.test(level));
+    if (levels.length) {
+      const level = levels.at(-1);
+      meta.levelShort = level;
+      meta.level = `CEFR ${level}`;
     }
   }
 
@@ -547,19 +553,11 @@ function humanizeLanguageLabel(raw) {
 
 function normalizeLevel(level) {
   if (!level) return '';
-  const match = level.match(/([A-C][0-3](?:\+|-)?)/i);
+  const match = level.match(/\b([A-C][0-3](?:\+|-)?)\b/i);
   if (match) {
     return match[1].toUpperCase();
   }
-  const cleaned = level
-    .replace(/CEFR\s*/i, '')
-    .replace(/nivel\s*/i, '')
-    .replace(/niveau\s*/i, '')
-    .replace(/livello\s*/i, '')
-    .replace(/nivå\s*/i, '')
-    .replace(/ระดับ\s*/i, '')
-    .trim();
-  return cleaned.toUpperCase();
+  return /\bintro\b/i.test(level) ? 'INTRO' : '';
 }
 
 export {

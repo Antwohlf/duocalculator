@@ -1,7 +1,7 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import { readFile } from 'node:fs/promises';
-import { parseCourseList, parseCourseDetail } from '../parsers.js';
+import { parseCourseList, parseCourseDetail, normalizeLevel } from '../parsers.js';
 
 const fixturesDir = new URL('./fixtures/', import.meta.url);
 
@@ -84,4 +84,10 @@ test('localized section headings preserve real unit positions', () => {
     assert.deepEqual(detail.sections[0].units.map((unit) => unit.unitIndex), [1, 2], heading);
     assert.equal(detail.totals.activities, 12, heading);
   }
+});
+
+test('course titles do not become CEFR levels', () => {
+  assert.equal(normalizeLevel('Spanish from English'), '');
+  assert.equal(normalizeLevel('CEFR Intro:'), 'INTRO');
+  assert.equal(normalizeLevel('CEFR B2'), 'B2');
 });

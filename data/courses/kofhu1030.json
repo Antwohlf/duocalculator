@@ -2,16 +2,16 @@
   "meta": {
     "key": "kofhu1030",
     "courseTitle": "Hungarian → Korean",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:d5bd5ab26cfc0ceb",
     "fromLang": "Hungarian",
     "toLang": "Korean",
     "fromCode": "hu",
     "toCode": "ko",
-    "level": "CEFR KOREAI MAGYARBÓL",
-    "levelShort": "KOREAI MAGYARBÓL",
+    "level": "CEFR B2",
+    "levelShort": "B2",
     "detailHref": "https://duolingodata.com/dat/kofhu1030.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 1030,
     "indexLessonsCount": 8226,
     "sourceSectionCounts": [
@@ -43,7 +43,7 @@
       "unitCount": 10,
       "title": "CEFR Intro:",
       "rawTitle": "CEFR Intro:",
-      "cefr": "INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,

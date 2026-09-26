@@ -2,16 +2,16 @@
   "meta": {
     "key": "enfru1005",
     "courseTitle": "Russian → English",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:65171b1f65c90214",
     "fromLang": "Russian",
     "toLang": "English",
     "fromCode": "ru",
     "toCode": "en",
-    "level": "CEFR АНГЛИЙСКИЙ С РУССКОГО",
-    "levelShort": "АНГЛИЙСКИЙ С РУССКОГО",
+    "level": "CEFR B2",
+    "levelShort": "B2",
     "detailHref": "https://duolingodata.com/dat/enfru1005.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 1005,
     "indexLessonsCount": 8144,
     "sourceSectionCounts": [
@@ -43,7 +43,7 @@
       "unitCount": 10,
       "title": "CEFR Intro:",
       "rawTitle": "CEFR Intro:",
-      "cefr": "INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,

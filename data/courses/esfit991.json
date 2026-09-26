@@ -2,16 +2,16 @@
   "meta": {
     "key": "esfit991",
     "courseTitle": "Italian → Spanish",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:6c14c8e81091909f",
     "fromLang": "Italian",
     "toLang": "Spanish",
     "fromCode": "it",
     "toCode": "es",
-    "level": "CEFR SPAGNOLO DALL'ITALIANO",
-    "levelShort": "SPAGNOLO DALL'ITALIANO",
+    "level": "CEFR B2",
+    "levelShort": "B2",
     "detailHref": "https://duolingodata.com/dat/esfit991.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 991,
     "indexLessonsCount": 8409,
     "sourceSectionCounts": [
@@ -43,7 +43,7 @@
       "unitCount": 10,
       "title": "CEFR Intro:",
       "rawTitle": "CEFR Intro:",
-      "cefr": "INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,

@@ -2,16 +2,16 @@
   "meta": {
     "key": "ptfja1031",
     "courseTitle": "Japanese → Portuguese",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:1c4947a6682c68af",
     "fromLang": "Japanese",
     "toLang": "Portuguese",
     "fromCode": "ja",
     "toCode": "pt",
-    "level": "CEFR 日本語からポルトガル語へ、",
-    "levelShort": "日本語からポルトガル語へ、",
+    "level": "CEFR B2",
+    "levelShort": "B2",
     "detailHref": "https://duolingodata.com/dat/ptfja1031.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 1031,
     "indexLessonsCount": 8463,
     "sourceSectionCounts": [
@@ -43,7 +43,7 @@
       "unitCount": 11,
       "title": "CEFR Intro:",
       "rawTitle": "CEFR Intro:",
-      "cefr": "INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,

@@ -21,7 +21,7 @@ import { parseCourseList, parseCourseDetail, parseDailyNews } from './parsers.js
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const REMOTE_BASE = 'https://duolingodata.com/';
 const SCHEMA_VERSION = '2.0.0';
-const PARSER_VERSION = 3;
+const PARSER_VERSION = 4;
 
 async function fileExists(path) {
   try {

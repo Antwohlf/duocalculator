@@ -2,16 +2,16 @@
   "meta": {
     "key": "eofpt62",
     "courseTitle": "Portuguese → Esperanto",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:39a855a5ebf4a978",
     "fromLang": "Portuguese",
     "toLang": "Esperanto",
     "fromCode": "pt",
     "toCode": "eo",
-    "level": "CEFR ESPERANTO DO PORTUGUÊS,",
-    "levelShort": "ESPERANTO DO PORTUGUÊS,",
+    "level": "CEFR A1",
+    "levelShort": "A1",
     "detailHref": "https://duolingodata.com/dat/eofpt62.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 62,
     "indexLessonsCount": 1221,
     "sourceSectionCounts": [
@@ -38,7 +38,7 @@
       "unitCount": 9,
       "title": "CEFR Intro:",
       "rawTitle": "CEFR Intro:",
-      "cefr": "INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,

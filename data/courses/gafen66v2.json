@@ -2,16 +2,16 @@
   "meta": {
     "key": "gafen66v2",
     "courseTitle": "English → Irish",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:c9724e1746ca410d",
     "fromLang": "English",
     "toLang": "Irish",
     "fromCode": "en",
     "toCode": "ga",
-    "level": "CEFR IRISH FROM ENGLISH",
-    "levelShort": "IRISH FROM ENGLISH",
+    "level": "CEFR A1",
+    "levelShort": "A1",
     "detailHref": "https://duolingodata.com/dat/gafen66v2.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 66,
     "indexLessonsCount": 1187,
     "sourceSectionCounts": [
@@ -38,7 +38,7 @@
       "unitCount": 9,
       "title": "CEFR Intro:",
       "rawTitle": "CEFR Intro:",
-      "cefr": "INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,

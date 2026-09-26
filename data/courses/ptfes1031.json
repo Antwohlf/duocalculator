@@ -2,16 +2,16 @@
   "meta": {
     "key": "ptfes1031",
     "courseTitle": "Spanish → Portuguese",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:347fd6faec7ce737",
     "fromLang": "Spanish",
     "toLang": "Portuguese",
     "fromCode": "es",
     "toCode": "pt",
-    "level": "CEFR PORTUGUÉS DESDE ESPAÑOL",
-    "levelShort": "PORTUGUÉS DESDE ESPAÑOL",
+    "level": "CEFR B2",
+    "levelShort": "B2",
     "detailHref": "https://duolingodata.com/dat/ptfes1031.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 1031,
     "indexLessonsCount": 8581,
     "sourceSectionCounts": [
@@ -43,7 +43,7 @@
       "unitCount": 11,
       "title": "CEFR Intro:",
       "rawTitle": "CEFR Intro:",
-      "cefr": "INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,

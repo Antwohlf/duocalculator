@@ -2,16 +2,16 @@
   "meta": {
     "key": "defja1030",
     "courseTitle": "Japanese → German",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:df2d4f15dcdbde8a",
     "fromLang": "Japanese",
     "toLang": "German",
     "fromCode": "ja",
     "toCode": "de",
-    "level": "CEFR 日本語からドイツ語を学ぶ、",
-    "levelShort": "日本語からドイツ語を学ぶ、",
+    "level": "CEFR B2",
+    "levelShort": "B2",
     "detailHref": "https://duolingodata.com/dat/defja1030.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 1030,
     "indexLessonsCount": 8358,
     "sourceSectionCounts": [
@@ -44,7 +44,7 @@
       "unitCount": 10,
       "title": "CEFR Intro:",
       "rawTitle": "CEFR Intro:",
-      "cefr": "INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,

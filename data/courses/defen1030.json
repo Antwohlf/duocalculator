@@ -2,16 +2,16 @@
   "meta": {
     "key": "defen1030",
     "courseTitle": "English → German",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:12aec673c1a1eb3f",
     "fromLang": "English",
     "toLang": "German",
     "fromCode": "en",
     "toCode": "de",
-    "level": "CEFR GERMAN FROM ENGLISH",
-    "levelShort": "GERMAN FROM ENGLISH",
+    "level": "CEFR B2",
+    "levelShort": "B2",
     "detailHref": "https://duolingodata.com/dat/defen1030.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 1030,
     "indexLessonsCount": 8543,
     "sourceSectionCounts": [
@@ -43,7 +43,7 @@
       "unitCount": 10,
       "title": "CEFR Intro:",
       "rawTitle": "CEFR Intro:",
-      "cefr": "INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,

@@ -2,16 +2,16 @@
   "meta": {
     "key": "esfel991",
     "courseTitle": "Greek → Spanish",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:3907e365bcd068bb",
     "fromLang": "Greek",
     "toLang": "Spanish",
     "fromCode": "el",
     "toCode": "es",
-    "level": "CEFR ΜΑΘΉΜΑΤΑ",
-    "levelShort": "ΜΑΘΉΜΑΤΑ",
+    "level": "CEFR B2",
+    "levelShort": "B2",
     "detailHref": "https://duolingodata.com/dat/esfel991.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 991,
     "indexLessonsCount": 8427,
     "sourceSectionCounts": [
@@ -43,7 +43,7 @@
       "unitCount": 10,
       "title": "CEFR Intro:",
       "rawTitle": "CEFR Intro:",
-      "cefr": "INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,

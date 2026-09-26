@@ -2,16 +2,16 @@
   "meta": {
     "key": "frfit994",
     "courseTitle": "Italian → French",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:304463c82f5d8dc9",
     "fromLang": "Italian",
     "toLang": "French",
     "fromCode": "it",
     "toCode": "fr",
-    "level": "CEFR FRANCESE DALL'ITALIANO",
-    "levelShort": "FRANCESE DALL'ITALIANO",
+    "level": "CEFR B2",
+    "levelShort": "B2",
     "detailHref": "https://duolingodata.com/dat/frfit994.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 994,
     "indexLessonsCount": 8362,
     "sourceSectionCounts": [
@@ -43,7 +43,7 @@
       "unitCount": 10,
       "title": "CEFR Intro:",
       "rawTitle": "CEFR Intro:",
-      "cefr": "INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,

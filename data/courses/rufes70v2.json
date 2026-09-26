@@ -2,16 +2,16 @@
   "meta": {
     "key": "rufes70v2",
     "courseTitle": "Spanish → Russian",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:e390479e1cc7f68e",
     "fromLang": "Spanish",
     "toLang": "Russian",
     "fromCode": "es",
     "toCode": "ru",
-    "level": "CEFR RUSO DESDE ESPAÑOL",
-    "levelShort": "RUSO DESDE ESPAÑOL",
+    "level": "CEFR A1",
+    "levelShort": "A1",
     "detailHref": "https://duolingodata.com/dat/rufes70v2.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 70,
     "indexLessonsCount": 1196,
     "sourceSectionCounts": [
@@ -38,7 +38,7 @@
       "unitCount": 9,
       "title": "CEFR Intro:",
       "rawTitle": "CEFR Intro:",
-      "cefr": "INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,

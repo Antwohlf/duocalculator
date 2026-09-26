@@ -2,16 +2,16 @@
   "meta": {
     "key": "jafar1030",
     "courseTitle": "Arabic → Japanese",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:1ab8e8e610b09f14",
     "fromLang": "Arabic",
     "toLang": "Japanese",
     "fromCode": "ar",
     "toCode": "ja",
-    "level": "CEFR اليابانية من العربية",
-    "levelShort": "اليابانية من العربية",
+    "level": "CEFR B2",
+    "levelShort": "B2",
     "detailHref": "https://duolingodata.com/dat/jafar1030.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 1030,
     "indexLessonsCount": 8302,
     "sourceSectionCounts": [
@@ -43,7 +43,7 @@
       "unitCount": 10,
       "title": "CEFR Intro:",
       "rawTitle": "CEFR Intro:",
-      "cefr": "INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,

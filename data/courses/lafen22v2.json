@@ -2,16 +2,16 @@
   "meta": {
     "key": "lafen22v2",
     "courseTitle": "English → Latin",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:f910f5435a2d58f5",
     "fromLang": "English",
     "toLang": "Latin",
     "fromCode": "en",
     "toCode": "la",
-    "level": "CEFR LATIN FROM ENGLISH",
-    "levelShort": "LATIN FROM ENGLISH",
+    "level": "CEFR A1",
+    "levelShort": "A1",
     "detailHref": "https://duolingodata.com/dat/lafen22v2.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 22,
     "indexLessonsCount": 322,
     "sourceSectionCounts": [
@@ -37,7 +37,7 @@
       "unitCount": 9,
       "title": "CEFR Intro:",
       "rawTitle": "CEFR Intro:",
-      "cefr": "INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,

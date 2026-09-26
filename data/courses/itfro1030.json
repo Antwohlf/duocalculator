@@ -2,16 +2,16 @@
   "meta": {
     "key": "itfro1030",
     "courseTitle": "Romanian → Italian",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:bd1bfb02d10058dd",
     "fromLang": "Romanian",
     "toLang": "Italian",
     "fromCode": "ro",
     "toCode": "it",
-    "level": "CEFR ITALIANĂ DIN ROMÂNĂ",
-    "levelShort": "ITALIANĂ DIN ROMÂNĂ",
+    "level": "CEFR B2",
+    "levelShort": "B2",
     "detailHref": "https://duolingodata.com/dat/itfro1030.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 1030,
     "indexLessonsCount": 8549,
     "sourceSectionCounts": [
@@ -43,7 +43,7 @@
       "unitCount": 10,
       "title": "CEFR Intro:",
       "rawTitle": "CEFR Intro:",
-      "cefr": "INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,

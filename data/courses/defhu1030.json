@@ -2,16 +2,16 @@
   "meta": {
     "key": "defhu1030",
     "courseTitle": "Hungarian → German",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:349018ea79a4fe53",
     "fromLang": "Hungarian",
     "toLang": "German",
     "fromCode": "hu",
     "toCode": "de",
-    "level": "CEFR NÉMET MAGYARBÓL",
-    "levelShort": "NÉMET MAGYARBÓL",
+    "level": "CEFR B2",
+    "levelShort": "B2",
     "detailHref": "https://duolingodata.com/dat/defhu1030.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 1030,
     "indexLessonsCount": 8556,
     "sourceSectionCounts": [
@@ -43,7 +43,7 @@
       "unitCount": 10,
       "title": "CEFR Intro:",
       "rawTitle": "CEFR Intro:",
-      "cefr": "INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,

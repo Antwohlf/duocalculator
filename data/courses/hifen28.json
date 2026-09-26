@@ -2,16 +2,16 @@
   "meta": {
     "key": "hifen28",
     "courseTitle": "English → Hindi",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:e64f0248e0bec012",
     "fromLang": "English",
     "toLang": "Hindi",
     "fromCode": "en",
     "toCode": "hi",
-    "level": "CEFR HINDI FROM ENGLISH",
-    "levelShort": "HINDI FROM ENGLISH",
+    "level": "CEFR A1",
+    "levelShort": "A1",
     "detailHref": "https://duolingodata.com/dat/hifen28.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 28,
     "indexLessonsCount": 474,
     "sourceSectionCounts": [
@@ -37,7 +37,7 @@
       "unitCount": 5,
       "title": "CEFR Intro:",
       "rawTitle": "CEFR Intro:",
-      "cefr": "INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,

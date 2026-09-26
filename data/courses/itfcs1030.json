@@ -2,16 +2,16 @@
   "meta": {
     "key": "itfcs1030",
     "courseTitle": "Czech → Italian",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:a6a88d8363fd7621",
     "fromLang": "Czech",
     "toLang": "Italian",
     "fromCode": "cs",
     "toCode": "it",
-    "level": "CEFR ITALŠTINA Z ČEŠTINY,",
-    "levelShort": "ITALŠTINA Z ČEŠTINY,",
+    "level": "CEFR B2",
+    "levelShort": "B2",
     "detailHref": "https://duolingodata.com/dat/itfcs1030.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 1030,
     "indexLessonsCount": 8527,
     "sourceSectionCounts": [
@@ -43,7 +43,7 @@
       "unitCount": 10,
       "title": "CEFR Intro:",
       "rawTitle": "CEFR Intro:",
-      "cefr": "INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,
@@ -3128,7 +3128,7 @@
       "unitCount": 250,
       "title": "Sekce",
       "rawTitle": "Sekce",
-      "cefr": "SEKCE",
+      "cefr": "",
       "units": [
         {
           "sectionIndex": 6,

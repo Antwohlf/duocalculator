@@ -2,16 +2,16 @@
   "meta": {
     "key": "jafcs1030",
     "courseTitle": "Czech → Japanese",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:39eac819d493bc89",
     "fromLang": "Czech",
     "toLang": "Japanese",
     "fromCode": "cs",
     "toCode": "ja",
-    "level": "CEFR JAPONŠTINA Z ČEŠTINY,",
-    "levelShort": "JAPONŠTINA Z ČEŠTINY,",
+    "level": "CEFR B2",
+    "levelShort": "B2",
     "detailHref": "https://duolingodata.com/dat/jafcs1030.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 1030,
     "indexLessonsCount": 8304,
     "sourceSectionCounts": [
@@ -43,7 +43,7 @@
       "unitCount": 10,
       "title": "CEFR Intro:",
       "rawTitle": "CEFR Intro:",
-      "cefr": "INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,
@@ -3208,7 +3208,7 @@
       "unitCount": 240,
       "title": "Sekce",
       "rawTitle": "Sekce",
-      "cefr": "SEKCE",
+      "cefr": "",
       "units": [
         {
           "sectionIndex": 6,

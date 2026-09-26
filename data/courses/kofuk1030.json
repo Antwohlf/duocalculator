@@ -2,16 +2,16 @@
   "meta": {
     "key": "kofuk1030",
     "courseTitle": "Ukrainian → Korean",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:1faa95050c34f710",
     "fromLang": "Ukrainian",
     "toLang": "Korean",
     "fromCode": "uk",
     "toCode": "ko",
-    "level": "CEFR З КОРЕЙСЬКОЇ НА УКРАЇНСЬКУ",
-    "levelShort": "З КОРЕЙСЬКОЇ НА УКРАЇНСЬКУ",
+    "level": "CEFR B2",
+    "levelShort": "B2",
     "detailHref": "https://duolingodata.com/dat/kofuk1030.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 1030,
     "indexLessonsCount": 8227,
     "sourceSectionCounts": [
@@ -43,7 +43,7 @@
       "unitCount": 10,
       "title": "CEFR Intro:",
       "rawTitle": "CEFR Intro:",
-      "cefr": "INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,

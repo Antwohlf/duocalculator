@@ -2,16 +2,16 @@
   "meta": {
     "key": "ptffr1031",
     "courseTitle": "French → Portuguese",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:61b7cbfb2b270b07",
     "fromLang": "French",
     "toLang": "Portuguese",
     "fromCode": "fr",
     "toCode": "pt",
-    "level": "CEFR PORTUGAIS DEPUIS LE FRANÇAIS",
-    "levelShort": "PORTUGAIS DEPUIS LE FRANÇAIS",
+    "level": "CEFR B2",
+    "levelShort": "B2",
     "detailHref": "https://duolingodata.com/dat/ptffr1031.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 1031,
     "indexLessonsCount": 8651,
     "sourceSectionCounts": [
@@ -43,7 +43,7 @@
       "unitCount": 11,
       "title": "CEFR Intro:",
       "rawTitle": "CEFR Intro:",
-      "cefr": "INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,

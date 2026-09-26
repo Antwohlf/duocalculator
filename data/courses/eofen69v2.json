@@ -2,16 +2,16 @@
   "meta": {
     "key": "eofen69v2",
     "courseTitle": "English → Esperanto",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:e287a2b9a20c6cc7",
     "fromLang": "English",
     "toLang": "Esperanto",
     "fromCode": "en",
     "toCode": "eo",
-    "level": "CEFR ESPERANTO FROM ENGLISH",
-    "levelShort": "ESPERANTO FROM ENGLISH",
+    "level": "CEFR A1",
+    "levelShort": "A1",
     "detailHref": "https://duolingodata.com/dat/eofen69v2.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 69,
     "indexLessonsCount": 1318,
     "sourceSectionCounts": [
@@ -38,7 +38,7 @@
       "unitCount": 9,
       "title": "CEFR Intro:",
       "rawTitle": "CEFR Intro:",
-      "cefr": "INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,

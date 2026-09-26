@@ -2,16 +2,16 @@
   "meta": {
     "key": "esfvi131",
     "courseTitle": "Vietnamese → Spanish",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:4a2b75083b57f67c",
     "fromLang": "Vietnamese",
     "toLang": "Spanish",
     "fromCode": "vi",
     "toCode": "es",
-    "level": "CEFR TIẾNG TÂY BAN NHA TỪ TIẾNG VIỆT",
-    "levelShort": "TIẾNG TÂY BAN NHA TỪ TIẾNG VIỆT",
+    "level": "CEFR A2",
+    "levelShort": "A2",
     "detailHref": "https://duolingodata.com/dat/esfvi131.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 131,
     "indexLessonsCount": 3040,
     "sourceSectionCounts": [
@@ -39,7 +39,7 @@
       "unitCount": 10,
       "title": "CEFR Intro:",
       "rawTitle": "CEFR Intro:",
-      "cefr": "INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,

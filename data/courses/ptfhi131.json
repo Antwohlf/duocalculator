@@ -2,16 +2,16 @@
   "meta": {
     "key": "ptfhi131",
     "courseTitle": "Hindi → Portuguese",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:0cfc94cca71da603",
     "fromLang": "Hindi",
     "toLang": "Portuguese",
     "fromCode": "hi",
     "toCode": "pt",
-    "level": "CEFR हिंदी से पोर्तुगीज़,",
-    "levelShort": "हिंदी से पोर्तुगीज़,",
+    "level": "CEFR A2",
+    "levelShort": "A2",
     "detailHref": "https://duolingodata.com/dat/ptfhi131.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 131,
     "indexLessonsCount": 3203,
     "sourceSectionCounts": [
@@ -39,7 +39,7 @@
       "unitCount": 11,
       "title": "CEFR Intro:",
       "rawTitle": "CEFR Intro:",
-      "cefr": "INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,

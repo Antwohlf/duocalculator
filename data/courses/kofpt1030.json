@@ -2,16 +2,16 @@
   "meta": {
     "key": "kofpt1030",
     "courseTitle": "Portuguese → Korean",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:8d88f556169cb6c3",
     "fromLang": "Portuguese",
     "toLang": "Korean",
     "fromCode": "pt",
     "toCode": "ko",
-    "level": "CEFR COREANO DO PORTUGUÊS",
-    "levelShort": "COREANO DO PORTUGUÊS",
+    "level": "CEFR B2",
+    "levelShort": "B2",
     "detailHref": "https://duolingodata.com/dat/kofpt1030.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 1030,
     "indexLessonsCount": 8224,
     "sourceSectionCounts": [
@@ -43,7 +43,7 @@
       "unitCount": 10,
       "title": "CEFR Intro:",
       "rawTitle": "CEFR Intro:",
-      "cefr": "INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,

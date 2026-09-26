@@ -2,16 +2,16 @@
   "meta": {
     "key": "zhfit1030",
     "courseTitle": "Italian → Chinese",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:95f5d5a4c7da7085",
     "fromLang": "Italian",
     "toLang": "Chinese",
     "fromCode": "it",
     "toCode": "zh",
-    "level": "CEFR CINESE DALL'ITALIANO",
-    "levelShort": "CINESE DALL'ITALIANO",
+    "level": "CEFR B2",
+    "levelShort": "B2",
     "detailHref": "https://duolingodata.com/dat/zhfit1030.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 1030,
     "indexLessonsCount": 8713,
     "sourceSectionCounts": [
@@ -43,7 +43,7 @@
       "unitCount": 10,
       "title": "CEFR Intro:",
       "rawTitle": "CEFR Intro:",
-      "cefr": "INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,

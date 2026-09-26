@@ -2,16 +2,16 @@
   "meta": {
     "key": "zhfcs1030",
     "courseTitle": "Czech → Chinese",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:476f30d848337f04",
     "fromLang": "Czech",
     "toLang": "Chinese",
     "fromCode": "cs",
     "toCode": "zh",
-    "level": "CEFR ČÍNŠTINA Z ČEŠTINY,",
-    "levelShort": "ČÍNŠTINA Z ČEŠTINY,",
+    "level": "CEFR B2",
+    "levelShort": "B2",
     "detailHref": "https://duolingodata.com/dat/zhfcs1030.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 1030,
     "indexLessonsCount": 8717,
     "sourceSectionCounts": [
@@ -43,7 +43,7 @@
       "unitCount": 10,
       "title": "CEFR Intro:",
       "rawTitle": "CEFR Intro:",
-      "cefr": "INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,
@@ -3168,7 +3168,7 @@
       "unitCount": 245,
       "title": "Sekce",
       "rawTitle": "Sekce",
-      "cefr": "SEKCE",
+      "cefr": "",
       "units": [
         {
           "sectionIndex": 6,

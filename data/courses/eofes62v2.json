@@ -2,16 +2,16 @@
   "meta": {
     "key": "eofes62v2",
     "courseTitle": "Spanish → Esperanto",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:9ee66277dae561a1",
     "fromLang": "Spanish",
     "toLang": "Esperanto",
     "fromCode": "es",
     "toCode": "eo",
-    "level": "CEFR ESPERANTO DESDE ESPAÑOL",
-    "levelShort": "ESPERANTO DESDE ESPAÑOL",
+    "level": "CEFR A1",
+    "levelShort": "A1",
     "detailHref": "https://duolingodata.com/dat/eofes62v2.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 62,
     "indexLessonsCount": 1198,
     "sourceSectionCounts": [
@@ -38,7 +38,7 @@
       "unitCount": 9,
       "title": "MCER Intro:",
       "rawTitle": "MCER Intro:",
-      "cefr": "MCER INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,

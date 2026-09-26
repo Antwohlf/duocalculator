@@ -2,16 +2,16 @@
   "meta": {
     "key": "frfuk994",
     "courseTitle": "Ukrainian → French",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:50ee8342cc61bdf6",
     "fromLang": "Ukrainian",
     "toLang": "French",
     "fromCode": "uk",
     "toCode": "fr",
-    "level": "CEFR З ФРАНЦУЗЬКОЇ НА УКРАЇНСЬКУ",
-    "levelShort": "З ФРАНЦУЗЬКОЇ НА УКРАЇНСЬКУ",
+    "level": "CEFR B2",
+    "levelShort": "B2",
     "detailHref": "https://duolingodata.com/dat/frfuk994.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 994,
     "indexLessonsCount": 8284,
     "sourceSectionCounts": [
@@ -43,7 +43,7 @@
       "unitCount": 10,
       "title": "CEFR Intro:",
       "rawTitle": "CEFR Intro:",
-      "cefr": "INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,

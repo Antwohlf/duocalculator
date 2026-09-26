@@ -2,16 +2,16 @@
   "meta": {
     "key": "ptfde1031",
     "courseTitle": "German → Portuguese",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:f0e4f1d6ca5e1b02",
     "fromLang": "German",
     "toLang": "Portuguese",
     "fromCode": "de",
     "toCode": "pt",
-    "level": "CEFR PORTUGIESISCH AUS DEUTSCH",
-    "levelShort": "PORTUGIESISCH AUS DEUTSCH",
+    "level": "CEFR B2",
+    "levelShort": "B2",
     "detailHref": "https://duolingodata.com/dat/ptfde1031.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 1031,
     "indexLessonsCount": 8521,
     "sourceSectionCounts": [
@@ -43,7 +43,7 @@
       "unitCount": 11,
       "title": "CEFR Intro:",
       "rawTitle": "CEFR Intro:",
-      "cefr": "INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,

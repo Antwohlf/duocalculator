@@ -2,16 +2,16 @@
   "meta": {
     "key": "enfta1005",
     "courseTitle": "Tamil → English",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:e60f06f27524dd5d",
     "fromLang": "Tamil",
     "toLang": "English",
     "fromCode": "ta",
     "toCode": "en",
-    "level": "CEFR தமிழிலிருந்து ஆங்கிலம்,",
-    "levelShort": "தமிழிலிருந்து ஆங்கிலம்,",
+    "level": "CEFR B2",
+    "levelShort": "B2",
     "detailHref": "https://duolingodata.com/dat/enfta1005.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 1005,
     "indexLessonsCount": 8432,
     "sourceSectionCounts": [
@@ -43,7 +43,7 @@
       "unitCount": 10,
       "title": "CEFR Intro:",
       "rawTitle": "CEFR Intro:",
-      "cefr": "INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,

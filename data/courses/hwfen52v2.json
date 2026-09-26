@@ -2,16 +2,16 @@
   "meta": {
     "key": "hwfen52v2",
     "courseTitle": "English → Hawaiian",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:d7bddbb2843e07bf",
     "fromLang": "English",
     "toLang": "Hawaiian",
     "fromCode": "en",
     "toCode": "hw",
-    "level": "CEFR HAWAIIAN FROM ENGLISH",
-    "levelShort": "HAWAIIAN FROM ENGLISH",
+    "level": "CEFR A1",
+    "levelShort": "A1",
     "detailHref": "https://duolingodata.com/dat/hwfen52v2.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 52,
     "indexLessonsCount": 791,
     "sourceSectionCounts": [
@@ -38,7 +38,7 @@
       "unitCount": 9,
       "title": "CEFR Intro:",
       "rawTitle": "CEFR Intro:",
-      "cefr": "INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,

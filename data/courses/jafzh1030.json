@@ -2,16 +2,16 @@
   "meta": {
     "key": "jafzh1030",
     "courseTitle": "Chinese → Japanese",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:7b9e0ae68f2197f9",
     "fromLang": "Chinese",
     "toLang": "Japanese",
     "fromCode": "zh",
     "toCode": "ja",
-    "level": "CEFR 从中文（普通话）学习日语，共",
-    "levelShort": "从中文（普通话）学习日语，共",
+    "level": "CEFR B2",
+    "levelShort": "B2",
     "detailHref": "https://duolingodata.com/dat/jafzh1030.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 1030,
     "indexLessonsCount": 8311,
     "sourceSectionCounts": [
@@ -43,7 +43,7 @@
       "unitCount": 10,
       "title": "CEFR Intro:",
       "rawTitle": "CEFR Intro:",
-      "cefr": "INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,

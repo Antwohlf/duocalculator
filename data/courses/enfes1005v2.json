@@ -2,16 +2,16 @@
   "meta": {
     "key": "enfes1005v2",
     "courseTitle": "Spanish → English",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:c2af9b6a0e85e510",
     "fromLang": "Spanish",
     "toLang": "English",
     "fromCode": "es",
     "toCode": "en",
-    "level": "CEFR INGLÉS DESDE ESPAÑOL",
-    "levelShort": "INGLÉS DESDE ESPAÑOL",
+    "level": "CEFR B2",
+    "levelShort": "B2",
     "detailHref": "https://duolingodata.com/dat/enfes1005v2.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 1005,
     "indexLessonsCount": 8281,
     "sourceSectionCounts": [
@@ -43,7 +43,7 @@
       "unitCount": 10,
       "title": "MCER Intro:",
       "rawTitle": "MCER Intro:",
-      "cefr": "MCER INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,

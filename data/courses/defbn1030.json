@@ -2,16 +2,16 @@
   "meta": {
     "key": "defbn1030",
     "courseTitle": "Bengali → German",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:a2774a68648961f8",
     "fromLang": "Bengali",
     "toLang": "German",
     "fromCode": "bn",
     "toCode": "de",
-    "level": "CEFR হিন্দি থেকে জার্মানতে মোট",
-    "levelShort": "হিন্দি থেকে জার্মানতে মোট",
+    "level": "CEFR B2",
+    "levelShort": "B2",
     "detailHref": "https://duolingodata.com/dat/defbn1030.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 1030,
     "indexLessonsCount": 8525,
     "sourceSectionCounts": [
@@ -43,7 +43,7 @@
       "unitCount": 10,
       "title": "CEFR Intro:",
       "rawTitle": "CEFR Intro:",
-      "cefr": "INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,

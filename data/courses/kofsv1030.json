@@ -2,16 +2,16 @@
   "meta": {
     "key": "kofsv1030",
     "courseTitle": "Swedish → Korean",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:522a4efe13d08620",
     "fromLang": "Swedish",
     "toLang": "Korean",
     "fromCode": "sv",
     "toCode": "ko",
-    "level": "CEFR LEKTIONER",
-    "levelShort": "LEKTIONER",
+    "level": "CEFR B2",
+    "levelShort": "B2",
     "detailHref": "https://duolingodata.com/dat/kofsv1030.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 1030,
     "indexLessonsCount": 8226,
     "sourceSectionCounts": [
@@ -43,7 +43,7 @@
       "unitCount": 10,
       "title": "CEFR Intro:",
       "rawTitle": "CEFR Intro:",
-      "cefr": "INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,

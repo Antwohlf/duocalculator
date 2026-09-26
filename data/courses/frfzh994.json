@@ -2,16 +2,16 @@
   "meta": {
     "key": "frfzh994",
     "courseTitle": "Chinese → French",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:aca1db5032fdc942",
     "fromLang": "Chinese",
     "toLang": "French",
     "fromCode": "zh",
     "toCode": "fr",
-    "level": "CEFR 从普通话学习法语，共",
-    "levelShort": "从普通话学习法语，共",
+    "level": "CEFR B2",
+    "levelShort": "B2",
     "detailHref": "https://duolingodata.com/dat/frfzh994.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 994,
     "indexLessonsCount": 8350,
     "sourceSectionCounts": [
@@ -43,7 +43,7 @@
       "unitCount": 10,
       "title": "CEFR Intro:",
       "rawTitle": "CEFR Intro:",
-      "cefr": "INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,

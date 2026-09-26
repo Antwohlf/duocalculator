@@ -2,16 +2,16 @@
   "meta": {
     "key": "hvfen43v2",
     "courseTitle": "English → High Valyrian",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:1264dde9f9c79cca",
     "fromLang": "English",
     "toLang": "High Valyrian",
     "fromCode": "en",
     "toCode": "hv",
-    "level": "CEFR HIGH VALYRIAN FROM ENGLISH",
-    "levelShort": "HIGH VALYRIAN FROM ENGLISH",
+    "level": "CEFR A1",
+    "levelShort": "A1",
     "detailHref": "https://duolingodata.com/dat/hvfen43v2.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 43,
     "indexLessonsCount": 649,
     "sourceSectionCounts": [
@@ -37,7 +37,7 @@
       "unitCount": 9,
       "title": "CEFR Intro:",
       "rawTitle": "CEFR Intro:",
-      "cefr": "INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,

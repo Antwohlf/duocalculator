@@ -2,16 +2,16 @@
   "meta": {
     "key": "defhi1030",
     "courseTitle": "Hindi → German",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:1dbab9bab5675d9d",
     "fromLang": "Hindi",
     "toLang": "German",
     "fromCode": "hi",
     "toCode": "de",
-    "level": "CEFR हिंदी से जर्मन,",
-    "levelShort": "हिंदी से जर्मन,",
+    "level": "CEFR B2",
+    "levelShort": "B2",
     "detailHref": "https://duolingodata.com/dat/defhi1030.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 1030,
     "indexLessonsCount": 8530,
     "sourceSectionCounts": [
@@ -43,7 +43,7 @@
       "unitCount": 10,
       "title": "CEFR Intro:",
       "rawTitle": "CEFR Intro:",
-      "cefr": "INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,

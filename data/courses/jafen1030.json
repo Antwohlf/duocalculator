@@ -2,16 +2,16 @@
   "meta": {
     "key": "jafen1030",
     "courseTitle": "English → Japanese",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:4999d200f622154b",
     "fromLang": "English",
     "toLang": "Japanese",
     "fromCode": "en",
     "toCode": "ja",
-    "level": "CEFR JAPANESE FROM ENGLISH",
-    "levelShort": "JAPANESE FROM ENGLISH",
+    "level": "CEFR B2",
+    "levelShort": "B2",
     "detailHref": "https://duolingodata.com/dat/jafen1030.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 1030,
     "indexLessonsCount": 8274,
     "sourceSectionCounts": [
@@ -43,7 +43,7 @@
       "unitCount": 10,
       "title": "CEFR Intro:",
       "rawTitle": "CEFR Intro:",
-      "cefr": "INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,

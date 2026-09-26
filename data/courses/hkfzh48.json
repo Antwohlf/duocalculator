@@ -2,16 +2,16 @@
   "meta": {
     "key": "hkfzh48",
     "courseTitle": "Chinese → Cantonese",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:885451cdd369cbca",
     "fromLang": "Chinese",
     "toLang": "Cantonese",
     "fromCode": "zh",
     "toCode": "hk",
-    "level": "CEFR 从中文（普通话）学习粤语（中文），共",
-    "levelShort": "从中文（普通话）学习粤语（中文），共",
+    "level": "CEFR A2",
+    "levelShort": "A2",
     "detailHref": "https://duolingodata.com/dat/hkfzh48.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 48,
     "indexLessonsCount": 820,
     "sourceSectionCounts": [
@@ -39,7 +39,7 @@
       "unitCount": 9,
       "title": "CEFR Intro:",
       "rawTitle": "CEFR Intro:",
-      "cefr": "INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,

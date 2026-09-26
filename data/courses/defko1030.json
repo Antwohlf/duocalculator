@@ -2,16 +2,16 @@
   "meta": {
     "key": "defko1030",
     "courseTitle": "Korean → German",
-    "scrapedAt": "2026-09-26T14:26:32.057Z",
+    "scrapedAt": "2026-09-26T14:46:40.115Z",
     "sourceHash": "sha256:ac7c252777fd4d36",
     "fromLang": "Korean",
     "toLang": "German",
     "fromCode": "ko",
     "toCode": "de",
-    "level": "CEFR 한국어에서 독일어로,",
-    "levelShort": "한국어에서 독일어로,",
+    "level": "CEFR B2",
+    "levelShort": "B2",
     "detailHref": "https://duolingodata.com/dat/defko1030.html",
-    "parserVersion": 3,
+    "parserVersion": 4,
     "indexUnitsCount": 1030,
     "indexLessonsCount": 8426,
     "sourceSectionCounts": [
@@ -43,7 +43,7 @@
       "unitCount": 10,
       "title": "CEFR Intro:",
       "rawTitle": "CEFR Intro:",
-      "cefr": "INTRO:",
+      "cefr": "INTRO",
       "units": [
         {
           "sectionIndex": 1,

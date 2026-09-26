@@ -1085,7 +1085,7 @@ function renderCourseMeta(detail) {
   }
   
   if (meta.level) {
-    metaItems.push({ label: "CEFR", value: meta.level });
+    metaItems.push({ label: "CEFR", value: meta.levelShort || meta.level.replace(/^CEFR\s*/i, "") });
   }
   
   // Build HTML with proper structure

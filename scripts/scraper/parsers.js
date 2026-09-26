@@ -251,14 +251,14 @@ export function parseCourseDetail(html, meta) {
 
     const unitMatch = normalized.match(unitRegex);
     if (unitMatch && currentSection) {
-      const [, unitNumber, activityCount, title] = unitMatch;
-      const parsedActivities = Number(activityCount);
+      const [, sectionNumber, unitNumber, title] = unitMatch;
+      if (Number(sectionNumber) !== currentSection.sectionIndex) continue;
       currentUnit = {
         sectionIndex: currentSection.sectionIndex,
         unitIndex: Number(unitNumber),
         title: title.trim(),
         activityPattern: [],
-        activities: Number.isFinite(parsedActivities) ? parsedActivities : null,
+        activities: null,
       };
       currentSection.units.push(currentUnit);
       continue;
@@ -291,31 +291,25 @@ export function parseCourseDetail(html, meta) {
     { sections: filteredSections.length, activities: 0, units: 0 },
   );
 
-  // Calculate fallback lessons count
-  const metaAverage =
-    typeof meta.lessonsCount === 'number' && typeof meta.unitsCount === 'number' && meta.unitsCount > 0
-      ? Math.max(1, Math.round(meta.lessonsCount / meta.unitsCount))
-      : null;
-  const computedAverage =
-    totals.units > 0 && totals.activities > 0
-      ? Math.max(1, Math.round(totals.activities / totals.units))
-      : null;
-  const fallbackLessons = metaAverage || computedAverage || 10;
-
-  // Fill in missing activity counts
-  let hadMissing = false;
-  filteredSections.forEach((section) => {
-    section.units.forEach((unit) => {
-      if (!unit.activities || unit.activities <= 0) {
-        unit.activities = fallbackLessons;
-        unit.activityPattern = [];
-        hadMissing = true;
-      }
-    });
+  // Detail pages identify section and unit numbers, but usually omit per-unit lesson counts.
+  // Preserve counts from activity patterns and distribute the index's course total over the rest.
+  const allUnits = filteredSections.flatMap((section) => section.units);
+  const missingUnits = allUnits.filter((unit) => !unit.activities || unit.activities <= 0);
+  const knownLessons = totals.activities;
+  const courseLessons = Number.isFinite(meta.lessonsCount) ? meta.lessonsCount : null;
+  const remainingLessons = courseLessons === null ? null : courseLessons - knownLessons;
+  const estimatedLessons = remainingLessons !== null && remainingLessons >= missingUnits.length
+    ? remainingLessons : missingUnits.length * 10;
+  const base = missingUnits.length ? Math.floor(estimatedLessons / missingUnits.length) : 0;
+  const extra = missingUnits.length ? estimatedLessons % missingUnits.length : 0;
+  missingUnits.forEach((unit, index) => {
+    unit.activities = base + (index < extra ? 1 : 0);
+    unit.activityPattern = [];
   });
+  const hadMissing = missingUnits.length > 0;
 
   if (hadMissing) {
-    warnings.push(`Some units missing activity data, using fallback: ${fallbackLessons}`);
+    warnings.push('Per-unit lesson counts estimated from course total');
   }
 
   // Recalculate totals after filling missing

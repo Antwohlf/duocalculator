@@ -203,6 +203,8 @@ const dom = {
   swapButton: document.getElementById("swap-languages"),
   sectionSelect: document.getElementById("section-select"),
   unitSelect: document.getElementById("unit-select"),
+  targetSectionSelect: document.getElementById("target-section-select"),
+  targetUnitSelect: document.getElementById("target-unit-select"),
   minutesPerActivity: document.getElementById("minutes-per-activity"),
   minutesPerDay: document.getElementById("minutes-per-day"),
   targetDays: document.getElementById("target-days"),
@@ -217,6 +219,7 @@ const dom = {
   sectionCEFRHint: document.getElementById("section-cefr-hint"),
   statFinishDate: document.getElementById("stat-finish-date"),
   statLessonsLeft: document.getElementById("stat-lessons-left"),
+  statLessonsLabel: document.getElementById("stat-lessons-label"),
   statMinutesPerDay: document.getElementById("stat-minutes-day"),
   tooltipTriggers: document.querySelectorAll("[data-tooltip-target]"),
   resetButtons: document.querySelectorAll("[data-reset]"),
@@ -262,6 +265,7 @@ const state = {
     sectionIndex: null,
     unitIndex: null,
   },
+  target: { sectionIndex: null, unitIndex: null },
   minutesPerActivity: 3.5,
   minutesPerDay: 30,
   targetDays: 90,
@@ -356,6 +360,7 @@ function setupForm() {
     state.currentCourseKey = null;
     state.currentCourseData = null;
     state.selection = { sectionIndex: null, unitIndex: null };
+    state.target = { sectionIndex: null, unitIndex: null };
     populateToLanguageSelect(fromLang);
     clearCourseDisplay({
       progressMessage: fromLang ? "Select a target language first" : "Select languages first",
@@ -429,6 +434,22 @@ function setupForm() {
       return;
     }
     state.selection.unitIndex = index;
+    saveState();
+    computeAndRender();
+  });
+
+  dom.targetSectionSelect.addEventListener("change", () => {
+    const value = dom.targetSectionSelect.value;
+    state.target.sectionIndex = value === "" ? null : Number(value);
+    state.target.unitIndex = null;
+    populateTargetUnits();
+    saveState();
+    computeAndRender();
+  });
+
+  dom.targetUnitSelect.addEventListener("change", () => {
+    const value = dom.targetUnitSelect.value;
+    state.target.unitIndex = value === "" ? null : Number(value);
     saveState();
     computeAndRender();
   });
@@ -509,6 +530,11 @@ function loadStoredState() {
         typeof selection.sectionIndex === "number" ? selection.sectionIndex : null,
       unitIndex: typeof selection.unitIndex === "number" ? selection.unitIndex : null,
     };
+    const target = data.target || {};
+    state.target = {
+      sectionIndex: typeof target.sectionIndex === "number" ? target.sectionIndex : null,
+      unitIndex: typeof target.unitIndex === "number" ? target.unitIndex : null,
+    };
   } catch (error) {
     console.warn("Failed to load stored state", error);
   }
@@ -525,6 +551,7 @@ function saveState() {
       minutesPerDay: state.minutesPerDay,
       targetDays: state.targetDays,
       selection: state.selection,
+      target: state.target,
     };
     localStorage.setItem(STORAGE_KEY, JSON.stringify(payload));
   } catch (error) {
@@ -554,7 +581,12 @@ function resetProgressControls(message) {
   dom.sectionSelect.innerHTML = `<option value="">${message}</option>`;
   dom.unitSelect.disabled = true;
   dom.unitSelect.innerHTML = `<option value="">Select a section first</option>`;
+  dom.targetSectionSelect.disabled = true;
+  dom.targetSectionSelect.innerHTML = `<option value="">Finish course</option>`;
+  dom.targetUnitSelect.disabled = true;
+  dom.targetUnitSelect.innerHTML = `<option value="">Choose a target section first</option>`;
   state.selection = { sectionIndex: null, unitIndex: null };
+  state.target = { sectionIndex: null, unitIndex: null };
 }
 
 async function loadCourses() {
@@ -637,6 +669,7 @@ async function handleCourseSelection(courseKey, { restoreProgress = false } = {}
   state.selectedToLang = meta.toLang;
   if (!restoreProgress) {
     state.selection = { sectionIndex: null, unitIndex: null };
+    state.target = { sectionIndex: null, unitIndex: null };
   }
   await ensureCourseDetail(courseKey);
   
@@ -649,6 +682,8 @@ async function handleCourseSelection(courseKey, { restoreProgress = false } = {}
   const sectionsReady = populateSections({ autoSelect });
   if (sectionsReady) {
     populateUnits({ autoSelect });
+    populateTargetSections();
+    populateTargetUnits();
   }
   saveState();
   computeAndRender();
@@ -974,6 +1009,36 @@ function populateUnits({ autoSelect = false } = {}) {
   return true;
 }
 
+function populateTargetSections() {
+  const sections = state.currentCourseData?.sections || [];
+  dom.targetSectionSelect.disabled = sections.length === 0;
+  dom.targetSectionSelect.innerHTML = `<option value="">Finish course</option>` + sections
+    .map((section, index) => `<option value="${index}">Section ${section.sectionIndex}</option>`)
+    .join("");
+  if (!sections[state.target.sectionIndex]) {
+    state.target = { sectionIndex: null, unitIndex: null };
+  }
+  dom.targetSectionSelect.value = state.target.sectionIndex === null
+    ? "" : String(state.target.sectionIndex);
+}
+
+function populateTargetUnits() {
+  const section = state.currentCourseData?.sections[state.target.sectionIndex];
+  if (!section) {
+    dom.targetUnitSelect.disabled = true;
+    dom.targetUnitSelect.innerHTML = `<option value="">Choose a target section first</option>`;
+    return;
+  }
+  dom.targetUnitSelect.disabled = false;
+  dom.targetUnitSelect.innerHTML = section.units
+    .map((unit, index) => `<option value="${index}">Unit ${unit.unitIndex}</option>`)
+    .join("");
+  if (state.target.unitIndex === null || !section.units[state.target.unitIndex]) {
+    state.target.unitIndex = section.units.length - 1;
+  }
+  dom.targetUnitSelect.value = String(state.target.unitIndex);
+}
+
 function updateSectionHint() {
   if (!dom.sectionCEFRHint) return;
   const course = state.currentCourseData;
@@ -1097,10 +1162,31 @@ function computeAndRender({ force = false } = {}) {
   );
   updateProgressSummary(lessonsCompleted, totalLessons);
 
+  let targetLessons = totalLessons;
+  let targetLabel = "the end of the course";
+  const targetSection = course.sections[state.target.sectionIndex];
+  if (targetSection && state.target.unitIndex !== null) {
+    const targetUnit = targetSection.units[state.target.unitIndex];
+    if (targetUnit) {
+      const targetProgress = computeLessonProgress(
+        course, state.target.sectionIndex, state.target.unitIndex,
+      );
+      targetLessons = targetProgress.lessonsCompleted + Math.max(0, targetUnit.activities || 0);
+      targetLabel = `Section ${targetSection.sectionIndex}, Unit ${targetUnit.unitIndex}`;
+    }
+  }
+  if (targetLessons <= lessonsCompleted) {
+    dom.resultHeadline.textContent = "Choose a target unit at or after your starting unit.";
+    dom.resultDetail.textContent = "";
+    dom.resultMeta.textContent = "";
+    resetStats();
+    return;
+  }
+
   const result =
     state.activeTab === "finish"
-      ? computeFinish(totalLessons, lessonsCompleted)
-      : computePace(totalLessons, lessonsCompleted);
+      ? computeFinish(targetLessons, lessonsCompleted, targetLabel)
+      : computePace(targetLessons, lessonsCompleted, targetLabel);
 
   if (!result) {
     resetStats();
@@ -1128,8 +1214,8 @@ function computeLessonProgress(course, sectionIndex, unitIndex) {
   return { totalLessons, lessonsCompleted };
 }
 
-function computeFinish(totalLessons, lessonsCompleted) {
-  const lessonsLeft = Math.max(totalLessons - lessonsCompleted, 0);
+function computeFinish(targetLessons, lessonsCompleted, targetLabel) {
+  const lessonsLeft = Math.max(targetLessons - lessonsCompleted, 0);
   if (lessonsLeft <= 0) {
     dom.resultHeadline.textContent = "🎉 You have finished this course!";
     dom.resultDetail.textContent = "";
@@ -1143,8 +1229,9 @@ function computeFinish(totalLessons, lessonsCompleted) {
   const finishDate = new Date();
   finishDate.setDate(finishDate.getDate() + days);
   return {
-    headline: `You will finish in about ${days} ${days === 1 ? "day" : "days"}.`,
-    detail: `That’s ${formatNumber(minutesLeft)} minutes of practice left (${lessonsLeft} lessons).`,
+    headline: `You will reach ${targetLabel} in about ${days} ${days === 1 ? "day" : "days"}.`,
+    detail: `That’s ${formatNumber(minutesLeft)} minutes of practice (${lessonsLeft} estimated lessons).`,
+    meta: "Lesson counts are estimated from the course total and may vary by unit.",
     finishDate,
     lessonsLeft,
     minutesPerDay,
@@ -1153,8 +1240,8 @@ function computeFinish(totalLessons, lessonsCompleted) {
   };
 }
 
-function computePace(totalLessons, lessonsCompleted) {
-  const lessonsLeft = Math.max(totalLessons - lessonsCompleted, 0);
+function computePace(targetLessons, lessonsCompleted, targetLabel) {
+  const lessonsLeft = Math.max(targetLessons - lessonsCompleted, 0);
   if (lessonsLeft <= 0) {
     dom.resultHeadline.textContent = "🎉 You have finished this course!";
     dom.resultDetail.textContent = "Try a new course or adjust your inputs.";
@@ -1169,7 +1256,8 @@ function computePace(totalLessons, lessonsCompleted) {
   finishDate.setDate(finishDate.getDate() + daysTarget);
   return {
     headline: `Spend about ${minutesPerDay} minutes per day.`,
-    detail: `That’s roughly ${lessonsPerDay} ${lessonsPerDay === 1 ? "lesson" : "lessons"} each day to finish in ${daysTarget} days.`,
+    detail: `That’s roughly ${lessonsPerDay} ${lessonsPerDay === 1 ? "lesson" : "lessons"} each day to reach ${targetLabel} in ${daysTarget} days.`,
+    meta: "Lesson counts are estimated from the course total and may vary by unit.",
     finishDate,
     lessonsLeft,
     minutesPerDay,
@@ -1203,6 +1291,10 @@ function updateStats(result, totalLessons, lessonsCompleted) {
   }
   if (dom.statLessonsLeft) {
     dom.statLessonsLeft.textContent = lessonsLeft ? formatNumber(lessonsLeft) : "0";
+  }
+  if (dom.statLessonsLabel) {
+    dom.statLessonsLabel.textContent = state.target.sectionIndex === null
+      ? "Lessons left" : "Lessons to target";
   }
   if (dom.statMinutesPerDay) {
     let minutesValue = result.minutesPerDay;
@@ -1343,6 +1435,12 @@ function normalizeCourseDetailFromJson(payload, courseMeta) {
       : 10;
 
   let hadMissing = false;
+  const legacyDetail = sectionsRaw.some((section) => {
+    const units = Array.isArray(section?.units) ? section.units : [];
+    return units.length > 1 && units.every(
+      (unit, index) => unit?.unitIndex === section.sectionIndex && unit?.activities === index + 1,
+    );
+  });
 
   const sections = sectionsRaw
     .map((section, sectionArrayIndex) => {
@@ -1352,7 +1450,6 @@ function normalizeCourseDetailFromJson(payload, courseMeta) {
           : sectionArrayIndex + 1;
 
       const unitsRaw = Array.isArray(section?.units) ? section.units : [];
-
       const units = unitsRaw
         .map((unit, unitArrayIndex) => {
           const activities =
@@ -1364,7 +1461,7 @@ function normalizeCourseDetailFromJson(payload, courseMeta) {
           return {
             sectionIndex,
             unitIndex:
-              typeof unit?.unitIndex === "number" && Number.isFinite(unit.unitIndex)
+              !legacyDetail && typeof unit?.unitIndex === "number" && Number.isFinite(unit.unitIndex)
                 ? unit.unitIndex
                 : unitArrayIndex + 1,
             title:
@@ -1406,11 +1503,30 @@ function normalizeCourseDetailFromJson(payload, courseMeta) {
     { units: 0, activities: 0 },
   );
 
+  // Older scraped files interpreted the section/unit pair as a lesson count.
+  // The course index has a real total, so apportion it across units until refreshed data arrives.
+  const courseLessons = mergedMeta.lessonsCount;
+  const mismatch = Number.isFinite(courseLessons) && courseLessons > 0 && totals.units > 0 &&
+    (legacyDetail || totals.activities > courseLessons * 1.25 ||
+      totals.activities < courseLessons * 0.75);
+  if (mismatch) {
+    let ordinal = 0;
+    const base = Math.floor(courseLessons / totals.units);
+    const extra = courseLessons % totals.units;
+    sections.forEach((section) => section.units.forEach((unit) => {
+      unit.activities = base + (ordinal < extra ? 1 : 0);
+      unit.activityPattern = [];
+      ordinal += 1;
+    }));
+    totals.activities = courseLessons;
+    hadMissing = true;
+  }
+
   const totalsMerged = {
     ...payload?.totals,
     sections: sections.length,
     units: payload?.totals?.units || totals.units,
-    activities: payload?.totals?.activities || totals.activities,
+    activities: totals.activities,
     estimated: hadMissing,
   };
 

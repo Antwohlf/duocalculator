@@ -76,7 +76,7 @@
             </div>
 
             <div class="field-group">
-              <label for="section-select">Section</label>
+              <label for="section-select">From section</label>
               <select id="section-select" name="section" required disabled>
                 <option value="">Select a course first</option>
               </select>
@@ -84,9 +84,23 @@
             </div>
 
             <div class="field-group">
-              <label for="unit-select">Unit</label>
+              <label for="unit-select">From unit (start of unit)</label>
               <select id="unit-select" name="unit" required disabled>
                 <option value="">Select a section first</option>
+              </select>
+            </div>
+
+            <div class="field-group">
+              <label for="target-section-select">To section</label>
+              <select id="target-section-select" name="targetSection" disabled>
+                <option value="">Finish course</option>
+              </select>
+            </div>
+
+            <div class="field-group">
+              <label for="target-unit-select">To unit (end of unit)</label>
+              <select id="target-unit-select" name="targetUnit" disabled>
+                <option value="">Choose a target section first</option>
               </select>
             </div>
 
@@ -195,7 +209,7 @@
               <span class="stat-value" id="stat-finish-date">—</span>
             </div>
             <div class="stat">
-              <span class="stat-label">Lessons left</span>
+              <span class="stat-label" id="stat-lessons-label">Lessons left</span>
               <span class="stat-value" id="stat-lessons-left">—</span>
             </div>
             <div class="stat">

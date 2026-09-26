@@ -25,12 +25,13 @@ test('parseCourseList returns empty array for malformed HTML', async () => {
 
 test('parseCourseDetail extracts sections, units, and totals', async () => {
   const html = await readFixture('course-detail.html');
-  const detail = parseCourseDetail(html, { key: 'esfen' });
+  const detail = parseCourseDetail(html, { key: 'esfen', lessonsCount: 18 });
 
   assert.equal(detail.sections.length, 2);
   assert.equal(detail.sections[0].unitCount, 2);
   assert.equal(detail.sections[0].units.length, 2);
   assert.equal(detail.sections[1].units.length, 1);
+  assert.deepEqual(detail.sections.map((section) => section.units.map((unit) => unit.unitIndex)), [[1, 2], [1]]);
   assert.deepEqual(detail.totals, { sections: 2, units: 3, activities: 18 });
 });
 

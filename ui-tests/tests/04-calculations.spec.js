@@ -63,6 +63,40 @@ test.describe('Calculation Results', () => {
     await unitSelect.selectOption(firstUnit);
   }
 
+  test('course totals and section-to-unit targets use realistic lesson counts', async ({ page }) => {
+    const baseUrl = await readBaseUrl();
+    await page.goto(`${baseUrl}/`, { waitUntil: 'domcontentloaded' });
+    const courseIndex = await page.request.get(`${baseUrl}/data/courses.json`).then((response) => response.json());
+    const course = courseIndex.courses.find((entry) => entry.detailKey === 'esfen991v2') ||
+      courseIndex.courses.find((entry) => entry.fromLang === 'English' && entry.toLang === 'Spanish' && entry.detailAvailable);
+    expect(course).toBeTruthy();
+    await expect(page.locator('#from-lang-select option[value="English"]')).toHaveCount(1);
+    await page.locator('#from-lang-select').selectOption('English');
+    await page.locator('#to-lang-select').selectOption(course.key);
+    await expect(page.locator('#unit-select option').first()).toContainText('Unit 1');
+
+    // The old parser interpreted unit numbers as lesson counts, inflating this course about tenfold.
+    await expect(page.locator('#progress-counts')).toHaveText(`0 of ${course.lessonsCount} lessons completed`);
+    await expect(page.locator('#stat-lessons-left')).toHaveText(course.lessonsCount.toLocaleString('en-US'));
+    await expect(page.locator('#unit-select option').first()).toContainText(/Unit 1:.*\(\d+ lessons\)/);
+
+    await page.locator('#target-section-select').selectOption('0');
+    await page.locator('#target-unit-select').selectOption('1');
+    const rangeLessons = Number((await page.locator('#stat-lessons-left').textContent()).replace(/,/g, ''));
+    expect(rangeLessons).toBeGreaterThan(0);
+    expect(rangeLessons).toBeLessThan(course.lessonsCount);
+    await expect(page.locator('#stat-lessons-label')).toHaveText('Lessons to target');
+    await expect(page.locator('#result-headline')).toContainText('Section 1, Unit 2');
+
+    await page.locator('#unit-select').selectOption('2');
+    await expect(page.locator('#result-headline')).toContainText('Choose a target unit');
+    await expect(page.locator('#stat-lessons-left')).toHaveText('—');
+
+    await page.locator('#target-section-select').selectOption('');
+    await expect(page.locator('#stat-lessons-left')).not.toHaveText('—');
+    await expect(page.locator('#stat-lessons-label')).toHaveText('Lessons left');
+  });
+
   test('Finish-mode calculation shows valid results', async ({ page }) => {
     const baseUrl = await readBaseUrl();
     await page.goto(`${baseUrl}/`, { waitUntil: 'domcontentloaded' });

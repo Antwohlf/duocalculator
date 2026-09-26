@@ -2,23 +2,36 @@
   "meta": {
     "key": "itfhi130",
     "courseTitle": "Hindi → Italian",
-    "scrapedAt": "2026-09-20T08:18:37.233Z",
+    "scrapedAt": "2026-09-26T14:26:32.057Z",
     "sourceHash": "sha256:0d16d46756ff0a37",
     "fromLang": "Hindi",
     "toLang": "Italian",
     "fromCode": "hi",
     "toCode": "it",
-    "level": "CEFR INTRO",
-    "levelShort": "INTRO",
+    "level": "CEFR हिंदी से इटैलियन,",
+    "levelShort": "हिंदी से इटैलियन,",
     "detailHref": "https://duolingodata.com/dat/itfhi130.html",
+    "parserVersion": 3,
+    "indexUnitsCount": 130,
+    "indexLessonsCount": 3192,
+    "sourceSectionCounts": [
+      10,
+      30,
+      30,
+      60
+    ],
     "detailHrefHash": "sha256:d4f4211b3a5f4d29",
-    "scrapeWarnings": [],
-    "schemaVersion": "1.0.0"
+    "scrapeWarnings": [
+      "Section sizes aligned with current course summary",
+      "Per-unit lesson counts estimated from course total"
+    ],
+    "schemaVersion": "2.0.0"
   },
   "totals": {
     "sections": 4,
-    "activities": 4795,
-    "units": 130
+    "activities": 3192,
+    "units": 130,
+    "estimated": true
   },
   "sections": [
     {
@@ -33,70 +46,80 @@
           "unitIndex": 1,
           "title": "कैफ़े में ऑर्डर करें",
           "activityPattern": [],
-          "activities": 1
+          "activities": 25,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
-          "unitIndex": 1,
+          "unitIndex": 2,
           "title": "नमस्ते करें और अलविदा कहें",
           "activityPattern": [],
-          "activities": 2
+          "activities": 25,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
-          "unitIndex": 1,
+          "unitIndex": 3,
           "title": "अपने मूल स्थान के बारे में बताएँ",
           "activityPattern": [],
-          "activities": 3
+          "activities": 25,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
-          "unitIndex": 1,
+          "unitIndex": 4,
           "title": "अपने परिवार के बारे में बताएँ",
           "activityPattern": [],
-          "activities": 4
+          "activities": 25,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
-          "unitIndex": 1,
+          "unitIndex": 5,
           "title": "व्यक्तित्व का वर्णन करें",
           "activityPattern": [],
-          "activities": 5
+          "activities": 25,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
-          "unitIndex": 1,
+          "unitIndex": 6,
           "title": "शहर में जगहें ढूँढें",
           "activityPattern": [],
-          "activities": 6
+          "activities": 25,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
-          "unitIndex": 1,
+          "unitIndex": 7,
           "title": "वर्तमान काल का प्रयोग करें",
           "activityPattern": [],
-          "activities": 7
+          "activities": 25,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
-          "unitIndex": 1,
+          "unitIndex": 8,
           "title": "फल और सब्ज़ियाँ खरीदें",
           "activityPattern": [],
-          "activities": 8
+          "activities": 25,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
-          "unitIndex": 1,
+          "unitIndex": 9,
           "title": "वचन और लिंग के संबंध का प्रयोग",
           "activityPattern": [],
-          "activities": 9
+          "activities": 25,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
-          "unitIndex": 1,
+          "unitIndex": 10,
           "title": "दिशा पूछें",
           "activityPattern": [],
-          "activities": 10
+          "activities": 25,
+          "estimated": true
         }
       ]
     },
@@ -109,213 +132,243 @@
       "units": [
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 1,
           "title": "खाना और पेय ऑर्डर करें",
           "activityPattern": [],
-          "activities": 1
+          "activities": 25,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
           "unitIndex": 2,
           "title": "कपड़े ढूँढें",
           "activityPattern": [],
-          "activities": 2
+          "activities": 25,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 3,
           "title": "निजवाचक विशेषणों का प्रयोग करें",
           "activityPattern": [],
-          "activities": 3
+          "activities": 25,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 4,
           "title": "अपनी पढ़ाई पर चर्चा करें",
           "activityPattern": [],
-          "activities": 4
+          "activities": 25,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 5,
           "title": "नौकरियों और कार्यस्थलों पर चर्चा करें",
           "activityPattern": [],
-          "activities": 5
+          "activities": 25,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 6,
           "title": "वर्तमान काल में -are क्रिया का रूपांतरण",
           "activityPattern": [],
-          "activities": 6
+          "activities": 25,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 7,
           "title": "शौक और रुचियों पर चर्चा करें",
           "activityPattern": [],
-          "activities": 7
+          "activities": 25,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 8,
           "title": "स्थिति और भावना के लिए \"esser\" का प्रयोग",
           "activityPattern": [],
-          "activities": 8
+          "activities": 25,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 9,
           "title": "पसंद और नापसंद बताएँ",
           "activityPattern": [],
-          "activities": 9
+          "activities": 25,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 10,
           "title": "शहर की सैर करें",
           "activityPattern": [],
-          "activities": 10
+          "activities": 25,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 11,
           "title": "कपड़े खरीदें",
           "activityPattern": [],
-          "activities": 11
+          "activities": 25,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 12,
           "title": "समस्या की रिपोर्ट करें",
           "activityPattern": [],
-          "activities": 12
+          "activities": 25,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 13,
           "title": "अपने आस-पास का वर्णन करें",
           "activityPattern": [],
-          "activities": 13
+          "activities": 25,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 14,
           "title": "जन्मदिन मनाएँ",
           "activityPattern": [],
-          "activities": 14
+          "activities": 25,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 15,
           "title": "दफ़्तर के कामों की चर्चा करें",
           "activityPattern": [],
-          "activities": 15
+          "activities": 25,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 16,
           "title": "शादियों के बारे में बात करें",
           "activityPattern": [],
-          "activities": 16
+          "activities": 25,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 17,
           "title": "व्यक्तिगत जानकारी साझा करें",
           "activityPattern": [],
-          "activities": 17
+          "activities": 25,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 18,
           "title": "गति के लिए पूर्वसर्गों का उपयोग करें",
           "activityPattern": [],
-          "activities": 18
+          "activities": 25,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 19,
           "title": "ज़रूरत के लिए वृत्तिवाचक क्रिया प्रयोग",
           "activityPattern": [],
-          "activities": 19
+          "activities": 25,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 20,
           "title": "गुणों और अपनी चीज़ों का वर्णन करें",
           "activityPattern": [],
-          "activities": 20
+          "activities": 25,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 21,
           "title": "कमरे का वर्णन करें",
           "activityPattern": [],
-          "activities": 21
+          "activities": 25,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 22,
           "title": "दिनचर्या के लिए वर्तमान काल का प्रयोग",
           "activityPattern": [],
-          "activities": 22
+          "activities": 25,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 23,
           "title": "यात्रा की योजना बनाएँ",
           "activityPattern": [],
-          "activities": 23
+          "activities": 25,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 24,
           "title": "डर और चिंता व्यक्त करें",
           "activityPattern": [],
-          "activities": 24
+          "activities": 25,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 25,
           "title": "काम की यात्रा की योजना बनाएँ",
           "activityPattern": [],
-          "activities": 25
+          "activities": 25,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 26,
           "title": "अवकाश गतिविधियों की योजना बनाएँ",
           "activityPattern": [],
-          "activities": 26
+          "activities": 25,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 27,
           "title": "परिवार पर चर्चा करें",
           "activityPattern": [],
-          "activities": 27
+          "activities": 25,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 28,
           "title": "स्विट्ज़रलैंड की यात्रा की योजना बनाएँ",
           "activityPattern": [],
-          "activities": 28
+          "activities": 25,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 29,
           "title": "स्कूल विषयों पर चर्चा करें",
           "activityPattern": [],
-          "activities": 29
+          "activities": 25,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 30,
           "title": "घरेलू कामों पर चर्चा करें",
           "activityPattern": [],
-          "activities": 30
+          "activities": 25,
+          "estimated": true
         }
       ]
     },
@@ -328,213 +381,243 @@
       "units": [
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 1,
           "title": "अपने पड़ोस का वर्णन करें",
           "activityPattern": [],
-          "activities": 1
+          "activities": 25,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 2,
           "title": "संकेतवाचक विशेषणों का प्रयोग करें",
           "activityPattern": [],
-          "activities": 2
+          "activities": 25,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
           "unitIndex": 3,
           "title": "खरीदारी की वस्तुओं का मूल्यांकन करें",
           "activityPattern": [],
-          "activities": 3
+          "activities": 25,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 4,
           "title": "क्षमता, इच्छा के लिए सहायक क्रिया प्रयोग",
           "activityPattern": [],
-          "activities": 4
+          "activities": 25,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 5,
           "title": "पार्टी की योजना बनाएँ",
           "activityPattern": [],
-          "activities": 5
+          "activities": 25,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 6,
           "title": "भाव व्यक्त करें और अनुमति माँगें",
           "activityPattern": [],
-          "activities": 6
+          "activities": 25,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 7,
           "title": "स्वच्छता उत्पाद खरीदें",
           "activityPattern": [],
-          "activities": 7
+          "activities": 25,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 8,
           "title": "निमंत्रण देना और अस्वीकार करना",
           "activityPattern": [],
-          "activities": 8
+          "activities": 25,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 9,
           "title": "स्वामित्व संरचनाओं का प्रयोग करें",
           "activityPattern": [],
-          "activities": 9
+          "activities": 25,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 10,
           "title": "परिवार की रुचियों पर चर्चा करें",
           "activityPattern": [],
-          "activities": 10
+          "activities": 25,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 11,
           "title": "आपातकालीन सेवाएँ प्राप्त करें",
           "activityPattern": [],
-          "activities": 11
+          "activities": 25,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 12,
           "title": "अपने घर का वर्णन करें",
           "activityPattern": [],
-          "activities": 12
+          "activities": 25,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 13,
           "title": "किसी से औपचारिक बात करें",
           "activityPattern": [],
-          "activities": 13
+          "activities": 25,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 14,
           "title": "संबंधवाचक के बाद कर्म सर्वनाम प्रयोग",
           "activityPattern": [],
-          "activities": 14
+          "activities": 25,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 15,
           "title": "सीखने के माहौल पर चर्चा करें",
           "activityPattern": [],
-          "activities": 15
+          "activities": 25,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 16,
           "title": "आदेशों का उपयोग करें",
           "activityPattern": [],
-          "activities": 16
+          "activities": 25,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 17,
           "title": "व्यंजनों और सामग्री पर चर्चा करें",
           "activityPattern": [],
-          "activities": 17
+          "activities": 25,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 18,
           "title": "नकारात्मक आदेशों का उपयोग करें",
           "activityPattern": [],
-          "activities": 18
+          "activities": 25,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 19,
           "title": "डाक और पार्सल पर चर्चा करें",
           "activityPattern": [],
-          "activities": 19
+          "activities": 25,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 20,
           "title": "अपनी सेहत पर चर्चा करें",
           "activityPattern": [],
-          "activities": 20
+          "activities": 25,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 21,
           "title": "भविष्य काल का प्रयोग करें",
           "activityPattern": [],
-          "activities": 21
+          "activities": 25,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 22,
           "title": "यात्रा के बारे में बात करें",
           "activityPattern": [],
-          "activities": 22
+          "activities": 25,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 23,
           "title": "कार्यक्रमों में भाग लें",
           "activityPattern": [],
-          "activities": 23
+          "activities": 25,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 24,
           "title": "समुद्र तट की छुट्टी की योजना बनाएँ",
           "activityPattern": [],
-          "activities": 24
+          "activities": 25,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 25,
           "title": "यादगारी के लिए चीज़ें खरीदें",
           "activityPattern": [],
-          "activities": 25
+          "activities": 25,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 26,
           "title": "अन्य लोगों का परिचय दें",
           "activityPattern": [],
-          "activities": 26
+          "activities": 25,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 27,
           "title": "दिखावट का वर्णन करें",
           "activityPattern": [],
-          "activities": 27
+          "activities": 25,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 28,
           "title": "चिकित्सा सहायता लें",
           "activityPattern": [],
-          "activities": 28
+          "activities": 25,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 29,
           "title": "\"di\" के साथ सकारात्मक तुलना बनाएँ",
           "activityPattern": [],
-          "activities": 29
+          "activities": 25,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 30,
           "title": "पॉप सितारों पर चर्चा करें",
           "activityPattern": [],
-          "activities": 30
+          "activities": 25,
+          "estimated": true
         }
       ]
     },
@@ -547,427 +630,483 @@
       "units": [
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 1,
           "title": "निमंत्रण विनम्रता से ठुकराना",
           "activityPattern": [],
-          "activities": 1
+          "activities": 25,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 2,
           "title": "पसंदीदा शौक पर चर्चा करें",
           "activityPattern": [],
-          "activities": 2
+          "activities": 25,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 3,
           "title": "हॉस्टल कमरा बुक करना",
           "activityPattern": [],
-          "activities": 3
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
           "unitIndex": 4,
           "title": "अठारहवीं जन्मदिन पार्टी की योजना बनाना",
           "activityPattern": [],
-          "activities": 4
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 5,
           "title": "कार्य कार्यक्रम पर चर्चा करें",
           "activityPattern": [],
-          "activities": 5
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 6,
           "title": "घर खरीदने की बातचीत करना",
           "activityPattern": [],
-          "activities": 6
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 7,
           "title": "बैंक खाता खोलना",
           "activityPattern": [],
-          "activities": 7
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 8,
           "title": "एक सेलिब्रिटी से साक्षात्कार करना",
           "activityPattern": [],
-          "activities": 8
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 9,
           "title": "बच्चों की देखभाल के निर्देश दें",
           "activityPattern": [],
-          "activities": 9
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 10,
           "title": "सरप्राइज पार्टी की योजना बनाना",
           "activityPattern": [],
-          "activities": 10
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 11,
           "title": "घर साफ करना",
           "activityPattern": [],
-          "activities": 11
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 12,
           "title": "अनुदान के लिए आवेदन करना",
           "activityPattern": [],
-          "activities": 12
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 13,
           "title": "आगामी चुनाव पर चर्चा करें",
           "activityPattern": [],
-          "activities": 13
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 14,
           "title": "स्वयंसेवा के अवसर ढूंढें",
           "activityPattern": [],
-          "activities": 14
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 15,
           "title": "व्यक्तिगत लक्ष्य पर चर्चा करना",
           "activityPattern": [],
-          "activities": 15
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 16,
           "title": "कंसर्ट यात्रा की योजना बनाना",
           "activityPattern": [],
-          "activities": 16
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 17,
           "title": "सुबह की दिनचर्या बताना",
           "activityPattern": [],
-          "activities": 17
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 18,
           "title": "गंदे रूममेट्स की शिकायत करना",
           "activityPattern": [],
-          "activities": 18
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 19,
           "title": "खाने की पसंद बताना",
           "activityPattern": [],
-          "activities": 19
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 20,
           "title": "आगंतुक की मदद करना",
           "activityPattern": [],
-          "activities": 20
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 21,
           "title": "पिछली छुट्टी बताएं",
           "activityPattern": [],
-          "activities": 21
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 22,
           "title": "उपलब्धियों पर शेखी बघारना",
           "activityPattern": [],
-          "activities": 22
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 23,
           "title": "दान के लिए धन जुटाना",
           "activityPattern": [],
-          "activities": 23
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 24,
           "title": "भूत की कहानियाँ साझा करें",
           "activityPattern": [],
-          "activities": 24
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 25,
           "title": "जेलाटो ऑर्डर करना",
           "activityPattern": [],
-          "activities": 25
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 26,
           "title": "टस्कनी के दृश्य बताना",
           "activityPattern": [],
-          "activities": 26
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 27,
           "title": "अपराध की सूचना देना",
           "activityPattern": [],
-          "activities": 27
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 28,
           "title": "दस्तावेज़ पर दूर से चर्चा करें",
           "activityPattern": [],
-          "activities": 28
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 29,
           "title": "दोस्तों संग बाँटना सिखाना",
           "activityPattern": [],
-          "activities": 29
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 30,
           "title": "यात्रा के लिए पैक करना",
           "activityPattern": [],
-          "activities": 30
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 31,
           "title": "नए साल के संकल्प बनाना",
           "activityPattern": [],
-          "activities": 31
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 32,
           "title": "दर्द के लक्षण बताना",
           "activityPattern": [],
-          "activities": 32
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 33,
           "title": "गोद भराई की योजना बनाना",
           "activityPattern": [],
-          "activities": 33
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 34,
           "title": "छुट्टियों की गतिविधियाँ बताना",
           "activityPattern": [],
-          "activities": 34
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 35,
           "title": "अपने करियर की राह बताएं",
           "activityPattern": [],
-          "activities": 35
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 36,
           "title": "अपने अनुभव बताना",
           "activityPattern": [],
-          "activities": 36
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 37,
           "title": "\"un ammiratore\" के तोहफे बताना",
           "activityPattern": [],
-          "activities": 37
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 38,
           "title": "\"palazzo\" में पड़ोसी मिलवाना",
           "activityPattern": [],
-          "activities": 38
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 39,
           "title": "पिज्जा पर राय बताना",
           "activityPattern": [],
-          "activities": 39
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 40,
           "title": "दवाइयों पर डॉक्टर से बात करें",
           "activityPattern": [],
-          "activities": 40
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 41,
           "title": "कैंपिंग स्वच्छता पर चर्चा करें",
           "activityPattern": [],
-          "activities": 41
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 42,
           "title": "तकनीकी सहायता माँगना",
           "activityPattern": [],
-          "activities": 42
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 43,
           "title": "\"bancomat\" से नकद लेना",
           "activityPattern": [],
-          "activities": 43
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 44,
           "title": "बचपन की गतिविधियाँ बताना",
           "activityPattern": [],
-          "activities": 44
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 45,
           "title": "विदेश के अनुभव बताना",
           "activityPattern": [],
-          "activities": 45
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 46,
           "title": "छुट्टियों की बातें करें",
           "activityPattern": [],
-          "activities": 46
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 47,
           "title": "उपहार खरीद की योजना बताना",
           "activityPattern": [],
-          "activities": 47
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 48,
           "title": "पारिवारिक धरोहरों पर चर्चा करें",
           "activityPattern": [],
-          "activities": 48
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 49,
           "title": "कलात्मक रुचियों पर चर्चा करें",
           "activityPattern": [],
-          "activities": 49
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 50,
           "title": "मीडिया की सिफारिशें देना",
           "activityPattern": [],
-          "activities": 50
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 51,
           "title": "मौकों के लिए उपहारों पर चर्चा करें",
           "activityPattern": [],
-          "activities": 51
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 52,
           "title": "पहले और अब के गुण बताएं",
           "activityPattern": [],
-          "activities": 52
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 53,
           "title": "पिछले फिटनेस अनुभव बताना",
           "activityPattern": [],
-          "activities": 53
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 54,
           "title": "इतालवी इतिहास पर चर्चा करें",
           "activityPattern": [],
-          "activities": 54
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 55,
           "title": "सहकर्मियों संग समयसीमा पर चर्चा",
           "activityPattern": [],
-          "activities": 55
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 56,
           "title": "अजीब चीजों पर टिप्पणी करना",
           "activityPattern": [],
-          "activities": 56
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 57,
           "title": "सप्ताहांत में परिवार से मिलना",
           "activityPattern": [],
-          "activities": 57
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 58,
           "title": "डॉक्टर से समय लेना",
           "activityPattern": [],
-          "activities": 58
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 59,
           "title": "कर्मचारी प्रदर्शन पर चर्चा करें",
           "activityPattern": [],
-          "activities": 59
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 60,
           "title": "अंतरराष्ट्रीय एक्सपो में घूमना",
-          "activityPattern": [
-            2026,
-            6,
-            8
-          ],
-          "activities": 2040
+          "activityPattern": [],
+          "activities": 24,
+          "estimated": true
         }
       ]
     }

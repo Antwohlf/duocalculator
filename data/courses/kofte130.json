@@ -2,25 +2,33 @@
   "meta": {
     "key": "kofte130",
     "courseTitle": "Telugu → Korean",
-    "scrapedAt": "2026-09-20T08:18:37.233Z",
+    "scrapedAt": "2026-09-26T14:26:32.057Z",
     "sourceHash": "sha256:87cf26fb3e5c78d0",
     "fromLang": "Telugu",
     "toLang": "Korean",
     "fromCode": "te",
     "toCode": "ko",
-    "level": null,
-    "levelShort": null,
+    "level": "CEFR తెలుగు నుండి కొరియన్,",
+    "levelShort": "తెలుగు నుండి కొరియన్,",
     "detailHref": "https://duolingodata.com/dat/kofte130.html",
+    "parserVersion": 3,
+    "indexUnitsCount": 130,
+    "indexLessonsCount": 2953,
+    "sourceSectionCounts": [
+      10,
+      30,
+      30,
+      60
+    ],
     "detailHrefHash": "sha256:0a75d6c76dea8e00",
     "scrapeWarnings": [
-      "No sections parsed, using meta.unitsCount",
-      "No activities parsed, using meta.lessonsCount",
-      "No sections parsed, generated synthetic units from course totals"
+      "Section sizes aligned with current course summary",
+      "Per-unit lesson counts estimated from course total"
     ],
-    "schemaVersion": "1.0.0"
+    "schemaVersion": "2.0.0"
   },
   "totals": {
-    "sections": 13,
+    "sections": 4,
     "activities": 2953,
     "units": 130,
     "estimated": true
@@ -29,1027 +37,1076 @@
     {
       "sectionIndex": 1,
       "unitCount": 10,
-      "title": "",
-      "rawTitle": "",
-      "cefr": "",
+      "title": "CEFR Intro:",
+      "rawTitle": "CEFR Intro:",
+      "cefr": "INTRO:",
       "units": [
         {
           "sectionIndex": 1,
           "unitIndex": 1,
-          "title": "Unit 1",
+          "title": "కెఫేలో ఆర్డర్ చేయండి",
           "activityPattern": [],
-          "activities": 23
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
           "unitIndex": 2,
-          "title": "Unit 2",
+          "title": "ఆహారం, పానీయాలు ఆర్డర్ చేయండి",
           "activityPattern": [],
-          "activities": 23
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
           "unitIndex": 3,
-          "title": "Unit 3",
+          "title": "స్వామ్య సర్వనామాలు, విశేషణాలు వాడండి",
           "activityPattern": [],
-          "activities": 23
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
           "unitIndex": 4,
-          "title": "Unit 4",
+          "title": "మిమ్మల్ని, ఇతరులని పరిచయం చేయండి",
           "activityPattern": [],
-          "activities": 23
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
           "unitIndex": 5,
-          "title": "Unit 5",
+          "title": "వయస్సు గురించి మాట్లాడండి",
           "activityPattern": [],
-          "activities": 23
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
           "unitIndex": 6,
-          "title": "Unit 6",
+          "title": "ఆహారం గురించి ప్రశ్నలు అడగండి",
           "activityPattern": [],
-          "activities": 23
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
           "unitIndex": 7,
-          "title": "Unit 7",
+          "title": "పుట్టినరోజు జరుపుకోండి",
           "activityPattern": [],
-          "activities": 23
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
           "unitIndex": 8,
-          "title": "Unit 8",
+          "title": "మీ హాబీల గురించి చెప్పండి",
           "activityPattern": [],
-          "activities": 23
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
           "unitIndex": 9,
-          "title": "Unit 9",
+          "title": "దారి అడగండి",
           "activityPattern": [],
-          "activities": 23
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
           "unitIndex": 10,
-          "title": "Unit 10",
+          "title": "క్రీడా కార్యక్రమాన్ని ఆస్వాదించండి",
           "activityPattern": [],
-          "activities": 23
+          "activities": 23,
+          "estimated": true
         }
       ]
     },
     {
       "sectionIndex": 2,
-      "unitCount": 10,
-      "title": "",
-      "rawTitle": "",
-      "cefr": "",
+      "unitCount": 30,
+      "title": ":",
+      "rawTitle": "CEFR A1:",
+      "cefr": "A1",
       "units": [
         {
           "sectionIndex": 2,
-          "unitIndex": 11,
-          "title": "Unit 11",
+          "unitIndex": 1,
+          "title": "విమానాశ్రయంలో దారి కనుగోనండి",
           "activityPattern": [],
-          "activities": 23
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "మీ సొంత ఊరు గురించి చెప్పండి",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 3,
+          "title": "వాతావరణం గురించి చర్చించండి",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 4,
+          "title": "కొత్త ఇంటి కోసం వెతకండి",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 5,
+          "title": "కొత్త స్నేహితులను కలవండి",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 6,
+          "title": "స్థానానికి సంబంధించిన పదాలు వాడండి",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 7,
+          "title": "మీ ఇంటిని వివరించండి",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 8,
+          "title": "క్రిస్మస్ పండుగ జరుపుకోండి",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 9,
+          "title": "వర్తమాన కాలం ఉపయోగించండి",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 10,
+          "title": "సినిమా ఆస్వాదించండి",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 11,
+          "title": "గ్రంథాలయాన్ని సందర్శించండి",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
           "unitIndex": 12,
-          "title": "Unit 12",
+          "title": "స్థానిక రవాణా గురించి తెలుసుకోండి",
           "activityPattern": [],
-          "activities": 23
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
           "unitIndex": 13,
-          "title": "Unit 13",
+          "title": "నామవాచకాలతో విశేషణాలు వాడండి",
           "activityPattern": [],
-          "activities": 23
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
           "unitIndex": 14,
-          "title": "Unit 14",
+          "title": "ఆరోగ్య సమస్యల గురించి చర్చించండి",
           "activityPattern": [],
-          "activities": 23
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
           "unitIndex": 15,
-          "title": "Unit 15",
+          "title": "క్యాంపస్ జీవితాన్ని అన్వేషించండి",
           "activityPattern": [],
-          "activities": 23
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
           "unitIndex": 16,
-          "title": "Unit 16",
+          "title": "బట్టలు, వస్తువులు కొనండి",
           "activityPattern": [],
-          "activities": 23
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
           "unitIndex": 17,
-          "title": "Unit 17",
+          "title": "ఆజ్ఞాత్మక వాక్యలను ఉపయోగించండి",
           "activityPattern": [],
-          "activities": 23
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
           "unitIndex": 18,
-          "title": "Unit 18",
+          "title": "అధికార భాషలో ఆదేశాలు ఇవ్వండి",
           "activityPattern": [],
-          "activities": 23
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
           "unitIndex": 19,
-          "title": "Unit 19",
+          "title": "చుసోక్ పండుగ కోసం ప్రణాళిక చేయండి",
           "activityPattern": [],
-          "activities": 23
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
           "unitIndex": 20,
-          "title": "Unit 20",
+          "title": "భవిష్యత్ కాలాన్ని ఉపయోగించండి",
           "activityPattern": [],
-          "activities": 23
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 21,
+          "title": "ఇష్టాలను వ్యక్తపరచండి",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 22,
+          "title": "మీరు ఒక పనిని ఎందుకు చేయలేరో చెప్పండి",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 23,
+          "title": "భూతకాలాన్ని ఉపయోగించండి",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 24,
+          "title": "ఇతరల ఆరోగ్యం గురించి అడగండి",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 25,
+          "title": "ఆటల గురించి మాట్లాడండి",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 26,
+          "title": "సమయాన్ని వ్యక్తపరచండి",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 27,
+          "title": "పరీక్షలు, చదువులు గురించి చర్చించండి",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 28,
+          "title": "వాతావరణం గురించి చర్చించండి",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 29,
+          "title": "అభిరుచులను వ్యక్తపరచండి",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 30,
+          "title": "కిరాణా దుకాణంలో కొనుగోలు చేయండి",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
         }
       ]
     },
     {
       "sectionIndex": 3,
-      "unitCount": 10,
-      "title": "",
-      "rawTitle": "",
-      "cefr": "",
+      "unitCount": 30,
+      "title": ":",
+      "rawTitle": "CEFR A1:",
+      "cefr": "A1",
       "units": [
         {
           "sectionIndex": 3,
-          "unitIndex": 21,
-          "title": "Unit 21",
+          "unitIndex": 1,
+          "title": "స్థల ప్రస్తావనలను ఉపయోగించండి",
           "activityPattern": [],
-          "activities": 23
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 2,
+          "title": "మీ భార్య/భర్తతో రోజువారీ జీవితం గడపండి",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "సామాజిక కార్యక్రమాలు ప్లాన్ చేయండి",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 4,
+          "title": "సంబంధాల గురించి మాట్లాడండి",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 5,
+          "title": "ప్రతికూల వాక్యాలు రాయండి",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 6,
+          "title": "మీ షెడ్యూల్ గురించి చర్చించండి",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 7,
+          "title": "పని షెడ్యూల్లను నిర్వహించండి",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 8,
+          "title": "విదేశాల్లో చదవడం గురించి చర్చించండి",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 9,
+          "title": "వస్తువులను విశేషణాలతో వర్ణించండి",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 10,
+          "title": "సమస్యను నివేదించండి",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 11,
+          "title": "దారి కోసం అడగండి",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 12,
+          "title": "క్షమాపణలు చెప్పండి",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 13,
+          "title": "బట్టలు కొనండి",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 14,
+          "title": "ఆరోగ్య సమస్యలను నిర్వహించండి",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 15,
+          "title": "తులనాత్మకాలు, అత్యుత్తమాలు వాడండి",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 16,
+          "title": "ప్రయాణ అనుభవాలు పంచుకోండి",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 17,
+          "title": "వైద్య సహాయం పొందండి",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 18,
+          "title": "పార్టీకి సిద్ధం అవ్వండి",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 19,
+          "title": "సూచనలు మరియు ప్రతిపాదనలు చేయండి",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 20,
+          "title": "\"-래요\"తో ఉద్దేశాలు చెప్పండి",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 21,
+          "title": "పరీక్ష అనుభవాల గురించి చెప్పండి",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
           "unitIndex": 22,
-          "title": "Unit 22",
+          "title": "కుటుంబ లక్షణాలను వివరించండి",
           "activityPattern": [],
-          "activities": 23
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
           "unitIndex": 23,
-          "title": "Unit 23",
+          "title": "మీ వృత్తి లక్ష్యాలను చర్చించండి",
           "activityPattern": [],
-          "activities": 23
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
           "unitIndex": 24,
-          "title": "Unit 24",
+          "title": "కోరికలు, ఇష్టాలను వ్యక్తపరచండి",
           "activityPattern": [],
-          "activities": 23
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
           "unitIndex": 25,
-          "title": "Unit 25",
+          "title": "సామర్థ్యాలు, ఘనకార్యల గురించి చర్చించండి",
           "activityPattern": [],
-          "activities": 23
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
           "unitIndex": 26,
-          "title": "Unit 26",
+          "title": "ప్రయాణ సూచనలను పాటించండి",
           "activityPattern": [],
-          "activities": 23
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
           "unitIndex": 27,
-          "title": "Unit 27",
+          "title": "కెఫేలో పని చేయండి",
           "activityPattern": [],
-          "activities": 23
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
           "unitIndex": 28,
-          "title": "Unit 28",
+          "title": "జూ సందర్శించండి",
           "activityPattern": [],
-          "activities": 23
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
           "unitIndex": 29,
-          "title": "Unit 29",
+          "title": "స్నేహితులతో వంట చేయండి",
           "activityPattern": [],
-          "activities": 23
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
           "unitIndex": 30,
-          "title": "Unit 30",
+          "title": "బట్టలు కొనుక్కోండి",
           "activityPattern": [],
-          "activities": 23
+          "activities": 23,
+          "estimated": true
         }
       ]
     },
     {
       "sectionIndex": 4,
-      "unitCount": 10,
-      "title": "",
-      "rawTitle": "",
-      "cefr": "",
+      "unitCount": 60,
+      "title": ":",
+      "rawTitle": "CEFR A2:",
+      "cefr": "A2",
       "units": [
         {
           "sectionIndex": 4,
-          "unitIndex": 31,
-          "title": "Unit 31",
+          "unitIndex": 1,
+          "title": "తాతమ్మల దినచర్యలపై చర్చించండి",
           "activityPattern": [],
-          "activities": 23
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 2,
+          "title": "వీడియో కాల్‌లు సులభంగా చేయండి",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 3,
+          "title": "కష్టమైన అనుభవం గురించి చెప్పండి",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "బట్టలను సేల్‌లో కొనండి",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "మర్యాదగా అసమ్మతి వ్యక్తం చేయండి",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "ఫర్నిచర్ కొనుగోలు చేయండి",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "ఆరోగ్య అలవాట్ల గురించి చర్చించండి",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "సాంకేతిక సమస్యలను పరిష్కరించండి",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 9,
+          "title": "కొరియన్ వంటకాలను తయారు చేయండి",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 10,
+          "title": "స్వీయ సంరక్షణ పద్ధతుల గురించి చర్చించండి",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 11,
+          "title": "చట్ట, భద్రతా నియమాలపై చర్చించండి",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 12,
+          "title": "అంతర్జాతీయ వంటకాల గురించి చర్చించండి",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 13,
+          "title": "పండుగ జరుపుకోవడం ప్లాన్ చేయండి",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 14,
+          "title": "పశువైద్యుడితో అపాయింట్మెంట్ తీసుకోండి",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 15,
+          "title": "ప్రయాణ అనుభవాలు పంచుకోండిి",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 16,
+          "title": "గృహ ఎంపికలు పోల్చుకోండి",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 17,
+          "title": "స్టైలిష్ యాక్సెసరీస్ ఎంచుకోండి",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 18,
+          "title": "బ్యాంకింగ్ ఎంపికల గురించి చర్చించండి",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 19,
+          "title": "తరగతి నిర్వహణలో సహాయం చేయండి",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 20,
+          "title": "వేడుక భోజనం ప్లాన్ చేయండి",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 21,
+          "title": "ప్రయాణ పరిస్థితులు నిర్వహించండి",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 22,
+          "title": "మీ రోజువారీ పనులు చెప్పండి",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 23,
+          "title": "పాఠశాలకు దరఖాస్తు పంపండి",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 24,
+          "title": "ప్రత్యేక వేడుకలు జరుపుకోండి",
+          "activityPattern": [],
+          "activities": 22,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 25,
+          "title": "కుటుంబ చరిత్ర గురించి చర్చించండి",
+          "activityPattern": [],
+          "activities": 22,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 26,
+          "title": "గత ఆశయాల గురించి చర్చించండి",
+          "activityPattern": [],
+          "activities": 22,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 27,
+          "title": "ఆహార ఇష్టాల గురించి చెప్పండి",
+          "activityPattern": [],
+          "activities": 22,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 28,
+          "title": "పశువుల గురించి చర్చించండి",
+          "activityPattern": [],
+          "activities": 22,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 29,
+          "title": "సాంస్కృతిక వ్యక్తులను పోల్చండి",
+          "activityPattern": [],
+          "activities": 22,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 30,
+          "title": "క్రూయిజ్ ప్రయాణం చేయండి",
+          "activityPattern": [],
+          "activities": 22,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 31,
+          "title": "మీ బిడ్డను ఆదరించండి",
+          "activityPattern": [],
+          "activities": 22,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
           "unitIndex": 32,
-          "title": "Unit 32",
+          "title": "షాపింగ్ గురించి మాట్లాడండి",
           "activityPattern": [],
-          "activities": 23
+          "activities": 22,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
           "unitIndex": 33,
-          "title": "Unit 33",
+          "title": "మిత్రులతో సమావేశం ఏర్పాటు చేయండి",
           "activityPattern": [],
-          "activities": 23
+          "activities": 22,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
           "unitIndex": 34,
-          "title": "Unit 34",
+          "title": "దంత సమస్యలపై సలహా అడగండి",
           "activityPattern": [],
-          "activities": 23
+          "activities": 22,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
           "unitIndex": 35,
-          "title": "Unit 35",
+          "title": "సాంస్కృతిక ఆచారాల గురించి చర్చించండి",
           "activityPattern": [],
-          "activities": 23
+          "activities": 22,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
           "unitIndex": 36,
-          "title": "Unit 36",
+          "title": "స్నేహితుల కథలు పంచుకోండి",
           "activityPattern": [],
-          "activities": 23
+          "activities": 22,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
           "unitIndex": 37,
-          "title": "Unit 37",
+          "title": "సమావేశాల సంఖ్య గురించి చర్చించండి",
           "activityPattern": [],
-          "activities": 23
+          "activities": 22,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
           "unitIndex": 38,
-          "title": "Unit 38",
+          "title": "ఫుట్‌బాల్ లక్ష్యాల గురించి చెప్పండి",
           "activityPattern": [],
-          "activities": 23
+          "activities": 22,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
           "unitIndex": 39,
-          "title": "Unit 39",
+          "title": "రెస్టారెంట్‌లో సమస్యలను పరిష్కరించండి",
           "activityPattern": [],
-          "activities": 23
+          "activities": 22,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
           "unitIndex": 40,
-          "title": "Unit 40",
+          "title": "పట్టణ అభివృద్ధి గురించి మాట్లాడండి",
           "activityPattern": [],
-          "activities": 23
-        }
-      ]
-    },
-    {
-      "sectionIndex": 5,
-      "unitCount": 10,
-      "title": "",
-      "rawTitle": "",
-      "cefr": "",
-      "units": [
+          "activities": 22,
+          "estimated": true
+        },
         {
-          "sectionIndex": 5,
+          "sectionIndex": 4,
           "unitIndex": 41,
-          "title": "Unit 41",
+          "title": "బహుమతి పొందినవారిని అభినందించండి",
           "activityPattern": [],
-          "activities": 23
+          "activities": 22,
+          "estimated": true
         },
         {
-          "sectionIndex": 5,
+          "sectionIndex": 4,
           "unitIndex": 42,
-          "title": "Unit 42",
+          "title": "బట్టలతో సమస్యల గురించి చెప్పండి",
           "activityPattern": [],
-          "activities": 23
+          "activities": 22,
+          "estimated": true
         },
         {
-          "sectionIndex": 5,
+          "sectionIndex": 4,
           "unitIndex": 43,
-          "title": "Unit 43",
+          "title": "పరిసరాల శుభ్రత గురించి చర్చించండి",
           "activityPattern": [],
-          "activities": 23
+          "activities": 22,
+          "estimated": true
         },
         {
-          "sectionIndex": 5,
+          "sectionIndex": 4,
           "unitIndex": 44,
-          "title": "Unit 44",
+          "title": "కొత్త పొరుగువారిని కలవండి",
           "activityPattern": [],
-          "activities": 23
+          "activities": 22,
+          "estimated": true
         },
         {
-          "sectionIndex": 5,
+          "sectionIndex": 4,
           "unitIndex": 45,
-          "title": "Unit 45",
+          "title": "కళారుచుల గురించి చర్చించండి",
           "activityPattern": [],
-          "activities": 23
+          "activities": 22,
+          "estimated": true
         },
         {
-          "sectionIndex": 5,
+          "sectionIndex": 4,
           "unitIndex": 46,
-          "title": "Unit 46",
+          "title": "ప్రాథమిక మనుగడ పదాలు నేర్చుకోండి",
           "activityPattern": [],
-          "activities": 23
+          "activities": 22,
+          "estimated": true
         },
         {
-          "sectionIndex": 5,
+          "sectionIndex": 4,
           "unitIndex": 47,
-          "title": "Unit 47",
+          "title": "ఆఫీస్‌లో పనులు గురించి చర్చించండి",
           "activityPattern": [],
-          "activities": 23
+          "activities": 22,
+          "estimated": true
         },
         {
-          "sectionIndex": 5,
+          "sectionIndex": 4,
           "unitIndex": 48,
-          "title": "Unit 48",
+          "title": "వ్యాపార నివేదిక రాయండి",
           "activityPattern": [],
-          "activities": 23
+          "activities": 22,
+          "estimated": true
         },
         {
-          "sectionIndex": 5,
+          "sectionIndex": 4,
           "unitIndex": 49,
-          "title": "Unit 49",
+          "title": "పనుల గురించి చర్చించండి",
           "activityPattern": [],
-          "activities": 23
+          "activities": 22,
+          "estimated": true
         },
         {
-          "sectionIndex": 5,
+          "sectionIndex": 4,
           "unitIndex": 50,
-          "title": "Unit 50",
+          "title": "కాలేజ్ లక్ష్యాల గురించి మాట్లాడండి",
           "activityPattern": [],
-          "activities": 23
-        }
-      ]
-    },
-    {
-      "sectionIndex": 6,
-      "unitCount": 10,
-      "title": "",
-      "rawTitle": "",
-      "cefr": "",
-      "units": [
+          "activities": 22,
+          "estimated": true
+        },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 51,
-          "title": "Unit 51",
+          "title": "బాక్సింగ్ పద్ధతుల గురించి చర్చించండి",
           "activityPattern": [],
-          "activities": 23
+          "activities": 22,
+          "estimated": true
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 52,
-          "title": "Unit 52",
+          "title": "పునరుద్ధరణలో సహకరించండి",
           "activityPattern": [],
-          "activities": 23
+          "activities": 22,
+          "estimated": true
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 53,
-          "title": "Unit 53",
+          "title": "చేపల పట్టడానికి ప్రయాణం ప్లాన్ చేయండి",
           "activityPattern": [],
-          "activities": 23
+          "activities": 22,
+          "estimated": true
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 54,
-          "title": "Unit 54",
+          "title": "వ్యక్తిగత చరిత్ర గురించి చర్చించండి",
           "activityPattern": [],
-          "activities": 23
+          "activities": 22,
+          "estimated": true
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 55,
-          "title": "Unit 55",
+          "title": "జూలో వాలంటీర్ చేయండి",
           "activityPattern": [],
-          "activities": 23
+          "activities": 22,
+          "estimated": true
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 56,
-          "title": "Unit 56",
+          "title": "టాలెంట్ షో నిర్వహించండి",
           "activityPattern": [],
-          "activities": 23
+          "activities": 22,
+          "estimated": true
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 57,
-          "title": "Unit 57",
+          "title": "క్రీడా క్లబ్‌లో చేరండి",
           "activityPattern": [],
-          "activities": 23
+          "activities": 22,
+          "estimated": true
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 58,
-          "title": "Unit 58",
+          "title": "బట్టలు కలిసి కొనుగోలు చేయండి",
           "activityPattern": [],
-          "activities": 23
+          "activities": 22,
+          "estimated": true
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 59,
-          "title": "Unit 59",
+          "title": "కుటుంబ వేడుక కథలు చెప్పండి",
           "activityPattern": [],
-          "activities": 23
+          "activities": 22,
+          "estimated": true
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 60,
-          "title": "Unit 60",
+          "title": "వ్యక్తిగత అనుభవాలు పంచుకోండి",
           "activityPattern": [],
-          "activities": 23
-        }
-      ]
-    },
-    {
-      "sectionIndex": 7,
-      "unitCount": 10,
-      "title": "",
-      "rawTitle": "",
-      "cefr": "",
-      "units": [
-        {
-          "sectionIndex": 7,
-          "unitIndex": 61,
-          "title": "Unit 61",
-          "activityPattern": [],
-          "activities": 23
-        },
-        {
-          "sectionIndex": 7,
-          "unitIndex": 62,
-          "title": "Unit 62",
-          "activityPattern": [],
-          "activities": 23
-        },
-        {
-          "sectionIndex": 7,
-          "unitIndex": 63,
-          "title": "Unit 63",
-          "activityPattern": [],
-          "activities": 23
-        },
-        {
-          "sectionIndex": 7,
-          "unitIndex": 64,
-          "title": "Unit 64",
-          "activityPattern": [],
-          "activities": 23
-        },
-        {
-          "sectionIndex": 7,
-          "unitIndex": 65,
-          "title": "Unit 65",
-          "activityPattern": [],
-          "activities": 23
-        },
-        {
-          "sectionIndex": 7,
-          "unitIndex": 66,
-          "title": "Unit 66",
-          "activityPattern": [],
-          "activities": 23
-        },
-        {
-          "sectionIndex": 7,
-          "unitIndex": 67,
-          "title": "Unit 67",
-          "activityPattern": [],
-          "activities": 23
-        },
-        {
-          "sectionIndex": 7,
-          "unitIndex": 68,
-          "title": "Unit 68",
-          "activityPattern": [],
-          "activities": 23
-        },
-        {
-          "sectionIndex": 7,
-          "unitIndex": 69,
-          "title": "Unit 69",
-          "activityPattern": [],
-          "activities": 23
-        },
-        {
-          "sectionIndex": 7,
-          "unitIndex": 70,
-          "title": "Unit 70",
-          "activityPattern": [],
-          "activities": 23
-        }
-      ]
-    },
-    {
-      "sectionIndex": 8,
-      "unitCount": 10,
-      "title": "",
-      "rawTitle": "",
-      "cefr": "",
-      "units": [
-        {
-          "sectionIndex": 8,
-          "unitIndex": 71,
-          "title": "Unit 71",
-          "activityPattern": [],
-          "activities": 23
-        },
-        {
-          "sectionIndex": 8,
-          "unitIndex": 72,
-          "title": "Unit 72",
-          "activityPattern": [],
-          "activities": 23
-        },
-        {
-          "sectionIndex": 8,
-          "unitIndex": 73,
-          "title": "Unit 73",
-          "activityPattern": [],
-          "activities": 23
-        },
-        {
-          "sectionIndex": 8,
-          "unitIndex": 74,
-          "title": "Unit 74",
-          "activityPattern": [],
-          "activities": 23
-        },
-        {
-          "sectionIndex": 8,
-          "unitIndex": 75,
-          "title": "Unit 75",
-          "activityPattern": [],
-          "activities": 23
-        },
-        {
-          "sectionIndex": 8,
-          "unitIndex": 76,
-          "title": "Unit 76",
-          "activityPattern": [],
-          "activities": 23
-        },
-        {
-          "sectionIndex": 8,
-          "unitIndex": 77,
-          "title": "Unit 77",
-          "activityPattern": [],
-          "activities": 23
-        },
-        {
-          "sectionIndex": 8,
-          "unitIndex": 78,
-          "title": "Unit 78",
-          "activityPattern": [],
-          "activities": 23
-        },
-        {
-          "sectionIndex": 8,
-          "unitIndex": 79,
-          "title": "Unit 79",
-          "activityPattern": [],
-          "activities": 23
-        },
-        {
-          "sectionIndex": 8,
-          "unitIndex": 80,
-          "title": "Unit 80",
-          "activityPattern": [],
-          "activities": 23
-        }
-      ]
-    },
-    {
-      "sectionIndex": 9,
-      "unitCount": 10,
-      "title": "",
-      "rawTitle": "",
-      "cefr": "",
-      "units": [
-        {
-          "sectionIndex": 9,
-          "unitIndex": 81,
-          "title": "Unit 81",
-          "activityPattern": [],
-          "activities": 23
-        },
-        {
-          "sectionIndex": 9,
-          "unitIndex": 82,
-          "title": "Unit 82",
-          "activityPattern": [],
-          "activities": 23
-        },
-        {
-          "sectionIndex": 9,
-          "unitIndex": 83,
-          "title": "Unit 83",
-          "activityPattern": [],
-          "activities": 23
-        },
-        {
-          "sectionIndex": 9,
-          "unitIndex": 84,
-          "title": "Unit 84",
-          "activityPattern": [],
-          "activities": 23
-        },
-        {
-          "sectionIndex": 9,
-          "unitIndex": 85,
-          "title": "Unit 85",
-          "activityPattern": [],
-          "activities": 23
-        },
-        {
-          "sectionIndex": 9,
-          "unitIndex": 86,
-          "title": "Unit 86",
-          "activityPattern": [],
-          "activities": 23
-        },
-        {
-          "sectionIndex": 9,
-          "unitIndex": 87,
-          "title": "Unit 87",
-          "activityPattern": [],
-          "activities": 23
-        },
-        {
-          "sectionIndex": 9,
-          "unitIndex": 88,
-          "title": "Unit 88",
-          "activityPattern": [],
-          "activities": 23
-        },
-        {
-          "sectionIndex": 9,
-          "unitIndex": 89,
-          "title": "Unit 89",
-          "activityPattern": [],
-          "activities": 23
-        },
-        {
-          "sectionIndex": 9,
-          "unitIndex": 90,
-          "title": "Unit 90",
-          "activityPattern": [],
-          "activities": 23
-        }
-      ]
-    },
-    {
-      "sectionIndex": 10,
-      "unitCount": 10,
-      "title": "",
-      "rawTitle": "",
-      "cefr": "",
-      "units": [
-        {
-          "sectionIndex": 10,
-          "unitIndex": 91,
-          "title": "Unit 91",
-          "activityPattern": [],
-          "activities": 23
-        },
-        {
-          "sectionIndex": 10,
-          "unitIndex": 92,
-          "title": "Unit 92",
-          "activityPattern": [],
-          "activities": 23
-        },
-        {
-          "sectionIndex": 10,
-          "unitIndex": 93,
-          "title": "Unit 93",
-          "activityPattern": [],
-          "activities": 23
-        },
-        {
-          "sectionIndex": 10,
-          "unitIndex": 94,
-          "title": "Unit 94",
-          "activityPattern": [],
-          "activities": 22
-        },
-        {
-          "sectionIndex": 10,
-          "unitIndex": 95,
-          "title": "Unit 95",
-          "activityPattern": [],
-          "activities": 22
-        },
-        {
-          "sectionIndex": 10,
-          "unitIndex": 96,
-          "title": "Unit 96",
-          "activityPattern": [],
-          "activities": 22
-        },
-        {
-          "sectionIndex": 10,
-          "unitIndex": 97,
-          "title": "Unit 97",
-          "activityPattern": [],
-          "activities": 22
-        },
-        {
-          "sectionIndex": 10,
-          "unitIndex": 98,
-          "title": "Unit 98",
-          "activityPattern": [],
-          "activities": 22
-        },
-        {
-          "sectionIndex": 10,
-          "unitIndex": 99,
-          "title": "Unit 99",
-          "activityPattern": [],
-          "activities": 22
-        },
-        {
-          "sectionIndex": 10,
-          "unitIndex": 100,
-          "title": "Unit 100",
-          "activityPattern": [],
-          "activities": 22
-        }
-      ]
-    },
-    {
-      "sectionIndex": 11,
-      "unitCount": 10,
-      "title": "",
-      "rawTitle": "",
-      "cefr": "",
-      "units": [
-        {
-          "sectionIndex": 11,
-          "unitIndex": 101,
-          "title": "Unit 101",
-          "activityPattern": [],
-          "activities": 22
-        },
-        {
-          "sectionIndex": 11,
-          "unitIndex": 102,
-          "title": "Unit 102",
-          "activityPattern": [],
-          "activities": 22
-        },
-        {
-          "sectionIndex": 11,
-          "unitIndex": 103,
-          "title": "Unit 103",
-          "activityPattern": [],
-          "activities": 22
-        },
-        {
-          "sectionIndex": 11,
-          "unitIndex": 104,
-          "title": "Unit 104",
-          "activityPattern": [],
-          "activities": 22
-        },
-        {
-          "sectionIndex": 11,
-          "unitIndex": 105,
-          "title": "Unit 105",
-          "activityPattern": [],
-          "activities": 22
-        },
-        {
-          "sectionIndex": 11,
-          "unitIndex": 106,
-          "title": "Unit 106",
-          "activityPattern": [],
-          "activities": 22
-        },
-        {
-          "sectionIndex": 11,
-          "unitIndex": 107,
-          "title": "Unit 107",
-          "activityPattern": [],
-          "activities": 22
-        },
-        {
-          "sectionIndex": 11,
-          "unitIndex": 108,
-          "title": "Unit 108",
-          "activityPattern": [],
-          "activities": 22
-        },
-        {
-          "sectionIndex": 11,
-          "unitIndex": 109,
-          "title": "Unit 109",
-          "activityPattern": [],
-          "activities": 22
-        },
-        {
-          "sectionIndex": 11,
-          "unitIndex": 110,
-          "title": "Unit 110",
-          "activityPattern": [],
-          "activities": 22
-        }
-      ]
-    },
-    {
-      "sectionIndex": 12,
-      "unitCount": 10,
-      "title": "",
-      "rawTitle": "",
-      "cefr": "",
-      "units": [
-        {
-          "sectionIndex": 12,
-          "unitIndex": 111,
-          "title": "Unit 111",
-          "activityPattern": [],
-          "activities": 22
-        },
-        {
-          "sectionIndex": 12,
-          "unitIndex": 112,
-          "title": "Unit 112",
-          "activityPattern": [],
-          "activities": 22
-        },
-        {
-          "sectionIndex": 12,
-          "unitIndex": 113,
-          "title": "Unit 113",
-          "activityPattern": [],
-          "activities": 22
-        },
-        {
-          "sectionIndex": 12,
-          "unitIndex": 114,
-          "title": "Unit 114",
-          "activityPattern": [],
-          "activities": 22
-        },
-        {
-          "sectionIndex": 12,
-          "unitIndex": 115,
-          "title": "Unit 115",
-          "activityPattern": [],
-          "activities": 22
-        },
-        {
-          "sectionIndex": 12,
-          "unitIndex": 116,
-          "title": "Unit 116",
-          "activityPattern": [],
-          "activities": 22
-        },
-        {
-          "sectionIndex": 12,
-          "unitIndex": 117,
-          "title": "Unit 117",
-          "activityPattern": [],
-          "activities": 22
-        },
-        {
-          "sectionIndex": 12,
-          "unitIndex": 118,
-          "title": "Unit 118",
-          "activityPattern": [],
-          "activities": 22
-        },
-        {
-          "sectionIndex": 12,
-          "unitIndex": 119,
-          "title": "Unit 119",
-          "activityPattern": [],
-          "activities": 22
-        },
-        {
-          "sectionIndex": 12,
-          "unitIndex": 120,
-          "title": "Unit 120",
-          "activityPattern": [],
-          "activities": 22
-        }
-      ]
-    },
-    {
-      "sectionIndex": 13,
-      "unitCount": 10,
-      "title": "",
-      "rawTitle": "",
-      "cefr": "",
-      "units": [
-        {
-          "sectionIndex": 13,
-          "unitIndex": 121,
-          "title": "Unit 121",
-          "activityPattern": [],
-          "activities": 22
-        },
-        {
-          "sectionIndex": 13,
-          "unitIndex": 122,
-          "title": "Unit 122",
-          "activityPattern": [],
-          "activities": 22
-        },
-        {
-          "sectionIndex": 13,
-          "unitIndex": 123,
-          "title": "Unit 123",
-          "activityPattern": [],
-          "activities": 22
-        },
-        {
-          "sectionIndex": 13,
-          "unitIndex": 124,
-          "title": "Unit 124",
-          "activityPattern": [],
-          "activities": 22
-        },
-        {
-          "sectionIndex": 13,
-          "unitIndex": 125,
-          "title": "Unit 125",
-          "activityPattern": [],
-          "activities": 22
-        },
-        {
-          "sectionIndex": 13,
-          "unitIndex": 126,
-          "title": "Unit 126",
-          "activityPattern": [],
-          "activities": 22
-        },
-        {
-          "sectionIndex": 13,
-          "unitIndex": 127,
-          "title": "Unit 127",
-          "activityPattern": [],
-          "activities": 22
-        },
-        {
-          "sectionIndex": 13,
-          "unitIndex": 128,
-          "title": "Unit 128",
-          "activityPattern": [],
-          "activities": 22
-        },
-        {
-          "sectionIndex": 13,
-          "unitIndex": 129,
-          "title": "Unit 129",
-          "activityPattern": [],
-          "activities": 22
-        },
-        {
-          "sectionIndex": 13,
-          "unitIndex": 130,
-          "title": "Unit 130",
-          "activityPattern": [],
-          "activities": 22
+          "activities": 22,
+          "estimated": true
         }
       ]
     }

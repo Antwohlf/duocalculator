@@ -11,7 +11,7 @@ import { join } from 'node:path';
 const { values: args } = parseArgs({
   options: {
     data: { type: 'string', default: './data' },
-    'error-threshold': { type: 'string', default: '10' },
+    'error-threshold': { type: 'string', default: '0' },
     verbose: { type: 'boolean', default: false },
   },
 });
@@ -225,7 +225,7 @@ async function validateScrapedData() {
       if (detail.totals) {
         if (typeof detail.totals.sections !== 'number' ||
             typeof detail.totals.units !== 'number' ||
-            typeof detail.totals.activities !== 'number') {
+            (typeof detail.totals.activities !== 'number' && detail.totals.activities !== null)) {
           if (verbose) {
             warnings.push(`${file} has invalid totals`);
           }
@@ -255,6 +255,85 @@ async function validateScrapedData() {
   if (verbose) {
     console.log(`   ✓ Valid detail files: ${validDetails}`);
     console.log(`   ✓ Invalid detail files: ${invalidDetails}`);
+  }
+
+  if (manifest.schemaVersion === '2.0.0' && Array.isArray(coursesData.courses)) {
+    const expected = coursesData.courses.filter((course) => course.detailAvailable);
+    let placeholderUnits = 0;
+    let placeholderCourses = 0;
+    const activeKeys = new Set(expected.map((course) => course.detailKey));
+    if (activeKeys.size !== expected.length) errors.push('Duplicate detail keys in course index');
+    if (manifest.courseCount !== coursesData.courses.length) errors.push('Manifest course count differs from index');
+    if (manifest.detailCount !== expected.length) errors.push('Manifest detail count differs from index');
+    if (manifest.failedCourses?.length) errors.push('Scrape has failed courses');
+    if (detailFiles.length !== expected.length) errors.push('Detail file count differs from active index');
+    for (const file of detailFiles) {
+      if (!activeKeys.has(file.slice(0, -5))) errors.push(`${file} is an orphan detail file`);
+    }
+    for (const course of expected) {
+      const key = course.detailKey;
+      if (!key || !/^[a-zA-Z0-9_-]+$/.test(key)) {
+        errors.push(`Invalid detail key for ${course.title}`);
+        continue;
+      }
+      const path = join(coursesDir, `${key}.json`);
+      if (!(await fileExists(path))) {
+        errors.push(`Missing detail for ${key}`);
+        continue;
+      }
+      let detail;
+      try { detail = JSON.parse(await readFile(path, 'utf8')); }
+      catch (error) { errors.push(`Invalid detail for ${key}: ${error.message}`); continue; }
+      const fail = (message) => errors.push(`${key}: ${message}`);
+      if (detail.meta?.key !== key || detail.meta?.detailHref !== course.detailHref ||
+          detail.meta?.parserVersion !== 3 ||
+          detail.meta?.indexUnitsCount !== course.unitsCount ||
+          detail.meta?.indexLessonsCount !== course.lessonsCount) fail('stale or mismatched source metadata');
+      if (detail.meta?.scrapedAt !== manifest.scrapedAt &&
+          Date.parse(detail.meta?.scrapedAt) < Date.now() - 6 * 86400000) fail('stale detail');
+      if (!Array.isArray(detail.sections) || !detail.sections.length) { fail('has no sections'); continue; }
+      if (Array.isArray(detail.meta?.sourceSectionCounts) &&
+          (detail.meta.sourceSectionCounts.length !== detail.sections.length ||
+           detail.meta.sourceSectionCounts.some((count, index) => count !== detail.sections[index].unitCount))) {
+        fail('section sizes differ from source summary');
+      }
+      const seenSections = new Set();
+      let previousSectionIndex = 0;
+      let units = 0;
+      let lessons = 0;
+      let coursePlaceholders = 0;
+      for (const section of detail.sections) {
+        if (!Number.isInteger(section.sectionIndex) || section.sectionIndex <= previousSectionIndex || seenSections.has(section.sectionIndex)) fail('out-of-order or invalid section index');
+        previousSectionIndex = section.sectionIndex;
+        seenSections.add(section.sectionIndex);
+        if (!Array.isArray(section.units) || section.units.length !== section.unitCount) { fail(`section ${section.sectionIndex} unit count differs`); continue; }
+        const positions = new Set();
+        let badPositions = false;
+        for (const unit of section.units) {
+          units++;
+          if (/details unavailable/i.test(unit.title || '')) coursePlaceholders++;
+          if (unit.sectionIndex !== section.sectionIndex || !Number.isInteger(unit.unitIndex) ||
+              unit.unitIndex < 1 || unit.unitIndex > section.unitCount || positions.has(unit.unitIndex)) badPositions = true;
+          positions.add(unit.unitIndex);
+          if (course.lessonsCount == null) {
+            if (unit.activities !== null) fail('unknown lesson total has numeric unit estimate');
+          } else if (!Number.isInteger(unit.activities) || unit.activities < 1) fail('invalid unit lesson estimate');
+          else lessons += unit.activities;
+        }
+        if (badPositions) fail(`section ${section.sectionIndex} has invalid unit positions`);
+      }
+      if (units !== course.unitsCount || detail.totals?.units !== units || detail.totals?.sections !== detail.sections.length) fail(`unit totals differ from index (${units} vs ${course.unitsCount})`);
+      if (course.lessonsCount == null) {
+        if (detail.totals?.activities !== null) fail('unknown lesson total has numeric total');
+      } else if (lessons !== course.lessonsCount || detail.totals?.activities !== lessons) fail(`lesson totals differ from index (${lessons} vs ${course.lessonsCount})`);
+      if (coursePlaceholders) {
+        placeholderUnits += coursePlaceholders;
+        placeholderCourses++;
+        if (!detail.meta?.scrapeWarnings?.some((warning) => /missing unit details/i.test(warning))) fail('unit placeholders lack source warning');
+      }
+    }
+    console.log(`   Source gaps: ${placeholderUnits} unit titles across ${placeholderCourses} courses`);
+    if (placeholderUnits) warnings.push(`${placeholderUnits} unit titles unavailable in ${placeholderCourses} source pages`);
   }
 
   // Calculate error rate

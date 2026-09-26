@@ -2,23 +2,36 @@
   "meta": {
     "key": "esftl131",
     "courseTitle": "Tagalog → Spanish",
-    "scrapedAt": "2026-09-20T08:18:37.233Z",
+    "scrapedAt": "2026-09-26T14:26:32.057Z",
     "sourceHash": "sha256:07162e534159f83e",
     "fromLang": "Tagalog",
     "toLang": "Spanish",
     "fromCode": "tl",
     "toCode": "es",
-    "level": "CEFR INTRO",
-    "levelShort": "INTRO",
+    "level": "CEFR ESPANYOL MULA SA TAGALOG,",
+    "levelShort": "ESPANYOL MULA SA TAGALOG,",
     "detailHref": "https://duolingodata.com/dat/esftl131.html",
+    "parserVersion": 3,
+    "indexUnitsCount": 131,
+    "indexLessonsCount": 3137,
+    "sourceSectionCounts": [
+      10,
+      31,
+      30,
+      60
+    ],
     "detailHrefHash": "sha256:9e26c4043a79a7b9",
-    "scrapeWarnings": [],
-    "schemaVersion": "1.0.0"
+    "scrapeWarnings": [
+      "Section sizes aligned with current course summary",
+      "Per-unit lesson counts estimated from course total"
+    ],
+    "schemaVersion": "2.0.0"
   },
   "totals": {
     "sections": 4,
-    "activities": 4829,
-    "units": 131
+    "activities": 3137,
+    "units": 131,
+    "estimated": true
   },
   "sections": [
     {
@@ -33,70 +46,80 @@
           "unitIndex": 1,
           "title": "Mag-order sa café",
           "activityPattern": [],
-          "activities": 1
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
-          "unitIndex": 1,
+          "unitIndex": 2,
           "title": "Bumati at magpaalam",
           "activityPattern": [],
-          "activities": 2
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
-          "unitIndex": 1,
+          "unitIndex": 3,
           "title": "Gamitin ang \"ser de\" para sa pinagmulan",
           "activityPattern": [],
-          "activities": 3
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
-          "unitIndex": 1,
+          "unitIndex": 4,
           "title": "Ipakilala ang mga pamilya at kaibigan",
           "activityPattern": [],
-          "activities": 4
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
-          "unitIndex": 1,
+          "unitIndex": 5,
           "title": "Ilarawan ang mga personalidad",
           "activityPattern": [],
-          "activities": 5
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
-          "unitIndex": 1,
+          "unitIndex": 6,
           "title": "Gumamit ng \"estar\" para sa lokasyon",
           "activityPattern": [],
-          "activities": 6
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
-          "unitIndex": 1,
+          "unitIndex": 7,
           "title": "Mag-usap tungkol sa lugar sa lungsod",
           "activityPattern": [],
-          "activities": 7
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
-          "unitIndex": 1,
+          "unitIndex": 8,
           "title": "Pag-usapan ang mga wika",
           "activityPattern": [],
-          "activities": 8
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
-          "unitIndex": 1,
+          "unitIndex": 9,
           "title": "Gumamit ng \"hace\" para sa panahon",
           "activityPattern": [],
-          "activities": 9
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
-          "unitIndex": 1,
+          "unitIndex": 10,
           "title": "Bumili ng mga prutas",
           "activityPattern": [],
-          "activities": 10
+          "activities": 24,
+          "estimated": true
         }
       ]
     },
@@ -109,220 +132,251 @@
       "units": [
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 1,
           "title": "Ilarawan ang iyong tahanan",
           "activityPattern": [],
-          "activities": 1
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
           "unitIndex": 2,
           "title": "Gamitin ang kasalukuyan para sa ugali",
           "activityPattern": [],
-          "activities": 2
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 3,
           "title": "Mag-usap tungkol sa mga laro",
           "activityPattern": [],
-          "activities": 3
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 4,
           "title": "Mag-usap tungkol sa mga libangan",
           "activityPattern": [],
-          "activities": 4
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 5,
           "title": "Makilahok sa klase",
           "activityPattern": [],
-          "activities": 5
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 6,
           "title": "Mag-usap tungkol sa mga pagkain",
           "activityPattern": [],
-          "activities": 6
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 7,
           "title": "Suriin ang pagkain at serbisyo",
           "activityPattern": [],
-          "activities": 7
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 8,
           "title": "Magtanong ng mga direksyon",
           "activityPattern": [],
-          "activities": 8
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 9,
           "title": "Mamili ng mga damit",
           "activityPattern": [],
-          "activities": 9
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 10,
           "title": "Pag-usapan ang trabaho",
           "activityPattern": [],
-          "activities": 10
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 11,
           "title": "Gumamit ng mga pantukoy na hindi tiyak",
           "activityPattern": [],
-          "activities": 11
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 12,
           "title": "Gumawa ng mga gawaing bahay",
           "activityPattern": [],
-          "activities": 12
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 13,
           "title": "Talakayin ang proyekto sa paaralan",
           "activityPattern": [],
-          "activities": 13
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 14,
           "title": "Magtanong tungkol sa pakiramdam ng iba",
           "activityPattern": [],
-          "activities": 14
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 15,
           "title": "Magtanong ng mga direksyon",
           "activityPattern": [],
-          "activities": 15
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 16,
           "title": "Magtanong tungkol sa mga sangkap",
           "activityPattern": [],
-          "activities": 16
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 17,
           "title": "Magpakilala sa isang pagtitipon",
           "activityPattern": [],
-          "activities": 17
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 18,
           "title": "Ilarawan ang itsura",
           "activityPattern": [],
-          "activities": 18
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 19,
           "title": "Artikulo na tiyak at pagpahayag ng oras",
           "activityPattern": [],
-          "activities": 19
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 20,
           "title": "Ipakilala ang iyong sarili nang pormal",
           "activityPattern": [],
-          "activities": 20
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 21,
           "title": "Ibahagi ang iyong nararamdaman",
           "activityPattern": [],
-          "activities": 21
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 22,
           "title": "Pag-usapan ang iyong diyeta",
           "activityPattern": [],
-          "activities": 22
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 23,
           "title": "Pag-usapan ang mga hayop",
           "activityPattern": [],
-          "activities": 23
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 24,
           "title": "Gumamit ng pandiwa para sa mga gawain",
           "activityPattern": [],
-          "activities": 24
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 25,
           "title": "Pag-usapan ang mga buhay ng iba",
           "activityPattern": [],
-          "activities": 25
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 26,
           "title": "Talakayin ang iyong mga interes",
           "activityPattern": [],
-          "activities": 26
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 27,
           "title": "Pag-usapan ang hilig sa musika",
           "activityPattern": [],
-          "activities": 27
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 28,
           "title": "Pag-usapan ang mga paborito mong gawain",
           "activityPattern": [],
-          "activities": 28
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 29,
           "title": "Gumamit ng hindi tuwirang panghalip",
           "activityPattern": [],
-          "activities": 29
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 30,
           "title": "Sabihin kung paano ka lumakbay",
           "activityPattern": [],
-          "activities": 30
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 31,
           "title": "Mag-usap tungkol sa mga kaarawan",
           "activityPattern": [],
-          "activities": 31
+          "activities": 24,
+          "estimated": true
         }
       ]
     },
@@ -335,213 +389,243 @@
       "units": [
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 1,
           "title": "Mamili ng mga damit",
           "activityPattern": [],
-          "activities": 1
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 2,
           "title": "Mag-usap tungkol sa mga gawain",
           "activityPattern": [],
-          "activities": 2
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
           "unitIndex": 3,
           "title": "Magplano ng mga aktibidad sa kalusugan",
           "activityPattern": [],
-          "activities": 3
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 4,
           "title": "Gumamit ng kondisyonal sa kasalukuyan",
           "activityPattern": [],
-          "activities": 4
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 5,
           "title": "Magplano ng biyahe",
           "activityPattern": [],
-          "activities": 5
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 6,
           "title": "Magplano ng pagtitipon na sorpresa",
           "activityPattern": [],
-          "activities": 6
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 7,
           "title": "Tuklasin ang lungsod",
           "activityPattern": [],
-          "activities": 7
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 8,
           "title": "Ilarawan ang sitwasyon sa paglalakbay",
           "activityPattern": [],
-          "activities": 8
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 9,
           "title": "Gumamit ng mga panghalip pamatlig",
           "activityPattern": [],
-          "activities": 9
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 10,
           "title": "Magsaya sa isang pagtitipon",
           "activityPattern": [],
-          "activities": 10
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 11,
           "title": "Mamili ng damit",
           "activityPattern": [],
-          "activities": 11
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 12,
           "title": "Pamahalaan ang pag-aalaga ng bata",
           "activityPattern": [],
-          "activities": 12
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 13,
           "title": "Talakayin ang iyong kalusugan",
           "activityPattern": [],
-          "activities": 13
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 14,
           "title": "Gumamit ng pang-uri na hindi tiyak",
           "activityPattern": [],
-          "activities": 14
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 15,
           "title": "Harapin ang mga isyu sa trabaho",
           "activityPattern": [],
-          "activities": 15
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 16,
           "title": "Pumili ng mga bilihin habang namimili",
           "activityPattern": [],
-          "activities": 16
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 17,
           "title": "Pag-usapan ang mga pelikula",
           "activityPattern": [],
-          "activities": 17
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 18,
           "title": "Gumamit ng hindi tuwirang panghalip",
           "activityPattern": [],
-          "activities": 18
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 19,
           "title": "Magpadala at tumanggap ng sulat",
           "activityPattern": [],
-          "activities": 19
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 20,
           "title": "Magsaya sa gabi sa labas",
           "activityPattern": [],
-          "activities": 20
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 21,
           "title": "Pag-usapan ang panahon",
           "activityPattern": [],
-          "activities": 21
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 22,
           "title": "Tanungin ang nararamdaman ng mga tao",
           "activityPattern": [],
-          "activities": 22
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 23,
           "title": "Naghahanap ng nawawalang alaga",
           "activityPattern": [],
-          "activities": 23
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 24,
           "title": "Paggamit ng mga pantukoy sa dami",
           "activityPattern": [],
-          "activities": 24
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 25,
           "title": "Makipag-usap online",
           "activityPattern": [],
-          "activities": 25
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 26,
           "title": "Mag-usap tungkol sa mga laro",
           "activityPattern": [],
-          "activities": 26
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 27,
           "title": "Gumawa ng mga gawaing bahay",
           "activityPattern": [],
-          "activities": 27
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 28,
           "title": "Harapin ang isang emerhensiya",
           "activityPattern": [],
-          "activities": 28
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 29,
           "title": "Lutasin ang mga problema sa post office",
           "activityPattern": [],
-          "activities": 29
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 30,
           "title": "Gamitin ang \"por\" at \"para\"",
           "activityPattern": [],
-          "activities": 30
+          "activities": 24,
+          "estimated": true
         }
       ]
     },
@@ -554,427 +638,483 @@
       "units": [
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 1,
           "title": "Pagplano ng mga panghalubilong aktibidad",
           "activityPattern": [],
-          "activities": 1
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 2,
           "title": "Paglutas sa mga problema sa teknolohiya",
           "activityPattern": [],
-          "activities": 2
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 3,
           "title": "Idetalye ang iyong kapaligiran",
           "activityPattern": [],
-          "activities": 3
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
           "unitIndex": 4,
           "title": "Pagsusuri sa mga libangan",
           "activityPattern": [],
-          "activities": 4
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 5,
           "title": "Pag-usapan ang mga katangian ng pamilya",
           "activityPattern": [],
-          "activities": 5
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 6,
           "title": "Paggamit ng mga panukdulan sa pang-uri",
           "activityPattern": [],
-          "activities": 6
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 7,
           "title": "Makipag-usap habang nasa trabaho",
           "activityPattern": [],
-          "activities": 7
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 8,
           "title": "Paggamit ng panahong pangnagdaan",
           "activityPattern": [],
-          "activities": 8
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 9,
           "title": "Pagsali sa pagboboluntaryo",
           "activityPattern": [],
-          "activities": 9
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 10,
           "title": "Hanapin ang iyong mga kagamitan",
           "activityPattern": [],
-          "activities": 10
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 11,
           "title": "Pagbili sa grocery",
           "activityPattern": [],
-          "activities": 11
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 12,
           "title": "Pag-usapan ang mga regalo",
           "activityPattern": [],
-          "activities": 12
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 13,
           "title": "Paggamit ng \"saber\" sa pangkasalukuyan",
           "activityPattern": [],
-          "activities": 13
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 14,
           "title": "Pakikihalubilo sa isang okasyon",
           "activityPattern": [],
-          "activities": 14
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 15,
           "title": "Suriin ang mga kondisyon ng tirahan",
           "activityPattern": [],
-          "activities": 15
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 16,
           "title": "Pag-aasikaso sa mga tungkulin sa trabaho",
           "activityPattern": [],
-          "activities": 16
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 17,
           "title": "Pag-usapan ang mga relasyon at damdamin",
           "activityPattern": [],
-          "activities": 17
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 18,
           "title": "Pagpasyal gamit ang mga direksiyon",
           "activityPattern": [],
-          "activities": 18
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 19,
           "title": "Paggamit ng mga utos",
           "activityPattern": [],
-          "activities": 19
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 20,
           "title": "Paggamit ng layong panghalip sa mga utos",
           "activityPattern": [],
-          "activities": 20
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 21,
           "title": "Paggawa ng mga gawaing-bahay",
           "activityPattern": [],
-          "activities": 21
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 22,
           "title": "Ibahagi ang kuwento ng iyong buhay",
           "activityPattern": [],
-          "activities": 22
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 23,
           "title": "Pag-usapan ang karanasan sa pamimili",
           "activityPattern": [],
-          "activities": 23
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 24,
           "title": "Paggamit ng di-lubos na panahunan",
           "activityPattern": [],
-          "activities": 24
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 25,
           "title": "Pag-usapan ang mga presyo ng pabahay",
           "activityPattern": [],
-          "activities": 25
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 26,
           "title": "Pagplano ng iyong biyahe",
           "activityPattern": [],
-          "activities": 26
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 27,
           "title": "Pagbahagi ng karanasan sa mga biyahe",
           "activityPattern": [],
-          "activities": 27
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 28,
           "title": "Pag-usapan ang mga isyu sa barangay",
           "activityPattern": [],
-          "activities": 28
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 29,
           "title": "Paggamit ng present perfect tense",
           "activityPattern": [],
-          "activities": 29
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 30,
           "title": "Pagplano ng panghalubilong okasyon",
           "activityPattern": [],
-          "activities": 30
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 31,
           "title": "Ipahayag ang mga opinyon sa kalusugan",
           "activityPattern": [],
-          "activities": 31
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 32,
           "title": "Ibahagi ang mga nakaraang karanasan",
           "activityPattern": [],
-          "activities": 32
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 33,
           "title": "Pag-usapan ang mga pelikula at serye",
           "activityPattern": [],
-          "activities": 33
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 34,
           "title": "Ipagdiwang ang mga nakamit na tagumpay",
           "activityPattern": [],
-          "activities": 34
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 35,
           "title": "Mga kasangkapan at pag-ayos ng bahay",
           "activityPattern": [],
-          "activities": 35
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 36,
           "title": "Magreklamo tungkol sa biyahe",
           "activityPattern": [],
-          "activities": 36
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 37,
           "title": "Paghingi ng tulong matapos ang aksidente",
           "activityPattern": [],
-          "activities": 37
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 38,
           "title": "Pag-usapan ang mga pagdiriwang",
           "activityPattern": [],
-          "activities": 38
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 39,
           "title": "Ang \"hacer\" sa simpleng pangnagdaan",
           "activityPattern": [],
-          "activities": 39
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 40,
           "title": "Tukuyin ang mga kagamitan",
           "activityPattern": [],
-          "activities": 40
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 41,
           "title": "Pag-asikaso sa mga problema sa kainan",
           "activityPattern": [],
-          "activities": 41
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 42,
           "title": "Pag-usapan ang mga personal na tagumpay",
           "activityPattern": [],
-          "activities": 42
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 43,
           "title": "Pag-usapan ang mga pinagmulang kultura",
           "activityPattern": [],
-          "activities": 43
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 44,
           "title": "Ipaliwanag kung bakit may di ka magawa",
           "activityPattern": [],
-          "activities": 44
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 45,
           "title": "Bumuo at gumamit ng numero sa konteksto",
           "activityPattern": [],
-          "activities": 45
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 46,
           "title": "Pag-usapan ang politika at lipunan",
           "activityPattern": [],
-          "activities": 46
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 47,
           "title": "Suriin ang mga produkto at serbisyo",
           "activityPattern": [],
-          "activities": 47
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 48,
           "title": "Paggamit ng mga panulad para sa dami",
           "activityPattern": [],
-          "activities": 48
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 49,
           "title": "Tukuyin ang mga ninakaw na gamit",
           "activityPattern": [],
-          "activities": 49
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 50,
           "title": "Pag-aruga sa mga alagang hayop",
           "activityPattern": [],
-          "activities": 50
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 51,
           "title": "Pag-usapan ang balita",
           "activityPattern": [],
-          "activities": 51
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 52,
           "title": "Mag-apply sa unibersidad",
           "activityPattern": [],
-          "activities": 52
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 53,
           "title": "Pag-usapan ang sining",
           "activityPattern": [],
-          "activities": 53
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 54,
           "title": "Pag-usapan ang pagkain nang masustansiya",
           "activityPattern": [],
-          "activities": 54
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 55,
           "title": "Paggamit ng panahong pangnagdaan",
           "activityPattern": [],
-          "activities": 55
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 56,
           "title": "Pag-usapan ang mga isyung pangkalusugan",
           "activityPattern": [],
-          "activities": 56
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 57,
           "title": "Mamasyal sa mga pangkulturang lugar",
           "activityPattern": [],
-          "activities": 57
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 58,
           "title": "Pag-usapan ang mga politikal na opinyon",
           "activityPattern": [],
-          "activities": 58
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 59,
           "title": "Pag-usapan ang pangkalusugang aktibidad",
           "activityPattern": [],
-          "activities": 59
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 60,
           "title": "Pag-report ng krimen",
-          "activityPattern": [
-            2026,
-            6,
-            11
-          ],
-          "activities": 2043
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
         }
       ]
     }

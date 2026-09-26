@@ -714,24 +714,9 @@ async function ensureCourseDetail(courseKey) {
       return;
     }
 
-    if (!meta.detailHref) {
-      const synthetic = buildSyntheticDetail(meta);
-      state.courseDetailCache.set(courseKey, synthetic);
-      state.currentCourseData = synthetic;
-      renderCourseMeta(synthetic);
-      refreshLevelLabel(courseKey, synthetic.meta);
-      return;
-    }
-
-    const { body } = await fetchViaProxy(meta.detailHref);
-    let detail = parseCourseDetail(body, meta);
-    if (!detail.sections || detail.sections.length === 0) {
-      const fallbackMeta = {
-        ...meta,
-        unitsCount: meta.unitsCount || detail?.totals?.units || 1,
-        lessonsCount: meta.lessonsCount || detail?.totals?.activities || null,
-      };
-      detail = buildSyntheticDetail(fallbackMeta);
+    const detail = buildSyntheticDetail(meta);
+    if (meta.detailHref) {
+      showToast(`Detailed unit data is unavailable for ${meta.fromLang} → ${meta.toLang}; using the course totals.`);
     }
     state.courseDetailCache.set(courseKey, detail);
     state.currentCourseData = detail;
@@ -931,8 +916,15 @@ function populateSections({ autoSelect = false } = {}) {
   const options = course.sections
     .map((section, index) => {
       const descriptor = section.units.length ? ` (${section.units.length} units)` : "";
+      if (course.meta?.synthetic) {
+        const first = course.sections.slice(0, index).reduce((sum, item) => sum + item.units.length, 0) + 1;
+        return `<option value="${index}">Estimated units ${first}–${first + section.units.length - 1}</option>`;
+      }
       // Only show title if it's non-empty and not just whitespace/colon
       const cleanTitle = (section.title || "").replace(/^[\s:]+|[\s:]+$/g, "").trim();
+      if (course.meta?.toLang === "Math" && cleanTitle === "Grade") {
+        return `<option value="${index}">Grade ${section.sectionIndex}${descriptor}</option>`;
+      }
       const titleText = cleanTitle ? `: ${cleanTitle}` : "";
       return `<option value="${index}">Section ${section.sectionIndex}${titleText}${descriptor}</option>`;
     })
@@ -978,14 +970,16 @@ function populateUnits({ autoSelect = false } = {}) {
   const options = section.units
     .map((unit, index) => {
       const status =
-        typeof unit.activities === "number" ? `${unit.activities} lessons` : "lessons estimated";
+        typeof unit.activities === "number" ? `${unit.activities} estimated lessons` : "lesson count unavailable";
       
       // Check if title is just "Unit X" (redundant with unitIndex)
       const isGenericTitle = /^Unit\s+\d+$/i.test(unit.title?.trim() || '');
       
       // Build label: avoid duplication if title is just "Unit X"
-      const label = isGenericTitle 
-        ? `Unit ${unit.unitIndex}` 
+      const label = course.meta?.synthetic && isGenericTitle
+        ? `Approx. ${unit.title}`
+        : isGenericTitle
+        ? `Unit ${unit.unitIndex}`
         : `Unit ${unit.unitIndex}: ${unit.title}`;
       
       return `<option value="${index}">${label} (${status})</option>`;
@@ -1013,7 +1007,16 @@ function populateTargetSections() {
   const sections = state.currentCourseData?.sections || [];
   dom.targetSectionSelect.disabled = sections.length === 0;
   dom.targetSectionSelect.innerHTML = `<option value="">Finish course</option>` + sections
-    .map((section, index) => `<option value="${index}">Section ${section.sectionIndex}</option>`)
+    .map((section, index) => {
+      if (state.currentCourseData?.meta?.synthetic) {
+        const first = sections.slice(0, index).reduce((sum, item) => sum + item.units.length, 0) + 1;
+        return `<option value="${index}">Estimated units ${first}–${first + section.units.length - 1}</option>`;
+      }
+      if (state.currentCourseData?.meta?.toLang === "Math" && section.title === "Grade") {
+        return `<option value="${index}">Grade ${section.sectionIndex}</option>`;
+      }
+      return `<option value="${index}">Section ${section.sectionIndex}</option>`;
+    })
     .join("");
   if (!sections[state.target.sectionIndex]) {
     state.target = { sectionIndex: null, unitIndex: null };
@@ -1031,7 +1034,7 @@ function populateTargetUnits() {
   }
   dom.targetUnitSelect.disabled = false;
   dom.targetUnitSelect.innerHTML = section.units
-    .map((unit, index) => `<option value="${index}">Unit ${unit.unitIndex}</option>`)
+    .map((unit, index) => `<option value="${index}">${state.currentCourseData?.meta?.synthetic ? `Approx. ${unit.title}` : `Unit ${unit.unitIndex}`}</option>`)
     .join("");
   if (state.target.unitIndex === null || !section.units[state.target.unitIndex]) {
     state.target.unitIndex = section.units.length - 1;
@@ -1118,6 +1121,14 @@ function computeAndRender({ force = false } = {}) {
   }
 
   const { sectionIndex, unitIndex } = state.selection;
+  if (!Number.isFinite(course.totals.activities) || course.totals.activities <= 0) {
+    dom.resultHeadline.textContent = "Lesson counts are unavailable for this course.";
+    dom.resultDetail.textContent = "The source lists units but does not provide enough lesson data for a time forecast.";
+    dom.resultMeta.textContent = "";
+    updateProgressSummary(0, null);
+    resetStats();
+    return;
+  }
   if (sectionIndex === null) {
     dom.resultHeadline.textContent = "Select your current section.";
     dom.resultDetail.textContent = "";
@@ -1172,7 +1183,9 @@ function computeAndRender({ force = false } = {}) {
         course, state.target.sectionIndex, state.target.unitIndex,
       );
       targetLessons = targetProgress.lessonsCompleted + Math.max(0, targetUnit.activities || 0);
-      targetLabel = `Section ${targetSection.sectionIndex}, Unit ${targetUnit.unitIndex}`;
+      targetLabel = course.meta?.synthetic
+        ? `approx. ${targetUnit.title}`
+        : `Section ${targetSection.sectionIndex}, Unit ${targetUnit.unitIndex}`;
     }
   }
   if (targetLessons <= lessonsCompleted) {
@@ -1231,7 +1244,9 @@ function computeFinish(targetLessons, lessonsCompleted, targetLabel) {
   return {
     headline: `You will reach ${targetLabel} in about ${days} ${days === 1 ? "day" : "days"}.`,
     detail: `That’s ${formatNumber(minutesLeft)} minutes of practice (${lessonsLeft} estimated lessons).`,
-    meta: "Lesson counts are estimated from the course total and may vary by unit.",
+    meta: state.currentCourseData?.meta?.synthetic
+      ? "Section and unit positions are estimated because detailed course data is unavailable."
+      : "Lesson counts are estimated from the course total and may vary by unit.",
     finishDate,
     lessonsLeft,
     minutesPerDay,
@@ -1257,7 +1272,9 @@ function computePace(targetLessons, lessonsCompleted, targetLabel) {
   return {
     headline: `Spend about ${minutesPerDay} minutes per day.`,
     detail: `That’s roughly ${lessonsPerDay} ${lessonsPerDay === 1 ? "lesson" : "lessons"} each day to reach ${targetLabel} in ${daysTarget} days.`,
-    meta: "Lesson counts are estimated from the course total and may vary by unit.",
+    meta: state.currentCourseData?.meta?.synthetic
+      ? "Section and unit positions are estimated because detailed course data is unavailable."
+      : "Lesson counts are estimated from the course total and may vary by unit.",
     finishDate,
     lessonsLeft,
     minutesPerDay,
@@ -1306,6 +1323,12 @@ function updateStats(result, totalLessons, lessonsCompleted) {
 }
 
 function updateProgressSummary(done, total) {
+  if (total === null) {
+    dom.progressText.textContent = "Progress unavailable";
+    dom.progressCounts.textContent = "Lesson total unavailable";
+    dom.progressFill.style.width = "0%";
+    return;
+  }
   if (!total || total <= 0) {
     dom.progressText.textContent = "Progress: 0%";
     dom.progressCounts.textContent = "0 of 0 lessons completed";
@@ -1425,6 +1448,8 @@ function normalizeCourseDetailFromJson(payload, courseMeta) {
     levelShort: courseLevelShort,
     detailHref: payload?.meta?.detailHref ?? courseMeta?.detailHref,
     updated: courseMeta?.updated ?? "",
+    synthetic: Array.isArray(payload?.meta?.scrapeWarnings) &&
+      payload.meta.scrapeWarnings.some((warning) => /synthetic units/i.test(warning)),
   };
 
   const fallbackLessons =
@@ -1432,7 +1457,7 @@ function normalizeCourseDetailFromJson(payload, courseMeta) {
     typeof mergedMeta.unitsCount === "number" &&
     mergedMeta.unitsCount > 0
       ? Math.max(1, Math.round(mergedMeta.lessonsCount / mergedMeta.unitsCount))
-      : 10;
+      : null;
 
   let hadMissing = false;
   const legacyDetail = sectionsRaw.some((section) => {
@@ -1473,7 +1498,7 @@ function normalizeCourseDetailFromJson(payload, courseMeta) {
                   .map((value) => Number(value))
                   .filter((value) => Number.isFinite(value) && value > 0)
               : [],
-            activities: activities || fallbackLessons,
+            activities: activities || (Number.isFinite(mergedMeta.lessonsCount) ? fallbackLessons : null),
           };
         })
         .filter(Boolean);
@@ -1507,8 +1532,7 @@ function normalizeCourseDetailFromJson(payload, courseMeta) {
   // The course index has a real total, so apportion it across units until refreshed data arrives.
   const courseLessons = mergedMeta.lessonsCount;
   const mismatch = Number.isFinite(courseLessons) && courseLessons > 0 && totals.units > 0 &&
-    (legacyDetail || totals.activities > courseLessons * 1.25 ||
-      totals.activities < courseLessons * 0.75);
+    (legacyDetail || totals.activities !== courseLessons);
   if (mismatch) {
     let ordinal = 0;
     const base = Math.floor(courseLessons / totals.units);
@@ -1521,13 +1545,18 @@ function normalizeCourseDetailFromJson(payload, courseMeta) {
     totals.activities = courseLessons;
     hadMissing = true;
   }
+  if (!Number.isFinite(courseLessons) || courseLessons <= 0) {
+    sections.forEach((section) => section.units.forEach((unit) => { unit.activities = null; }));
+    totals.activities = null;
+    hadMissing = true;
+  }
 
   const totalsMerged = {
     ...payload?.totals,
     sections: sections.length,
-    units: payload?.totals?.units || totals.units,
+    units: totals.units,
     activities: totals.activities,
-    estimated: hadMissing,
+    estimated: hadMissing || Boolean(payload?.totals?.estimated),
   };
 
   return {
@@ -1790,9 +1819,10 @@ function getLanguageFlag(code, name) {
 function buildSyntheticDetail(meta) {
   if (!meta) return null;
   const unitsCount = Math.max(1, meta.unitsCount || 1);
-  const totalLessons = Math.max(unitsCount, meta.lessonsCount || unitsCount * 10);
-  const perUnitBase = Math.max(1, Math.floor(totalLessons / unitsCount));
-  let remaining = totalLessons - perUnitBase * unitsCount;
+  const totalLessons = Number.isFinite(meta.lessonsCount) && meta.lessonsCount >= unitsCount
+    ? meta.lessonsCount : null;
+  const perUnitBase = totalLessons === null ? null : Math.floor(totalLessons / unitsCount);
+  let remaining = totalLessons === null ? 0 : totalLessons - perUnitBase * unitsCount;
   const unitsPerSection = 10;
   const sections = [];
   let unitNumber = 1;
@@ -1802,10 +1832,10 @@ function buildSyntheticDetail(meta) {
     for (let i = 0; i < unitsPerSection && unitNumber <= unitsCount; i += 1) {
       const extra = remaining > 0 ? 1 : 0;
       if (remaining > 0) remaining -= 1;
-      const activities = perUnitBase + extra;
+      const activities = perUnitBase === null ? null : perUnitBase + extra;
       sectionUnits.push({
         sectionIndex,
-        unitIndex: unitNumber,
+        unitIndex: i + 1,
         title: `Unit ${unitNumber}`,
         activityPattern: [],
         activities,
@@ -1826,13 +1856,14 @@ function buildSyntheticDetail(meta) {
   const totals = sections.reduce(
     (acc, section) => {
       section.units.forEach((unit) => {
-        acc.activities += unit.activities;
+        acc.activities += unit.activities || 0;
         acc.units += 1;
       });
       return acc;
     },
     { activities: 0, units: 0 },
   );
+  if (totalLessons === null) totals.activities = null;
 
   return {
     meta: {
@@ -1841,165 +1872,9 @@ function buildSyntheticDetail(meta) {
       fallbackLessons: perUnitBase,
       levelShort: meta.levelShort || normalizeLevel(meta.level),
       detailHref: meta.detailHref || null,
+      synthetic: true,
     },
     sections,
-    totals,
-  };
-}
-
-function parseCourseDetail(text, meta) {
-  const clean = text
-    .replace(/<br\s*\/?>/gi, "\n")
-    .replace(/<\/(p|div|li|tr)>/gi, "\n")
-    .replace(/\r\n?/g, "\n")
-    .replace(/\u00a0/g, " ")
-    .replace(/\u3164/g, " ");
-  const plain = clean.replace(/<[^>]+>/g, "");
-  const lines = plain.split("\n");
-  const sections = [];
-  let currentSection = null;
-  let currentUnit = null;
-  const unitRegex = /^\s*(\d+)\s+(\d+)\s+(.+)$/;
-  const unitsWordPattern =
-    "units?|unidades?|unidade?s?|unités?|unità|einheiten|lektion(?:en)?|lessons?|leçons?|lektioner|разделы|юнитов|уроков?|занятий|ders|درس|课程|課|レッスン|単元|단원|레슨";
-  const sectionParenRegex = /^([^\d]{2,})\s*(\d+)\s*\((\d+)\s+[^)]*\)\s*(.*)$/u;
-  const sectionAltRegex = new RegExp(
-    `^([^\\d]{2,})\\s*(\\d+)\\s+[^\\d]*?(\\d+)\\s+(?:${unitsWordPattern})\\s*(.*)$`,
-    "iu",
-  );
-  const numberLineRegex = /(\d+)/g;
-
-  lines.forEach((rawLine) => {
-    const line = rawLine.trimEnd();
-    const trimmed = line.trim();
-    if (!trimmed) return;
-
-    const normalized = trimmed.replace(/^[\-–—•*•]+\s*/, "");
-    let sectionMatch = normalized.match(sectionParenRegex);
-    if (!sectionMatch) {
-      sectionMatch = normalized.match(sectionAltRegex);
-    }
-    if (sectionMatch) {
-      const [, headingRaw, sectionNumber, unitCount, rest] = sectionMatch;
-      const headingClean = headingRaw.trim().replace(/[:\s]+$/, "");
-      const sectionTitleCandidate = rest.trim().replace(/^[\s:–-]+/, "");
-      const originalTitle = sectionTitleCandidate || headingClean;
-      const levelInTitle = normalizeLevel(originalTitle);
-      const cleanedTitle = originalTitle
-        .replace(/CEFR\s*[A-C][0-3](?:\+|-)?/gi, "")
-        .replace(/\s{2,}/g, " ")
-        .trim();
-      const displayTitle = cleanedTitle || originalTitle;
-      currentSection = {
-        sectionIndex: Number(sectionNumber),
-        unitCount: Number(unitCount),
-        title: displayTitle,
-        rawTitle: originalTitle,
-        cefr: levelInTitle || "",
-        units: [],
-      };
-      sections.push(currentSection);
-      currentUnit = null;
-      if (levelInTitle && !meta.levelShort) {
-        meta.levelShort = levelInTitle;
-        meta.level = `CEFR ${levelInTitle}`;
-      }
-      return;
-    }
-
-    const unitMatch = normalized.match(unitRegex);
-    if (unitMatch && currentSection) {
-      const [, sectionNumber, unitNumber, title] = unitMatch;
-      if (Number(sectionNumber) !== currentSection.sectionIndex) {
-        return;
-      }
-      currentUnit = {
-        sectionIndex: Number(sectionNumber),
-        unitIndex: Number(unitNumber),
-        title: title.trim(),
-        activityPattern: [],
-        activities: null,
-      };
-      currentSection.units.push(currentUnit);
-      return;
-    }
-
-    if (currentUnit && /[0-9]/.test(trimmed) && trimmed.includes(",")) {
-      const numbers = [...trimmed.matchAll(numberLineRegex)].map((match) => Number(match[1]));
-      if (numbers.length) {
-        currentUnit.activityPattern = numbers;
-        currentUnit.activities = numbers.reduce((sum, value) => sum + value, 0);
-      }
-    }
-  });
-
-  const filteredSections = sections.filter((section) => section.units.length > 0);
-
-  let totals = filteredSections.reduce(
-    (acc, section) => {
-      section.units.forEach((unit) => {
-        if (typeof unit.activities === "number") {
-          acc.activities += unit.activities;
-        }
-        acc.units += 1;
-      });
-      return acc;
-    },
-    { activities: 0, units: 0 },
-  );
-
-  const metaAverage =
-    typeof meta.lessonsCount === "number" && typeof meta.unitsCount === "number" && meta.unitsCount > 0
-      ? Math.max(1, Math.round(meta.lessonsCount / meta.unitsCount))
-      : null;
-  const computedAverage =
-    totals.units > 0 && totals.activities > 0
-      ? Math.max(1, Math.round(totals.activities / totals.units))
-      : null;
-  const fallbackLessons = metaAverage || computedAverage || 10;
-
-  let hadMissing = false;
-  filteredSections.forEach((section) => {
-    section.units.forEach((unit) => {
-      if (!unit.activities || unit.activities <= 0) {
-        unit.activities = fallbackLessons;
-        unit.activityPattern = [];
-        hadMissing = true;
-      }
-    });
-  });
-
-  totals = filteredSections.reduce(
-    (acc, section) => {
-      section.units.forEach((unit) => {
-        acc.activities += unit.activities;
-        acc.units += 1;
-      });
-      return acc;
-    },
-    { activities: 0, units: 0 },
-  );
-
-  if (totals.units === 0 && typeof meta.unitsCount === "number") {
-    totals.units = meta.unitsCount;
-  }
-  if (totals.activities === 0 && typeof meta.lessonsCount === "number") {
-    totals.activities = meta.lessonsCount;
-  }
-  totals.estimated = hadMissing;
-
-  if (!meta.levelShort) {
-    meta.levelShort = normalizeLevel(meta.level);
-  }
-
-  return {
-    meta: {
-      ...meta,
-      title: `${meta.fromLang} → ${meta.toLang}`,
-      fallbackLessons,
-      levelShort: meta.levelShort || normalizeLevel(meta.level),
-    },
-    sections: filteredSections,
     totals,
   };
 }

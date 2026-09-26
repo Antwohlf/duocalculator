@@ -196,12 +196,19 @@ export function parseCourseDetail(html, meta) {
   const sections = [];
   let currentSection = null;
   let currentUnit = null;
+  let awaitingPattern = false;
   const warnings = [];
   
   const unitRegex = /^\s*(\d+)\s+(\d+)\s+(.+)$/;
   const unitsWordPattern =
     'units?|unidades?|unidade?s?|unités?|unità|einheiten|lektion(?:en)?|lessons?|leçons?|lektioner|разделы|юнитов|уроков?|занятий|ders|درس|课程|課|レッスン|単元|단원|레슨';
-  const sectionParenRegex = /^([^\d]{2,})\s*(\d+)\s*\((\d+)\s+[^)]*\)\s*(.*)$/u;
+  // Headings can put a localized word between the section number and the unit count,
+  // for example "第 1 阶段 (9 个部分)".
+  const sectionParenRegex = /^([^\d]{1,}?)\s*(\d+)\s*[^\d(]*\(\s*(\d+)\s*[^)]*\)\s*(.*)$/u;
+  const malformedSectionRegex = /^(?=.*\b(?:CEFR|MCER)\b)([^\d]{1,}?)\s*(\d+)\s*[^\d(]*\(\s*(\d+)\s*.+$/iu;
+  const leadingNumberSectionRegex = /^(\d+)([^\d(]{2,})\(\s*(\d+)\s*[^)]*\)\s*(.*)$/u;
+  const urduOrdinals = ['پہلا', 'دوسرا', 'تیسرا', 'چوتھا', 'پانچواں', 'چھٹا', 'ساتواں', 'آٹھواں'];
+  const urduSectionRegex = /^(پہلا|دوسرا|تیسرا|چوتھا|پانچواں|چھٹا|ساتواں|آٹھواں)\s+سیکشن\s*\(\s*(\d+)\s*[^)]*\)\s*(.*)$/u;
   const sectionAltRegex = new RegExp(
     `^([^\\d]{2,})\\s*(\\d+)\\s+[^\\d]*?(\\d+)\\s+(?:${unitsWordPattern})\\s*(.*)$`,
     'iu',
@@ -216,11 +223,26 @@ export function parseCourseDetail(html, meta) {
     const normalized = trimmed.replace(/^[\-–—•*•]+\s*/, '');
     let sectionMatch = normalized.match(sectionParenRegex);
     if (!sectionMatch) {
+      sectionMatch = normalized.match(malformedSectionRegex);
+    }
+    if (!sectionMatch) {
       sectionMatch = normalized.match(sectionAltRegex);
+    }
+    if (!sectionMatch) {
+      const leadingMatch = normalized.match(leadingNumberSectionRegex);
+      if (leadingMatch) {
+        sectionMatch = [leadingMatch[0], leadingMatch[2], leadingMatch[1], leadingMatch[3], leadingMatch[4]];
+      }
+    }
+    if (!sectionMatch) {
+      const urduMatch = normalized.match(urduSectionRegex);
+      if (urduMatch) {
+        sectionMatch = [urduMatch[0], 'سیکشن', String(urduOrdinals.indexOf(urduMatch[1]) + 1), urduMatch[2], urduMatch[3]];
+      }
     }
     
     if (sectionMatch) {
-      const [, headingRaw, sectionNumber, unitCount, rest] = sectionMatch;
+      const [, headingRaw, sectionNumber, unitCount, rest = ''] = sectionMatch;
       const headingClean = headingRaw.trim().replace(/[:\s]+$/, '');
       const sectionTitleCandidate = rest.trim().replace(/^[\s:–-]+/, '');
       const originalTitle = sectionTitleCandidate || headingClean;
@@ -236,13 +258,14 @@ export function parseCourseDetail(html, meta) {
         unitCount: Number(unitCount),
         title: displayTitle,
         rawTitle: originalTitle,
-        cefr: levelInTitle || '',
+        cefr: meta.toLang === 'Math' ? '' : levelInTitle || '',
         units: [],
       };
       sections.push(currentSection);
       currentUnit = null;
+      awaitingPattern = false;
       
-      if (levelInTitle && !meta.levelShort) {
+      if (levelInTitle && !meta.levelShort && meta.toLang !== 'Math') {
         meta.levelShort = levelInTitle;
         meta.level = `CEFR ${levelInTitle}`;
       }
@@ -253,6 +276,13 @@ export function parseCourseDetail(html, meta) {
     if (unitMatch && currentSection) {
       const [, sectionNumber, unitNumber, title] = unitMatch;
       if (Number(sectionNumber) !== currentSection.sectionIndex) continue;
+      // A few source pages repeat unit rows verbatim. The first occurrence is the
+      // canonical one; duplicate rows must not extend the course.
+      if (currentSection.units.some((unit) => unit.unitIndex === Number(unitNumber))) {
+        currentUnit = null;
+        awaitingPattern = false;
+        continue;
+      }
       currentUnit = {
         sectionIndex: currentSection.sectionIndex,
         unitIndex: Number(unitNumber),
@@ -261,21 +291,88 @@ export function parseCourseDetail(html, meta) {
         activities: null,
       };
       currentSection.units.push(currentUnit);
+      awaitingPattern = true;
       continue;
     }
 
-    // Check for activity patterns (comma-separated numbers)
-    if (currentUnit && /[0-9]/.test(trimmed) && trimmed.includes(',')) {
+    // Only the line immediately after a unit can be its activity pattern. Footer
+    // dates also contain commas and previously became 2,000+ fake lessons.
+    if (awaitingPattern && currentUnit && /^\d+\s*,/.test(trimmed)) {
       const numbers = [...trimmed.matchAll(numberLineRegex)].map((match) => Number(match[1]));
-      if (numbers.length) {
+      if (numbers.length >= 3 && numbers.every((value) => value <= 100)) {
         currentUnit.activityPattern = numbers;
         currentUnit.activities = numbers.reduce((sum, value) => sum + value, 0);
       }
     }
+    awaitingPattern = false;
   }
 
-  // Filter out empty sections
-  const filteredSections = sections.filter((section) => section.units.length > 0);
+  // The Math page contains two alternative course layouts. Keep the layout whose
+  // unit count matches the index instead of concatenating both paths.
+  const populatedSections = sections.filter((section) => section.units.length > 0);
+  const layouts = [];
+  for (const section of populatedSections) {
+    if (!layouts.length || section.sectionIndex <= layouts.at(-1).at(-1).sectionIndex) {
+      layouts.push([section]);
+    } else {
+      layouts.at(-1).push(section);
+    }
+  }
+  let filteredSections = layouts.length > 1 && Number.isFinite(meta.unitsCount)
+    ? layouts.reduce((best, layout) => {
+        const count = (items) => items.reduce((sum, section) => sum + section.units.length, 0);
+        return !best || Math.abs(count(layout) - meta.unitsCount) < Math.abs(count(best) - meta.unitsCount)
+          ? layout : best;
+      }, null)
+    : populatedSections;
+  if (layouts.length > 1) warnings.push('Selected one of multiple course layouts');
+
+  // Some pages show a current section summary followed by stale detailed rows.
+  // Use the summary only when its counts add up to the current course index.
+  let summaryByIndex = new Map();
+  for (let start = 0; start < sections.length; start += 1) {
+    if (sections[start].sectionIndex !== 1) continue;
+    const candidate = new Map();
+    for (let cursor = start; cursor < sections.length; cursor += 1) {
+      const section = sections[cursor];
+      if (section.sectionIndex !== candidate.size + 1) break;
+      candidate.set(section.sectionIndex, section);
+    }
+    const count = [...candidate.values()].reduce((sum, section) => sum + section.unitCount, 0);
+    if (candidate.size > 1 && count === meta.unitsCount) {
+      summaryByIndex = candidate;
+      break;
+    }
+  }
+  if (summaryByIndex.size > 0) {
+    const detailByIndex = new Map(filteredSections.map((section) => [section.sectionIndex, section]));
+    filteredSections = [...summaryByIndex.values()].map((section) => {
+      const detail = detailByIndex.get(section.sectionIndex);
+      return detail ? { ...detail, unitCount: section.unitCount } : { ...section, units: [] };
+    });
+    warnings.push('Section sizes aligned with current course summary');
+  }
+
+  for (const section of filteredSections) {
+    // Preserve real unit positions even when the source omits a row. A missing
+    // title is explicit rather than shifting every later target unit.
+    if (section.unitCount > 0 && section.unitCount <= 300) {
+      const byIndex = new Map(section.units
+        .filter((unit) => unit.unitIndex >= 1 && unit.unitIndex <= section.unitCount)
+        .map((unit) => [unit.unitIndex, unit]));
+      section.units = Array.from({ length: section.unitCount }, (_, index) => byIndex.get(index + 1) || {
+        sectionIndex: section.sectionIndex,
+        unitIndex: index + 1,
+        title: `Unit ${index + 1} (details unavailable)`,
+        activityPattern: [],
+        activities: null,
+        estimated: true,
+      });
+      if (section.units.some((unit) => unit.estimated)) {
+        warnings.push(`Section ${section.sectionIndex} has missing unit details`);
+      }
+    }
+  }
 
   // Calculate totals
   let totals = filteredSections.reduce(
@@ -291,32 +388,45 @@ export function parseCourseDetail(html, meta) {
     { sections: filteredSections.length, activities: 0, units: 0 },
   );
 
-  // Detail pages identify section and unit numbers, but usually omit per-unit lesson counts.
-  // Preserve counts from activity patterns and distribute the index's course total over the rest.
+  // Detail pages often omit per-unit lesson counts. Treat activity patterns as
+  // relative weights, then apportion the authoritative index total exactly.
   const allUnits = filteredSections.flatMap((section) => section.units);
-  const missingUnits = allUnits.filter((unit) => !unit.activities || unit.activities <= 0);
-  const knownLessons = totals.activities;
-  const courseLessons = Number.isFinite(meta.lessonsCount) ? meta.lessonsCount : null;
-  const remainingLessons = courseLessons === null ? null : courseLessons - knownLessons;
-  const estimatedLessons = remainingLessons !== null && remainingLessons >= missingUnits.length
-    ? remainingLessons : missingUnits.length * 10;
-  const base = missingUnits.length ? Math.floor(estimatedLessons / missingUnits.length) : 0;
-  const extra = missingUnits.length ? estimatedLessons % missingUnits.length : 0;
-  missingUnits.forEach((unit, index) => {
-    unit.activities = base + (index < extra ? 1 : 0);
-    unit.activityPattern = [];
-  });
-  const hadMissing = missingUnits.length > 0;
-
-  if (hadMissing) {
+  const courseLessons = Number.isFinite(meta.lessonsCount) && meta.lessonsCount > 0
+    ? Math.round(meta.lessonsCount) : null;
+  const observed = allUnits.map((unit) => unit.activities).filter((value) => Number.isFinite(value) && value > 0);
+  const fallbackWeight = observed.length
+    ? observed.reduce((sum, value) => sum + value, 0) / observed.length : 1;
+  if (courseLessons !== null && allUnits.length && courseLessons >= allUnits.length) {
+    const weights = allUnits.map((unit) => Number.isFinite(unit.activities) && unit.activities > 0
+      ? unit.activities : fallbackWeight);
+    const weightTotal = weights.reduce((sum, value) => sum + value, 0);
+    const remaining = courseLessons - allUnits.length;
+    const shares = weights.map((weight) => remaining * weight / weightTotal);
+    const floors = shares.map(Math.floor);
+    const leftover = remaining - floors.reduce((sum, value) => sum + value, 0);
+    const ranks = shares.map((share, index) => ({ index, remainder: share - floors[index] }))
+      .sort((a, b) => b.remainder - a.remainder || a.index - b.index);
+    const bonuses = new Set(ranks.slice(0, leftover).map((entry) => entry.index));
+    allUnits.forEach((unit, index) => {
+      unit.activities = 1 + floors[index] + (bonuses.has(index) ? 1 : 0);
+      unit.estimated = true;
+    });
     warnings.push('Per-unit lesson counts estimated from course total');
+  } else if (courseLessons === null) {
+    allUnits.forEach((unit) => {
+      unit.activities = null;
+      unit.estimated = true;
+    });
+    warnings.push('Course lesson total unavailable; time prediction disabled');
+  } else if (allUnits.length) {
+    warnings.push('Course has more units than indexed lessons');
   }
 
   // Recalculate totals after filling missing
   totals = filteredSections.reduce(
     (acc, section) => {
       section.units.forEach((unit) => {
-        acc.activities += unit.activities;
+        acc.activities += unit.activities || 0;
         acc.units += 1;
       });
       acc.sections = filteredSections.length;
@@ -334,11 +444,16 @@ export function parseCourseDetail(html, meta) {
     totals.activities = meta.lessonsCount;
     warnings.push('No activities parsed, using meta.lessonsCount');
   }
+  if (courseLessons === null) totals.activities = null;
+  totals.estimated = true;
 
   return {
     sections: filteredSections,
     totals,
     warnings,
+    sourceSectionCounts: summaryByIndex.size
+      ? [...summaryByIndex.values()].map((section) => section.unitCount)
+      : null,
   };
 }
 

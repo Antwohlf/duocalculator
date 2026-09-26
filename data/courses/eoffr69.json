@@ -2,7 +2,7 @@
   "meta": {
     "key": "eoffr69",
     "courseTitle": "French → Esperanto",
-    "scrapedAt": "2026-09-20T08:18:37.233Z",
+    "scrapedAt": "2026-09-26T14:26:32.057Z",
     "sourceHash": "sha256:16acead21e599dc2",
     "fromLang": "French",
     "toLang": "Esperanto",
@@ -11,14 +11,26 @@
     "level": "CEFR CECR INTRO",
     "levelShort": "CECR INTRO",
     "detailHref": "https://duolingodata.com/dat/eoffr69.html",
+    "parserVersion": 3,
+    "indexUnitsCount": 69,
+    "indexLessonsCount": 1321,
+    "sourceSectionCounts": [
+      9,
+      30,
+      30
+    ],
     "detailHrefHash": "sha256:629e0b9037fa20bb",
-    "scrapeWarnings": [],
-    "schemaVersion": "1.0.0"
+    "scrapeWarnings": [
+      "Section sizes aligned with current course summary",
+      "Per-unit lesson counts estimated from course total"
+    ],
+    "schemaVersion": "2.0.0"
   },
   "totals": {
     "sections": 3,
-    "activities": 3002,
-    "units": 69
+    "activities": 1321,
+    "units": 69,
+    "estimated": true
   },
   "sections": [
     {
@@ -33,63 +45,72 @@
           "unitIndex": 1,
           "title": "Utilise des mots de base",
           "activityPattern": [],
-          "activities": 1
+          "activities": 20,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
-          "unitIndex": 1,
+          "unitIndex": 2,
           "title": "Présente-toi",
           "activityPattern": [],
-          "activities": 2
+          "activities": 20,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
-          "unitIndex": 1,
+          "unitIndex": 3,
           "title": "Décris la météo",
           "activityPattern": [],
-          "activities": 3
+          "activities": 20,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
-          "unitIndex": 1,
+          "unitIndex": 4,
           "title": "Décris ta famille",
           "activityPattern": [],
-          "activities": 4
+          "activities": 20,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
-          "unitIndex": 1,
+          "unitIndex": 5,
           "title": "Parle de tes activités",
           "activityPattern": [],
-          "activities": 5
+          "activities": 20,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
-          "unitIndex": 1,
+          "unitIndex": 6,
           "title": "Utilise l'accusatif",
           "activityPattern": [],
-          "activities": 6
+          "activities": 20,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
-          "unitIndex": 1,
+          "unitIndex": 7,
           "title": "Utilise les possessifs",
           "activityPattern": [],
-          "activities": 7
+          "activities": 20,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
-          "unitIndex": 1,
+          "unitIndex": 8,
           "title": "Parle des langues",
           "activityPattern": [],
-          "activities": 8
+          "activities": 20,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
-          "unitIndex": 1,
+          "unitIndex": 9,
           "title": "Décris les couleurs",
           "activityPattern": [],
-          "activities": 9
+          "activities": 20,
+          "estimated": true
         }
       ]
     },
@@ -102,213 +123,243 @@
       "units": [
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 1,
           "title": "Discute de nourriture",
           "activityPattern": [],
-          "activities": 1
+          "activities": 20,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
           "unitIndex": 2,
           "title": "Parle de pays",
           "activityPattern": [],
-          "activities": 2
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 3,
           "title": "Parle d'animaux",
           "activityPattern": [],
-          "activities": 3
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 4,
           "title": "Décris la nourriture",
           "activityPattern": [],
-          "activities": 4
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 5,
           "title": "Parle de vêtements",
           "activityPattern": [],
-          "activities": 5
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 6,
           "title": "Pose des questions",
           "activityPattern": [],
-          "activities": 6
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 7,
           "title": "Utilise le présent",
           "activityPattern": [],
-          "activities": 7
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 8,
           "title": "Décris ta famille",
           "activityPattern": [],
-          "activities": 8
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 9,
           "title": "Décris des objets",
           "activityPattern": [],
-          "activities": 9
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 10,
           "title": "Décris ta maison",
           "activityPattern": [],
-          "activities": 10
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 11,
           "title": "Utilise le passé et le futur",
           "activityPattern": [],
-          "activities": 11
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 12,
           "title": "Parle de quantités",
           "activityPattern": [],
-          "activities": 12
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 13,
           "title": "Parle de la date",
           "activityPattern": [],
-          "activities": 13
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 14,
           "title": "Discute des métiers",
           "activityPattern": [],
-          "activities": 14
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 15,
           "title": "Utilise l'impératif",
           "activityPattern": [],
-          "activities": 15
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 16,
           "title": "Décris des objets",
           "activityPattern": [],
-          "activities": 16
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 17,
           "title": "Demande ton chemin",
           "activityPattern": [],
-          "activities": 17
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 18,
           "title": "Utilise des affixes",
           "activityPattern": [],
-          "activities": 18
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 19,
           "title": "Fais des achats",
           "activityPattern": [],
-          "activities": 19
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 20,
           "title": "Parle du temps",
           "activityPattern": [],
-          "activities": 20
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 21,
           "title": "Décris ta maison",
           "activityPattern": [],
-          "activities": 21
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 22,
           "title": "Utilise internet",
           "activityPattern": [],
-          "activities": 22
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 23,
           "title": "Utilise des adverbes",
           "activityPattern": [],
-          "activities": 23
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 24,
           "title": "Parle des arts",
           "activityPattern": [],
-          "activities": 24
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 25,
           "title": "Exprime tes sentiments",
           "activityPattern": [],
-          "activities": 25
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 26,
           "title": "Décris des lieux",
           "activityPattern": [],
-          "activities": 26
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 27,
           "title": "Parle des autres",
           "activityPattern": [],
-          "activities": 27
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 28,
           "title": "Parle de ton corps",
           "activityPattern": [],
-          "activities": 28
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 29,
           "title": "Utilise -ig et -iĝ",
           "activityPattern": [],
-          "activities": 29
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 30,
           "title": "Parle d'actions abstraites",
           "activityPattern": [],
-          "activities": 30
+          "activities": 19,
+          "estimated": true
         }
       ]
     },
@@ -321,217 +372,243 @@
       "units": [
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 1,
           "title": "Utilise -iĝ",
           "activityPattern": [],
-          "activities": 1
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 2,
           "title": "Discute de ta santé",
           "activityPattern": [],
-          "activities": 2
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
           "unitIndex": 3,
           "title": "Parle de voyage",
           "activityPattern": [],
-          "activities": 3
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 4,
           "title": "Utilise des affixes",
           "activityPattern": [],
-          "activities": 4
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 5,
           "title": "Utilise des phrases communes",
           "activityPattern": [],
-          "activities": 5
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 6,
           "title": "Parle de l'éducation",
           "activityPattern": [],
-          "activities": 6
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 7,
           "title": "Décris la nature",
           "activityPattern": [],
-          "activities": 7
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 8,
           "title": "Discute de sport",
           "activityPattern": [],
-          "activities": 8
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 9,
           "title": "Utilise des affixes",
           "activityPattern": [],
-          "activities": 9
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 10,
           "title": "Exprime tes idées",
           "activityPattern": [],
-          "activities": 10
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 11,
           "title": "Parle des langues",
           "activityPattern": [],
-          "activities": 11
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 12,
           "title": "Parle de voyage",
           "activityPattern": [],
-          "activities": 12
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 13,
           "title": "Utilise des participes actifs",
           "activityPattern": [],
-          "activities": 13
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 14,
           "title": "Discute de sport",
           "activityPattern": [],
-          "activities": 14
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 15,
           "title": "Parle de la communication",
           "activityPattern": [],
-          "activities": 15
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 16,
           "title": "Discute d'objets abstraits",
           "activityPattern": [],
-          "activities": 16
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 17,
           "title": "Parle de la santé",
           "activityPattern": [],
-          "activities": 17
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 18,
           "title": "Utilise des participes passifs",
           "activityPattern": [],
-          "activities": 18
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 19,
           "title": "Discute d'événements",
           "activityPattern": [],
-          "activities": 19
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 20,
           "title": "Décris des animaux",
           "activityPattern": [],
-          "activities": 20
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 21,
           "title": "Parle de commerce",
           "activityPattern": [],
-          "activities": 21
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 22,
           "title": "Discute de politique",
           "activityPattern": [],
-          "activities": 22
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 23,
           "title": "Parle de la terre",
           "activityPattern": [],
-          "activities": 23
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 24,
           "title": "Parle de religion",
           "activityPattern": [],
-          "activities": 24
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 25,
           "title": "Discute de science",
           "activityPattern": [],
-          "activities": 25
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 26,
           "title": "Discute de l'amour",
           "activityPattern": [],
-          "activities": 26
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 27,
           "title": "Parle de la culture espéranto",
           "activityPattern": [],
-          "activities": 27
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 28,
           "title": "Discute de finance",
           "activityPattern": [],
-          "activities": 28
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 29,
           "title": "Augmente ton vocabulaire",
           "activityPattern": [],
-          "activities": 29
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 30,
           "title": "Bavarde avec des amis",
-          "activityPattern": [
-            2026,
-            3,
-            28
-          ],
-          "activities": 2057
+          "activityPattern": [],
+          "activities": 19,
+          "estimated": true
         }
       ]
     }

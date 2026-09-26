@@ -2,23 +2,36 @@
   "meta": {
     "key": "frfvi129",
     "courseTitle": "Vietnamese → French",
-    "scrapedAt": "2026-09-20T08:18:37.233Z",
+    "scrapedAt": "2026-09-26T14:26:32.057Z",
     "sourceHash": "sha256:fd3a35fe35a1af57",
     "fromLang": "Vietnamese",
     "toLang": "French",
     "fromCode": "vi",
     "toCode": "fr",
-    "level": "CEFR INTRO",
-    "levelShort": "INTRO",
+    "level": "CEFR TIẾNG PHÁP TỪ TIẾNG VIỆT",
+    "levelShort": "TIẾNG PHÁP TỪ TIẾNG VIỆT",
     "detailHref": "https://duolingodata.com/dat/frfvi129.html",
+    "parserVersion": 3,
+    "indexUnitsCount": 129,
+    "indexLessonsCount": 2996,
+    "sourceSectionCounts": [
+      10,
+      30,
+      29,
+      60
+    ],
     "detailHrefHash": "sha256:d377e3ef00d38487",
-    "scrapeWarnings": [],
-    "schemaVersion": "1.0.0"
+    "scrapeWarnings": [
+      "Section sizes aligned with current course summary",
+      "Per-unit lesson counts estimated from course total"
+    ],
+    "schemaVersion": "2.0.0"
   },
   "totals": {
     "sections": 4,
-    "activities": 4762,
-    "units": 129
+    "activities": 2996,
+    "units": 129,
+    "estimated": true
   },
   "sections": [
     {
@@ -33,70 +46,80 @@
           "unitIndex": 1,
           "title": "Gọi đồ ở quán cà phê",
           "activityPattern": [],
-          "activities": 1
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
-          "unitIndex": 1,
+          "unitIndex": 2,
           "title": "Chào hỏi và giới thiệu bản thân",
           "activityPattern": [],
-          "activities": 2
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
-          "unitIndex": 1,
+          "unitIndex": 3,
           "title": "Nói về gia đình bạn",
           "activityPattern": [],
-          "activities": 3
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
-          "unitIndex": 1,
+          "unitIndex": 4,
           "title": "Miêu tả tính cách",
           "activityPattern": [],
-          "activities": 4
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
-          "unitIndex": 1,
+          "unitIndex": 5,
           "title": "Mua sắm quần áo",
           "activityPattern": [],
-          "activities": 5
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
-          "unitIndex": 1,
+          "unitIndex": 6,
           "title": "Nói về các thứ tiếng",
           "activityPattern": [],
-          "activities": 6
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
-          "unitIndex": 1,
+          "unitIndex": 7,
           "title": "Tìm đồ",
           "activityPattern": [],
-          "activities": 7
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
-          "unitIndex": 1,
+          "unitIndex": 8,
           "title": "Miêu tả ngôi nhà của bạn",
           "activityPattern": [],
-          "activities": 8
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
-          "unitIndex": 1,
+          "unitIndex": 9,
           "title": "Chào hỏi và đặt câu hỏi",
           "activityPattern": [],
-          "activities": 9
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
-          "unitIndex": 1,
+          "unitIndex": 10,
           "title": "Nói về nơi bạn sống",
           "activityPattern": [],
-          "activities": 10
+          "activities": 24,
+          "estimated": true
         }
       ]
     },
@@ -109,213 +132,243 @@
       "units": [
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 1,
           "title": "Giới thiệu và hỏi han",
           "activityPattern": [],
-          "activities": 1
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
           "unitIndex": 2,
           "title": "Hỏi đường",
           "activityPattern": [],
-          "activities": 2
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 3,
           "title": "Tổ chức sinh nhật",
           "activityPattern": [],
-          "activities": 3
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 4,
           "title": "Đi lại trong sân bay",
           "activityPattern": [],
-          "activities": 4
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 5,
           "title": "Sử dụng thì hiện tại",
           "activityPattern": [],
-          "activities": 5
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 6,
           "title": "Gọi món ở tiệm bánh",
           "activityPattern": [],
-          "activities": 6
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 7,
           "title": "Nói về các địa điểm",
           "activityPattern": [],
-          "activities": 7
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 8,
           "title": "Chuẩn bị đón khách",
           "activityPattern": [],
-          "activities": 8
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 9,
           "title": "Ăn mừng cùng bạn bè",
           "activityPattern": [],
-          "activities": 9
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 10,
           "title": "Đi lại trong thành phố",
           "activityPattern": [],
-          "activities": 10
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 11,
           "title": "Nói về nghề nghiệp",
           "activityPattern": [],
-          "activities": 11
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 12,
           "title": "Nói về thói quen thường ngày",
           "activityPattern": [],
-          "activities": 12
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 13,
           "title": "Kể về gia đình bạn",
           "activityPattern": [],
-          "activities": 13
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 14,
           "title": "Sử dụng câu phủ định",
           "activityPattern": [],
-          "activities": 14
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 15,
           "title": "Nói về thể thao",
           "activityPattern": [],
-          "activities": 15
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 16,
           "title": "Rủ ai đó đi chơi",
           "activityPattern": [],
-          "activities": 16
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 17,
           "title": "Dùng \"avoir\" để diễn tả trạng thái",
           "activityPattern": [],
-          "activities": 17
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 18,
           "title": "Mua sắm quần áo",
           "activityPattern": [],
-          "activities": 18
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 19,
           "title": "Bàn về giá cả",
           "activityPattern": [],
-          "activities": 19
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 20,
           "title": "Dùng từ hạn định trước nguyên âm và 'h'",
           "activityPattern": [],
-          "activities": 20
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 21,
           "title": "Lên kế hoạch cho ngày cuối tuần",
           "activityPattern": [],
-          "activities": 21
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 22,
           "title": "Chia sẻ kế hoạch du lịch",
           "activityPattern": [],
-          "activities": 22
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 23,
           "title": "Mua sắm quần áo",
           "activityPattern": [],
-          "activities": 23
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 24,
           "title": "Miêu tả những gì ở quanh ta",
           "activityPattern": [],
-          "activities": 24
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 25,
           "title": "Sử dụng mạo từ bộ phận",
           "activityPattern": [],
-          "activities": 25
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 26,
           "title": "Nói về thể thao",
           "activityPattern": [],
-          "activities": 26
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 27,
           "title": "Nói về âm nhạc",
           "activityPattern": [],
-          "activities": 27
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 28,
           "title": "Sử dụng động từ khuyết thiếu",
           "activityPattern": [],
-          "activities": 28
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 29,
           "title": "Sắp xếp công việc",
           "activityPattern": [],
-          "activities": 29
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 30,
           "title": "Nói chuyện thi cử",
           "activityPattern": [],
-          "activities": 30
+          "activities": 23,
+          "estimated": true
         }
       ]
     },
@@ -328,206 +381,235 @@
       "units": [
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 1,
           "title": "Lên kế hoạch với bạn bè",
           "activityPattern": [],
-          "activities": 1
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 2,
           "title": "Nói chuyện thời tiết",
           "activityPattern": [],
-          "activities": 2
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
           "unitIndex": 3,
           "title": "Đọc giờ và sắp xếp lịch trình",
           "activityPattern": [],
-          "activities": 3
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 4,
           "title": "Chuẩn bị trước khi khởi hành",
           "activityPattern": [],
-          "activities": 4
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 5,
           "title": "Trò chuyện trên mạng",
           "activityPattern": [],
-          "activities": 5
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 6,
           "title": "Nói về gia đình bạn",
           "activityPattern": [],
-          "activities": 6
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 7,
           "title": "Nói chuyện thể dục thể thao",
           "activityPattern": [],
-          "activities": 7
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 8,
           "title": "Lên kế hoạch đi chơi xa",
           "activityPattern": [],
-          "activities": 8
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 9,
           "title": "Sử dụng thì tương lai gần",
           "activityPattern": [],
-          "activities": 9
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 10,
           "title": "Mua đồ dùng vệ sinh và mỹ phẩm",
           "activityPattern": [],
-          "activities": 10
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 11,
           "title": "Dùng cấu trúc phủ định",
           "activityPattern": [],
-          "activities": 11
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 12,
           "title": "Bày tỏ cảm xúc",
           "activityPattern": [],
-          "activities": 12
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 13,
           "title": "Gọi đồ ăn và đồ uống",
           "activityPattern": [],
-          "activities": 13
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 14,
           "title": "Nói về sức khỏe của bạn",
           "activityPattern": [],
-          "activities": 14
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 15,
           "title": "Sử dụng động từ phản thân",
           "activityPattern": [],
-          "activities": 15
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 16,
           "title": "Nói về thói quen thường ngày",
           "activityPattern": [],
-          "activities": 16
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 17,
           "title": "Dùng so sánh hơn",
           "activityPattern": [],
-          "activities": 17
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 18,
           "title": "Thi đấu thể thao",
           "activityPattern": [],
-          "activities": 18
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 19,
           "title": "Chơi game và thể thao",
           "activityPattern": [],
-          "activities": 19
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 20,
           "title": "Chuẩn bị đồ và nấu ăn",
           "activityPattern": [],
-          "activities": 20
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 21,
           "title": "Khám phá thành phố",
           "activityPattern": [],
-          "activities": 21
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 22,
           "title": "Dùng so sánh nhất",
           "activityPattern": [],
-          "activities": 22
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 23,
           "title": "Đi theo chỉ dẫn",
           "activityPattern": [],
-          "activities": 23
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 24,
           "title": "Làm việc nhà",
           "activityPattern": [],
-          "activities": 24
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 25,
           "title": "Hỏi đường",
           "activityPattern": [],
-          "activities": 25
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 26,
           "title": "Bày tỏ cảm xúc yêu thương",
           "activityPattern": [],
-          "activities": 26
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 27,
           "title": "Chia sẻ về cuộc sống của bạn",
           "activityPattern": [],
-          "activities": 27
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 28,
           "title": "Sử dụng thì quá khứ kép",
           "activityPattern": [],
-          "activities": 28
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 29,
           "title": "Nói về các sự kiện gia đình",
           "activityPattern": [],
-          "activities": 29
+          "activities": 23,
+          "estimated": true
         }
       ]
     },
@@ -540,427 +622,483 @@
       "units": [
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 1,
           "title": "Sử dụng thì quá khứ kép",
           "activityPattern": [],
-          "activities": 1
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 2,
           "title": "Xử lý tình huống khẩn cấp",
           "activityPattern": [],
-          "activities": 2
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 3,
           "title": "Nói về biểu diễn kịch",
           "activityPattern": [],
-          "activities": 3
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
           "unitIndex": 4,
           "title": "So sánh và đối chiếu",
           "activityPattern": [],
-          "activities": 4
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 5,
           "title": "Lên kế hoạch chăm sóc sức khỏe",
           "activityPattern": [],
-          "activities": 5
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 6,
           "title": "Chia sẻ sở thích",
           "activityPattern": [],
-          "activities": 6
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 7,
           "title": "Dùng quá khứ kép với \"être\"",
           "activityPattern": [],
-          "activities": 7
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 8,
           "title": "Kể về một chuyến du lịch",
           "activityPattern": [],
-          "activities": 8
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 9,
           "title": "Sử dụng thì quá khứ kép",
           "activityPattern": [],
-          "activities": 9
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 10,
           "title": "Kết nối từ xa",
           "activityPattern": [],
-          "activities": 10
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 11,
           "title": "Mua sắm thực phẩm",
           "activityPattern": [],
-          "activities": 11
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 12,
           "title": "Nói chuyện về hàng xóm",
           "activityPattern": [],
-          "activities": 12
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 13,
           "title": "Kể về tuổi thơ của bạn",
           "activityPattern": [],
-          "activities": 13
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 14,
           "title": "Sử dụng thì quá khứ tiếp diễn",
           "activityPattern": [],
-          "activities": 14
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 15,
           "title": "Giúp đỡ đồng nghiệp",
           "activityPattern": [],
-          "activities": 15
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 16,
           "title": "Kết nối với gia đình",
           "activityPattern": [],
-          "activities": 16
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 17,
           "title": "Sắp xếp lịch khám bác sĩ",
           "activityPattern": [],
-          "activities": 17
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 18,
           "title": "Sử dụng thì tương lai",
           "activityPattern": [],
-          "activities": 18
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 19,
           "title": "Lên kế hoạch học tập",
           "activityPattern": [],
-          "activities": 19
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 20,
           "title": "Chuẩn bị cho chuyến đi",
           "activityPattern": [],
-          "activities": 20
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 21,
           "title": "Xử lý sự cố nướng bánh",
           "activityPattern": [],
-          "activities": 21
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 22,
           "title": "Nói về các dịp lễ",
           "activityPattern": [],
-          "activities": 22
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 23,
           "title": "Dùng so sánh nhất",
           "activityPattern": [],
-          "activities": 23
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 24,
           "title": "Chuẩn bị cho bữa ăn",
           "activityPattern": [],
-          "activities": 24
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 25,
           "title": "Chuẩn bị một chuyến đi",
           "activityPattern": [],
-          "activities": 25
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 26,
           "title": "Kết nối với cộng đồng",
           "activityPattern": [],
-          "activities": 26
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 27,
           "title": "Chia sẻ trải nghiệm mua sắm",
           "activityPattern": [],
-          "activities": 27
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 28,
           "title": "Dùng quá khứ gần với \"venir de\"",
           "activityPattern": [],
-          "activities": 28
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 29,
           "title": "Đưa ra quyết định chăm sóc sức khỏe",
           "activityPattern": [],
-          "activities": 29
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 30,
           "title": "Chúc mừng thành công",
           "activityPattern": [],
-          "activities": 30
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 31,
           "title": "Mở tài khoản ngân hàng",
           "activityPattern": [],
-          "activities": 31
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 32,
           "title": "Nộp đơn đi du học",
           "activityPattern": [],
-          "activities": 32
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 33,
           "title": "Lên kế hoạch sửa sang nhà cửa",
           "activityPattern": [],
-          "activities": 33
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 34,
           "title": "Dùng động từ phản thân thì quá khứ",
           "activityPattern": [],
-          "activities": 34
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 35,
           "title": "Kể một câu chuyện tình yêu",
           "activityPattern": [],
-          "activities": 35
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 36,
           "title": "Đánh giá sản phẩm và dịch vụ",
           "activityPattern": [],
-          "activities": 36
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 37,
           "title": "Đánh giá tình trạng một ngôi nhà",
           "activityPattern": [],
-          "activities": 37
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 38,
           "title": "Mua sắm quần áo",
           "activityPattern": [],
-          "activities": 38
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 39,
           "title": "Sử dụng đại từ sở hữu",
           "activityPattern": [],
-          "activities": 39
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 40,
           "title": "Bàn về các sự kiện lịch sử",
           "activityPattern": [],
-          "activities": 40
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 41,
           "title": "Sử dụng mệnh đề quan hệ",
           "activityPattern": [],
-          "activities": 41
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 42,
           "title": "Nói về quá khứ của bạn",
           "activityPattern": [],
-          "activities": 42
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 43,
           "title": "Nói về thú cưng của bạn",
           "activityPattern": [],
-          "activities": 43
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 44,
           "title": "Bàn chuyện công việc",
           "activityPattern": [],
-          "activities": 44
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 45,
           "title": "Chuẩn bị cho một chuyến đi",
           "activityPattern": [],
-          "activities": 45
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 46,
           "title": "Dùng câu bị động",
           "activityPattern": [],
-          "activities": 46
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 47,
           "title": "Tham gia lớp học yoga",
           "activityPattern": [],
-          "activities": 47
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 48,
           "title": "Xử lý hỏng hóc",
           "activityPattern": [],
-          "activities": 48
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 49,
           "title": "Bày tỏ cảm xúc",
           "activityPattern": [],
-          "activities": 49
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 50,
           "title": "Xử lý sự cố trong nhà bếp",
           "activityPattern": [],
-          "activities": 50
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 51,
           "title": "Lên kế hoạch gặp mặt",
           "activityPattern": [],
-          "activities": 51
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 52,
           "title": "Sử dụng thì quá khứ",
           "activityPattern": [],
-          "activities": 52
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 53,
           "title": "Lên kế hoạch tập thể dục",
           "activityPattern": [],
-          "activities": 53
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 54,
           "title": "Kết nối với cộng đồng",
           "activityPattern": [],
-          "activities": 54
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 55,
           "title": "Mô tả chấn thương và triệu chứng",
           "activityPattern": [],
-          "activities": 55
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 56,
           "title": "Tham gia chơi thể thao",
           "activityPattern": [],
-          "activities": 56
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 57,
           "title": "Sử dụng thể điều kiện",
           "activityPattern": [],
-          "activities": 57
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 58,
           "title": "Lên kế hoạch cho tương lai",
           "activityPattern": [],
-          "activities": 58
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 59,
           "title": "Tố giác tội phạm",
           "activityPattern": [],
-          "activities": 59
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 60,
           "title": "Đi lại trong sân bay",
-          "activityPattern": [
-            2026,
-            4,
-            7
-          ],
-          "activities": 2037
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
         }
       ]
     }

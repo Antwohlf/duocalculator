@@ -6,7 +6,7 @@
   "scripts": {
     "scrape": "node index.js --output ../../data",
     "scrape:full": "node index.js --output ../../data --full-refresh true",
-    "validate": "node validate.js --data ../../data --error-threshold 10",
+    "validate": "node validate.js --data ../../data --error-threshold 0",
     "test": "node --test"
   },
   "dependencies": {

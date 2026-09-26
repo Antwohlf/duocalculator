@@ -3,6 +3,9 @@ import assert from 'node:assert/strict';
 import { execFile } from 'node:child_process';
 import { promisify } from 'node:util';
 import { fileURLToPath } from 'node:url';
+import { mkdtemp, mkdir, writeFile, readFile } from 'node:fs/promises';
+import { tmpdir } from 'node:os';
+import { join } from 'node:path';
 
 const execFileAsync = promisify(execFile);
 const scraperDir = fileURLToPath(new URL('../', import.meta.url));
@@ -52,4 +55,21 @@ test('validate enforces error rate threshold', async () => {
   const result = await runValidate('invalid-error-rate', ['--error-threshold', '10']);
   assert.equal(result.code, 1);
   assert.match(result.stderr, /exceeds threshold/i);
+});
+
+test('v2 validation rejects a missing active detail', async () => {
+  const dataDir = await mkdtemp(join(tmpdir(), 'duo-validate-'));
+  const manifest = JSON.parse(await readFile(new URL('valid/manifest.json', fixturesDir)));
+  const courses = JSON.parse(await readFile(new URL('valid/courses.json', fixturesDir)));
+  manifest.schemaVersion = '2.0.0';
+  courses.meta.schemaVersion = '2.0.0';
+  courses.courses[0].detailHref = 'https://duolingodata.com/esfen.html';
+  courses.courses[0].unitsCount = 2;
+  courses.courses[0].lessonsCount = 10;
+  await mkdir(join(dataDir, 'courses'));
+  await writeFile(join(dataDir, 'manifest.json'), JSON.stringify(manifest));
+  await writeFile(join(dataDir, 'courses.json'), JSON.stringify(courses));
+  const result = await execFileAsync('node', ['validate.js', '--data', dataDir, '--error-threshold', '0'], { cwd: scraperDir }).catch((error) => error);
+  assert.equal(result.code, 1);
+  assert.match(result.stderr, /missing detail for esfen/i);
 });

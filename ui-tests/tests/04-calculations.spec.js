@@ -78,7 +78,7 @@ test.describe('Calculation Results', () => {
     // The old parser interpreted unit numbers as lesson counts, inflating this course about tenfold.
     await expect(page.locator('#progress-counts')).toHaveText(`0 of ${course.lessonsCount} lessons completed`);
     await expect(page.locator('#stat-lessons-left')).toHaveText(course.lessonsCount.toLocaleString('en-US'));
-    await expect(page.locator('#unit-select option').first()).toContainText(/Unit 1:.*\(\d+ lessons\)/);
+    await expect(page.locator('#unit-select option').first()).toContainText(/Unit 1:.*\(\d+ estimated lessons\)/);
 
     await page.locator('#target-section-select').selectOption('0');
     await page.locator('#target-unit-select').selectOption('1');
@@ -95,6 +95,33 @@ test.describe('Calculation Results', () => {
     await page.locator('#target-section-select').selectOption('');
     await expect(page.locator('#stat-lessons-left')).not.toHaveText('—');
     await expect(page.locator('#stat-lessons-label')).toHaveText('Lessons left');
+  });
+
+  test('Math shows its grade path without inventing a lesson forecast', async ({ page }) => {
+    const baseUrl = await readBaseUrl();
+    await page.goto(`${baseUrl}/`, { waitUntil: 'domcontentloaded' });
+    const index = await page.request.get(`${baseUrl}/data/courses.json`).then((response) => response.json());
+    const math = index.courses.find((course) => course.detailKey === 'mathfen263');
+    await page.locator('#from-lang-select').selectOption(math.fromLang);
+    await page.locator('#to-lang-select').selectOption(math.key);
+    await expect(page.locator('#section-select option')).toHaveCount(11);
+    await expect(page.locator('#result-headline')).toHaveText('Lesson counts are unavailable for this course.');
+    await expect(page.locator('#progress-counts')).toHaveText('Lesson total unavailable');
+    await expect(page.locator('#stat-lessons-left')).toHaveText('—');
+    await expect(page.locator('.course-meta')).not.toContainText('7,679');
+  });
+
+  test('courses without source section maps label estimated positions', async ({ page }) => {
+    const baseUrl = await readBaseUrl();
+    await page.goto(`${baseUrl}/`, { waitUntil: 'domcontentloaded' });
+    const index = await page.request.get(`${baseUrl}/data/courses.json`).then((response) => response.json());
+    const course = index.courses.find((entry) => entry.fromLang === 'French' && entry.toLang === 'Chess Elo' && !entry.detailAvailable);
+    await page.locator('#from-lang-select').selectOption(course.fromLang);
+    await page.locator('#to-lang-select').selectOption(course.key);
+    await expect(page.locator('#section-select option').first()).toContainText('Estimated units 1–10');
+    await page.locator('#section-select').selectOption('1');
+    await expect(page.locator('#unit-select option').first()).toContainText('Approx. Unit 11');
+    await expect(page.locator('#result-meta')).toContainText('positions are estimated');
   });
 
   test('Finish-mode calculation shows valid results', async ({ page }) => {

@@ -2,23 +2,36 @@
   "meta": {
     "key": "cyfen112v2",
     "courseTitle": "English → Welsh",
-    "scrapedAt": "2026-09-20T08:18:37.233Z",
+    "scrapedAt": "2026-09-26T14:26:32.057Z",
     "sourceHash": "sha256:26a7a9fa4ff65176",
     "fromLang": "English",
     "toLang": "Welsh",
     "fromCode": "en",
     "toCode": "cy",
-    "level": "CEFR INTRO",
-    "levelShort": "INTRO",
+    "level": "CEFR WELSH FROM ENGLISH",
+    "levelShort": "WELSH FROM ENGLISH",
     "detailHref": "https://duolingodata.com/dat/cyfen112v2.html",
+    "parserVersion": 3,
+    "indexUnitsCount": 112,
+    "indexLessonsCount": 2183,
+    "sourceSectionCounts": [
+      9,
+      30,
+      30,
+      43
+    ],
     "detailHrefHash": "sha256:7d243a17e5fa1aa8",
-    "scrapeWarnings": [],
-    "schemaVersion": "1.0.0"
+    "scrapeWarnings": [
+      "Section sizes aligned with current course summary",
+      "Per-unit lesson counts estimated from course total"
+    ],
+    "schemaVersion": "2.0.0"
   },
   "totals": {
     "sections": 4,
-    "activities": 3913,
-    "units": 112
+    "activities": 2183,
+    "units": 112,
+    "estimated": true
   },
   "sections": [
     {
@@ -33,63 +46,72 @@
           "unitIndex": 1,
           "title": "Greet people",
           "activityPattern": [],
-          "activities": 1
+          "activities": 20,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
-          "unitIndex": 1,
+          "unitIndex": 2,
           "title": "Introduce yourself",
           "activityPattern": [],
-          "activities": 2
+          "activities": 20,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
-          "unitIndex": 1,
+          "unitIndex": 3,
           "title": "Use the present tense",
           "activityPattern": [],
-          "activities": 3
+          "activities": 20,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
-          "unitIndex": 1,
+          "unitIndex": 4,
           "title": "Talk about activities",
           "activityPattern": [],
-          "activities": 4
+          "activities": 20,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
-          "unitIndex": 1,
+          "unitIndex": 5,
           "title": "Refer to days",
           "activityPattern": [],
-          "activities": 5
+          "activities": 20,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
-          "unitIndex": 1,
+          "unitIndex": 6,
           "title": "Use the present tense",
           "activityPattern": [],
-          "activities": 6
+          "activities": 20,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
-          "unitIndex": 1,
+          "unitIndex": 7,
           "title": "Express what you want",
           "activityPattern": [],
-          "activities": 7
+          "activities": 20,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
-          "unitIndex": 1,
+          "unitIndex": 8,
           "title": "Describe things",
           "activityPattern": [],
-          "activities": 8
+          "activities": 20,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
-          "unitIndex": 1,
+          "unitIndex": 9,
           "title": "Talk about work",
           "activityPattern": [],
-          "activities": 9
+          "activities": 20,
+          "estimated": true
         }
       ]
     },
@@ -102,213 +124,243 @@
       "units": [
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 1,
           "title": "Discuss clothes",
           "activityPattern": [],
-          "activities": 1
+          "activities": 20,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
           "unitIndex": 2,
           "title": "Learn country names",
           "activityPattern": [],
-          "activities": 2
+          "activities": 20,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 3,
           "title": "Describe a trip",
           "activityPattern": [],
-          "activities": 3
+          "activities": 20,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 4,
           "title": "Discuss where you went",
           "activityPattern": [],
-          "activities": 4
+          "activities": 20,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 5,
           "title": "Say what you did",
           "activityPattern": [],
-          "activities": 5
+          "activities": 20,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 6,
           "title": "Describe past events",
           "activityPattern": [],
-          "activities": 6
+          "activities": 20,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 7,
           "title": "Use numbers",
           "activityPattern": [],
-          "activities": 7
+          "activities": 20,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 8,
           "title": "Describe the weather",
           "activityPattern": [],
-          "activities": 8
+          "activities": 20,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 9,
           "title": "Refer to months",
           "activityPattern": [],
-          "activities": 9
+          "activities": 20,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 10,
           "title": "Talk about the past",
           "activityPattern": [],
-          "activities": 10
+          "activities": 20,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 11,
           "title": "Express hunger",
           "activityPattern": [],
-          "activities": 11
+          "activities": 20,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 12,
           "title": "Identify animals",
           "activityPattern": [],
-          "activities": 12
+          "activities": 20,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 13,
           "title": "Learn place names",
           "activityPattern": [],
-          "activities": 13
+          "activities": 20,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 14,
           "title": "Compare dialects",
           "activityPattern": [],
-          "activities": 14
+          "activities": 20,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 15,
           "title": "Make requests",
           "activityPattern": [],
-          "activities": 15
+          "activities": 20,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 16,
           "title": "Say what you have done",
           "activityPattern": [],
-          "activities": 16
+          "activities": 20,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 17,
           "title": "Tell time",
           "activityPattern": [],
-          "activities": 17
+          "activities": 20,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 18,
           "title": "Say what you own",
           "activityPattern": [],
-          "activities": 18
+          "activities": 20,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 19,
           "title": "Describe possessions",
           "activityPattern": [],
-          "activities": 19
+          "activities": 20,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 20,
           "title": "Learn city names",
           "activityPattern": [],
-          "activities": 20
+          "activities": 20,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 21,
           "title": "Discuss travel",
           "activityPattern": [],
-          "activities": 21
+          "activities": 20,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 22,
           "title": "Say how you arrived",
           "activityPattern": [],
-          "activities": 22
+          "activities": 20,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 23,
           "title": "Describe a past meal",
           "activityPattern": [],
-          "activities": 23
+          "activities": 20,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 24,
           "title": "Talk about family",
           "activityPattern": [],
-          "activities": 24
+          "activities": 20,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 25,
           "title": "Say why you returned",
           "activityPattern": [],
-          "activities": 25
+          "activities": 20,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 26,
           "title": "Describe what you got",
           "activityPattern": [],
-          "activities": 26
+          "activities": 20,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 27,
           "title": "Discuss family",
           "activityPattern": [],
-          "activities": 27
+          "activities": 20,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 28,
           "title": "Talk about the past",
           "activityPattern": [],
-          "activities": 28
+          "activities": 20,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 29,
           "title": "Say what you have to do",
           "activityPattern": [],
-          "activities": 29
+          "activities": 20,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 30,
           "title": "Say what happened",
           "activityPattern": [],
-          "activities": 30
+          "activities": 20,
+          "estimated": true
         }
       ]
     },
@@ -321,213 +373,243 @@
       "units": [
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 1,
           "title": "Give orders",
           "activityPattern": [],
-          "activities": 1
+          "activities": 20,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 2,
           "title": "Make commands",
           "activityPattern": [],
-          "activities": 2
+          "activities": 20,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
           "unitIndex": 3,
           "title": "Describe the recent past",
           "activityPattern": [],
-          "activities": 3
+          "activities": 20,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 4,
           "title": "Talk about sports",
           "activityPattern": [],
-          "activities": 4
+          "activities": 20,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 5,
           "title": "Express opinions",
           "activityPattern": [],
-          "activities": 5
+          "activities": 20,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 6,
           "title": "Talk about money",
           "activityPattern": [],
-          "activities": 6
+          "activities": 20,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 7,
           "title": "Describe your health",
           "activityPattern": [],
-          "activities": 7
+          "activities": 20,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 8,
           "title": "Say what you can do",
           "activityPattern": [],
-          "activities": 8
+          "activities": 20,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 9,
           "title": "Use descriptions",
           "activityPattern": [],
-          "activities": 9
+          "activities": 20,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 10,
           "title": "Talk about the future",
           "activityPattern": [],
-          "activities": 10
+          "activities": 20,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 11,
           "title": "Refer to places",
           "activityPattern": [],
-          "activities": 11
+          "activities": 20,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 12,
           "title": "Express opinions",
           "activityPattern": [],
-          "activities": 12
+          "activities": 20,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 13,
           "title": "Talk about past actions",
           "activityPattern": [],
-          "activities": 13
+          "activities": 20,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 14,
           "title": "Describe a place",
           "activityPattern": [],
-          "activities": 14
+          "activities": 20,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 15,
           "title": "Express problems",
           "activityPattern": [],
-          "activities": 15
+          "activities": 20,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 16,
           "title": "State your preference",
           "activityPattern": [],
-          "activities": 16
+          "activities": 20,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 17,
           "title": "Discuss the news",
           "activityPattern": [],
-          "activities": 17
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 18,
           "title": "Describe your upbringing",
           "activityPattern": [],
-          "activities": 18
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 19,
           "title": "Ask permission",
           "activityPattern": [],
-          "activities": 19
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 20,
           "title": "Express emphasis",
           "activityPattern": [],
-          "activities": 20
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 21,
           "title": "Use the passive",
           "activityPattern": [],
-          "activities": 21
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 22,
           "title": "Say what you'll do",
           "activityPattern": [],
-          "activities": 22
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 23,
           "title": "Talk about journeys",
           "activityPattern": [],
-          "activities": 23
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 24,
           "title": "Say why you'll return",
           "activityPattern": [],
-          "activities": 24
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 25,
           "title": "Say what you'll have",
           "activityPattern": [],
-          "activities": 25
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 26,
           "title": "Say what you'll do",
           "activityPattern": [],
-          "activities": 26
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 27,
           "title": "Describe the future",
           "activityPattern": [],
-          "activities": 27
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 28,
           "title": "Talk about places",
           "activityPattern": [],
-          "activities": 28
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 29,
           "title": "Say what you would like",
           "activityPattern": [],
-          "activities": 29
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 30,
           "title": "Say what you would do",
           "activityPattern": [],
-          "activities": 30
+          "activities": 19,
+          "estimated": true
         }
       ]
     },
@@ -540,307 +622,347 @@
       "units": [
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 1,
           "title": "Give advice",
           "activityPattern": [],
-          "activities": 1
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 2,
           "title": "Describe measurements",
           "activityPattern": [],
-          "activities": 2
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 3,
           "title": "Make comparisons",
           "activityPattern": [],
-          "activities": 3
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
           "unitIndex": 4,
           "title": "Say what you would like",
           "activityPattern": [],
-          "activities": 4
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 5,
           "title": "Compare two things",
           "activityPattern": [],
-          "activities": 5
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 6,
           "title": "Express dates",
           "activityPattern": [],
-          "activities": 6
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 7,
           "title": "Use the superlative",
           "activityPattern": [],
-          "activities": 7
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 8,
           "title": "Express dates",
           "activityPattern": [],
-          "activities": 8
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 9,
           "title": "Discuss how long",
           "activityPattern": [],
-          "activities": 9
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 10,
           "title": "Say where something is",
           "activityPattern": [],
-          "activities": 10
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 11,
           "title": "Express good feelings",
           "activityPattern": [],
-          "activities": 11
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 12,
           "title": "Practice adjectives",
           "activityPattern": [],
-          "activities": 12
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 13,
           "title": "Use the conditional",
           "activityPattern": [],
-          "activities": 13
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 14,
           "title": "Use adverbs",
           "activityPattern": [],
-          "activities": 14
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 15,
           "title": "Talk about jobs",
           "activityPattern": [],
-          "activities": 15
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 16,
           "title": "Expand on ideas",
           "activityPattern": [],
-          "activities": 16
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 17,
           "title": "Ask questions",
           "activityPattern": [],
-          "activities": 17
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 18,
           "title": "Use adverbs",
           "activityPattern": [],
-          "activities": 18
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 19,
           "title": "Talk about education",
           "activityPattern": [],
-          "activities": 19
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 20,
           "title": "Describe your home",
           "activityPattern": [],
-          "activities": 20
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 21,
           "title": "Discuss Welsh culture",
           "activityPattern": [],
-          "activities": 21
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 22,
           "title": "Use adverbs",
           "activityPattern": [],
-          "activities": 22
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 23,
           "title": "Go shopping",
           "activityPattern": [],
-          "activities": 23
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 24,
           "title": "Discuss technology",
           "activityPattern": [],
-          "activities": 24
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 25,
           "title": "Talk about nature",
           "activityPattern": [],
-          "activities": 25
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 26,
           "title": "Discuss banking",
           "activityPattern": [],
-          "activities": 26
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 27,
           "title": "Talk about spirituality",
           "activityPattern": [],
-          "activities": 27
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 28,
           "title": "Discuss business",
           "activityPattern": [],
-          "activities": 28
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 29,
           "title": "Talk about religion",
           "activityPattern": [],
-          "activities": 29
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 30,
           "title": "Discuss your health",
           "activityPattern": [],
-          "activities": 30
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 31,
           "title": "Talk about art",
           "activityPattern": [],
-          "activities": 31
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 32,
           "title": "Describe fashion",
           "activityPattern": [],
-          "activities": 32
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 33,
           "title": "Talk about science",
           "activityPattern": [],
-          "activities": 33
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 34,
           "title": "Discuss Welsh politics",
           "activityPattern": [],
-          "activities": 34
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 35,
           "title": "Talk about incidents",
           "activityPattern": [],
-          "activities": 35
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 36,
           "title": "Describe people",
           "activityPattern": [],
-          "activities": 36
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 37,
           "title": "Use common phrases",
           "activityPattern": [],
-          "activities": 37
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 38,
           "title": "Discuss celebrations",
           "activityPattern": [],
-          "activities": 38
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 39,
           "title": "Plan to cook",
           "activityPattern": [],
-          "activities": 39
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 40,
           "title": "Get around town",
           "activityPattern": [],
-          "activities": 40
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 41,
           "title": "Talk about education",
           "activityPattern": [],
-          "activities": 41
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 42,
           "title": "Discuss spending money",
           "activityPattern": [],
-          "activities": 42
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 43,
           "title": "Talk about physical activity",
-          "activityPattern": [
-            2025,
-            10
-          ],
-          "activities": 2035
+          "activityPattern": [],
+          "activities": 19,
+          "estimated": true
         }
       ]
     }

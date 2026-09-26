@@ -2,23 +2,35 @@
   "meta": {
     "key": "svfar66",
     "courseTitle": "Arabic → Swedish",
-    "scrapedAt": "2026-09-20T08:18:37.233Z",
+    "scrapedAt": "2026-09-26T14:26:32.057Z",
     "sourceHash": "sha256:7b235ad09152330d",
     "fromLang": "Arabic",
     "toLang": "Swedish",
     "fromCode": "ar",
     "toCode": "sv",
-    "level": "CEFR INTRO",
-    "levelShort": "INTRO",
+    "level": "CEFR السويدية من العربية",
+    "levelShort": "السويدية من العربية",
     "detailHref": "https://duolingodata.com/dat/svfar66.html",
+    "parserVersion": 3,
+    "indexUnitsCount": 66,
+    "indexLessonsCount": 1215,
+    "sourceSectionCounts": [
+      9,
+      30,
+      27
+    ],
     "detailHrefHash": "sha256:bef8864d5dc182c2",
-    "scrapeWarnings": [],
-    "schemaVersion": "1.0.0"
+    "scrapeWarnings": [
+      "Section sizes aligned with current course summary",
+      "Per-unit lesson counts estimated from course total"
+    ],
+    "schemaVersion": "2.0.0"
   },
   "totals": {
     "sections": 3,
-    "activities": 888,
-    "units": 66
+    "activities": 1215,
+    "units": 66,
+    "estimated": true
   },
   "sections": [
     {
@@ -33,63 +45,72 @@
           "unitIndex": 1,
           "title": "شكّل جملاً أساسية",
           "activityPattern": [],
-          "activities": 1
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
-          "unitIndex": 1,
+          "unitIndex": 2,
           "title": "تكلم عما تفعله",
           "activityPattern": [],
-          "activities": 2
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
-          "unitIndex": 1,
+          "unitIndex": 3,
           "title": "سلّم على الناس",
           "activityPattern": [],
-          "activities": 3
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
-          "unitIndex": 1,
+          "unitIndex": 4,
           "title": "تحدث عن الطعام",
           "activityPattern": [],
-          "activities": 4
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
-          "unitIndex": 1,
+          "unitIndex": 5,
           "title": "صِف الحيوانات",
           "activityPattern": [],
-          "activities": 5
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
-          "unitIndex": 1,
+          "unitIndex": 6,
           "title": "استخدم الاسم المعرفة",
           "activityPattern": [],
-          "activities": 6
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
-          "unitIndex": 1,
+          "unitIndex": 7,
           "title": "شكّل الجمع",
           "activityPattern": [],
-          "activities": 7
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
-          "unitIndex": 1,
+          "unitIndex": 8,
           "title": "تكلم عما لديك",
           "activityPattern": [],
-          "activities": 8
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
-          "unitIndex": 1,
+          "unitIndex": 9,
           "title": "استخدم المفعول به",
           "activityPattern": [],
-          "activities": 9
+          "activities": 19,
+          "estimated": true
         }
       ]
     },
@@ -102,213 +123,243 @@
       "units": [
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 1,
           "title": "صِف ملابسك",
           "activityPattern": [],
-          "activities": 1
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
           "unitIndex": 2,
           "title": "استعمل الفعل المضارع",
           "activityPattern": [],
-          "activities": 2
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 3,
           "title": "صِف الألوان",
           "activityPattern": [],
-          "activities": 3
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 4,
           "title": "اسأل أسئلة",
           "activityPattern": [],
-          "activities": 4
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 5,
           "title": "استخدم حروف الجر",
           "activityPattern": [],
-          "activities": 5
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 6,
           "title": "عبّر عن رأيك",
           "activityPattern": [],
-          "activities": 6
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 7,
           "title": "تكلم عن الوقت",
           "activityPattern": [],
-          "activities": 7
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 8,
           "title": "صِف عائلتك",
           "activityPattern": [],
-          "activities": 8
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 9,
           "title": "تحدث عن المهن",
           "activityPattern": [],
-          "activities": 9
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 10,
           "title": "صِف الأشياء",
           "activityPattern": [],
-          "activities": 10
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 11,
           "title": "استعمل الفعل المضارع",
           "activityPattern": [],
-          "activities": 11
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 12,
           "title": "استعمل الظروف",
           "activityPattern": [],
-          "activities": 12
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 13,
           "title": "تكلم عن الأماكن",
           "activityPattern": [],
-          "activities": 13
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 14,
           "title": "تحدث عن الأشياء الشائعة",
           "activityPattern": [],
-          "activities": 14
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 15,
           "title": "صِف الناس",
           "activityPattern": [],
-          "activities": 15
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 16,
           "title": "تجول في المدينة",
           "activityPattern": [],
-          "activities": 16
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 17,
           "title": "صِف ما هو حولك",
           "activityPattern": [],
-          "activities": 17
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 18,
           "title": "استخدم الأرقام",
           "activityPattern": [],
-          "activities": 18
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 19,
           "title": "تكلم عما تفعله",
           "activityPattern": [],
-          "activities": 19
+          "activities": 18,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 20,
           "title": "تواصل في المدرسة",
           "activityPattern": [],
-          "activities": 20
+          "activities": 18,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 21,
           "title": "استعمل الفعل الماضي",
           "activityPattern": [],
-          "activities": 21
+          "activities": 18,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 22,
           "title": "تكلم عن هواياتك",
           "activityPattern": [],
-          "activities": 22
+          "activities": 18,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 23,
           "title": "دردش عن الجغرافيا",
           "activityPattern": [],
-          "activities": 23
+          "activities": 18,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 24,
           "title": "صِف أنشطتك",
           "activityPattern": [],
-          "activities": 24
+          "activities": 18,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 25,
           "title": "علّق على الطعام",
           "activityPattern": [],
-          "activities": 25
+          "activities": 18,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 26,
           "title": "عبّر عن مشاعرك",
           "activityPattern": [],
-          "activities": 26
+          "activities": 18,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 27,
           "title": "قُم بتبادل المعلومات",
           "activityPattern": [],
-          "activities": 27
+          "activities": 18,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 28,
           "title": "قارن بين الأشياء",
           "activityPattern": [],
-          "activities": 28
+          "activities": 18,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 29,
           "title": "ناقش الأحداث الأخيرة",
           "activityPattern": [],
-          "activities": 29
+          "activities": 18,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 30,
           "title": "تحدث عن الحيوانات",
           "activityPattern": [],
-          "activities": 30
+          "activities": 18,
+          "estimated": true
         }
       ]
     },
@@ -321,192 +372,219 @@
       "units": [
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 1,
           "title": "قدّم طلبا",
           "activityPattern": [],
-          "activities": 1
+          "activities": 18,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 2,
           "title": "أعطي توجيهات",
           "activityPattern": [],
-          "activities": 2
+          "activities": 18,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
           "unitIndex": 3,
           "title": "خطّط مستقبلك",
           "activityPattern": [],
-          "activities": 3
+          "activities": 18,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 4,
           "title": "ناقش الماضي",
           "activityPattern": [],
-          "activities": 4
+          "activities": 18,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 5,
           "title": "تكلم عن حياتك",
           "activityPattern": [],
-          "activities": 5
+          "activities": 18,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 6,
           "title": "استخدم المصدر",
           "activityPattern": [],
-          "activities": 6
+          "activities": 18,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 7,
           "title": "تحدث عن الطبيعة",
           "activityPattern": [],
-          "activities": 7
+          "activities": 18,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 8,
           "title": "صِف ما هو حولك",
           "activityPattern": [],
-          "activities": 8
+          "activities": 18,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 9,
           "title": "بيّن صفة الأشياء",
           "activityPattern": [],
-          "activities": 9
+          "activities": 18,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 10,
           "title": "أُخبِر عما تفضل",
           "activityPattern": [],
-          "activities": 10
+          "activities": 18,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 11,
           "title": "ناقش عملك",
           "activityPattern": [],
-          "activities": 11
+          "activities": 18,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 12,
           "title": "تكلم عن الرياضة",
           "activityPattern": [],
-          "activities": 12
+          "activities": 18,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 13,
           "title": "تجول في المدينة",
           "activityPattern": [],
-          "activities": 13
+          "activities": 18,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 14,
           "title": "تحدث عن الفنون",
           "activityPattern": [],
-          "activities": 14
+          "activities": 18,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 15,
           "title": "تواصل مع طبيب",
           "activityPattern": [],
-          "activities": 15
+          "activities": 18,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 16,
           "title": "ناقش السياسة",
           "activityPattern": [],
-          "activities": 16
+          "activities": 18,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 17,
           "title": "تكلم عن الأخبار",
           "activityPattern": [],
-          "activities": 17
+          "activities": 18,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 18,
           "title": "ناقش الأحداث الأخيرة",
           "activityPattern": [],
-          "activities": 18
+          "activities": 18,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 19,
           "title": "ناقش حياة الآخرين",
           "activityPattern": [],
-          "activities": 19
+          "activities": 18,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 20,
           "title": "تكلم عن خطط ممتعة",
           "activityPattern": [],
-          "activities": 20
+          "activities": 18,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 21,
           "title": "ناقش العلوم",
           "activityPattern": [],
-          "activities": 21
+          "activities": 18,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 22,
           "title": "استعمل الأفعال الشرطية",
           "activityPattern": [],
-          "activities": 22
+          "activities": 18,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 23,
           "title": "ناقش الروحانية",
           "activityPattern": [],
-          "activities": 23
+          "activities": 18,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 24,
           "title": "استخدم المبني للمجهول",
           "activityPattern": [],
-          "activities": 24
+          "activities": 18,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 25,
           "title": "عبّر عن نيتك",
           "activityPattern": [],
-          "activities": 25
+          "activities": 18,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 26,
           "title": "ناقش الأعمال",
           "activityPattern": [],
-          "activities": 26
+          "activities": 18,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 27,
           "title": "تحدث عن الاحتفالات",
           "activityPattern": [],
-          "activities": 27
+          "activities": 18,
+          "estimated": true
         }
       ]
     }

@@ -2,23 +2,39 @@
   "meta": {
     "key": "chfes200",
     "courseTitle": "Spanish → Ch",
-    "scrapedAt": "2026-09-20T08:18:37.233Z",
+    "scrapedAt": "2026-09-26T14:26:32.057Z",
     "sourceHash": "sha256:b30c1636ff61ab5d",
     "fromLang": "Spanish",
     "toLang": "Ch",
     "fromCode": "es",
     "toCode": "ch",
-    "level": "CEFR ELO 200",
-    "levelShort": "ELO 200",
+    "level": "CEFR AJEDREZ DESDE ESPAÑOL,",
+    "levelShort": "AJEDREZ DESDE ESPAÑOL,",
     "detailHref": "https://duolingodata.com/dat/chfes200.html",
+    "parserVersion": 3,
+    "indexUnitsCount": 200,
+    "indexLessonsCount": 1845,
+    "sourceSectionCounts": [
+      6,
+      26,
+      24,
+      24,
+      24,
+      48,
+      48
+    ],
     "detailHrefHash": "sha256:4e598c33d5dbd55d",
-    "scrapeWarnings": [],
-    "schemaVersion": "1.0.0"
+    "scrapeWarnings": [
+      "Section sizes aligned with current course summary",
+      "Per-unit lesson counts estimated from course total"
+    ],
+    "schemaVersion": "2.0.0"
   },
   "totals": {
     "sections": 7,
-    "activities": 5623,
-    "units": 200
+    "activities": 1845,
+    "units": 200,
+    "estimated": true
   },
   "sections": [
     {
@@ -33,42 +49,48 @@
           "unitIndex": 1,
           "title": "Mueve tus piezas",
           "activityPattern": [],
-          "activities": 1
+          "activities": 10,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
-          "unitIndex": 1,
+          "unitIndex": 2,
           "title": "Captura y ataca piezas",
           "activityPattern": [],
-          "activities": 2
+          "activities": 10,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
-          "unitIndex": 1,
+          "unitIndex": 3,
           "title": "Defiende tus piezas",
           "activityPattern": [],
-          "activities": 3
+          "activities": 10,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
-          "unitIndex": 1,
+          "unitIndex": 4,
           "title": "¡Jaque! Ataca al rey",
           "activityPattern": [],
-          "activities": 4
+          "activities": 10,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
-          "unitIndex": 1,
+          "unitIndex": 5,
           "title": "¡Jaque mate! Gana la partida",
           "activityPattern": [],
-          "activities": 5
+          "activities": 10,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
-          "unitIndex": 1,
+          "unitIndex": 6,
           "title": "Juega una partida completa",
           "activityPattern": [],
-          "activities": 6
+          "activities": 10,
+          "estimated": true
         }
       ]
     },
@@ -81,185 +103,211 @@
       "units": [
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 1,
           "title": "Valor de piezas y capturas",
           "activityPattern": [],
-          "activities": 1
+          "activities": 10,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
           "unitIndex": 2,
           "title": "Casillas seguras y ataques seguros",
           "activityPattern": [],
-          "activities": 2
+          "activities": 10,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 3,
           "title": "Principios de apertura",
           "activityPattern": [],
-          "activities": 3
+          "activities": 10,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 4,
           "title": "Defiende tus piezas",
           "activityPattern": [],
-          "activities": 4
+          "activities": 10,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 5,
           "title": "Reina y mates de escalera",
           "activityPattern": [],
-          "activities": 5
+          "activities": 10,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 6,
           "title": "La apertura italiana",
           "activityPattern": [],
-          "activities": 6
+          "activities": 10,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 7,
           "title": "Intercambios",
           "activityPattern": [],
-          "activities": 7
+          "activities": 10,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 8,
           "title": "Reglas del peón y carreras de peones",
           "activityPattern": [],
-          "activities": 8
+          "activities": 10,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 9,
           "title": "Tenedores",
           "activityPattern": [],
-          "activities": 9
+          "activities": 10,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 10,
           "title": "Patrones de mate",
           "activityPattern": [],
-          "activities": 10
+          "activities": 10,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 11,
           "title": "Clavadas absolutas",
           "activityPattern": [],
-          "activities": 11
+          "activities": 10,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 12,
           "title": "Planes después de la apertura",
           "activityPattern": [],
-          "activities": 12
+          "activities": 10,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 13,
           "title": "Continuando la apertura",
           "activityPattern": [],
-          "activities": 13
+          "activities": 10,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 14,
           "title": "Clavadas relativas",
           "activityPattern": [],
-          "activities": 14
+          "activities": 10,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 15,
           "title": "Enfiladas",
           "activityPattern": [],
-          "activities": 15
+          "activities": 10,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 16,
           "title": "Sacrificio",
           "activityPattern": [],
-          "activities": 16
+          "activities": 10,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 17,
           "title": "Ataques a la descubierta",
           "activityPattern": [],
-          "activities": 17
+          "activities": 10,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 18,
           "title": "Movimientos hacia atrás",
           "activityPattern": [],
-          "activities": 18
+          "activities": 10,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 19,
           "title": "Piezas felices",
           "activityPattern": [],
-          "activities": 19
+          "activities": 10,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 20,
           "title": "Batería",
           "activityPattern": [],
-          "activities": 20
+          "activities": 10,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 21,
           "title": "Completar la apertura",
           "activityPattern": [],
-          "activities": 21
+          "activities": 10,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 22,
           "title": "Evaluar capturas",
           "activityPattern": [],
-          "activities": 22
+          "activities": 10,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 23,
           "title": "Encontrar oportunidades",
           "activityPattern": [],
-          "activities": 23
+          "activities": 10,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 24,
           "title": "Detección de tácticas",
           "activityPattern": [],
-          "activities": 24
+          "activities": 10,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 25,
           "title": "Defenderse contra el mate",
           "activityPattern": [],
-          "activities": 25
+          "activities": 10,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 26,
           "title": "Doble jaque",
           "activityPattern": [],
-          "activities": 26
+          "activities": 10,
+          "estimated": true
         }
       ]
     },
@@ -272,171 +320,195 @@
       "units": [
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 1,
           "title": "Usar clavadas en una partida",
           "activityPattern": [],
-          "activities": 1
+          "activities": 10,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 2,
           "title": "Tenedores de caballo y peón",
           "activityPattern": [],
-          "activities": 2
+          "activities": 10,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
           "unitIndex": 3,
           "title": "Responder a los jaques",
           "activityPattern": [],
-          "activities": 3
+          "activities": 10,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 4,
           "title": "Obstáculos para el enroque",
           "activityPattern": [],
-          "activities": 4
+          "activities": 10,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 5,
           "title": "Juego efectivo de peones",
           "activityPattern": [],
-          "activities": 5
+          "activities": 10,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 6,
           "title": "Mates esenciales",
           "activityPattern": [],
-          "activities": 6
+          "activities": 10,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 7,
           "title": "Trampas de rey ahogado",
           "activityPattern": [],
-          "activities": 7
+          "activities": 10,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 8,
           "title": "Atacar defensores",
           "activityPattern": [],
-          "activities": 8
+          "activities": 10,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 9,
           "title": "Evita el mate: mueve o captura",
           "activityPattern": [],
-          "activities": 9
+          "activities": 10,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 10,
           "title": "Evita el mate: defiende o bloquea",
           "activityPattern": [],
-          "activities": 10
+          "activities": 10,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 11,
           "title": "Estructura de peones",
           "activityPattern": [],
-          "activities": 11
+          "activities": 10,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 12,
           "title": "Prevención de tenedores",
           "activityPattern": [],
-          "activities": 12
+          "activities": 10,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 13,
           "title": "Escapar de clavadas",
           "activityPattern": [],
-          "activities": 13
+          "activities": 10,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 14,
           "title": "Jugadas forzadas",
           "activityPattern": [],
-          "activities": 14
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 15,
           "title": "Jaques y ataques descubiertos",
           "activityPattern": [],
-          "activities": 15
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 16,
           "title": "Debilidades",
           "activityPattern": [],
-          "activities": 16
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 17,
           "title": "Columnas abiertas y semiabiertas",
           "activityPattern": [],
-          "activities": 17
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 18,
           "title": "Ubicación de caballos y alfiles",
           "activityPattern": [],
-          "activities": 18
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 19,
           "title": "Usar a tu reina",
           "activityPattern": [],
-          "activities": 19
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 20,
           "title": "Mayorías de peones y coronación",
           "activityPattern": [],
-          "activities": 20
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 21,
           "title": "Oposición",
           "activityPattern": [],
-          "activities": 21
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 22,
           "title": "Torres contra reinas",
           "activityPattern": [],
-          "activities": 22
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 23,
           "title": "Alfiles y caballos atrapados",
           "activityPattern": [],
-          "activities": 23
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 24,
           "title": "Mates de la reina contra el rey enrocado",
           "activityPattern": [],
-          "activities": 24
+          "activities": 9,
+          "estimated": true
         }
       ]
     },
@@ -449,171 +521,195 @@
       "units": [
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 1,
           "title": "Interferencia",
           "activityPattern": [],
-          "activities": 1
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 2,
           "title": "Clavadas avanzadas",
           "activityPattern": [],
-          "activities": 2
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 3,
           "title": "Orden de capturas",
           "activityPattern": [],
-          "activities": 3
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
           "unitIndex": 4,
           "title": "Visión del tablero",
           "activityPattern": [],
-          "activities": 4
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 5,
           "title": "Desviación",
           "activityPattern": [],
-          "activities": 5
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 6,
           "title": "Dominando los finales comunes",
           "activityPattern": [],
-          "activities": 6
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 7,
           "title": "Estrategia para defender",
           "activityPattern": [],
-          "activities": 7
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 8,
           "title": "Atracción",
           "activityPattern": [],
-          "activities": 8
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 9,
           "title": "prevenir jaque mate",
           "activityPattern": [],
-          "activities": 9
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 10,
           "title": "Peones avanzados",
           "activityPattern": [],
-          "activities": 10
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 11,
           "title": "Planificar jaques mate",
           "activityPattern": [],
-          "activities": 11
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 12,
           "title": "Zugzwang",
           "activityPattern": [],
-          "activities": 12
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 13,
           "title": "Ataques de columna y de fila",
           "activityPattern": [],
-          "activities": 13
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 14,
           "title": "Redes de mate",
           "activityPattern": [],
-          "activities": 14
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 15,
           "title": "Planificando sacrificios",
           "activityPattern": [],
-          "activities": 15
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 16,
           "title": "Peones débiles",
           "activityPattern": [],
-          "activities": 16
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 17,
           "title": "TABLAS",
           "activityPattern": [],
-          "activities": 17
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 18,
           "title": "Mates en la última fila",
           "activityPattern": [],
-          "activities": 18
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 19,
           "title": "Ataques diagonales",
           "activityPattern": [],
-          "activities": 19
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 20,
           "title": "Ventajas",
           "activityPattern": [],
-          "activities": 20
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 21,
           "title": "Piezas atrapadas",
           "activityPattern": [],
-          "activities": 21
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 22,
           "title": "Coronación de peones",
           "activityPattern": [],
-          "activities": 22
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 23,
           "title": "despeje",
           "activityPattern": [],
-          "activities": 23
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 24,
           "title": "Detección de tácticas",
           "activityPattern": [],
-          "activities": 24
+          "activities": 9,
+          "estimated": true
         }
       ]
     },
@@ -626,171 +722,195 @@
       "units": [
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 1,
           "title": "Oposición",
           "activityPattern": [],
-          "activities": 1
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 2,
           "title": "Jaque descubiertos",
           "activityPattern": [],
-          "activities": 2
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 3,
           "title": "Mates con caballo",
           "activityPattern": [],
-          "activities": 3
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 4,
           "title": "Duplicar torres y el cañón de Alekhine",
           "activityPattern": [],
-          "activities": 4
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
           "title": "Sacrificios",
           "activityPattern": [],
-          "activities": 5
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 6,
           "title": "Peones pasados",
           "activityPattern": [],
-          "activities": 6
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 7,
           "title": "Mejorar tus piezas",
           "activityPattern": [],
-          "activities": 7
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 8,
           "title": "Tácticas de apertura",
           "activityPattern": [],
-          "activities": 8
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 9,
           "title": "Mejorar tus torres y tu reina",
           "activityPattern": [],
-          "activities": 9
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 10,
           "title": "Mates de torre y alfil",
           "activityPattern": [],
-          "activities": 10
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 11,
           "title": "Carreras de peones y rupturas",
           "activityPattern": [],
-          "activities": 11
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 12,
           "title": "Saber cuándo cambiar",
           "activityPattern": [],
-          "activities": 12
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 13,
           "title": "Más mates de torre",
           "activityPattern": [],
-          "activities": 13
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 14,
           "title": "Ataque de alfil",
           "activityPattern": [],
-          "activities": 14
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 15,
           "title": "Poder de peones",
           "activityPattern": [],
-          "activities": 15
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 16,
           "title": "Mates con la reina y el alfil",
           "activityPattern": [],
-          "activities": 16
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 17,
           "title": "Tenedor de reina",
           "activityPattern": [],
-          "activities": 17
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 18,
           "title": "Hombro a hombro y zugzwang",
           "activityPattern": [],
-          "activities": 18
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 19,
           "title": "Mate con pareja de alfiles",
           "activityPattern": [],
-          "activities": 19
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 20,
           "title": "Torres en la fila de peones",
           "activityPattern": [],
-          "activities": 20
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 21,
           "title": "Ataques al rey enrocado",
           "activityPattern": [],
-          "activities": 21
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 22,
           "title": "Mates con torre y caballo",
           "activityPattern": [],
-          "activities": 22
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 23,
           "title": "Interferencia y jugada intermedia",
           "activityPattern": [],
-          "activities": 23
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 24,
           "title": "Mates con piezas menores",
           "activityPattern": [],
-          "activities": 24
+          "activities": 9,
+          "estimated": true
         }
       ]
     },
@@ -803,339 +923,387 @@
       "units": [
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 1,
           "title": "Practicando patrones de jaque mate",
           "activityPattern": [],
-          "activities": 1
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 2,
           "title": "Repertorio de aperturas",
           "activityPattern": [],
-          "activities": 2
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 3,
           "title": "Tácticas defensivas",
           "activityPattern": [],
-          "activities": 3
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 4,
           "title": "Ataques a la descubierta",
           "activityPattern": [],
-          "activities": 4
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 5,
           "title": "Dominando el caballo",
           "activityPattern": [],
-          "activities": 5
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
           "title": "Tácticas de ataque",
           "activityPattern": [],
-          "activities": 6
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 7,
           "title": "Obtener ventaja en la apertura",
           "activityPattern": [],
-          "activities": 7
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 8,
           "title": "Dominando el peón",
           "activityPattern": [],
-          "activities": 8
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 9,
           "title": "Planificando sacrificios",
           "activityPattern": [],
-          "activities": 9
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 10,
           "title": "Practicando mates frecuentes",
           "activityPattern": [],
-          "activities": 10
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 11,
           "title": "Práctica del medio juego",
           "activityPattern": [],
-          "activities": 11
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 12,
           "title": "Aprovechar errores",
           "activityPattern": [],
-          "activities": 12
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 13,
           "title": "Dominando el rey",
           "activityPattern": [],
-          "activities": 13
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 14,
           "title": "Tácticas con múltiples piezas",
           "activityPattern": [],
-          "activities": 14
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 15,
           "title": "Obtener la ventaja",
           "activityPattern": [],
-          "activities": 15
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 16,
           "title": "Sorprendiendo a tu oponente",
           "activityPattern": [],
-          "activities": 16
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 17,
           "title": "Mejorando tu posición",
           "activityPattern": [],
-          "activities": 17
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 18,
           "title": "Dominando la reina",
           "activityPattern": [],
-          "activities": 18
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 19,
           "title": "Práctica de finales",
           "activityPattern": [],
-          "activities": 19
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 20,
           "title": "Evitar ataques",
           "activityPattern": [],
-          "activities": 20
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 21,
           "title": "Dominando la torre",
           "activityPattern": [],
-          "activities": 21
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 22,
           "title": "Dominando los jaque mate",
           "activityPattern": [],
-          "activities": 22
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 23,
           "title": "Dominando la séptima fila",
           "activityPattern": [],
-          "activities": 23
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 24,
           "title": "Dominando el alfil",
           "activityPattern": [],
-          "activities": 24
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 25,
           "title": "Desventajas",
           "activityPattern": [],
-          "activities": 25
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 26,
           "title": "Finales complicados",
           "activityPattern": [],
-          "activities": 26
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 27,
           "title": "Atracción y despeje",
           "activityPattern": [],
-          "activities": 27
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 28,
           "title": "Tácticas de medio juego I",
           "activityPattern": [],
-          "activities": 28
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 29,
           "title": "Enfoque equilibrado I",
           "activityPattern": [],
-          "activities": 29
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 30,
           "title": "Mates más largos I",
           "activityPattern": [],
-          "activities": 30
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 31,
           "title": "Despeje y desviación",
           "activityPattern": [],
-          "activities": 31
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 32,
           "title": "Atracción y medio juego",
           "activityPattern": [],
-          "activities": 32
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 33,
           "title": "Tácticas del medio juego II",
           "activityPattern": [],
-          "activities": 33
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 34,
           "title": "Enfoque equilibrado II",
           "activityPattern": [],
-          "activities": 34
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 35,
           "title": "Finales I",
           "activityPattern": [],
-          "activities": 35
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 36,
           "title": "Finales II",
           "activityPattern": [],
-          "activities": 36
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 37,
           "title": "Tácticas del medio juego III",
           "activityPattern": [],
-          "activities": 37
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 38,
           "title": "Finales de torre y dama",
           "activityPattern": [],
-          "activities": 38
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 39,
           "title": "Finales de alfil y caballo",
           "activityPattern": [],
-          "activities": 39
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 40,
           "title": "Práctica de jaque mate",
           "activityPattern": [],
-          "activities": 40
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 41,
           "title": "Ataques descubiertos y dobles",
           "activityPattern": [],
-          "activities": 41
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 42,
           "title": "Jaques mate más largos II",
           "activityPattern": [],
-          "activities": 42
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 43,
           "title": "Enfoque equilibrado III",
           "activityPattern": [],
-          "activities": 43
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 44,
           "title": "Finales de peones y coronaciones",
           "activityPattern": [],
-          "activities": 44
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 45,
           "title": "Desviación y atracción",
           "activityPattern": [],
-          "activities": 45
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 46,
           "title": "Ganar piezas",
           "activityPattern": [],
-          "activities": 46
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 47,
           "title": "Enfoque equilibrado IV",
           "activityPattern": [],
-          "activities": 47
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 48,
           "title": "Apertura",
           "activityPattern": [],
-          "activities": 48
+          "activities": 9,
+          "estimated": true
         }
       ]
     },
@@ -1148,343 +1316,387 @@
       "units": [
         {
           "sectionIndex": 7,
-          "unitIndex": 7,
+          "unitIndex": 1,
           "title": "Tácticas de medio juego I",
           "activityPattern": [],
-          "activities": 1
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 7,
+          "unitIndex": 2,
           "title": "Finales de torre y dama",
           "activityPattern": [],
-          "activities": 2
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 7,
+          "unitIndex": 3,
           "title": "Finales de alfil y caballo",
           "activityPattern": [],
-          "activities": 3
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 7,
+          "unitIndex": 4,
           "title": "Práctica de jaque mate",
           "activityPattern": [],
-          "activities": 4
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 7,
+          "unitIndex": 5,
           "title": "Ataques descubiertos y dobles I",
           "activityPattern": [],
-          "activities": 5
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 7,
+          "unitIndex": 6,
           "title": "Mates más largos",
           "activityPattern": [],
-          "activities": 6
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 7,
           "unitIndex": 7,
           "title": "Enfoque equilibrado",
           "activityPattern": [],
-          "activities": 7
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 7,
+          "unitIndex": 8,
           "title": "Finales de peones y coronaciones",
           "activityPattern": [],
-          "activities": 8
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 7,
+          "unitIndex": 9,
           "title": "Desviación y atracción",
           "activityPattern": [],
-          "activities": 9
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 7,
+          "unitIndex": 10,
           "title": "Ganar piezas",
           "activityPattern": [],
-          "activities": 10
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 7,
+          "unitIndex": 11,
           "title": "Enfoque equilibrado",
           "activityPattern": [],
-          "activities": 11
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 7,
+          "unitIndex": 12,
           "title": "apertura",
           "activityPattern": [],
-          "activities": 12
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 7,
+          "unitIndex": 13,
           "title": "Desventajas",
           "activityPattern": [],
-          "activities": 13
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 7,
+          "unitIndex": 14,
           "title": "Finales complicados",
           "activityPattern": [],
-          "activities": 14
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 7,
+          "unitIndex": 15,
           "title": "Atracción y despeje",
           "activityPattern": [],
-          "activities": 15
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 7,
+          "unitIndex": 16,
           "title": "Tácticas del medio juego II",
           "activityPattern": [],
-          "activities": 16
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 7,
+          "unitIndex": 17,
           "title": "Enfoque equilibrado",
           "activityPattern": [],
-          "activities": 17
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 7,
+          "unitIndex": 18,
           "title": "Mates más largos",
           "activityPattern": [],
-          "activities": 18
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 7,
+          "unitIndex": 19,
           "title": "Despeje y desviación",
           "activityPattern": [],
-          "activities": 19
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 7,
+          "unitIndex": 20,
           "title": "Atracción y medio juego",
           "activityPattern": [],
-          "activities": 20
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 7,
+          "unitIndex": 21,
           "title": "Tácticas del medio juego III",
           "activityPattern": [],
-          "activities": 21
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 7,
+          "unitIndex": 22,
           "title": "Enfoque equilibrado",
           "activityPattern": [],
-          "activities": 22
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 7,
+          "unitIndex": 23,
           "title": "Finales I",
           "activityPattern": [],
-          "activities": 23
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 7,
+          "unitIndex": 24,
           "title": "Finales II",
           "activityPattern": [],
-          "activities": 24
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 7,
+          "unitIndex": 25,
           "title": "Equilibrio estratégico I",
           "activityPattern": [],
-          "activities": 25
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 7,
+          "unitIndex": 26,
           "title": "Maestría en jaque mate I",
           "activityPattern": [],
-          "activities": 26
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 7,
+          "unitIndex": 27,
           "title": "Precisión táctica",
           "activityPattern": [],
-          "activities": 27
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 7,
+          "unitIndex": 28,
           "title": "Juego posicional",
           "activityPattern": [],
-          "activities": 28
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 7,
+          "unitIndex": 29,
           "title": "Tácticas avanzadas I",
           "activityPattern": [],
-          "activities": 29
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 7,
+          "unitIndex": 30,
           "title": "Equilibrio estratégico II",
           "activityPattern": [],
-          "activities": 30
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 7,
+          "unitIndex": 31,
           "title": "Finales complejos I",
           "activityPattern": [],
-          "activities": 31
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 7,
+          "unitIndex": 32,
           "title": "Finales complejos II",
           "activityPattern": [],
-          "activities": 32
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 7,
+          "unitIndex": 33,
           "title": "Tácticas avanzadas II",
           "activityPattern": [],
-          "activities": 33
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 7,
+          "unitIndex": 34,
           "title": "Finales complejos III",
           "activityPattern": [],
-          "activities": 34
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 7,
+          "unitIndex": 35,
           "title": "Finales de piezas",
           "activityPattern": [],
-          "activities": 35
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 7,
+          "unitIndex": 36,
           "title": "Dominio del jaque mate II",
           "activityPattern": [],
-          "activities": 36
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 7,
+          "unitIndex": 37,
           "title": "Ataques descubiertos avanzados",
           "activityPattern": [],
-          "activities": 37
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 7,
+          "unitIndex": 38,
           "title": "Mates largos",
           "activityPattern": [],
-          "activities": 38
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 7,
+          "unitIndex": 39,
           "title": "Equilibrio estratégico III",
           "activityPattern": [],
-          "activities": 39
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 7,
+          "unitIndex": 40,
           "title": "Estructura de peones",
           "activityPattern": [],
-          "activities": 40
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 7,
+          "unitIndex": 41,
           "title": "Combinaciones tácticas I",
           "activityPattern": [],
-          "activities": 41
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 7,
+          "unitIndex": 42,
           "title": "ventaja de material",
           "activityPattern": [],
-          "activities": 42
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 7,
+          "unitIndex": 43,
           "title": "Equilibrio estratégico IV",
           "activityPattern": [],
-          "activities": 43
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 7,
+          "unitIndex": 44,
           "title": "Principios de apertura",
           "activityPattern": [],
-          "activities": 44
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 7,
+          "unitIndex": 45,
           "title": "Tácticas de remontada",
           "activityPattern": [],
-          "activities": 45
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 7,
+          "unitIndex": 46,
           "title": "Finura en el final",
           "activityPattern": [],
-          "activities": 46
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 7,
+          "unitIndex": 47,
           "title": "Combinaciones tácticas II",
           "activityPattern": [],
-          "activities": 47
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 7,
+          "unitIndex": 48,
           "title": "Tácticas avanzadas III",
-          "activityPattern": [
-            2026,
-            9,
-            12
-          ],
-          "activities": 2047
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
         }
       ]
     }

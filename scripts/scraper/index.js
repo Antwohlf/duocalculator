@@ -8,7 +8,7 @@
  */
 
 import { parseArgs } from 'node:util';
-import { mkdir, writeFile, readFile, access } from 'node:fs/promises';
+import { mkdir, writeFile, readFile, access, readdir, unlink } from 'node:fs/promises';
 import { join, dirname, resolve } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { createHash } from 'node:crypto';
@@ -20,7 +20,8 @@ import { parseCourseList, parseCourseDetail, parseDailyNews } from './parsers.js
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const REMOTE_BASE = 'https://duolingodata.com/';
-const SCHEMA_VERSION = '1.0.0';
+const SCHEMA_VERSION = '2.0.0';
+const PARSER_VERSION = 3;
 
 async function fileExists(path) {
   try {
@@ -129,8 +130,12 @@ async function main() {
           const existing = JSON.parse(await readFile(existingPath, 'utf8'));
           
           // Force rescrape if detailHref changed (URL structure changed)
-          if (existing.meta?.detailHref !== course.detailHref) {
-            console.log(`   🔄 ${key}: detailHref changed, forcing rescrape`);
+          if (existing.meta?.detailHref !== course.detailHref ||
+              existing.meta?.parserVersion !== PARSER_VERSION ||
+              existing.meta?.indexUnitsCount !== course.unitsCount ||
+              existing.meta?.indexLessonsCount !== course.lessonsCount ||
+              existing.meta?.key !== key) {
+            console.log(`   🔄 ${key}: source metadata or parser changed, forcing rescrape`);
             rescrapeCount++;
           } else {
             // Skip if scraped within last 6 days
@@ -179,6 +184,10 @@ async function main() {
           level: course.level,
           levelShort: course.levelShort,
           detailHref: course.detailHref,
+          parserVersion: PARSER_VERSION,
+          indexUnitsCount: course.unitsCount,
+          indexLessonsCount: course.lessonsCount,
+          sourceSectionCounts: detail.sourceSectionCounts || null,
           detailHrefHash: `sha256:${detailHrefHash}`,
           scrapeWarnings: detail.warnings || [],
           schemaVersion: SCHEMA_VERSION,
@@ -208,6 +217,17 @@ async function main() {
   console.log(`   Rescraped (changed): ${rescrapeCount}`);
   console.log(`   Failed: ${failedCourses.length}`);
   console.log('');
+  if (failedCourses.length) {
+    throw new Error(`${failedCourses.length} course details failed; refusing to publish partial data`);
+  }
+
+  // Remove details no longer referenced by the current course index.
+  const activeKeys = new Set(coursesWithDetail.map((course) => extractKey(course.detailHref)));
+  for (const file of await readdir(coursesDir)) {
+    if (file.endsWith('.json') && !activeKeys.has(file.slice(0, -5))) {
+      await unlink(join(coursesDir, file));
+    }
+  }
 
   // ─────────────────────────────────────────────────────────────────────────
   // 3. Fetch daily news
@@ -310,12 +330,10 @@ function extractKey(href) {
 
 function buildSyntheticDetail(course, parsedDetail) {
   const unitsCount = Math.max(1, parsedDetail?.totals?.units || course.unitsCount || 1);
-  const totalActivities = Math.max(
-    unitsCount,
-    parsedDetail?.totals?.activities || course.lessonsCount || unitsCount * 10,
-  );
-  const perUnitBase = Math.max(1, Math.floor(totalActivities / unitsCount));
-  let remaining = totalActivities - perUnitBase * unitsCount;
+  const totalActivities = Number.isFinite(course.lessonsCount) && course.lessonsCount >= unitsCount
+    ? course.lessonsCount : null;
+  const perUnitBase = totalActivities === null ? null : Math.floor(totalActivities / unitsCount);
+  let remaining = totalActivities === null ? 0 : totalActivities - perUnitBase * unitsCount;
   const unitsPerSection = 10;
   const sections = [];
   let unitIndex = 1;
@@ -328,10 +346,11 @@ function buildSyntheticDetail(course, parsedDetail) {
       if (remaining > 0) remaining -= 1;
       units.push({
         sectionIndex,
-        unitIndex,
+        unitIndex: i + 1,
         title: `Unit ${unitIndex}`,
         activityPattern: [],
-        activities: perUnitBase + extra,
+        activities: perUnitBase === null ? null : perUnitBase + extra,
+        estimated: true,
       });
       unitIndex += 1;
     }

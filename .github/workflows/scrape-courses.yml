@@ -3,8 +3,8 @@
 # 
 # Features:
 # - Weekly cron schedule (Sunday 3 AM UTC)
-# - Manual trigger with full-refresh option
-# - Validation gates commits (error threshold check)
+# - Weekly and manual runs fully refresh every linked detail page
+# - Strict cross-file validation gates commits
 # - Rollback support via data-stable tag
 # - Automatic issue creation on failure
 
@@ -15,11 +15,6 @@ on:
     # Every Sunday at 3:00 AM UTC
     - cron: '0 3 * * 0'
   workflow_dispatch:
-    inputs:
-      full_refresh:
-        description: 'Force full refresh of all courses'
-        type: boolean
-        default: false
 
 permissions:
   contents: write
@@ -57,7 +52,7 @@ jobs:
           node index.js \
             --output ../../data \
             --rate-limit 500 \
-            --full-refresh ${{ inputs.full_refresh || 'false' }}
+            --full-refresh true
         env:
           USER_AGENT: 'duocalculator-scraper/1.0 (+https://github.com/${{ github.repository }})'
 
@@ -65,7 +60,7 @@ jobs:
         id: validate
         working-directory: scripts/scraper
         run: |
-          node validate.js --data ../../data --error-threshold 10
+          node validate.js --data ../../data --error-threshold 0
           echo "passed=true" >> $GITHUB_OUTPUT
           echo "error_count=0" >> $GITHUB_OUTPUT
 
@@ -126,7 +121,7 @@ jobs:
       - name: Skip commit on validation failure
         if: steps.validate.outputs.passed != 'true'
         run: |
-          echo "❌ Data validation failed (error rate >10%). Skipping commit."
+          echo "❌ Data validation failed. Skipping commit."
           echo "Previous stable data retained. Manual review required."
           exit 1
 
@@ -159,7 +154,7 @@ jobs:
           
           echo "" >> $GITHUB_STEP_SUMMARY
           echo "**Trigger:** ${{ github.event_name }}" >> $GITHUB_STEP_SUMMARY
-          echo "**Full refresh:** ${{ inputs.full_refresh || 'false' }}" >> $GITHUB_STEP_SUMMARY
+          echo "**Full refresh:** true" >> $GITHUB_STEP_SUMMARY
 
   notify-on-failure:
     needs: scrape

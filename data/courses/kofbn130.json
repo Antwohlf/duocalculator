@@ -2,25 +2,33 @@
   "meta": {
     "key": "kofbn130",
     "courseTitle": "Bengali → Korean",
-    "scrapedAt": "2026-09-20T08:18:37.233Z",
+    "scrapedAt": "2026-09-26T14:26:32.057Z",
     "sourceHash": "sha256:5a1463d6be0fac16",
     "fromLang": "Bengali",
     "toLang": "Korean",
     "fromCode": "bn",
     "toCode": "ko",
-    "level": null,
-    "levelShort": null,
+    "level": "CEFR টি বিভিন্ন পাঠের",
+    "levelShort": "টি বিভিন্ন পাঠের",
     "detailHref": "https://duolingodata.com/dat/kofbn130.html",
+    "parserVersion": 3,
+    "indexUnitsCount": 130,
+    "indexLessonsCount": 2953,
+    "sourceSectionCounts": [
+      10,
+      30,
+      30,
+      60
+    ],
     "detailHrefHash": "sha256:bf53eb33bbde853c",
     "scrapeWarnings": [
-      "No sections parsed, using meta.unitsCount",
-      "No activities parsed, using meta.lessonsCount",
-      "No sections parsed, generated synthetic units from course totals"
+      "Section sizes aligned with current course summary",
+      "Per-unit lesson counts estimated from course total"
     ],
-    "schemaVersion": "1.0.0"
+    "schemaVersion": "2.0.0"
   },
   "totals": {
-    "sections": 13,
+    "sections": 4,
     "activities": 2953,
     "units": 130,
     "estimated": true
@@ -29,1027 +37,1076 @@
     {
       "sectionIndex": 1,
       "unitCount": 10,
-      "title": "",
-      "rawTitle": "",
-      "cefr": "",
+      "title": "CEFR Intro:",
+      "rawTitle": "CEFR Intro:",
+      "cefr": "INTRO:",
       "units": [
         {
           "sectionIndex": 1,
           "unitIndex": 1,
-          "title": "Unit 1",
+          "title": "ক্যাফেতে অর্ডার করা",
           "activityPattern": [],
-          "activities": 23
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
           "unitIndex": 2,
-          "title": "Unit 2",
+          "title": "খাবার ও পানীয় অর্ডার করা",
           "activityPattern": [],
-          "activities": 23
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
           "unitIndex": 3,
-          "title": "Unit 3",
+          "title": "Possessive pronouns ও adjective-এর ব্যবহার",
           "activityPattern": [],
-          "activities": 23
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
           "unitIndex": 4,
-          "title": "Unit 4",
+          "title": "পরিচয় আদান প্রদান করা",
           "activityPattern": [],
-          "activities": 23
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
           "unitIndex": 5,
-          "title": "Unit 5",
+          "title": "বয়স নিয়ে কথা বলা",
           "activityPattern": [],
-          "activities": 23
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
           "unitIndex": 6,
-          "title": "Unit 6",
+          "title": "খাবার নিয়ে প্রশ্ন করা",
           "activityPattern": [],
-          "activities": 23
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
           "unitIndex": 7,
-          "title": "Unit 7",
+          "title": "জন্মদিন উদযাপন করা",
           "activityPattern": [],
-          "activities": 23
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
           "unitIndex": 8,
-          "title": "Unit 8",
+          "title": "নিজের শখ নিয়ে কথা বলা",
           "activityPattern": [],
-          "activities": 23
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
           "unitIndex": 9,
-          "title": "Unit 9",
+          "title": "দিকনির্দেশনা জিজ্ঞাসা করা",
           "activityPattern": [],
-          "activities": 23
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
           "unitIndex": 10,
-          "title": "Unit 10",
+          "title": "স্পোর্টস ইভেন্ট উপভোগ করা",
           "activityPattern": [],
-          "activities": 23
+          "activities": 23,
+          "estimated": true
         }
       ]
     },
     {
       "sectionIndex": 2,
-      "unitCount": 10,
-      "title": "",
-      "rawTitle": "",
-      "cefr": "",
+      "unitCount": 30,
+      "title": ":",
+      "rawTitle": "CEFR A1:",
+      "cefr": "A1",
       "units": [
         {
           "sectionIndex": 2,
-          "unitIndex": 11,
-          "title": "Unit 11",
+          "unitIndex": 1,
+          "title": "বিমানবন্দরে পথ খোঁজা",
           "activityPattern": [],
-          "activities": 23
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "নিজের শহর নিয়ে কথা বলা",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 3,
+          "title": "আবহাওয়া নিয়ে আলাপ করা",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 4,
+          "title": "নতুন বাড়ি খোঁজা",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 5,
+          "title": "নতুন বন্ধুদের সাথে পরিচিত হওয়া",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 6,
+          "title": "অবস্থান ও গন্তব্যস্থলের বর্ণনা দেয়া",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 7,
+          "title": "নিজের বাড়ি বর্ণনা দেয়া",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 8,
+          "title": "বড়দিনের উৎসব উদযাপন করা",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 9,
+          "title": "Present tense-এর ব্যবহার",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 10,
+          "title": "সিনেমা দেখা উপভোগ করা",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 11,
+          "title": "লাইব্রেরি পরিদর্শন করা",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
           "unitIndex": 12,
-          "title": "Unit 12",
+          "title": "স্থানীয় পরিবহন ব্যবহার করা",
           "activityPattern": [],
-          "activities": 23
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
           "unitIndex": 13,
-          "title": "Unit 13",
+          "title": "Noun-এর বর্ণনায় Adjective-এর ব্যবহার",
           "activityPattern": [],
-          "activities": 23
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
           "unitIndex": 14,
-          "title": "Unit 14",
+          "title": "স্বাস্থ্য বিষয়ক আলোচনা",
           "activityPattern": [],
-          "activities": 23
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
           "unitIndex": 15,
-          "title": "Unit 15",
+          "title": "ক্যাম্পাস জীবনের গতিবিধি",
           "activityPattern": [],
-          "activities": 23
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
           "unitIndex": 16,
-          "title": "Unit 16",
+          "title": "পোশাক ও জিনিসপত্র কেনাকাটা করা",
           "activityPattern": [],
-          "activities": 23
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
           "unitIndex": 17,
-          "title": "Unit 17",
+          "title": "Imperative mood-এর ব্যবহার",
           "activityPattern": [],
-          "activities": 23
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
           "unitIndex": 18,
-          "title": "Unit 18",
+          "title": "Formal commands ব্যবহার করা",
           "activityPattern": [],
-          "activities": 23
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
           "unitIndex": 19,
-          "title": "Unit 19",
+          "title": "Chuseok উৎসব উদযাপনের পরিকল্পনা",
           "activityPattern": [],
-          "activities": 23
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
           "unitIndex": 20,
-          "title": "Unit 20",
+          "title": "Future tense-এর ব্যবহার",
           "activityPattern": [],
-          "activities": 23
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 21,
+          "title": "পছন্দ অপছন্দ প্রকাশ করা",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 22,
+          "title": "কেন কিছু করতে পারছেন না তা ব্যাখ্যা করা",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 23,
+          "title": "Past tense-এর ব্যবহার",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 24,
+          "title": "কারো স্বাস্থ্যের খোঁজ খবর নেয়া",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 25,
+          "title": "খেলার বিষয়ে আলাপ করা",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 26,
+          "title": "সময়ের অভিব্যক্তি ব্যবহার করা",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 27,
+          "title": "পরীক্ষা ও পড়ার অভ্যাস নিয়ে আলোচনা করা",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 28,
+          "title": "আবহাওয়া নিয়ে আলাপ করা",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 29,
+          "title": "পছন্দ অপছন্দ প্রকাশ করা",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 30,
+          "title": "কনভেনিয়েন্স স্টোরে কেনাকাটা করা",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
         }
       ]
     },
     {
       "sectionIndex": 3,
-      "unitCount": 10,
-      "title": "",
-      "rawTitle": "",
-      "cefr": "",
+      "unitCount": 30,
+      "title": ":",
+      "rawTitle": "CEFR A1:",
+      "cefr": "A1",
       "units": [
         {
           "sectionIndex": 3,
-          "unitIndex": 21,
-          "title": "Unit 21",
+          "unitIndex": 1,
+          "title": "স্থানের বর্ণনায় preposition ব্যবহার করা",
           "activityPattern": [],
-          "activities": 23
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 2,
+          "title": "সঙ্গীর সাথে দৈনন্দিন জীবন শেয়ার করা",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "সামাজিক কার্যক্রম পরিকল্পনা করা",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 4,
+          "title": "সম্পর্ক নিয়ে আলোচনা করা",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 5,
+          "title": "নেতিবাচক বাক্য গঠন করা",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 6,
+          "title": "নিজের সময়সূচী নিয়ে আলোচনা করা",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 7,
+          "title": "কাজের সময়সূচী ম্যানেজ করা",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 8,
+          "title": "বিদেশে পড়াশোনা বিষয়ে আলোচনা করা",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 9,
+          "title": "Object-এর বর্ণনায় adjective-এর ব্যবহার",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 10,
+          "title": "কোন সমস্যা রিপোর্ট করা",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 11,
+          "title": "দিকনির্দেশনা জিজ্ঞাসা করা",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 12,
+          "title": "ক্ষমা প্রার্থনা করা",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 13,
+          "title": "পোশাক কেনাকাটা করা",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 14,
+          "title": "স্বাস্থ্য সমস্যা ম্যানেজ করা",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 15,
+          "title": "Comparatives এবং superlatives-এর ব্যবহার",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 16,
+          "title": "ভ্রমণের অভিজ্ঞতা শেয়ার করা",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 17,
+          "title": "মেডিকেল হেল্প নেয়া",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 18,
+          "title": "পার্টির জন্য প্রস্তুতি নেয়া",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 19,
+          "title": "পরামর্শ ও প্রস্তাব দেয়া",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 20,
+          "title": "ইচ্ছা প্রকাশ করার জন্য \"-래요\" ব্যবহার করা",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 21,
+          "title": "পরীক্ষার অভিজ্ঞতা নিয়ে আলোচনা করা",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
           "unitIndex": 22,
-          "title": "Unit 22",
+          "title": "পারিবারিক বৈশিষ্ট্য বর্ণনা করা",
           "activityPattern": [],
-          "activities": 23
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
           "unitIndex": 23,
-          "title": "Unit 23",
+          "title": "নিজের ক্যারিয়ার লক্ষ্য নিয়ে আলোচনা করা",
           "activityPattern": [],
-          "activities": 23
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
           "unitIndex": 24,
-          "title": "Unit 24",
+          "title": "ইচ্ছা ও পছন্দ প্রকাশ করা",
           "activityPattern": [],
-          "activities": 23
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
           "unitIndex": 25,
-          "title": "Unit 25",
+          "title": "দক্ষতা ও মাইলস্টোন নিয়ে আলোচনা করা",
           "activityPattern": [],
-          "activities": 23
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
           "unitIndex": 26,
-          "title": "Unit 26",
+          "title": "ভ্রমণের নির্দেশনা অনুসরণ করা",
           "activityPattern": [],
-          "activities": 23
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
           "unitIndex": 27,
-          "title": "Unit 27",
+          "title": "ক্যাফেতে কাজ করা",
           "activityPattern": [],
-          "activities": 23
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
           "unitIndex": 28,
-          "title": "Unit 28",
+          "title": "চিড়িয়াখানা ভ্রমণ করা",
           "activityPattern": [],
-          "activities": 23
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
           "unitIndex": 29,
-          "title": "Unit 29",
+          "title": "বন্ধুদের সাথে রান্না করা",
           "activityPattern": [],
-          "activities": 23
+          "activities": 23,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
           "unitIndex": 30,
-          "title": "Unit 30",
+          "title": "পোশাক কেনাকাটা করা",
           "activityPattern": [],
-          "activities": 23
+          "activities": 23,
+          "estimated": true
         }
       ]
     },
     {
       "sectionIndex": 4,
-      "unitCount": 10,
-      "title": "",
-      "rawTitle": "",
-      "cefr": "",
+      "unitCount": 60,
+      "title": ":",
+      "rawTitle": "CEFR A2:",
+      "cefr": "A2",
       "units": [
         {
           "sectionIndex": 4,
-          "unitIndex": 31,
-          "title": "Unit 31",
+          "unitIndex": 1,
+          "title": "দাদু-দিদার দৈনন্দিন কাজ নিয়ে কথা",
           "activityPattern": [],
-          "activities": 23
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 2,
+          "title": "ভিডিও কল সহজে পরিচালনা করা",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 3,
+          "title": "কঠিন অভিজ্ঞতা শেয়ার করা",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "ছাড়কৃত মূল্যে পোশাক কেনা",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "ভদ্রভাবে দ্বিমত প্রকাশ করা",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "আসবাবপত্র কেনাকাটা করা",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "স্বাস্থ্য অভ্যাস আলোচনা করা",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "প্রযুক্তি সমস্যা সমাধান",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 9,
+          "title": "কোরিয়ান রান্না একসাথে করা",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 10,
+          "title": "আত্ম-যত্নের রুটিন আলোচনা",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 11,
+          "title": "আইন ও নিরাপত্তা প্রোটোকল আলোচনা",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 12,
+          "title": "আন্তর্জাতিক খাবার নিয়ে আলোচনা",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 13,
+          "title": "ছুটির উৎসব পরিকল্পনা করা",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 14,
+          "title": "পশুচিকিৎসক দেখানোর সময় ঠিক করা",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 15,
+          "title": "ভ্রমণের অভিজ্ঞতা শেয়ার করা",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 16,
+          "title": "বাসস্থানের বিকল্প তুলনা করা",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 17,
+          "title": "স্টাইলিশ আনুষঙ্গিক বাছাই করা",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 18,
+          "title": "ব্যবসায়িক ব্যাংকিং বিকল্প আলোচনা",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 19,
+          "title": "শ্রেণীকক্ষ পরিচালনায় সহায়তা করা",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 20,
+          "title": "উদযাপনের খাবার পরিকল্পনা করা",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 21,
+          "title": "কোরিয়ান ভাষায় ভ্রমণ পরিস্থিতি সামলানো",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 22,
+          "title": "আপনার দৈনন্দিন রুটিন বর্ণনা করুন",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 23,
+          "title": "স্কুলে আবেদন করা",
+          "activityPattern": [],
+          "activities": 23,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 24,
+          "title": "বিশেষ দিন উদযাপন করা",
+          "activityPattern": [],
+          "activities": 22,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 25,
+          "title": "পারিবারিক ইতিহাস আলোচনা",
+          "activityPattern": [],
+          "activities": 22,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 26,
+          "title": "অতীতের আকাঙ্ক্ষা আলোচনা করা",
+          "activityPattern": [],
+          "activities": 22,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 27,
+          "title": "খাবারের পছন্দ নিয়ে আলোচনা",
+          "activityPattern": [],
+          "activities": 22,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 28,
+          "title": "খামারের পশু নিয়ে আলোচনা",
+          "activityPattern": [],
+          "activities": 22,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 29,
+          "title": "সাংস্কৃতিক ব্যক্তিত্ব তুলনা",
+          "activityPattern": [],
+          "activities": 22,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 30,
+          "title": "ক্রুজ ভ্রমণ পরিচালনা করা",
+          "activityPattern": [],
+          "activities": 22,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 31,
+          "title": "আপনার শিশুকে সান্ত্বনা দিন",
+          "activityPattern": [],
+          "activities": 22,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
           "unitIndex": 32,
-          "title": "Unit 32",
+          "title": "ভাইবোনের সঙ্গে কেনাকাটা নিয়ে আলোচনা",
           "activityPattern": [],
-          "activities": 23
+          "activities": 22,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
           "unitIndex": 33,
-          "title": "Unit 33",
+          "title": "পুনর্মিলনী আয়োজন করা",
           "activityPattern": [],
-          "activities": 23
+          "activities": 22,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
           "unitIndex": 34,
-          "title": "Unit 34",
+          "title": "দাঁতের সমস্যায় পরামর্শ নেওয়া",
           "activityPattern": [],
-          "activities": 23
+          "activities": 22,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
           "unitIndex": 35,
-          "title": "Unit 35",
+          "title": "কোরিয়ান সংস্কৃতি আলোচনা",
           "activityPattern": [],
-          "activities": 23
+          "activities": 22,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
           "unitIndex": 36,
-          "title": "Unit 36",
+          "title": "বন্ধুদের গল্প শেয়ার করা",
           "activityPattern": [],
-          "activities": 23
+          "activities": 22,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
           "unitIndex": 37,
-          "title": "Unit 37",
+          "title": "ব্যবসায়িক মিটিংয়ের ফ্রিকোয়েন্সি আলোচনা",
           "activityPattern": [],
-          "activities": 23
+          "activities": 22,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
           "unitIndex": 38,
-          "title": "Unit 38",
+          "title": "ফুটবল ক্যারিয়ার লক্ষ্য আলোচনা",
           "activityPattern": [],
-          "activities": 23
+          "activities": 22,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
           "unitIndex": 39,
-          "title": "Unit 39",
+          "title": "রেস্তোরাঁর সমস্যা সামলানো",
           "activityPattern": [],
-          "activities": 23
+          "activities": 22,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
           "unitIndex": 40,
-          "title": "Unit 40",
+          "title": "নগর উন্নয়ন সমস্যা আলোচনা",
           "activityPattern": [],
-          "activities": 23
-        }
-      ]
-    },
-    {
-      "sectionIndex": 5,
-      "unitCount": 10,
-      "title": "",
-      "rawTitle": "",
-      "cefr": "",
-      "units": [
+          "activities": 22,
+          "estimated": true
+        },
         {
-          "sectionIndex": 5,
+          "sectionIndex": 4,
           "unitIndex": 41,
-          "title": "Unit 41",
+          "title": "পুরস্কারপ্রাপ্তদের অভিনন্দন জানানো",
           "activityPattern": [],
-          "activities": 23
+          "activities": 22,
+          "estimated": true
         },
         {
-          "sectionIndex": 5,
+          "sectionIndex": 4,
           "unitIndex": 42,
-          "title": "Unit 42",
+          "title": "পোশাক বিপত্তি আলোচনা করা",
           "activityPattern": [],
-          "activities": 23
+          "activities": 22,
+          "estimated": true
         },
         {
-          "sectionIndex": 5,
+          "sectionIndex": 4,
           "unitIndex": 43,
-          "title": "Unit 43",
+          "title": "পাড়ার পরিষ্কার কৌশল আলোচনা",
           "activityPattern": [],
-          "activities": 23
+          "activities": 22,
+          "estimated": true
         },
         {
-          "sectionIndex": 5,
+          "sectionIndex": 4,
           "unitIndex": 44,
-          "title": "Unit 44",
+          "title": "নতুন প্রতিবেশীদের সাথে মিশুন",
           "activityPattern": [],
-          "activities": 23
+          "activities": 22,
+          "estimated": true
         },
         {
-          "sectionIndex": 5,
+          "sectionIndex": 4,
           "unitIndex": 45,
-          "title": "Unit 45",
+          "title": "শিল্পের পছন্দ আলোচনা",
           "activityPattern": [],
-          "activities": 23
+          "activities": 22,
+          "estimated": true
         },
         {
-          "sectionIndex": 5,
+          "sectionIndex": 4,
           "unitIndex": 46,
-          "title": "Unit 46",
+          "title": "জরুরি বাক্য বা শব্দগুচ্ছ শেখা",
           "activityPattern": [],
-          "activities": 23
+          "activities": 22,
+          "estimated": true
         },
         {
-          "sectionIndex": 5,
+          "sectionIndex": 4,
           "unitIndex": 47,
-          "title": "Unit 47",
+          "title": "অফিসের ভূমিকা ও প্রক্রিয়া আলোচনা",
           "activityPattern": [],
-          "activities": 23
+          "activities": 22,
+          "estimated": true
         },
         {
-          "sectionIndex": 5,
+          "sectionIndex": 4,
           "unitIndex": 48,
-          "title": "Unit 48",
+          "title": "ব্যবসায়িক প্রতিবেদন লিখতে",
           "activityPattern": [],
-          "activities": 23
+          "activities": 22,
+          "estimated": true
         },
         {
-          "sectionIndex": 5,
+          "sectionIndex": 4,
           "unitIndex": 49,
-          "title": "Unit 49",
+          "title": "কাজের বিষয় আলোচনা করা",
           "activityPattern": [],
-          "activities": 23
+          "activities": 22,
+          "estimated": true
         },
         {
-          "sectionIndex": 5,
+          "sectionIndex": 4,
           "unitIndex": 50,
-          "title": "Unit 50",
+          "title": "কলেজের লক্ষ্য নিয়ে আলোচনা",
           "activityPattern": [],
-          "activities": 23
-        }
-      ]
-    },
-    {
-      "sectionIndex": 6,
-      "unitCount": 10,
-      "title": "",
-      "rawTitle": "",
-      "cefr": "",
-      "units": [
+          "activities": 22,
+          "estimated": true
+        },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 51,
-          "title": "Unit 51",
+          "title": "বক্সিং কৌশল ও পদ্ধতি আলোচনা",
           "activityPattern": [],
-          "activities": 23
+          "activities": 22,
+          "estimated": true
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 52,
-          "title": "Unit 52",
+          "title": "পুনরুদ্ধার প্রচেষ্টা সমন্বয় করা",
           "activityPattern": [],
-          "activities": 23
+          "activities": 22,
+          "estimated": true
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 53,
-          "title": "Unit 53",
+          "title": "মাছ ধরার ভ্রমণ পরিকল্পনা করা",
           "activityPattern": [],
-          "activities": 23
+          "activities": 22,
+          "estimated": true
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 54,
-          "title": "Unit 54",
+          "title": "ব্যক্তিগত ইতিহাস আলোচনা করা",
           "activityPattern": [],
-          "activities": 23
+          "activities": 22,
+          "estimated": true
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 55,
-          "title": "Unit 55",
+          "title": "চিড়িয়াখানায় স্বেচ্ছাসেবক হওয়া",
           "activityPattern": [],
-          "activities": 23
+          "activities": 22,
+          "estimated": true
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 56,
-          "title": "Unit 56",
+          "title": "ট্যালেন্ট শো আয়োজন করা",
           "activityPattern": [],
-          "activities": 23
+          "activities": 22,
+          "estimated": true
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 57,
-          "title": "Unit 57",
+          "title": "একটি ক্রীড়া ক্লাবে যোগদান করুন",
           "activityPattern": [],
-          "activities": 23
+          "activities": 22,
+          "estimated": true
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 58,
-          "title": "Unit 58",
+          "title": "একসাথে পোশাক কেনা",
           "activityPattern": [],
-          "activities": 23
+          "activities": 22,
+          "estimated": true
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 59,
-          "title": "Unit 59",
+          "title": "পারিবারিক গল্প শেয়ার করা",
           "activityPattern": [],
-          "activities": 23
+          "activities": 22,
+          "estimated": true
         },
         {
-          "sectionIndex": 6,
+          "sectionIndex": 4,
           "unitIndex": 60,
-          "title": "Unit 60",
+          "title": "ব্যক্তিগত অভিজ্ঞতা ও গল্প শেয়ার করা",
           "activityPattern": [],
-          "activities": 23
-        }
-      ]
-    },
-    {
-      "sectionIndex": 7,
-      "unitCount": 10,
-      "title": "",
-      "rawTitle": "",
-      "cefr": "",
-      "units": [
-        {
-          "sectionIndex": 7,
-          "unitIndex": 61,
-          "title": "Unit 61",
-          "activityPattern": [],
-          "activities": 23
-        },
-        {
-          "sectionIndex": 7,
-          "unitIndex": 62,
-          "title": "Unit 62",
-          "activityPattern": [],
-          "activities": 23
-        },
-        {
-          "sectionIndex": 7,
-          "unitIndex": 63,
-          "title": "Unit 63",
-          "activityPattern": [],
-          "activities": 23
-        },
-        {
-          "sectionIndex": 7,
-          "unitIndex": 64,
-          "title": "Unit 64",
-          "activityPattern": [],
-          "activities": 23
-        },
-        {
-          "sectionIndex": 7,
-          "unitIndex": 65,
-          "title": "Unit 65",
-          "activityPattern": [],
-          "activities": 23
-        },
-        {
-          "sectionIndex": 7,
-          "unitIndex": 66,
-          "title": "Unit 66",
-          "activityPattern": [],
-          "activities": 23
-        },
-        {
-          "sectionIndex": 7,
-          "unitIndex": 67,
-          "title": "Unit 67",
-          "activityPattern": [],
-          "activities": 23
-        },
-        {
-          "sectionIndex": 7,
-          "unitIndex": 68,
-          "title": "Unit 68",
-          "activityPattern": [],
-          "activities": 23
-        },
-        {
-          "sectionIndex": 7,
-          "unitIndex": 69,
-          "title": "Unit 69",
-          "activityPattern": [],
-          "activities": 23
-        },
-        {
-          "sectionIndex": 7,
-          "unitIndex": 70,
-          "title": "Unit 70",
-          "activityPattern": [],
-          "activities": 23
-        }
-      ]
-    },
-    {
-      "sectionIndex": 8,
-      "unitCount": 10,
-      "title": "",
-      "rawTitle": "",
-      "cefr": "",
-      "units": [
-        {
-          "sectionIndex": 8,
-          "unitIndex": 71,
-          "title": "Unit 71",
-          "activityPattern": [],
-          "activities": 23
-        },
-        {
-          "sectionIndex": 8,
-          "unitIndex": 72,
-          "title": "Unit 72",
-          "activityPattern": [],
-          "activities": 23
-        },
-        {
-          "sectionIndex": 8,
-          "unitIndex": 73,
-          "title": "Unit 73",
-          "activityPattern": [],
-          "activities": 23
-        },
-        {
-          "sectionIndex": 8,
-          "unitIndex": 74,
-          "title": "Unit 74",
-          "activityPattern": [],
-          "activities": 23
-        },
-        {
-          "sectionIndex": 8,
-          "unitIndex": 75,
-          "title": "Unit 75",
-          "activityPattern": [],
-          "activities": 23
-        },
-        {
-          "sectionIndex": 8,
-          "unitIndex": 76,
-          "title": "Unit 76",
-          "activityPattern": [],
-          "activities": 23
-        },
-        {
-          "sectionIndex": 8,
-          "unitIndex": 77,
-          "title": "Unit 77",
-          "activityPattern": [],
-          "activities": 23
-        },
-        {
-          "sectionIndex": 8,
-          "unitIndex": 78,
-          "title": "Unit 78",
-          "activityPattern": [],
-          "activities": 23
-        },
-        {
-          "sectionIndex": 8,
-          "unitIndex": 79,
-          "title": "Unit 79",
-          "activityPattern": [],
-          "activities": 23
-        },
-        {
-          "sectionIndex": 8,
-          "unitIndex": 80,
-          "title": "Unit 80",
-          "activityPattern": [],
-          "activities": 23
-        }
-      ]
-    },
-    {
-      "sectionIndex": 9,
-      "unitCount": 10,
-      "title": "",
-      "rawTitle": "",
-      "cefr": "",
-      "units": [
-        {
-          "sectionIndex": 9,
-          "unitIndex": 81,
-          "title": "Unit 81",
-          "activityPattern": [],
-          "activities": 23
-        },
-        {
-          "sectionIndex": 9,
-          "unitIndex": 82,
-          "title": "Unit 82",
-          "activityPattern": [],
-          "activities": 23
-        },
-        {
-          "sectionIndex": 9,
-          "unitIndex": 83,
-          "title": "Unit 83",
-          "activityPattern": [],
-          "activities": 23
-        },
-        {
-          "sectionIndex": 9,
-          "unitIndex": 84,
-          "title": "Unit 84",
-          "activityPattern": [],
-          "activities": 23
-        },
-        {
-          "sectionIndex": 9,
-          "unitIndex": 85,
-          "title": "Unit 85",
-          "activityPattern": [],
-          "activities": 23
-        },
-        {
-          "sectionIndex": 9,
-          "unitIndex": 86,
-          "title": "Unit 86",
-          "activityPattern": [],
-          "activities": 23
-        },
-        {
-          "sectionIndex": 9,
-          "unitIndex": 87,
-          "title": "Unit 87",
-          "activityPattern": [],
-          "activities": 23
-        },
-        {
-          "sectionIndex": 9,
-          "unitIndex": 88,
-          "title": "Unit 88",
-          "activityPattern": [],
-          "activities": 23
-        },
-        {
-          "sectionIndex": 9,
-          "unitIndex": 89,
-          "title": "Unit 89",
-          "activityPattern": [],
-          "activities": 23
-        },
-        {
-          "sectionIndex": 9,
-          "unitIndex": 90,
-          "title": "Unit 90",
-          "activityPattern": [],
-          "activities": 23
-        }
-      ]
-    },
-    {
-      "sectionIndex": 10,
-      "unitCount": 10,
-      "title": "",
-      "rawTitle": "",
-      "cefr": "",
-      "units": [
-        {
-          "sectionIndex": 10,
-          "unitIndex": 91,
-          "title": "Unit 91",
-          "activityPattern": [],
-          "activities": 23
-        },
-        {
-          "sectionIndex": 10,
-          "unitIndex": 92,
-          "title": "Unit 92",
-          "activityPattern": [],
-          "activities": 23
-        },
-        {
-          "sectionIndex": 10,
-          "unitIndex": 93,
-          "title": "Unit 93",
-          "activityPattern": [],
-          "activities": 23
-        },
-        {
-          "sectionIndex": 10,
-          "unitIndex": 94,
-          "title": "Unit 94",
-          "activityPattern": [],
-          "activities": 22
-        },
-        {
-          "sectionIndex": 10,
-          "unitIndex": 95,
-          "title": "Unit 95",
-          "activityPattern": [],
-          "activities": 22
-        },
-        {
-          "sectionIndex": 10,
-          "unitIndex": 96,
-          "title": "Unit 96",
-          "activityPattern": [],
-          "activities": 22
-        },
-        {
-          "sectionIndex": 10,
-          "unitIndex": 97,
-          "title": "Unit 97",
-          "activityPattern": [],
-          "activities": 22
-        },
-        {
-          "sectionIndex": 10,
-          "unitIndex": 98,
-          "title": "Unit 98",
-          "activityPattern": [],
-          "activities": 22
-        },
-        {
-          "sectionIndex": 10,
-          "unitIndex": 99,
-          "title": "Unit 99",
-          "activityPattern": [],
-          "activities": 22
-        },
-        {
-          "sectionIndex": 10,
-          "unitIndex": 100,
-          "title": "Unit 100",
-          "activityPattern": [],
-          "activities": 22
-        }
-      ]
-    },
-    {
-      "sectionIndex": 11,
-      "unitCount": 10,
-      "title": "",
-      "rawTitle": "",
-      "cefr": "",
-      "units": [
-        {
-          "sectionIndex": 11,
-          "unitIndex": 101,
-          "title": "Unit 101",
-          "activityPattern": [],
-          "activities": 22
-        },
-        {
-          "sectionIndex": 11,
-          "unitIndex": 102,
-          "title": "Unit 102",
-          "activityPattern": [],
-          "activities": 22
-        },
-        {
-          "sectionIndex": 11,
-          "unitIndex": 103,
-          "title": "Unit 103",
-          "activityPattern": [],
-          "activities": 22
-        },
-        {
-          "sectionIndex": 11,
-          "unitIndex": 104,
-          "title": "Unit 104",
-          "activityPattern": [],
-          "activities": 22
-        },
-        {
-          "sectionIndex": 11,
-          "unitIndex": 105,
-          "title": "Unit 105",
-          "activityPattern": [],
-          "activities": 22
-        },
-        {
-          "sectionIndex": 11,
-          "unitIndex": 106,
-          "title": "Unit 106",
-          "activityPattern": [],
-          "activities": 22
-        },
-        {
-          "sectionIndex": 11,
-          "unitIndex": 107,
-          "title": "Unit 107",
-          "activityPattern": [],
-          "activities": 22
-        },
-        {
-          "sectionIndex": 11,
-          "unitIndex": 108,
-          "title": "Unit 108",
-          "activityPattern": [],
-          "activities": 22
-        },
-        {
-          "sectionIndex": 11,
-          "unitIndex": 109,
-          "title": "Unit 109",
-          "activityPattern": [],
-          "activities": 22
-        },
-        {
-          "sectionIndex": 11,
-          "unitIndex": 110,
-          "title": "Unit 110",
-          "activityPattern": [],
-          "activities": 22
-        }
-      ]
-    },
-    {
-      "sectionIndex": 12,
-      "unitCount": 10,
-      "title": "",
-      "rawTitle": "",
-      "cefr": "",
-      "units": [
-        {
-          "sectionIndex": 12,
-          "unitIndex": 111,
-          "title": "Unit 111",
-          "activityPattern": [],
-          "activities": 22
-        },
-        {
-          "sectionIndex": 12,
-          "unitIndex": 112,
-          "title": "Unit 112",
-          "activityPattern": [],
-          "activities": 22
-        },
-        {
-          "sectionIndex": 12,
-          "unitIndex": 113,
-          "title": "Unit 113",
-          "activityPattern": [],
-          "activities": 22
-        },
-        {
-          "sectionIndex": 12,
-          "unitIndex": 114,
-          "title": "Unit 114",
-          "activityPattern": [],
-          "activities": 22
-        },
-        {
-          "sectionIndex": 12,
-          "unitIndex": 115,
-          "title": "Unit 115",
-          "activityPattern": [],
-          "activities": 22
-        },
-        {
-          "sectionIndex": 12,
-          "unitIndex": 116,
-          "title": "Unit 116",
-          "activityPattern": [],
-          "activities": 22
-        },
-        {
-          "sectionIndex": 12,
-          "unitIndex": 117,
-          "title": "Unit 117",
-          "activityPattern": [],
-          "activities": 22
-        },
-        {
-          "sectionIndex": 12,
-          "unitIndex": 118,
-          "title": "Unit 118",
-          "activityPattern": [],
-          "activities": 22
-        },
-        {
-          "sectionIndex": 12,
-          "unitIndex": 119,
-          "title": "Unit 119",
-          "activityPattern": [],
-          "activities": 22
-        },
-        {
-          "sectionIndex": 12,
-          "unitIndex": 120,
-          "title": "Unit 120",
-          "activityPattern": [],
-          "activities": 22
-        }
-      ]
-    },
-    {
-      "sectionIndex": 13,
-      "unitCount": 10,
-      "title": "",
-      "rawTitle": "",
-      "cefr": "",
-      "units": [
-        {
-          "sectionIndex": 13,
-          "unitIndex": 121,
-          "title": "Unit 121",
-          "activityPattern": [],
-          "activities": 22
-        },
-        {
-          "sectionIndex": 13,
-          "unitIndex": 122,
-          "title": "Unit 122",
-          "activityPattern": [],
-          "activities": 22
-        },
-        {
-          "sectionIndex": 13,
-          "unitIndex": 123,
-          "title": "Unit 123",
-          "activityPattern": [],
-          "activities": 22
-        },
-        {
-          "sectionIndex": 13,
-          "unitIndex": 124,
-          "title": "Unit 124",
-          "activityPattern": [],
-          "activities": 22
-        },
-        {
-          "sectionIndex": 13,
-          "unitIndex": 125,
-          "title": "Unit 125",
-          "activityPattern": [],
-          "activities": 22
-        },
-        {
-          "sectionIndex": 13,
-          "unitIndex": 126,
-          "title": "Unit 126",
-          "activityPattern": [],
-          "activities": 22
-        },
-        {
-          "sectionIndex": 13,
-          "unitIndex": 127,
-          "title": "Unit 127",
-          "activityPattern": [],
-          "activities": 22
-        },
-        {
-          "sectionIndex": 13,
-          "unitIndex": 128,
-          "title": "Unit 128",
-          "activityPattern": [],
-          "activities": 22
-        },
-        {
-          "sectionIndex": 13,
-          "unitIndex": 129,
-          "title": "Unit 129",
-          "activityPattern": [],
-          "activities": 22
-        },
-        {
-          "sectionIndex": 13,
-          "unitIndex": 130,
-          "title": "Unit 130",
-          "activityPattern": [],
-          "activities": 22
+          "activities": 22,
+          "estimated": true
         }
       ]
     }

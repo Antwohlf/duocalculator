@@ -2,23 +2,36 @@
   "meta": {
     "key": "nlfen123v2",
     "courseTitle": "English → Dutch",
-    "scrapedAt": "2026-09-20T08:18:37.233Z",
+    "scrapedAt": "2026-09-26T14:26:32.057Z",
     "sourceHash": "sha256:73622a7ddc8273e2",
     "fromLang": "English",
     "toLang": "Dutch",
     "fromCode": "en",
     "toCode": "nl",
-    "level": "CEFR INTRO",
-    "levelShort": "INTRO",
+    "level": "CEFR DUTCH FROM ENGLISH",
+    "levelShort": "DUTCH FROM ENGLISH",
     "detailHref": "https://duolingodata.com/dat/nlfen123v2.html",
+    "parserVersion": 3,
+    "indexUnitsCount": 123,
+    "indexLessonsCount": 2039,
+    "sourceSectionCounts": [
+      9,
+      30,
+      30,
+      54
+    ],
     "detailHrefHash": "sha256:89c511bdb2eb82d3",
-    "scrapeWarnings": [],
-    "schemaVersion": "1.0.0"
+    "scrapeWarnings": [
+      "Section sizes aligned with current course summary",
+      "Per-unit lesson counts estimated from course total"
+    ],
+    "schemaVersion": "2.0.0"
   },
   "totals": {
     "sections": 4,
-    "activities": 4440,
-    "units": 123
+    "activities": 2039,
+    "units": 123,
+    "estimated": true
   },
   "sections": [
     {
@@ -33,63 +46,72 @@
           "unitIndex": 1,
           "title": "Use basic phrases",
           "activityPattern": [],
-          "activities": 1
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
-          "unitIndex": 1,
+          "unitIndex": 2,
           "title": "Describe basic contexts",
           "activityPattern": [],
-          "activities": 2
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
-          "unitIndex": 1,
+          "unitIndex": 3,
           "title": "Use common phrases",
           "activityPattern": [],
-          "activities": 3
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
-          "unitIndex": 1,
+          "unitIndex": 4,
           "title": "Form negative phrases",
           "activityPattern": [],
-          "activities": 4
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
-          "unitIndex": 1,
+          "unitIndex": 5,
           "title": "Talk about food",
           "activityPattern": [],
-          "activities": 5
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
-          "unitIndex": 1,
+          "unitIndex": 6,
           "title": "Describe animals",
           "activityPattern": [],
-          "activities": 6
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
-          "unitIndex": 1,
+          "unitIndex": 7,
           "title": "Ask questions",
           "activityPattern": [],
-          "activities": 7
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
-          "unitIndex": 1,
+          "unitIndex": 8,
           "title": "Form the plural",
           "activityPattern": [],
-          "activities": 8
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
-          "unitIndex": 1,
+          "unitIndex": 9,
           "title": "Make comparisons",
           "activityPattern": [],
-          "activities": 9
+          "activities": 17,
+          "estimated": true
         }
       ]
     },
@@ -102,213 +124,243 @@
       "units": [
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 1,
           "title": "Discuss clothes",
           "activityPattern": [],
-          "activities": 1
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
           "unitIndex": 2,
           "title": "Use the present tense",
           "activityPattern": [],
-          "activities": 2
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 3,
           "title": "Describe things",
           "activityPattern": [],
-          "activities": 3
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 4,
           "title": "Use object pronouns",
           "activityPattern": [],
-          "activities": 4
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 5,
           "title": "Talk about possessions",
           "activityPattern": [],
-          "activities": 5
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 6,
           "title": "Connect sentences",
           "activityPattern": [],
-          "activities": 6
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 7,
           "title": "State facts",
           "activityPattern": [],
-          "activities": 7
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 8,
           "title": "Speak formally",
           "activityPattern": [],
-          "activities": 8
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 9,
           "title": "Describe your family",
           "activityPattern": [],
-          "activities": 9
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 10,
           "title": "Use normal word order",
           "activityPattern": [],
-          "activities": 10
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 11,
           "title": "Use reverse word order",
           "activityPattern": [],
-          "activities": 11
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 12,
           "title": "Describe colors",
           "activityPattern": [],
-          "activities": 12
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 13,
           "title": "Use prepositions",
           "activityPattern": [],
-          "activities": 13
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 14,
           "title": "Ask questions",
           "activityPattern": [],
-          "activities": 14
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 15,
           "title": "Use common verbs",
           "activityPattern": [],
-          "activities": 15
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 16,
           "title": "Learn how to count",
           "activityPattern": [],
-          "activities": 16
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 17,
           "title": "Use conjunctions",
           "activityPattern": [],
-          "activities": 17
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 18,
           "title": "Describe position",
           "activityPattern": [],
-          "activities": 18
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 19,
           "title": "Talk about places",
           "activityPattern": [],
-          "activities": 19
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 20,
           "title": "Use adverbs",
           "activityPattern": [],
-          "activities": 20
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 21,
           "title": "Tell time",
           "activityPattern": [],
-          "activities": 21
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 22,
           "title": "Use negative pronouns",
           "activityPattern": [],
-          "activities": 22
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 23,
           "title": "Use your five senses",
           "activityPattern": [],
-          "activities": 23
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 24,
           "title": "Use er",
           "activityPattern": [],
-          "activities": 24
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 25,
           "title": "Talk about jobs",
           "activityPattern": [],
-          "activities": 25
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 26,
           "title": "Use modal verbs",
           "activityPattern": [],
-          "activities": 26
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 27,
           "title": "Describe your home",
           "activityPattern": [],
-          "activities": 27
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 28,
           "title": "Talk about your body",
           "activityPattern": [],
-          "activities": 28
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 29,
           "title": "Discuss activities",
           "activityPattern": [],
-          "activities": 29
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 30,
           "title": "Form bigger numbers",
           "activityPattern": [],
-          "activities": 30
+          "activities": 17,
+          "estimated": true
         }
       ]
     },
@@ -321,213 +373,243 @@
       "units": [
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 1,
           "title": "Use a calendar",
           "activityPattern": [],
-          "activities": 1
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 2,
           "title": "Use the continuous tense",
           "activityPattern": [],
-          "activities": 2
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
           "unitIndex": 3,
           "title": "State facts",
           "activityPattern": [],
-          "activities": 3
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 4,
           "title": "Talk about relatives",
           "activityPattern": [],
-          "activities": 4
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 5,
           "title": "Discuss past events",
           "activityPattern": [],
-          "activities": 5
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 6,
           "title": "Go shopping",
           "activityPattern": [],
-          "activities": 6
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 7,
           "title": "Use separable verbs",
           "activityPattern": [],
-          "activities": 7
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 8,
           "title": "Use te",
           "activityPattern": [],
-          "activities": 8
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 9,
           "title": "Talk about emergencies",
           "activityPattern": [],
-          "activities": 9
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 10,
           "title": "Express your feelings",
           "activityPattern": [],
-          "activities": 10
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 11,
           "title": "Describe people",
           "activityPattern": [],
-          "activities": 11
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 12,
           "title": "Combine nouns",
           "activityPattern": [],
-          "activities": 12
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 13,
           "title": "Give instructions",
           "activityPattern": [],
-          "activities": 13
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 14,
           "title": "Point at things",
           "activityPattern": [],
-          "activities": 14
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 15,
           "title": "Discuss geography",
           "activityPattern": [],
-          "activities": 15
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 16,
           "title": "Give directions",
           "activityPattern": [],
-          "activities": 16
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 17,
           "title": "Learn common phrases",
           "activityPattern": [],
-          "activities": 17
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 18,
           "title": "Use adverbs",
           "activityPattern": [],
-          "activities": 18
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 19,
           "title": "Use pronominal adverbs",
           "activityPattern": [],
-          "activities": 19
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 20,
           "title": "Discuss health",
           "activityPattern": [],
-          "activities": 20
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 21,
           "title": "Conjugate strong verbs",
           "activityPattern": [],
-          "activities": 21
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 22,
           "title": "Talk about food",
           "activityPattern": [],
-          "activities": 22
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 23,
           "title": "Use diminutives",
           "activityPattern": [],
-          "activities": 23
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 24,
           "title": "Go on a trip",
           "activityPattern": [],
-          "activities": 24
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 25,
           "title": "Talk about the past",
           "activityPattern": [],
-          "activities": 25
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 26,
           "title": "Use reflexive verbs",
           "activityPattern": [],
-          "activities": 26
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 27,
           "title": "Describe other people",
           "activityPattern": [],
-          "activities": 27
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 28,
           "title": "State facts",
           "activityPattern": [],
-          "activities": 28
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 29,
           "title": "Describe a bathroom",
           "activityPattern": [],
-          "activities": 29
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 30,
           "title": "Reflect on past events",
           "activityPattern": [],
-          "activities": 30
+          "activities": 17,
+          "estimated": true
         }
       ]
     },
@@ -540,384 +622,435 @@
       "units": [
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 1,
           "title": "Discuss nature",
           "activityPattern": [],
-          "activities": 1
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 2,
           "title": "Talk about traffic",
           "activityPattern": [],
-          "activities": 2
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 3,
           "title": "Discuss communication",
           "activityPattern": [],
-          "activities": 3
+          "activities": 16,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
           "unitIndex": 4,
           "title": "Describe buildings",
           "activityPattern": [],
-          "activities": 4
+          "activities": 16,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 5,
           "title": "Discuss future events",
           "activityPattern": [],
-          "activities": 5
+          "activities": 16,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 6,
           "title": "Talk about free time",
           "activityPattern": [],
-          "activities": 6
+          "activities": 16,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 7,
           "title": "Compare things",
           "activityPattern": [],
-          "activities": 7
+          "activities": 16,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 8,
           "title": "Describe a kitchen",
           "activityPattern": [],
-          "activities": 8
+          "activities": 16,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 9,
           "title": "Say what it is made of",
           "activityPattern": [],
-          "activities": 9
+          "activities": 16,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 10,
           "title": "Talk about school",
           "activityPattern": [],
-          "activities": 10
+          "activities": 16,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 11,
           "title": "Use relative pronouns",
           "activityPattern": [],
-          "activities": 11
+          "activities": 16,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 12,
           "title": "Describe the weather",
           "activityPattern": [],
-          "activities": 12
+          "activities": 16,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 13,
           "title": "Talk about language",
           "activityPattern": [],
-          "activities": 13
+          "activities": 16,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 14,
           "title": "Discuss the past",
           "activityPattern": [],
-          "activities": 14
+          "activities": 16,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 15,
           "title": "Talk about technology",
           "activityPattern": [],
-          "activities": 15
+          "activities": 16,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 16,
           "title": "Use passive verbs",
           "activityPattern": [],
-          "activities": 16
+          "activities": 16,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 17,
           "title": "Discuss art",
           "activityPattern": [],
-          "activities": 17
+          "activities": 16,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 18,
           "title": "Use adjectives",
           "activityPattern": [],
-          "activities": 18
+          "activities": 16,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 19,
           "title": "Talk about concepts",
           "activityPattern": [],
-          "activities": 19
+          "activities": 16,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 20,
           "title": "Describe shapes",
           "activityPattern": [],
-          "activities": 20
+          "activities": 16,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 21,
           "title": "Talk about the media",
           "activityPattern": [],
-          "activities": 21
+          "activities": 16,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 22,
           "title": "Use the conditional",
           "activityPattern": [],
-          "activities": 22
+          "activities": 16,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 23,
           "title": "Talk about space",
           "activityPattern": [],
-          "activities": 23
+          "activities": 16,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 24,
           "title": "Describe the world",
           "activityPattern": [],
-          "activities": 24
+          "activities": 16,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 25,
           "title": "Use adverbs",
           "activityPattern": [],
-          "activities": 25
+          "activities": 16,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 26,
           "title": "Describe past events",
           "activityPattern": [],
-          "activities": 26
+          "activities": 16,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 27,
           "title": "Use present participles",
           "activityPattern": [],
-          "activities": 27
+          "activities": 16,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 28,
           "title": "Talk about performances",
           "activityPattern": [],
-          "activities": 28
+          "activities": 16,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 29,
           "title": "Discuss sports",
           "activityPattern": [],
-          "activities": 29
+          "activities": 16,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 30,
           "title": "Talk to a psychologist",
           "activityPattern": [],
-          "activities": 30
+          "activities": 16,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 31,
           "title": "Express your opinion",
           "activityPattern": [],
-          "activities": 31
+          "activities": 16,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 32,
           "title": "Use suffixes",
           "activityPattern": [],
-          "activities": 32
+          "activities": 16,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 33,
           "title": "Talk about college",
           "activityPattern": [],
-          "activities": 33
+          "activities": 16,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 34,
           "title": "Describe symptoms",
           "activityPattern": [],
-          "activities": 34
+          "activities": 16,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 35,
           "title": "Discuss looks",
           "activityPattern": [],
-          "activities": 35
+          "activities": 16,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 36,
           "title": "Talk about science",
           "activityPattern": [],
-          "activities": 36
+          "activities": 16,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 37,
           "title": "Discuss society",
           "activityPattern": [],
-          "activities": 37
+          "activities": 16,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 38,
           "title": "Do business",
           "activityPattern": [],
-          "activities": 38
+          "activities": 16,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 39,
           "title": "Use perfect modals",
           "activityPattern": [],
-          "activities": 39
+          "activities": 16,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 40,
           "title": "Talk about romance",
           "activityPattern": [],
-          "activities": 40
+          "activities": 16,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 41,
           "title": "Use the past participle",
           "activityPattern": [],
-          "activities": 41
+          "activities": 16,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 42,
           "title": "Express your feelings",
           "activityPattern": [],
-          "activities": 42
+          "activities": 16,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 43,
           "title": "Talk about politics",
           "activityPattern": [],
-          "activities": 43
+          "activities": 16,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 44,
           "title": "Use the gerund",
           "activityPattern": [],
-          "activities": 44
+          "activities": 16,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 45,
           "title": "Explore science",
           "activityPattern": [],
-          "activities": 45
+          "activities": 16,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 46,
           "title": "Talk about concepts",
           "activityPattern": [],
-          "activities": 46
+          "activities": 16,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 47,
           "title": "Discuss the economy",
           "activityPattern": [],
-          "activities": 47
+          "activities": 16,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 48,
           "title": "Talk about politics",
           "activityPattern": [],
-          "activities": 48
+          "activities": 16,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 49,
           "title": "Talk about religion",
           "activityPattern": [],
-          "activities": 49
+          "activities": 16,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 50,
           "title": "Discuss Dutch history",
           "activityPattern": [],
-          "activities": 50
+          "activities": 16,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 51,
           "title": "Describe Dutch holidays",
           "activityPattern": [],
-          "activities": 51
+          "activities": 16,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 52,
           "title": "Discover the Netherlands",
           "activityPattern": [],
-          "activities": 52
+          "activities": 16,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 53,
           "title": "Learn about Dutch food",
           "activityPattern": [],
-          "activities": 53
+          "activities": 16,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 54,
           "title": "Discover Belgium",
-          "activityPattern": [
-            2025,
-            9
-          ],
-          "activities": 2034
+          "activityPattern": [],
+          "activities": 16,
+          "estimated": true
         }
       ]
     }

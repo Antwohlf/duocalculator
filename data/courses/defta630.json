@@ -2,101 +2,126 @@
   "meta": {
     "key": "defta630",
     "courseTitle": "Tamil → German",
-    "scrapedAt": "2026-09-20T08:18:37.233Z",
+    "scrapedAt": "2026-09-26T14:26:32.057Z",
     "sourceHash": "sha256:3681791b1b6acb47",
     "fromLang": "Tamil",
     "toLang": "German",
     "fromCode": "ta",
     "toCode": "de",
-    "level": "CEFR INTRO",
-    "levelShort": "INTRO",
+    "level": "CEFR தமிழிலிருந்து ஜெர்மன்,",
+    "levelShort": "தமிழிலிருந்து ஜெர்மன்,",
     "detailHref": "https://duolingodata.com/dat/defta630.html",
+    "parserVersion": 3,
+    "indexUnitsCount": 630,
+    "indexLessonsCount": 5585,
+    "sourceSectionCounts": [
+      10,
+      30,
+      30,
+      60,
+      250,
+      250
+    ],
     "detailHrefHash": "sha256:606cca5e10fee240",
-    "scrapeWarnings": [],
-    "schemaVersion": "1.0.0"
+    "scrapeWarnings": [
+      "Section sizes aligned with current course summary",
+      "Per-unit lesson counts estimated from course total"
+    ],
+    "schemaVersion": "2.0.0"
   },
   "totals": {
     "sections": 6,
-    "activities": 67361,
-    "units": 630
+    "activities": 5585,
+    "units": 630,
+    "estimated": true
   },
   "sections": [
     {
-      "sectionIndex": 6,
-      "unitCount": 250,
-      "title": "CEFR B1",
-      "rawTitle": "CEFR B1",
-      "cefr": "B1",
+      "sectionIndex": 1,
+      "unitCount": 10,
+      "title": "CEFR Intro:",
+      "rawTitle": "CEFR Intro:",
+      "cefr": "INTRO:",
       "units": [
         {
-          "sectionIndex": 6,
+          "sectionIndex": 1,
           "unitIndex": 1,
           "title": "கஃபேயில் ஆர்டர் செய்யுங்கள்",
           "activityPattern": [],
-          "activities": 1
+          "activities": 9,
+          "estimated": true
         },
         {
-          "sectionIndex": 6,
-          "unitIndex": 1,
+          "sectionIndex": 1,
+          "unitIndex": 2,
           "title": "அறிமுகம் செய்தல் & பிறருடன் உரையாடுதல்",
           "activityPattern": [],
-          "activities": 2
+          "activities": 9,
+          "estimated": true
         },
         {
-          "sectionIndex": 6,
-          "unitIndex": 1,
+          "sectionIndex": 1,
+          "unitIndex": 3,
           "title": "உங்கள் குடும்பத்தாரை அறிமுகப்படுத்தவும்",
           "activityPattern": [],
-          "activities": 3
+          "activities": 9,
+          "estimated": true
         },
         {
-          "sectionIndex": 6,
-          "unitIndex": 1,
+          "sectionIndex": 1,
+          "unitIndex": 4,
           "title": "உணவு குறித்து பேசுங்கள்",
           "activityPattern": [],
-          "activities": 4
+          "activities": 9,
+          "estimated": true
         },
         {
-          "sectionIndex": 6,
-          "unitIndex": 1,
+          "sectionIndex": 1,
+          "unitIndex": 5,
           "title": "வழி கேளுங்கள்",
           "activityPattern": [],
-          "activities": 5
+          "activities": 9,
+          "estimated": true
         },
         {
-          "sectionIndex": 6,
-          "unitIndex": 1,
+          "sectionIndex": 1,
+          "unitIndex": 6,
           "title": "பணிகளைப் பற்றிப் பேசுங்கள்",
           "activityPattern": [],
-          "activities": 6
+          "activities": 9,
+          "estimated": true
         },
         {
-          "sectionIndex": 6,
-          "unitIndex": 1,
+          "sectionIndex": 1,
+          "unitIndex": 7,
           "title": "நிகழ்காலத்தைப்  பயன்படுத்துங்கள்",
           "activityPattern": [],
-          "activities": 7
+          "activities": 9,
+          "estimated": true
         },
         {
-          "sectionIndex": 6,
-          "unitIndex": 1,
+          "sectionIndex": 1,
+          "unitIndex": 8,
           "title": "ஒரு பார்ட்டியைப் பற்றி பேசுங்கள்",
           "activityPattern": [],
-          "activities": 8
+          "activities": 9,
+          "estimated": true
         },
         {
-          "sectionIndex": 6,
-          "unitIndex": 1,
+          "sectionIndex": 1,
+          "unitIndex": 9,
           "title": "உணவின் விலைகளைப் பற்றி பேசுங்கள்",
           "activityPattern": [],
-          "activities": 9
+          "activities": 9,
+          "estimated": true
         },
         {
-          "sectionIndex": 6,
-          "unitIndex": 1,
+          "sectionIndex": 1,
+          "unitIndex": 10,
           "title": "உணவும் பானமும் பற்றி கருத்து சொல்லுங்கள்",
           "activityPattern": [],
-          "activities": 10
+          "activities": 9,
+          "estimated": true
         }
       ]
     },
@@ -109,213 +134,243 @@
       "units": [
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 1,
           "title": "கேள்விகள் கேளுங்கள்",
           "activityPattern": [],
-          "activities": 1
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
           "unitIndex": 2,
           "title": "குடும்ப விவரங்களைப் பேசுங்கள்",
           "activityPattern": [],
-          "activities": 2
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 3,
           "title": "உங்கள் வீட்டை விவரித்துச் சொல்லுங்கள்",
           "activityPattern": [],
-          "activities": 3
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 4,
           "title": "உடல்நலப் பிரச்சினைகளைப் பற்றி பேசுங்கள்",
           "activityPattern": [],
-          "activities": 4
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 5,
           "title": "விமான நிலையத்திற்குச் செல்லுங்கள்",
           "activityPattern": [],
-          "activities": 5
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 6,
           "title": "\"möchten\" பயன்படுத்துங்கள்",
           "activityPattern": [],
-          "activities": 6
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 7,
           "title": "பொருட்களை வாங்கும்போது மதிப்பிடுங்கள்",
           "activityPattern": [],
-          "activities": 7
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 8,
           "title": "பள்ளி வாழ்க்கையைக் கடந்து செல்லுங்கள்",
           "activityPattern": [],
-          "activities": 8
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 9,
           "title": "வேலைகளில் உதவுங்கள்",
           "activityPattern": [],
-          "activities": 9
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 10,
           "title": "வார இறுதியைத் திட்டமிடுங்கள்",
           "activityPattern": [],
-          "activities": 10
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 11,
           "title": "விருப்பங்களைத் தெரிவிப்பதற்கான வினைகள்",
           "activityPattern": [],
-          "activities": 11
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 12,
           "title": "பொழுதுபோக்குகளைப் பற்றி பேசுங்கள்",
           "activityPattern": [],
-          "activities": 12
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 13,
           "title": "நடன பார்ட்டியை அனுபவித்து மகிழுங்கள்",
           "activityPattern": [],
-          "activities": 13
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 14,
           "title": "உணர்வுகளைப் பற்றிச் சிந்தியுங்கள்",
           "activityPattern": [],
-          "activities": 14
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 15,
           "title": "ரயில் நிலையத்திற்குச் செல்லுங்கள்",
           "activityPattern": [],
-          "activities": 15
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 16,
           "title": "ஹோட்டல் அறை பதிவு செய்யுங்கள்",
           "activityPattern": [],
-          "activities": 16
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 17,
           "title": "நகரத்தை சுற்றிப் பாருங்கள்",
           "activityPattern": [],
-          "activities": 17
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 18,
           "title": "வினையெச்சங்களுடன் \"können\" பயன்படுத்துக",
           "activityPattern": [],
-          "activities": 18
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 19,
           "title": "வினையெச்சங்களுடன் \"wollen\" பயன்படுத்துக",
           "activityPattern": [],
-          "activities": 19
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 20,
           "title": "வினையெச்சங்களுடன் \"müssen\" பயன்படுத்துக",
           "activityPattern": [],
-          "activities": 20
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 21,
           "title": "பார்பிக்யூ வாங்கச் செல்லுங்கள்",
           "activityPattern": [],
-          "activities": 21
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 22,
           "title": "பல்கலைக்கழக வாழ்க்கையைப் பற்றி பேசுங்கள்",
           "activityPattern": [],
-          "activities": 22
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 23,
           "title": "சாலைப் பயணம் செல்லுங்கள்",
           "activityPattern": [],
-          "activities": 23
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 24,
           "title": "தினசரி பழக்கங்களை நிர்வகியுங்கள்",
           "activityPattern": [],
-          "activities": 24
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 25,
           "title": "உடைமை பெயர்ச்சொற்களைப் பயன்படுத்துங்கள்",
           "activityPattern": [],
-          "activities": 25
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 26,
           "title": "அக்கம்பக்கத்தினர் பற்றி பேசுங்கள்",
           "activityPattern": [],
-          "activities": 26
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 27,
           "title": "நகரத்திற்கு வழி கண்டறிந்து செல்லுங்கள்",
           "activityPattern": [],
-          "activities": 27
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 28,
           "title": "வானிலை பற்றி விவாதியுங்கள்",
           "activityPattern": [],
-          "activities": 28
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 29,
           "title": "பரிசுகளை வாங்குங்கள்",
           "activityPattern": [],
-          "activities": 29
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 30,
           "title": "உங்கள் நகரத்தைப் பற்றி பேசுங்கள்",
           "activityPattern": [],
-          "activities": 30
+          "activities": 9,
+          "estimated": true
         }
       ]
     },
@@ -328,213 +383,243 @@
       "units": [
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 1,
           "title": "இயக்கம் பற்றி பேச \"in\" ஐப் பயன்படுத்துக",
           "activityPattern": [],
-          "activities": 1
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 2,
           "title": "பிறந்தநாட்களைக் கொண்டாடுங்கள்",
           "activityPattern": [],
-          "activities": 2
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
           "unitIndex": 3,
           "title": "புத்தகங்கள் மற்றும் பலவற்றைப் பெறுங்கள்",
           "activityPattern": [],
-          "activities": 3
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 4,
           "title": "பணியிடத்தில் பிறருடன் பேசுங்கள்",
           "activityPattern": [],
-          "activities": 4
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 5,
           "title": "அஞ்சல் மற்றும் பார்சல்கள் அனுப்புங்கள்",
           "activityPattern": [],
-          "activities": 5
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 6,
           "title": "வகுப்பில் பங்குகொள்ளுங்கள்",
           "activityPattern": [],
-          "activities": 6
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 7,
           "title": "\"ich\"க்கான உருபுப் பெயர்",
           "activityPattern": [],
-          "activities": 7
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 8,
           "title": "பேக்கிங் போட்டியில் பங்குகொள்ளுங்கள்",
           "activityPattern": [],
-          "activities": 8
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 9,
           "title": "உங்கள் உடன்பிறந்தவர்களைப் பற்றி பேசுக",
           "activityPattern": [],
-          "activities": 9
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 10,
           "title": "ஆரோக்கியத்திற்கான செயல்களை திட்டமிடுக",
           "activityPattern": [],
-          "activities": 10
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 11,
           "title": "ஒரு வேலையை முடித்திடுக",
           "activityPattern": [],
-          "activities": 11
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 12,
           "title": "உங்கள் நாளைத் திட்டமிடுங்கள்",
           "activityPattern": [],
-          "activities": 12
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 13,
           "title": "உங்கள் குழந்தைப் பருவத்தை பற்றி பேசுக",
           "activityPattern": [],
-          "activities": 13
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 14,
           "title": "கேம் இரவுகளைப் பற்றி பேசுங்கள்",
           "activityPattern": [],
-          "activities": 14
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 15,
           "title": "நிகழ்காலத்தில் பிரிக்கத்தக்க வினைச்சொல்",
           "activityPattern": [],
-          "activities": 15
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 16,
           "title": "மருத்துவச் சந்திப்புகளை நிர்வகியுங்கள்",
           "activityPattern": [],
-          "activities": 16
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 17,
           "title": "சிரமங்கள், உணர்வுகளை வெளிப்படுத்துக",
           "activityPattern": [],
-          "activities": 17
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 18,
           "title": "சாக்குபோக்கு காரணம் கூறுங்கள்",
           "activityPattern": [],
-          "activities": 18
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 19,
           "title": "பார்ட்டிக்கான உடை வாங்குங்கள்",
           "activityPattern": [],
-          "activities": 19
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 20,
           "title": "உங்கள் ஓய்வுநேரத்தைப் பற்றி பேசுங்கள்",
           "activityPattern": [],
-          "activities": 20
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 21,
           "title": "கடற்கரை பயணம் திட்டமிடுங்கள்",
           "activityPattern": [],
-          "activities": 21
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 22,
           "title": "கடந்தகாலத்தை இணைக்கும் நிகழ்கால வினை",
           "activityPattern": [],
-          "activities": 22
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 23,
           "title": "முறைசார் கட்டளைகளைப் பயன்படுத்துங்கள்",
           "activityPattern": [],
-          "activities": 23
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 24,
           "title": "சுய-பராமரிப்பைப் பழகுங்கள்",
           "activityPattern": [],
-          "activities": 24
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 25,
           "title": "ஆடை நன்கொடைகளை விவாதியுங்கள்",
           "activityPattern": [],
-          "activities": 25
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 26,
           "title": "மாணவர் வாழ்க்கையைக் கடந்துசெல்லுங்கள்",
           "activityPattern": [],
-          "activities": 26
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 27,
           "title": "உங்கள் வீட்டை விவரித்துச் சொல்லுங்கள்",
           "activityPattern": [],
-          "activities": 27
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 28,
           "title": "தொலைந்த பொருட்களைக் கண்டுபிடியுங்கள்",
           "activityPattern": [],
-          "activities": 28
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 29,
           "title": "குழப்பமான சூழ்நிலைகளைக் கையாளுங்கள்",
           "activityPattern": [],
-          "activities": 29
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 30,
           "title": "வாக்கியங்களில் மறுப்பைப் பயன்படுத்துதல்",
           "activityPattern": [],
-          "activities": 30
+          "activities": 9,
+          "estimated": true
         }
       ]
     },
@@ -547,423 +632,483 @@
       "units": [
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 1,
           "title": "பயண அனுபவம் பற்றி பேசுக",
           "activityPattern": [],
-          "activities": 1
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 2,
           "title": "வாழ்க்கை மாற்றங்களை விவரித்திடுக",
           "activityPattern": [],
-          "activities": 2
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 3,
           "title": "நீச்சல்குளத்தில் செய்பவை பற்றி பேசு",
           "activityPattern": [],
-          "activities": 3
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
           "unitIndex": 4,
           "title": "Ikea ஃபர்னிச்சர்களை விவரித்திடுக",
           "activityPattern": [],
-          "activities": 4
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 5,
           "title": "ஆடைகளை ஜெர்மனில் விவரித்திடுக",
           "activityPattern": [],
-          "activities": 5
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 6,
           "title": "ஒரு பாடல் குழுவில் சேர்க",
           "activityPattern": [],
-          "activities": 6
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 7,
           "title": "\"புதிய ஊழியர்\" தகுதிகள் பற்றி பேசுக",
           "activityPattern": [],
-          "activities": 7
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 8,
           "title": "கல்வி குறிக்கோள்களைப் பேசுக",
           "activityPattern": [],
-          "activities": 8
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 9,
           "title": "டாக்டர் சந்திப்பைத் திட்டமிடுக",
           "activityPattern": [],
-          "activities": 9
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 10,
           "title": "நண்பர்களுடன் திட்டங்களைத் தீட்டுக",
           "activityPattern": [],
-          "activities": 10
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 11,
           "title": "வேலை, வீடு இருக்கும் இடங்கள் பற்றி பேசுக",
           "activityPattern": [],
-          "activities": 11
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 12,
           "title": "பிறருக்குச் சொந்தமானவைப் பற்றி பேசுக",
           "activityPattern": [],
-          "activities": 12
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 13,
           "title": "தியேட்டர் திட்டம், கருத்து பற்றி பேசுக",
           "activityPattern": [],
-          "activities": 13
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 14,
           "title": "கணினி பிரச்சினைகள் பற்றி விளக்குக",
           "activityPattern": [],
-          "activities": 14
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 15,
           "title": "வீடு வாடகைக்கு எடுப்பது பற்றி பேசுங்கள்",
           "activityPattern": [],
-          "activities": 15
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 16,
           "title": "நண்பர்களுடன் திறமைகள் பற்றிப் பேசுக",
           "activityPattern": [],
-          "activities": 16
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 17,
           "title": "காலை சுகாதாரப் பழக்கங்கள் பற்றி விவரி",
           "activityPattern": [],
-          "activities": 17
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 18,
           "title": "குற்ற நிகழ்வை விவரித்திடுக",
           "activityPattern": [],
-          "activities": 18
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 19,
           "title": "பாட்டி-தாத்தா கதைகளைப் பகிர்க",
           "activityPattern": [],
-          "activities": 19
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 20,
           "title": "பயணத் திட்டத்தை அமைத்திடுக",
           "activityPattern": [],
-          "activities": 20
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 21,
           "title": "நகரத்தின் முக்கிய இடங்களை விவரித்திடுக",
           "activityPattern": [],
-          "activities": 21
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 22,
           "title": "வணிக பயணத்திற்கு பேக் செய்யுங்கள்",
           "activityPattern": [],
-          "activities": 22
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 23,
           "title": "பலவகை உணவுக்குப் பாராட்டுதல்",
           "activityPattern": [],
-          "activities": 23
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 24,
           "title": "சமீபத்தில் வாங்கியவற்றை விவரியுங்கள்",
           "activityPattern": [],
-          "activities": 24
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 25,
           "title": "பயிற்சியில் உத்தரவைப் பின்பற்றுக",
           "activityPattern": [],
-          "activities": 25
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 26,
           "title": "விருந்தில் அக்கம்பக்கத்தினரைக் கண்டறிக",
           "activityPattern": [],
-          "activities": 26
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 27,
           "title": "அரசியல் கருத்துகளைப் பகிர்ந்து கொள்க",
           "activityPattern": [],
-          "activities": 27
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 28,
           "title": "அலுவலக நண்பர்களை அறிமுகம் செய்க",
           "activityPattern": [],
-          "activities": 28
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 29,
           "title": "மிருகங்களை விவரியுங்கள்",
           "activityPattern": [],
-          "activities": 29
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 30,
           "title": "டேட்டிங் செயலியில் உரையாடுங்கள்",
           "activityPattern": [],
-          "activities": 30
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 31,
           "title": "ஒக்டோபர்ஃபெஸ்ட்டில் கேள்விகள் கேட்டிடுக",
           "activityPattern": [],
-          "activities": 31
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 32,
           "title": "வாராந்திரப் பழக்கங்கள் மற்றும் வானிலை",
           "activityPattern": [],
-          "activities": 32
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 33,
           "title": "ஜெர்மனிக்கு குடிபெயர்ந்ததை விவரித்திடுக",
           "activityPattern": [],
-          "activities": 33
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 34,
           "title": "திருமணப் பிரச்சனையை விவரியுங்கள்",
           "activityPattern": [],
-          "activities": 34
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 35,
           "title": "வங்கி கணக்கைத் திறந்திடுக",
           "activityPattern": [],
-          "activities": 35
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 36,
           "title": "மரியாதையுடன் ஆலோசனை கேளுங்கள்",
           "activityPattern": [],
-          "activities": 36
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 37,
           "title": "பொதுப் போக்குவரத்து விதிகளைப் பேசுக",
           "activityPattern": [],
-          "activities": 37
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 38,
           "title": "படிப்பிற்கான விண்ணப்பத்தை எழுதுக",
           "activityPattern": [],
-          "activities": 38
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 39,
           "title": "வீடியோ அழைப்பில் உரையாடுக",
           "activityPattern": [],
-          "activities": 39
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 40,
           "title": "மருத்துவமனையில் உத்தரவைப் பின்பற்றுக",
           "activityPattern": [],
-          "activities": 40
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 41,
           "title": "முக்கிய உரையைப் பேசுக",
           "activityPattern": [],
-          "activities": 41
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 42,
           "title": "ஒரே நாளில் நிகழ்ந்த வரலாற்று நிகழ்வுகள்",
           "activityPattern": [],
-          "activities": 42
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 43,
           "title": "பட்டம் பெறும் நாளைக் கொண்டாடுங்கள்",
           "activityPattern": [],
-          "activities": 43
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 44,
           "title": "கலைஞர்கள், படைப்புகள் பற்றி பேசுக",
           "activityPattern": [],
-          "activities": 44
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 45,
           "title": "உணவுகள், மக்களை விவரித்திடுக",
           "activityPattern": [],
-          "activities": 45
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 46,
           "title": "மருத்துவ சிகிச்சைகளை விவரித்திடுக",
           "activityPattern": [],
-          "activities": 46
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 47,
           "title": "புத்தாண்டு தீர்மானங்களைப் பகிர்க",
           "activityPattern": [],
-          "activities": 47
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 48,
           "title": "விழாவில் \"Spargel\" பற்றி பேசுக",
           "activityPattern": [],
-          "activities": 48
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 49,
           "title": "பிரிக்க முடியாத வினைச்சொல் பேசுக",
           "activityPattern": [],
-          "activities": 49
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 50,
           "title": "சமையல் தவறுகளைப் பேசுக",
           "activityPattern": [],
-          "activities": 50
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 51,
           "title": "பொருட்களின் இடங்களை விவரித்திடுக",
           "activityPattern": [],
-          "activities": 51
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 52,
           "title": "பிரிவுக்குப் பின் உணர்வை வெளிப்படுத்துக",
           "activityPattern": [],
-          "activities": 52
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 53,
           "title": "தூங்கும் முன் செய்யக்கூடிய பழக்கங்கள்",
           "activityPattern": [],
-          "activities": 53
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 54,
           "title": "உடைகள் மற்றும் பரிசுகளை வாங்குங்கள்",
           "activityPattern": [],
-          "activities": 54
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 55,
           "title": "ஜெர்மனி இன் \"Kanzler\" ஆக இருத்தல்",
           "activityPattern": [],
-          "activities": 55
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 56,
           "title": "ஜெர்மன் கற்றல் முன்னேற்றம் பற்றி பேசுக",
           "activityPattern": [],
-          "activities": 56
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 57,
           "title": "அறிவியல் கருவிகள் பற்றிப் பேசுக",
           "activityPattern": [],
-          "activities": 57
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 58,
           "title": "திகில் படத்தைப் பற்றிப் பேசுக",
           "activityPattern": [],
-          "activities": 58
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 59,
           "title": "சுற்றுச்சூழலில் நடப்பவற்றைப் பேசுக",
           "activityPattern": [],
-          "activities": 59
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 4,
+          "unitIndex": 60,
           "title": "கார்னிவல் ஊர்வலத்துக்கு திட்டமிடுக",
           "activityPattern": [],
-          "activities": 60
+          "activities": 9,
+          "estimated": true
         }
       ]
     },
@@ -976,1753 +1121,2003 @@
       "units": [
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 1,
           "title": "பொழுது: பாடல்கள் கேட்டு மகிழ்",
           "activityPattern": [],
-          "activities": 1
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 2,
           "title": "பொழுது: செய்த வேலைகளை விவரி",
           "activityPattern": [],
-          "activities": 2
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 3,
           "title": "பொழுது: பாடலை உருவாக்கு",
           "activityPattern": [],
-          "activities": 3
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 4,
           "title": "பொழுது: சுற்றுலா செல்",
           "activityPattern": [],
-          "activities": 4
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
           "unitIndex": 5,
           "title": "பொழுது: புதிய விளையாட்டு தேர்ந்தெடு",
           "activityPattern": [],
-          "activities": 5
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 6,
           "title": "இசை: வீடியோவை பார்",
           "activityPattern": [],
-          "activities": 6
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 7,
           "title": "இசை: பாடல்களை பற்றிச் சொல்",
           "activityPattern": [],
-          "activities": 7
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 8,
           "title": "இசை: பிரபல பாடலை சொல்",
           "activityPattern": [],
-          "activities": 8
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 9,
           "title": "இசை: புதிய இசை கேள்",
           "activityPattern": [],
-          "activities": 9
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 10,
           "title": "இசை: புதிய ஆல்பம் கேள்",
           "activityPattern": [],
-          "activities": 10
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 11,
           "title": "விருந்து: நேரம் தேர்வு செய்",
           "activityPattern": [],
-          "activities": 11
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 12,
           "title": "விருந்து: உணவு பகிர்",
           "activityPattern": [],
-          "activities": 12
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 13,
           "title": "விருந்து: உறவுகளை அழை",
           "activityPattern": [],
-          "activities": 13
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 14,
           "title": "விருந்து: உடைகள் தேர்ந்தெடு",
           "activityPattern": [],
-          "activities": 14
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 15,
           "title": "விருந்து: பாடலை கேள்",
           "activityPattern": [],
-          "activities": 15
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 16,
           "title": "சிறுநகர்: வழியை தேர்வு செய்",
           "activityPattern": [],
-          "activities": 16
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 17,
           "title": "சிறுநகர்: பாதையை தேர்வு செய்",
           "activityPattern": [],
-          "activities": 17
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 18,
           "title": "சிறுநகர்: உல்லாசமாக நடந்தோடு",
           "activityPattern": [],
-          "activities": 18
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 19,
           "title": "சிறுநகர்: மலையைப் பார்",
           "activityPattern": [],
-          "activities": 19
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 20,
           "title": "சிறுநகர்: அமைதியில் நட",
           "activityPattern": [],
-          "activities": 20
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 21,
           "title": "விழா: அனுமதி கேள்",
           "activityPattern": [],
-          "activities": 21
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 22,
           "title": "விழா: உதவி கேள்",
           "activityPattern": [],
-          "activities": 22
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 23,
           "title": "விழா: புதியவர்களை வரவேற்று",
           "activityPattern": [],
-          "activities": 23
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 24,
           "title": "விழா: உன் பங்கு சொல்லு",
           "activityPattern": [],
-          "activities": 24
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 25,
           "title": "விழா: பங்கேற்க உறுதி கூறு",
           "activityPattern": [],
-          "activities": 25
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 26,
           "title": "ஒழுங்கு: காபி குடித்து புத்துணர்வு அடை",
           "activityPattern": [],
-          "activities": 26
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 27,
           "title": "ஒழுங்கு: உன் நாளை சொல்",
           "activityPattern": [],
-          "activities": 27
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 28,
           "title": "ஒழுங்கு: நேரம் பார்த்து நட",
           "activityPattern": [],
-          "activities": 28
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 29,
           "title": "ஒழுங்கு: சுட்டுண்டை சாப்பிடு",
           "activityPattern": [],
-          "activities": 29
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 30,
           "title": "ஒழுங்கு: வரிசையில் நட",
           "activityPattern": [],
-          "activities": 30
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 31,
           "title": "சேவை: விரைந்து பதில் சொல்",
           "activityPattern": [],
-          "activities": 31
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 32,
           "title": "சேவை: ஒரு சேவையை கேள்",
           "activityPattern": [],
-          "activities": 32
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 33,
           "title": "சேவை: பிரச்சினை கூறு",
           "activityPattern": [],
-          "activities": 33
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 34,
           "title": "சேவை: உதவி கேள்",
           "activityPattern": [],
-          "activities": 34
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 35,
           "title": "சேவை: விலை கேள்",
           "activityPattern": [],
-          "activities": 35
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 36,
           "title": "சங்கம்: பணி பட்டியலை அமை",
           "activityPattern": [],
-          "activities": 36
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 37,
           "title": "சங்கம்: விவாதத்தில் சேரு",
           "activityPattern": [],
-          "activities": 37
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 38,
           "title": "சங்கம்: சூழலை கவனி",
           "activityPattern": [],
-          "activities": 38
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 39,
           "title": "சங்கம்: வானிலை பற்றி பேசு",
           "activityPattern": [],
-          "activities": 39
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 40,
           "title": "சங்கம்: உடனே போ",
           "activityPattern": [],
-          "activities": 40
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 41,
           "title": "வேலை: பணியிடம் அறி",
           "activityPattern": [],
-          "activities": 41
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 42,
           "title": "வேலை: உன் அனுபவம் பகிர்",
           "activityPattern": [],
-          "activities": 42
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 43,
           "title": "வேலை: பணிகள் பகிர்",
           "activityPattern": [],
-          "activities": 43
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 44,
           "title": "வேலை: பிழைகள் திருத்து",
           "activityPattern": [],
-          "activities": 44
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 45,
           "title": "வேலை: அலுவலக அனுபவம் சொல்",
           "activityPattern": [],
-          "activities": 45
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 46,
           "title": "குடும்பம்: உறவினரை சந்தி",
           "activityPattern": [],
-          "activities": 46
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 47,
           "title": "குடும்பம்: உறவினர் பற்றி கேள்",
           "activityPattern": [],
-          "activities": 47
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 48,
           "title": "குடும்பம்: உறவினரை அறிமுகப்படுத்து",
           "activityPattern": [],
-          "activities": 48
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 49,
           "title": "குடும்பம்: உறவுப்பட்டியலைப் பதிவு செய்",
           "activityPattern": [],
-          "activities": 49
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 50,
           "title": "குடும்பம்: உறவுகளை அறிமுகப்படுத்து",
           "activityPattern": [],
-          "activities": 50
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 51,
           "title": "விலை: விலையை கேள்",
           "activityPattern": [],
-          "activities": 51
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 52,
           "title": "விலை: இலவச டெலிவரி கேள்",
           "activityPattern": [],
-          "activities": 52
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 53,
           "title": "விலை: விலையை ஒப்பிடு",
           "activityPattern": [],
-          "activities": 53
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 54,
           "title": "விலை: விலை கேள்",
           "activityPattern": [],
-          "activities": 54
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 55,
           "title": "விலை: விலை பற்றி பேசு",
           "activityPattern": [],
-          "activities": 55
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 56,
           "title": "கனவு: உங்கள் கனவுகளை பகிர்",
           "activityPattern": [],
-          "activities": 56
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 57,
           "title": "கனவு: புதிதாக முயற்சி செய்",
           "activityPattern": [],
-          "activities": 57
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 58,
           "title": "கனவு: பயணத்தை எதிர்பார்",
           "activityPattern": [],
-          "activities": 58
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 59,
           "title": "கனவு: உனது கனவை விவரி",
           "activityPattern": [],
-          "activities": 59
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 60,
           "title": "கனவு: கனவை பகிர்",
           "activityPattern": [],
-          "activities": 60
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 61,
           "title": "விலங்கு: விலங்குகளை காணு",
           "activityPattern": [],
-          "activities": 61
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 62,
           "title": "விலங்கு: படம் எடு",
           "activityPattern": [],
-          "activities": 62
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 63,
           "title": "விலங்கு: விலங்குகளை கண்காணி",
           "activityPattern": [],
-          "activities": 63
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 64,
           "title": "விலங்கு: ஒரு படம் எடு",
           "activityPattern": [],
-          "activities": 64
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 65,
           "title": "விலங்கு: விலங்குகளை பார்க்க",
           "activityPattern": [],
-          "activities": 65
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 66,
           "title": "வசதி: பரிசு கொடு",
           "activityPattern": [],
-          "activities": 66
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 67,
           "title": "வசதி: நண்பர்களுடன் பேசு",
           "activityPattern": [],
-          "activities": 67
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 68,
           "title": "வசதி: வசதிகளை கூறு",
           "activityPattern": [],
-          "activities": 68
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 69,
           "title": "வசதி: வசதிகள் பற்றி கூறு",
           "activityPattern": [],
-          "activities": 69
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 70,
           "title": "வசதி: அமைதியான இடம் தேடு",
           "activityPattern": [],
-          "activities": 70
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 71,
           "title": "சிறுபேர்: கதை ஒன்றை சொல்",
           "activityPattern": [],
-          "activities": 71
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 72,
           "title": "சிறுபேர்: உன் பெயரை சொல்",
           "activityPattern": [],
-          "activities": 72
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 73,
           "title": "சிறுபேர்: நினைவுகளை பகிர்",
           "activityPattern": [],
-          "activities": 73
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 74,
           "title": "சிறுபேர்: நினைவுகளை பகிர்",
           "activityPattern": [],
-          "activities": 74
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 75,
           "title": "சிறுபேர்: அப்பாவின் செய்திகள் கேள்",
           "activityPattern": [],
-          "activities": 75
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 76,
           "title": "பழக்கம்: அனுபவம் பகிர்",
           "activityPattern": [],
-          "activities": 76
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 77,
           "title": "பழக்கம்: விதிகளை பின்பற்று",
           "activityPattern": [],
-          "activities": 77
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 78,
           "title": "பழக்கம்: நலம் கேட்டு பேசு",
           "activityPattern": [],
-          "activities": 78
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 79,
           "title": "பழக்கம்: அனுமதி கேள்",
           "activityPattern": [],
-          "activities": 79
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 80,
           "title": "பழக்கம்: அனுமதி கேள்",
           "activityPattern": [],
-          "activities": 80
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 81,
           "title": "வீடு: வீட்டை விவரிக்கவும்",
           "activityPattern": [],
-          "activities": 81
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 82,
           "title": "வீடு: வாடகை நிபந்தனை கேள்",
           "activityPattern": [],
-          "activities": 82
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 83,
           "title": "வீடு: வாடகை பற்றி பேசு",
           "activityPattern": [],
-          "activities": 83
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 84,
           "title": "வீடு: வீட்டு அலமாரி திற",
           "activityPattern": [],
-          "activities": 84
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 85,
           "title": "வீடு: பொருட்களை இடம் மாற்று",
           "activityPattern": [],
-          "activities": 85
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 86,
           "title": "விழா: வானில் மேகம் காண்",
           "activityPattern": [],
-          "activities": 86
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 87,
           "title": "விழா: கதை பகிர்",
           "activityPattern": [],
-          "activities": 87
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 88,
           "title": "விழா: கடவுளை வணங்கு",
           "activityPattern": [],
-          "activities": 88
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 89,
           "title": "விழா: விழா திட்டமிடு",
           "activityPattern": [],
-          "activities": 89
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 90,
           "title": "விழா: ஒன்றாக உணவு செய்",
           "activityPattern": [],
-          "activities": 90
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 91,
           "title": "வெளிச்சம்: விலங்குகளை ஆராய்",
           "activityPattern": [],
-          "activities": 91
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 92,
           "title": "வெளிச்சம்: நண்பர்களுடன் சிரித்து மகிழ்",
           "activityPattern": [],
-          "activities": 92
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 93,
           "title": "வெளிச்சம்: நினைவுகள் பகிர்",
           "activityPattern": [],
-          "activities": 93
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 94,
           "title": "வெளிச்சம்: புதிய விளையாட்டு தேர்வு செய்",
           "activityPattern": [],
-          "activities": 94
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 95,
           "title": "வெளிச்சம்: வழியைக் கண்டுபிடி",
           "activityPattern": [],
-          "activities": 95
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 96,
           "title": "வேலை: சுத்தம் செய்",
           "activityPattern": [],
-          "activities": 96
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 97,
           "title": "வேலை: மேசையை துடை",
           "activityPattern": [],
-          "activities": 97
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 98,
           "title": "வேலை: தூசி துடை",
           "activityPattern": [],
-          "activities": 98
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 99,
           "title": "வேலை: பணிகளை பகிர்",
           "activityPattern": [],
-          "activities": 99
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 100,
           "title": "வேலை: பணியில் உதவி செய்",
           "activityPattern": [],
-          "activities": 100
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 101,
           "title": "முடி: முடியை சமமாகக்கட்டு",
           "activityPattern": [],
-          "activities": 101
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 102,
           "title": "முடி: வண்ணம் கூறு",
           "activityPattern": [],
-          "activities": 102
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 103,
           "title": "முடி: வண்ணம் தேர்வு செய்",
           "activityPattern": [],
-          "activities": 103
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 104,
           "title": "முடி: நிறம் மாற்று",
           "activityPattern": [],
-          "activities": 104
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 105,
           "title": "முடி: முடியை வெட்டச் சொல்",
           "activityPattern": [],
-          "activities": 105
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 106,
           "title": "பரிசு: பரிசு பற்றி கூறு",
           "activityPattern": [],
-          "activities": 106
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 107,
           "title": "பரிசு: முடிந்தபடி அலங்கரிக்கவும்",
           "activityPattern": [],
-          "activities": 107
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 108,
           "title": "பரிசு: பரிசைத் தேர்வு செய்",
           "activityPattern": [],
-          "activities": 108
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 109,
           "title": "பரிசு: பெருமையுடன் பரிசளி",
           "activityPattern": [],
-          "activities": 109
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 110,
           "title": "பரிசு: பரிசுகளை தேர்ந்தெடு",
           "activityPattern": [],
-          "activities": 110
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 111,
           "title": "இலயம்: புகைப்படங்களை பகிர்",
           "activityPattern": [],
-          "activities": 111
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 112,
           "title": "இலயம்: படங்களை பாரு",
           "activityPattern": [],
-          "activities": 112
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 113,
           "title": "இலயம்: வரலாறு பற்றி பேசு",
           "activityPattern": [],
-          "activities": 113
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 114,
           "title": "இலயம்: பழைய கதைகள் கேள்",
           "activityPattern": [],
-          "activities": 114
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 115,
           "title": "இலயம்: நிகழ்வு பற்றி பேசு",
           "activityPattern": [],
-          "activities": 115
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 116,
           "title": "அவசரம்: உதவி கேள்",
           "activityPattern": [],
-          "activities": 116
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 117,
           "title": "அவசரம்: நடந்ததை சொல்",
           "activityPattern": [],
-          "activities": 117
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 118,
           "title": "அவசரம்: உதவி கேட்டுக்கொள்",
           "activityPattern": [],
-          "activities": 118
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 119,
           "title": "அவசரம்: உடனடி உதவி கேள்",
           "activityPattern": [],
-          "activities": 119
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 120,
           "title": "அவசரம்: நிகழ்வை விளக்கு",
           "activityPattern": [],
-          "activities": 120
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 121,
           "title": "உறவு: புதிய நண்பனை அழை",
           "activityPattern": [],
-          "activities": 121
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 122,
           "title": "உறவு: சிக்கலை தீர்க்க முயல்",
           "activityPattern": [],
-          "activities": 122
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 123,
           "title": "உறவு: உணவு பகிர்",
           "activityPattern": [],
-          "activities": 123
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 124,
           "title": "உறவு: உதவி கேட்டுக் பார்",
           "activityPattern": [],
-          "activities": 124
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 125,
           "title": "உறவு: ஒருமித்த முடிவுக்கு வா",
           "activityPattern": [],
-          "activities": 125
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 126,
           "title": "பாடம்: உரையை திருத்து",
           "activityPattern": [],
-          "activities": 126
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 127,
           "title": "பாடம்: விடைகளை எழுது",
           "activityPattern": [],
-          "activities": 127
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 128,
           "title": "பாடம்: உடனடி உதவி கேள்",
           "activityPattern": [],
-          "activities": 128
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 129,
           "title": "பாடம்: பாடத்தை மீண்டும் படி",
           "activityPattern": [],
-          "activities": 129
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 130,
           "title": "பாடம்: படங்களை சேமி",
           "activityPattern": [],
-          "activities": 130
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 131,
           "title": "வீடு: உனது வீட்டை அறிமுகப்படுத்து",
           "activityPattern": [],
-          "activities": 131
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 132,
           "title": "வீடு: படுக்கையை அமை",
           "activityPattern": [],
-          "activities": 132
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 133,
           "title": "வீடு: உதவி கேள்",
           "activityPattern": [],
-          "activities": 133
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 134,
           "title": "வீடு: மின்விளக்கை அமை",
           "activityPattern": [],
-          "activities": 134
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 135,
           "title": "வீடு: முகவரி பகிர்",
           "activityPattern": [],
-          "activities": 135
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 136,
           "title": "சுற்றுலா: பயண ஆலோசனை கேள்",
           "activityPattern": [],
-          "activities": 136
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 137,
           "title": "சுற்றுலா: பயண அனுபவம் பகிர்",
           "activityPattern": [],
-          "activities": 137
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 138,
           "title": "சுற்றுலா: பயண அனுபவம் பகிர்",
           "activityPattern": [],
-          "activities": 138
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 139,
           "title": "சுற்றுலா: சிறு செய்தி எழுது",
           "activityPattern": [],
-          "activities": 139
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 140,
           "title": "சுற்றுலா: நண்பரை விடைபெறு",
           "activityPattern": [],
-          "activities": 140
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 141,
           "title": "பயFirma: வானிலை கேள்",
           "activityPattern": [],
-          "activities": 141
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 142,
           "title": "பயFirma: வாசலை மூடு",
           "activityPattern": [],
-          "activities": 142
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 143,
           "title": "பயFirma: அறிவுறையை பின்பற்று",
           "activityPattern": [],
-          "activities": 143
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 144,
           "title": "பயFirma: உறுதிப் செய்தியை கேள்",
           "activityPattern": [],
-          "activities": 144
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 145,
           "title": "பயFirma: சிக்கலை கண்டுபிடி",
           "activityPattern": [],
-          "activities": 145
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 146,
           "title": "நட்பு: சாதனையை பகிர்",
           "activityPattern": [],
-          "activities": 146
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 147,
           "title": "நட்பு: உன் பலங்களை சொல்",
           "activityPattern": [],
-          "activities": 147
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 148,
           "title": "நட்பு: நம்பிக்கை வளர்த்து",
           "activityPattern": [],
-          "activities": 148
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 149,
           "title": "நட்பு: உதவி கேட்டுக்கொள்",
           "activityPattern": [],
-          "activities": 149
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 150,
           "title": "நட்பு: அறிவுரை கேள்",
           "activityPattern": [],
-          "activities": 150
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 151,
           "title": "உணவு: சமச்சீராக உண்",
           "activityPattern": [],
-          "activities": 151
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 152,
           "title": "உணவு: பழங்கள் வாங்கு",
           "activityPattern": [],
-          "activities": 152
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 153,
           "title": "உணவு: வாரச்சந்தைக்கு செல்லு",
           "activityPattern": [],
-          "activities": 153
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 154,
           "title": "உணவு: பசிக்கு உணவு தயார் செய்",
           "activityPattern": [],
-          "activities": 154
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 155,
           "title": "உணவு: காய்கறி வாங்கு",
           "activityPattern": [],
-          "activities": 155
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 156,
           "title": "விழா: கேள்வி கேள்",
           "activityPattern": [],
-          "activities": 156
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 157,
           "title": "விழா: நாள் தேர்வு செய்",
           "activityPattern": [],
-          "activities": 157
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 158,
           "title": "விழா: நடிகர்களுடன் பேசு",
           "activityPattern": [],
-          "activities": 158
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 159,
           "title": "விழா: கலைஞரை பாராட்டு",
           "activityPattern": [],
-          "activities": 159
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 160,
           "title": "விழா: அனுபவம் பகிர்",
           "activityPattern": [],
-          "activities": 160
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 161,
           "title": "பயணம்: வண்டி பிடி",
           "activityPattern": [],
-          "activities": 161
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 162,
           "title": "பயணம்: இரவில் ஓய்வு எடு",
           "activityPattern": [],
-          "activities": 162
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 163,
           "title": "பயணம்: பயண அனுபவம் கூறு",
           "activityPattern": [],
-          "activities": 163
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 164,
           "title": "பயணம்: நகரம் சுற்று",
           "activityPattern": [],
-          "activities": 164
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 165,
           "title": "பயணம்: பயண சிக்கலை சமாளி",
           "activityPattern": [],
-          "activities": 165
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 166,
           "title": "விருந்தோம்பல்: பாத்திரங்களை எடு",
           "activityPattern": [],
-          "activities": 166
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 167,
           "title": "விருந்தோம்பல்: விருந்துக்காக உணவு தயார் செய்",
           "activityPattern": [],
-          "activities": 167
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 168,
           "title": "விருந்தோம்பல்: விருந்துக்கு ஏற்பாடு செய்",
           "activityPattern": [],
-          "activities": 168
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 169,
           "title": "விருந்தோம்பல்: விருந்தினரை வரவேற்று",
           "activityPattern": [],
-          "activities": 169
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 170,
           "title": "விருந்தோம்பல்: விருந்துக்கு சமை",
           "activityPattern": [],
-          "activities": 170
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 171,
           "title": "குடும்பம்: பொம்மையை தேடு",
           "activityPattern": [],
-          "activities": 171
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 172,
           "title": "குடும்பம்: மரியாதையுடன் பேசு",
           "activityPattern": [],
-          "activities": 172
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 173,
           "title": "குடும்பம்: உணவு தயாரிக்க உதவி செய்",
           "activityPattern": [],
-          "activities": 173
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 174,
           "title": "குடும்பம்: மரியாதையுடன் பேசு",
           "activityPattern": [],
-          "activities": 174
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 175,
           "title": "குடும்பம்: பிள்ளையை பார்த்துக்கொள்",
           "activityPattern": [],
-          "activities": 175
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 176,
           "title": "வணிகம்: புதிய பொருட்களை அறி",
           "activityPattern": [],
-          "activities": 176
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 177,
           "title": "வணிகம்: நாடு தேர்ந்தெடு",
           "activityPattern": [],
-          "activities": 177
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 178,
           "title": "வணிகம்: சந்தையை ஆராய்",
           "activityPattern": [],
-          "activities": 178
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 179,
           "title": "வணிகம்: சலுகை தேர்ந்தெடு",
           "activityPattern": [],
-          "activities": 179
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 180,
           "title": "வணிகம்: விலையை கேள்",
           "activityPattern": [],
-          "activities": 180
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 181,
           "title": "நகரம்: அனுபவத்தை சொல்",
           "activityPattern": [],
-          "activities": 181
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 182,
           "title": "நகரம்: புதிய வேலை தேர்வு செய்",
           "activityPattern": [],
-          "activities": 182
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 183,
           "title": "நகரம்: சண்டையை தீர்த்து விடு",
           "activityPattern": [],
-          "activities": 183
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 184,
           "title": "நகரம்: வசதி குறித்து பேசு",
           "activityPattern": [],
-          "activities": 184
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 185,
           "title": "நகரம்: தேர்தலை பற்றி பேசு",
           "activityPattern": [],
-          "activities": 185
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 186,
           "title": "நிகழ்வு: நேரம் குறிக்கொள்",
           "activityPattern": [],
-          "activities": 186
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 187,
           "title": "நிகழ்வு: நேரம் பற்றி கேள்",
           "activityPattern": [],
-          "activities": 187
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 188,
           "title": "நிகழ்வு: உன் அனுபவத்தை பகிர்",
           "activityPattern": [],
-          "activities": 188
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 189,
           "title": "நிகழ்வு: பணிகளை திட்டமிடு",
           "activityPattern": [],
-          "activities": 189
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 190,
           "title": "நிகழ்வு: வருட திட்டம் அமைக்கவும்",
           "activityPattern": [],
-          "activities": 190
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 191,
           "title": "வேலை: துறையை தேர்ந்தெடு",
           "activityPattern": [],
-          "activities": 191
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 192,
           "title": "வேலை: வேலை பற்றி கேள்",
           "activityPattern": [],
-          "activities": 192
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 193,
           "title": "வேலை: திறமையை வளர்த்து கொள்",
           "activityPattern": [],
-          "activities": 193
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 194,
           "title": "வேலை: புதிய வேலை தேடு",
           "activityPattern": [],
-          "activities": 194
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 195,
           "title": "வேலை: பணி பற்றி பேசு",
           "activityPattern": [],
-          "activities": 195
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 196,
           "title": "அலுவலம்: இடைவேளை எடு",
           "activityPattern": [],
-          "activities": 196
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 197,
           "title": "அலுவலம்: நேரத்தை மாற்று",
           "activityPattern": [],
-          "activities": 197
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 198,
           "title": "அலுவலம்: உங்கள் கருத்து சொல்லு",
           "activityPattern": [],
-          "activities": 198
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 199,
           "title": "அலுவலம்: சிக்கலை பகிர்",
           "activityPattern": [],
-          "activities": 199
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 200,
           "title": "அலுவலம்: வேலை பங்கிடு",
           "activityPattern": [],
-          "activities": 200
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 201,
           "title": "பனி: உடலை கவனிக்கவும்",
           "activityPattern": [],
-          "activities": 201
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 202,
           "title": "பனி: உனது உணர்வை பகிர்",
           "activityPattern": [],
-          "activities": 202
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 203,
           "title": "பனி: பனிக்கால அனுபவம் பகிர்",
           "activityPattern": [],
-          "activities": 203
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 204,
           "title": "பனி: காலநிலை பற்றி பேசு",
           "activityPattern": [],
-          "activities": 204
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 205,
           "title": "பனி: பனி பற்றி கேள்",
           "activityPattern": [],
-          "activities": 205
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 206,
           "title": "திரையரங்கம்: நிகழ்வுகளை விளக்கு",
           "activityPattern": [],
-          "activities": 206
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 207,
           "title": "திரையரங்கம்: பாடல் கேள்",
           "activityPattern": [],
-          "activities": 207
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 208,
           "title": "திரையரங்கம்: ஏன் விரும்பவில்லை என்று சொல்",
           "activityPattern": [],
-          "activities": 208
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 209,
           "title": "திரையரங்கம்: நடிகரை அறிமுகப்படுத்து",
           "activityPattern": [],
-          "activities": 209
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 210,
           "title": "திரையரங்கம்: உன் விருப்பம் சொல்",
           "activityPattern": [],
-          "activities": 210
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 211,
           "title": "கிராமம்: நாய் ஒலியை கேள்",
           "activityPattern": [],
-          "activities": 211
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 212,
           "title": "கிராமம்: மண்ணை தயார் செய்யவும்",
           "activityPattern": [],
-          "activities": 212
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 213,
           "title": "கிராமம்: பண்ணையில் வேலை செய்",
           "activityPattern": [],
-          "activities": 213
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 214,
           "title": "கிராமம்: மாடுகளை கவனிக்கவும்",
           "activityPattern": [],
-          "activities": 214
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 215,
           "title": "கிராமம்: வீடு பற்றி பேசு",
           "activityPattern": [],
-          "activities": 215
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 216,
           "title": "ஆரோக்கியம்: அறிகுறிகளை சொல்",
           "activityPattern": [],
-          "activities": 216
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 217,
           "title": "ஆரோக்கியம்: மருத்துவரிடம் ஆலோசனை கேள்",
           "activityPattern": [],
-          "activities": 217
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 218,
           "title": "ஆரோக்கியம்: டாக்டரிடம் போ",
           "activityPattern": [],
-          "activities": 218
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 219,
           "title": "ஆரோக்கியம்: பொருட்களை வெளியே வை",
           "activityPattern": [],
-          "activities": 219
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 220,
           "title": "ஆரோக்கியம்: மருந்தை பற்றி கேள்",
           "activityPattern": [],
-          "activities": 220
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 221,
           "title": "நடத்தை: நேர்மையாக இரு",
           "activityPattern": [],
-          "activities": 221
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 222,
           "title": "நடத்தை: சரியான உதாரணம் சொல்",
           "activityPattern": [],
-          "activities": 222
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 223,
           "title": "நடத்தை: குழுவில் பணியாற்று",
           "activityPattern": [],
-          "activities": 223
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 224,
           "title": "நடத்தை: சரியான செயல் எடு",
           "activityPattern": [],
-          "activities": 224
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 225,
           "title": "நடத்தை: மரியாதையுடன் பேசு",
           "activityPattern": [],
-          "activities": 225
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 226,
           "title": "விளையாட்டு: அட்டைகளை பயன்படுத்து",
           "activityPattern": [],
-          "activities": 226
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 227,
           "title": "விளையாட்டு: பந்து தள்ளு",
           "activityPattern": [],
-          "activities": 227
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 228,
           "title": "விளையாட்டு: விதிகளை விளக்கு",
           "activityPattern": [],
-          "activities": 228
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 229,
           "title": "விளையாட்டு: முதலிடம் பெறு",
           "activityPattern": [],
-          "activities": 229
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 230,
           "title": "விளையாட்டு: பாதுகாப்பாக நட",
           "activityPattern": [],
-          "activities": 230
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 231,
           "title": "அணிகள்: அணி ரசிகராக இரு",
           "activityPattern": [],
-          "activities": 231
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 232,
           "title": "அணிகள்: அணியை ஊக்குவி",
           "activityPattern": [],
-          "activities": 232
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 233,
           "title": "அணிகள்: வீரர்களை பாராட்டு",
           "activityPattern": [],
-          "activities": 233
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 234,
           "title": "அணிகள்: புதிய வீரரை அறிக",
           "activityPattern": [],
-          "activities": 234
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 235,
           "title": "அணிகள்: பந்தயத்தில் கலந்து கொள்",
           "activityPattern": [],
-          "activities": 235
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 236,
           "title": "அலுவலகம்: வழி கேள்",
           "activityPattern": [],
-          "activities": 236
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 237,
           "title": "அலுவலகம்: புதிய வழி தேர்ந்தெடு",
           "activityPattern": [],
-          "activities": 237
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 238,
           "title": "அலுவலகம்: பஸ் தாமதத்தை கூறு",
           "activityPattern": [],
-          "activities": 238
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 239,
           "title": "அலுவலகம்: புதியவர்களை பழகு",
           "activityPattern": [],
-          "activities": 239
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 240,
           "title": "அலுவலகம்: வீட்டிலிருந்து பணியாற்று",
           "activityPattern": [],
-          "activities": 240
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 241,
           "title": "அறிவியல்: பிரச்சினையை கண்டறி",
           "activityPattern": [],
-          "activities": 241
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 242,
           "title": "அறிவியல்: பரிசோதனை செய்",
           "activityPattern": [],
-          "activities": 242
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 243,
           "title": "அறிவியல்: விளக்கத்தை புரிந்துகொள்",
           "activityPattern": [],
-          "activities": 243
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 244,
           "title": "அறிவியல்: சோதனையை செய்",
           "activityPattern": [],
-          "activities": 244
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 245,
           "title": "அறிவியல்: விவரங்களை புரிந்து கொள்",
           "activityPattern": [],
-          "activities": 245
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 246,
           "title": "பிஸ்த்ரோ: பிடித்த இடத்தை தேர்வுசெய்",
           "activityPattern": [],
-          "activities": 246
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 247,
           "title": "பிஸ்த்ரோ: சுவையான உணவு தேர்வு செய்",
           "activityPattern": [],
-          "activities": 247
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 248,
           "title": "பிஸ்த்ரோ: உணவு தேர்வு செய்",
           "activityPattern": [],
-          "activities": 248
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 249,
           "title": "பிஸ்த்ரோ: புது சுவையை சோதி",
           "activityPattern": [],
-          "activities": 249
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 5,
-          "unitIndex": 5,
+          "unitIndex": 250,
           "title": "பிஸ்த்ரோ: உணவு தேர்வு செய்",
           "activityPattern": [],
-          "activities": 250
+          "activities": 9,
+          "estimated": true
         }
       ]
     },
@@ -2735,1757 +3130,2003 @@
       "units": [
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 1,
           "title": "கடல்: கடல் பயண அனுபவம் சொல்",
           "activityPattern": [],
-          "activities": 1
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 2,
           "title": "கடல்: பயண அனுபவம் பகிர்",
           "activityPattern": [],
-          "activities": 2
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 3,
           "title": "கடல்: பூந்துறையில் விளையாடு",
           "activityPattern": [],
-          "activities": 3
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 4,
           "title": "கடல்: கடலில் மிதந்து இரு",
           "activityPattern": [],
-          "activities": 4
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 5,
           "title": "கடல்: உன் கடல் அனுபவம் பகிர",
           "activityPattern": [],
-          "activities": 5
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
           "unitIndex": 6,
           "title": "உதவி: உணவு கொண்டு போ",
           "activityPattern": [],
-          "activities": 6
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 7,
           "title": "உதவி: பணி பகிருங்கள்",
           "activityPattern": [],
-          "activities": 7
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 8,
           "title": "உதவி: உதவி கேள்",
           "activityPattern": [],
-          "activities": 8
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 9,
           "title": "உதவி: உதவி கேட்டுக்கொள்",
           "activityPattern": [],
-          "activities": 9
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 10,
           "title": "உதவி:  பைகளை எடுத்து வை",
           "activityPattern": [],
-          "activities": 10
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 11,
           "title": "கலை: படத்தை மதிப்பிடு",
           "activityPattern": [],
-          "activities": 11
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 12,
           "title": "கலை: உதவியை கேள்",
           "activityPattern": [],
-          "activities": 12
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 13,
           "title": "கலை: கலைஞரை பாராட்டு",
           "activityPattern": [],
-          "activities": 13
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 14,
           "title": "கலை: உங்கள் கருத்தை பகிர்",
           "activityPattern": [],
-          "activities": 14
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 15,
           "title": "கலை: படத்தின் தலைப்பு கூறு",
           "activityPattern": [],
-          "activities": 15
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 16,
           "title": "உணவு: சுவையை விவரிக்கவும்",
           "activityPattern": [],
-          "activities": 16
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 17,
           "title": "உணவு: சுவை பற்றி பேசு",
           "activityPattern": [],
-          "activities": 17
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 18,
           "title": "உணவு: உணவகம் பற்றி பேசு",
           "activityPattern": [],
-          "activities": 18
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 19,
           "title": "உணவு: உணவு வகையை கேள்",
           "activityPattern": [],
-          "activities": 19
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 20,
           "title": "உணவு: உணவு பகிர்",
           "activityPattern": [],
-          "activities": 20
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 21,
           "title": "புத்தகம்: நூலை வாங்கு",
           "activityPattern": [],
-          "activities": 21
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 22,
           "title": "புத்தகம்: அனுபவம் பகிர்",
           "activityPattern": [],
-          "activities": 22
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 23,
           "title": "புத்தகம்: உன் கருத்தை சொல்",
           "activityPattern": [],
-          "activities": 23
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 24,
           "title": "புத்தகம்: தலைப்பை சொல்",
           "activityPattern": [],
-          "activities": 24
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 25,
           "title": "புத்தகம்: கவிதை படி",
           "activityPattern": [],
-          "activities": 25
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 26,
           "title": "சுற்றுலா: நாடு பற்றி பேசு",
           "activityPattern": [],
-          "activities": 26
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 27,
           "title": "சுற்றுலா: விமானம் ஏறு",
           "activityPattern": [],
-          "activities": 27
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 28,
           "title": "சுற்றுலா: படங்களை பகிர்",
           "activityPattern": [],
-          "activities": 28
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 29,
           "title": "சுற்றுலா: பயண அனுபவம் பகிர்",
           "activityPattern": [],
-          "activities": 29
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 30,
           "title": "சுற்றுலா: மாநிலங்களை அறி",
           "activityPattern": [],
-          "activities": 30
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 31,
           "title": "வீடு: செல்வதற்குத் திட்டமிடு",
           "activityPattern": [],
-          "activities": 31
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 32,
           "title": "வீடு: வீடுகளை ஒப்பிடு",
           "activityPattern": [],
-          "activities": 32
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 33,
           "title": "வீடு: சமையலறை சுத்தம் செய்",
           "activityPattern": [],
-          "activities": 33
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 34,
           "title": "வீடு: வங்கியில் கணக்கு தொடங்கு",
           "activityPattern": [],
-          "activities": 34
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 35,
           "title": "வீடு: செலவுகள் ஒப்பிடு",
           "activityPattern": [],
-          "activities": 35
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 36,
           "title": "ஆரோக்கியம்: அறிக்கையை சமர்ப்பி",
           "activityPattern": [],
-          "activities": 36
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 37,
           "title": "ஆரோக்கியம்: ஆலோசனை கேள்",
           "activityPattern": [],
-          "activities": 37
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 38,
           "title": "ஆரோக்கியம்: மாட்டை கொண்டு வா",
           "activityPattern": [],
-          "activities": 38
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 39,
           "title": "ஆரோக்கியம்: அமைதியை அனுபவு",
           "activityPattern": [],
-          "activities": 39
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 40,
           "title": "ஆரோக்கியம்: தினமும் பயிற்சி செய்",
           "activityPattern": [],
-          "activities": 40
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 41,
           "title": "டிஜிட்டல்: டைமரை அமை",
           "activityPattern": [],
-          "activities": 41
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 42,
           "title": "டிஜிட்டல்: ஆப்பை நிறுவு",
           "activityPattern": [],
-          "activities": 42
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 43,
           "title": "டிஜிட்டல்: அறிவுரை கேள்",
           "activityPattern": [],
-          "activities": 43
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 44,
           "title": "டிஜிட்டல்: பிரச்சனை சொல்லு",
           "activityPattern": [],
-          "activities": 44
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 45,
           "title": "டிஜிட்டல்: படம் பதிவேற்று",
           "activityPattern": [],
-          "activities": 45
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 46,
           "title": "விலங்கு: அதை சீராக பராமரி",
           "activityPattern": [],
-          "activities": 46
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 47,
           "title": "விலங்கு: மிருதுவாக தடவ",
           "activityPattern": [],
-          "activities": 47
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 48,
           "title": "விலங்கு: பறவை பற்றிச் சொல்",
           "activityPattern": [],
-          "activities": 48
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 49,
           "title": "விலங்கு: கூண்டு சுத்தம் செய்",
           "activityPattern": [],
-          "activities": 49
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 50,
           "title": "விலங்கு: பசுவுக்கு உணவு இடு",
           "activityPattern": [],
-          "activities": 50
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 51,
           "title": "நாடு: பிரபலர் பற்றிச் சொல்",
           "activityPattern": [],
-          "activities": 51
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 52,
           "title": "நாடு: உன் உரிமைகள் அறி",
           "activityPattern": [],
-          "activities": 52
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 53,
           "title": "நாடு: விமர்சனம் செய்",
           "activityPattern": [],
-          "activities": 53
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 54,
           "title": "நாடு: பத்திரிகையை வாசி",
           "activityPattern": [],
-          "activities": 54
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 55,
           "title": "நாடு: சிறப்பு நாளைக் கூறு",
           "activityPattern": [],
-          "activities": 55
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 56,
           "title": "கருவி: கருவியை நேராக அமை",
           "activityPattern": [],
-          "activities": 56
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 57,
           "title": "கருவி: உரையை கேள்",
           "activityPattern": [],
-          "activities": 57
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 58,
           "title": "கருவி: பயன்படுத்து",
           "activityPattern": [],
-          "activities": 58
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 59,
           "title": "கருவி: கருவியை பகிர்",
           "activityPattern": [],
-          "activities": 59
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 60,
           "title": "கருவி: மதிப்பீடு செய்",
           "activityPattern": [],
-          "activities": 60
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 61,
           "title": "வேலை: உனது அனுபவம் பகிர்",
           "activityPattern": [],
-          "activities": 61
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 62,
           "title": "வேலை: குழுவை அறிந்து கொள்",
           "activityPattern": [],
-          "activities": 62
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 63,
           "title": "வேலை: சான்றிதழ் காட்டு",
           "activityPattern": [],
-          "activities": 63
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 64,
           "title": "வேலை: உங்களை அறிமுகப்படுத்து",
           "activityPattern": [],
-          "activities": 64
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 65,
           "title": "வேலை: பணிபற்றி பேசு",
           "activityPattern": [],
-          "activities": 65
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 66,
           "title": "உடைகள்: உடை பற்றிச் பேசு",
           "activityPattern": [],
-          "activities": 66
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 67,
           "title": "உடைகள்: உனது ஸ்டைலை பகிர்",
           "activityPattern": [],
-          "activities": 67
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 68,
           "title": "உடைகள்: உடை தேர்வு செய்",
           "activityPattern": [],
-          "activities": 68
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 69,
           "title": "உடைகள்: புது உடை அணி",
           "activityPattern": [],
-          "activities": 69
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 70,
           "title": "உடைகள்: துணி வகைகள் தெரிந்து கொள்",
           "activityPattern": [],
-          "activities": 70
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 71,
           "title": "விழா: மரபு குறித்து பேசு",
           "activityPattern": [],
-          "activities": 71
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 72,
           "title": "விழா: சமூக நிகழ்வில் பங்கு கொள்",
           "activityPattern": [],
-          "activities": 72
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 73,
           "title": "விழா: உற்றவர்களை சந்தி",
           "activityPattern": [],
-          "activities": 73
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 74,
           "title": "விழா: இனிப்பு பற்றி பேசு",
           "activityPattern": [],
-          "activities": 74
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 75,
           "title": "விழா: இசையை பாராட்டு",
           "activityPattern": [],
-          "activities": 75
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 76,
           "title": "மருந்து: விலை கேளுங்கள்",
           "activityPattern": [],
-          "activities": 76
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 77,
           "title": "மருந்து: வேதனை சொல்லு",
           "activityPattern": [],
-          "activities": 77
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 78,
           "title": "மருந்து: மருந்து வாங்கு",
           "activityPattern": [],
-          "activities": 78
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 79,
           "title": "மருந்து: வழிமுறையை பின்பற்று",
           "activityPattern": [],
-          "activities": 79
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 80,
           "title": "மருந்து: சரியானவை தேர்வு செய்",
           "activityPattern": [],
-          "activities": 80
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 81,
           "title": "அடுக்கு: இடம் மாற்று",
           "activityPattern": [],
-          "activities": 81
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 82,
           "title": "அடுக்கு: பையை கொடு",
           "activityPattern": [],
-          "activities": 82
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 83,
           "title": "அடுக்கு: செலவு கணக்கு வை",
           "activityPattern": [],
-          "activities": 83
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 84,
           "title": "அடுக்கு: பணத்தை செலுத்து",
           "activityPattern": [],
-          "activities": 84
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 85,
           "title": "அடுக்கு: செலவைக் பகிர்",
           "activityPattern": [],
-          "activities": 85
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 86,
           "title": "குழு: படங்களை பகிர்",
           "activityPattern": [],
-          "activities": 86
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 87,
           "title": "குழு: ஒரு குழு அமை",
           "activityPattern": [],
-          "activities": 87
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 88,
           "title": "குழு: நேரத்தை கேள்",
           "activityPattern": [],
-          "activities": 88
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 89,
           "title": "குழு: உணவை பகிர்",
           "activityPattern": [],
-          "activities": 89
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 90,
           "title": "குழு: உறுப்பினரை எண்ணு",
           "activityPattern": [],
-          "activities": 90
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 91,
           "title": "வாழ்க்கை: தினசரி பழக்கத்தை மாற்று",
           "activityPattern": [],
-          "activities": 91
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 92,
           "title": "வாழ்க்கை: நல்ல உணவு தேர்ந்தெடு",
           "activityPattern": [],
-          "activities": 92
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 93,
           "title": "வாழ்க்கை: நடக்கத் தொடங்கு",
           "activityPattern": [],
-          "activities": 93
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 94,
           "title": "வாழ்க்கை: நன்றாக உறங்கு",
           "activityPattern": [],
-          "activities": 94
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 95,
           "title": "வாழ்க்கை: நல்வாழ்க்கை பழகு",
           "activityPattern": [],
-          "activities": 95
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 96,
           "title": "பூங்கா: அழகிய இடம் தேடு",
           "activityPattern": [],
-          "activities": 96
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 97,
           "title": "பூங்கா: இடத்தை தேர்ந்தெடு",
           "activityPattern": [],
-          "activities": 97
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 98,
           "title": "பூங்கா: சுற்றிப் பார்க்கும் இடங்கள்",
           "activityPattern": [],
-          "activities": 98
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 99,
           "title": "பூங்கா: சிறுவர்களுடன் விளையாடு",
           "activityPattern": [],
-          "activities": 99
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 100,
           "title": "பூங்கா: மணல் அரண்கள் அமை",
           "activityPattern": [],
-          "activities": 100
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 101,
           "title": "செய்திகள்: உதவி கேள்",
           "activityPattern": [],
-          "activities": 101
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 102,
           "title": "செய்திகள்: நிபுணரை கேள்",
           "activityPattern": [],
-          "activities": 102
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 103,
           "title": "செய்திகள்: வல்லுநரை கேள்",
           "activityPattern": [],
-          "activities": 103
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 104,
           "title": "செய்திகள்: திருடியவரை அறிக",
           "activityPattern": [],
-          "activities": 104
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 105,
           "title": "செய்திகள்: புகைப்படத்தை கவனி",
           "activityPattern": [],
-          "activities": 105
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 106,
           "title": "நூலகம்: நூலகம் பற்றி கூறு",
           "activityPattern": [],
-          "activities": 106
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 107,
           "title": "நூலகம்: புத்தகம் திருப்பி வை",
           "activityPattern": [],
-          "activities": 107
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 108,
           "title": "நூலகம்: புதியப் புத்தகம் தேர்வு செய்",
           "activityPattern": [],
-          "activities": 108
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 109,
           "title": "நூலகம்: புதிய புத்தகம் படி",
           "activityPattern": [],
-          "activities": 109
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 110,
           "title": "நூலகம்: புத்தகங்களை ஒழுங்குபடுத்து",
           "activityPattern": [],
-          "activities": 110
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 111,
           "title": "திசை: சுற்றி பாருங்கள்",
           "activityPattern": [],
-          "activities": 111
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 112,
           "title": "திசை: வழியைக் காட்டு",
           "activityPattern": [],
-          "activities": 112
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 113,
           "title": "திசை: இடத்தை சுட்டிக் கூறு",
           "activityPattern": [],
-          "activities": 113
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 114,
           "title": "திசை: மேற்கு நோக்கி செல்ல",
           "activityPattern": [],
-          "activities": 114
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 115,
           "title": "திசை: வழியை சொல்லு",
           "activityPattern": [],
-          "activities": 115
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 116,
           "title": "சமூகம்: புதிய பதிவு பகிர்",
           "activityPattern": [],
-          "activities": 116
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 117,
           "title": "சமூகம்: புதிய சொற்களை பகிர்",
           "activityPattern": [],
-          "activities": 117
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 118,
           "title": "சமூகம்: வீடியோ பகிர்",
           "activityPattern": [],
-          "activities": 118
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 119,
           "title": "சமூகம்: தரமான தகவல் பகிர்ந்து கொள்ளு",
           "activityPattern": [],
-          "activities": 119
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 120,
           "title": "சமூகம்: படம் பதிவேற்று",
           "activityPattern": [],
-          "activities": 120
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 121,
           "title": "குடும்பம்: உதவி கேள்",
           "activityPattern": [],
-          "activities": 121
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 122,
           "title": "குடும்பம்: உன் நினைவுகளை பகிர்",
           "activityPattern": [],
-          "activities": 122
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 123,
           "title": "குடும்பம்: பிள்ளைகளை சமாளி",
           "activityPattern": [],
-          "activities": 123
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 124,
           "title": "குடும்பம்: பிள்ளைகளைப் பற்றி பேசு",
           "activityPattern": [],
-          "activities": 124
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 125,
           "title": "குடும்பம்: தேவையானது எடுத்து வை",
           "activityPattern": [],
-          "activities": 125
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 126,
           "title": "குழு: உங்கள் கருத்தை பகிர்",
           "activityPattern": [],
-          "activities": 126
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 127,
           "title": "குழு: குழு முடிவை பகிர்",
           "activityPattern": [],
-          "activities": 127
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 128,
           "title": "குழு: வாதம் நடத்து",
           "activityPattern": [],
-          "activities": 128
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 129,
           "title": "குழு: உரையைக் கேள்",
           "activityPattern": [],
-          "activities": 129
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 130,
           "title": "குழு: அரட்டை நடத்த",
           "activityPattern": [],
-          "activities": 130
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 131,
           "title": "உடற்பயிற்சி: நேற்று செய்ததை பகிர்",
           "activityPattern": [],
-          "activities": 131
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 132,
           "title": "உடற்பயிற்சி: மூட்டுகளை வலுப்படுத்தவும்",
           "activityPattern": [],
-          "activities": 132
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 133,
           "title": "உடற்பயிற்சி: தோல்வியில் கற்றுக்கொள்",
           "activityPattern": [],
-          "activities": 133
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 134,
           "title": "உடற்பயிற்சி: களைப்பை சமாளி",
           "activityPattern": [],
-          "activities": 134
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 135,
           "title": "உடற்பயிற்சி: நீண்டநேரம் நட",
           "activityPattern": [],
-          "activities": 135
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 136,
           "title": "தோட்டம்: கிழங்கு நடு",
           "activityPattern": [],
-          "activities": 136
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 137,
           "title": "தோட்டம்: விதைகள் நட",
           "activityPattern": [],
-          "activities": 137
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 138,
           "title": "தோட்டம்: கனி தேர்ந்தெடு",
           "activityPattern": [],
-          "activities": 138
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 139,
           "title": "தோட்டம்: புதிய செடி வாங்கு",
           "activityPattern": [],
-          "activities": 139
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 140,
           "title": "தோட்டம்: மண் மூட்டை கொண்டு வா",
           "activityPattern": [],
-          "activities": 140
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 141,
           "title": "மாநாடு: கருத்து பகிர்",
           "activityPattern": [],
-          "activities": 141
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 142,
           "title": "மாநாடு: கேள்வி கேள்",
           "activityPattern": [],
-          "activities": 142
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 143,
           "title": "மாநாடு: கருத்தை பகிரவும்",
           "activityPattern": [],
-          "activities": 143
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 144,
           "title": "மாநாடு: கால அட்டவணை அமை",
           "activityPattern": [],
-          "activities": 144
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 145,
           "title": "மாநாடு: கருத்தை பகிர்",
           "activityPattern": [],
-          "activities": 145
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 146,
           "title": "சமூகம்: ஒருவரை ஆதரித்து பேச",
           "activityPattern": [],
-          "activities": 146
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 147,
           "title": "சமூகம்: உரிமைகளை அறி",
           "activityPattern": [],
-          "activities": 147
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 148,
           "title": "சமூகம்: ஏலத்தில் கலந்து கொள்",
           "activityPattern": [],
-          "activities": 148
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 149,
           "title": "சமூகம்: நண்பருடன் பேசு",
           "activityPattern": [],
-          "activities": 149
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 150,
           "title": "சமூகம்: குழுவுடன் உரையாடு",
           "activityPattern": [],
-          "activities": 150
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 151,
           "title": "பேரழிவு: ஆபத்தை உணர்",
           "activityPattern": [],
-          "activities": 151
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 152,
           "title": "பேரழிவு: வழிமுறைகளை பின்பற்று",
           "activityPattern": [],
-          "activities": 152
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 153,
           "title": "பேரழிவு: உதவி கேள்",
           "activityPattern": [],
-          "activities": 153
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 154,
           "title": "பேரழிவு: வீட்டில் இரு",
           "activityPattern": [],
-          "activities": 154
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 155,
           "title": "பேரழிவு: உதவி செய்",
           "activityPattern": [],
-          "activities": 155
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 156,
           "title": "வனம்: தடாகத்தில் வாத்துகள் காண்",
           "activityPattern": [],
-          "activities": 156
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 157,
           "title": "வனம்: பறவைகளை அடையாளம் காண",
           "activityPattern": [],
-          "activities": 157
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 158,
           "title": "வனம்: சுற்றிப் பார்",
           "activityPattern": [],
-          "activities": 158
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 159,
           "title": "வனம்: பயனுள்ள பூச்சிகளை அறி",
           "activityPattern": [],
-          "activities": 159
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 160,
           "title": "வனம்: பசுமை பற்றி சொல்லு",
           "activityPattern": [],
-          "activities": 160
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 161,
           "title": "விவரம்: காரணம் கூறு",
           "activityPattern": [],
-          "activities": 161
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 162,
           "title": "விவரம்: சுருக்கமாக சொல்",
           "activityPattern": [],
-          "activities": 162
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 163,
           "title": "விவரம்: புதிய தகவல் சொல்",
           "activityPattern": [],
-          "activities": 163
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 164,
           "title": "விவரம்: வாய்ப்பைப் பயன்படுத்து",
           "activityPattern": [],
-          "activities": 164
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 165,
           "title": "விவரம்: மீண்டும் பார்வையிடு",
           "activityPattern": [],
-          "activities": 165
+          "activities": 9,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 166,
           "title": "குப்பை: பாதுகாப்பாக அகற்று",
           "activityPattern": [],
-          "activities": 166
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 167,
           "title": "குப்பை: குப்பையை விடு",
           "activityPattern": [],
-          "activities": 167
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 168,
           "title": "குப்பை: மீண்டும் பயன்படுத்து",
           "activityPattern": [],
-          "activities": 168
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 169,
           "title": "குப்பை: கழிவை சரியாக பிரி",
           "activityPattern": [],
-          "activities": 169
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 170,
           "title": "குப்பை: குப்பையை வகைபடுத்து",
           "activityPattern": [],
-          "activities": 170
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 171,
           "title": "கணியம்: பின்னணியை மாற்று",
           "activityPattern": [],
-          "activities": 171
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 172,
           "title": "கணியம்: ஒரு புதிய கோப்பை உருவாக்கு",
           "activityPattern": [],
-          "activities": 172
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 173,
           "title": "கணியம்: மீண்டும் பாரு",
           "activityPattern": [],
-          "activities": 173
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 174,
           "title": "கணியம்: அட்டவணை உருவாக்கு",
           "activityPattern": [],
-          "activities": 174
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 175,
           "title": "கணியம்: நிறத்தை மாற்று",
           "activityPattern": [],
-          "activities": 175
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 176,
           "title": "கலைம்: பொருளை தொடு",
           "activityPattern": [],
-          "activities": 176
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 177,
           "title": "கலைம்: தகவல் பலகையை படி",
           "activityPattern": [],
-          "activities": 177
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 178,
           "title": "கலைம்: சுற்றி பாரு",
           "activityPattern": [],
-          "activities": 178
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 179,
           "title": "கலைம்: பயனுள்ள கேள்விகள் கேள்",
           "activityPattern": [],
-          "activities": 179
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 180,
           "title": "கலைம்: டிகெட் வாங்கு",
           "activityPattern": [],
-          "activities": 180
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 181,
           "title": "நடத்தை: நடத்தை குறித்து பேசு",
           "activityPattern": [],
-          "activities": 181
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 182,
           "title": "நடத்தை: அவர்கள் சொன்னதை கேள்",
           "activityPattern": [],
-          "activities": 182
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 183,
           "title": "நடத்தை: நடத்தை பற்றி பேசு",
           "activityPattern": [],
-          "activities": 183
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 184,
           "title": "நடத்தை: தவறு ஏற்றுக் கொள்",
           "activityPattern": [],
-          "activities": 184
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 185,
           "title": "நடத்தை: குழுவில் பேசு",
           "activityPattern": [],
-          "activities": 185
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 186,
           "title": "சித்திரம்: புதிய வண்ணம் பயன்படுத்துங்கள்",
           "activityPattern": [],
-          "activities": 186
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 187,
           "title": "சித்திரம்: புது திட்டம் செய்",
           "activityPattern": [],
-          "activities": 187
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 188,
           "title": "சித்திரம்: வண்ணங்களை தேர்வு செய்",
           "activityPattern": [],
-          "activities": 188
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 189,
           "title": "சித்திரம்: படத்தை பகிர்",
           "activityPattern": [],
-          "activities": 189
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 190,
           "title": "சித்திரம்: படங்களை காட்டு",
           "activityPattern": [],
-          "activities": 190
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 191,
           "title": "சமையல்: மசாலா போட்டு கலக்கு",
           "activityPattern": [],
-          "activities": 191
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 192,
           "title": "சமையல்: சุปை கலந்து பாருங்கள்",
           "activityPattern": [],
-          "activities": 192
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 193,
           "title": "சமையல்: பாத்திரம் கழுவு",
           "activityPattern": [],
-          "activities": 193
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 194,
           "title": "சமையல்: பானம் வழங்கு",
           "activityPattern": [],
-          "activities": 194
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 195,
           "title": "சமையல்: உப்பு சரி பாரு",
           "activityPattern": [],
-          "activities": 195
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 196,
           "title": "வீதிகள்: புதிய பகுதியில் சுற்று",
           "activityPattern": [],
-          "activities": 196
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 197,
           "title": "வீதிகள்: பாதையில் நட",
           "activityPattern": [],
-          "activities": 197
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 198,
           "title": "வீதிகள்: புதிய நகரை சுற்றி வா",
           "activityPattern": [],
-          "activities": 198
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 199,
           "title": "வீதிகள்: படங்களை எடு",
           "activityPattern": [],
-          "activities": 199
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 200,
           "title": "வீதிகள்: வேலைப்பாடுகளை அறிந்து கொள்",
           "activityPattern": [],
-          "activities": 200
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 201,
           "title": "சுற்றுச்சூழல்: சுற்றுச்சூழலை காப்பாற்று",
           "activityPattern": [],
-          "activities": 201
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 202,
           "title": "சுற்றுச்சூழல்: மரங்கள் நடு",
           "activityPattern": [],
-          "activities": 202
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 203,
           "title": "சுற்றுச்சூழல்: கழிவை குறை",
           "activityPattern": [],
-          "activities": 203
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 204,
           "title": "சுற்றுச்சூழல்: சுத்தமாக வை",
           "activityPattern": [],
-          "activities": 204
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 205,
           "title": "சுற்றுச்சூழல்: விதைகள் நன்றாக நடு",
           "activityPattern": [],
-          "activities": 205
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 206,
           "title": "கருத்து: புதிய கருத்தை சொல்",
           "activityPattern": [],
-          "activities": 206
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 207,
           "title": "கருத்து: உனது கருத்தை பகிர்",
           "activityPattern": [],
-          "activities": 207
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 208,
           "title": "கருத்து: வகுப்பை தேர்ந்தெடு",
           "activityPattern": [],
-          "activities": 208
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 209,
           "title": "கருத்து: உன் கருத்தை சொல்",
           "activityPattern": [],
-          "activities": 209
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 210,
           "title": "கருத்து: புதிய ஆலோசனை பகிர்",
           "activityPattern": [],
-          "activities": 210
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 211,
           "title": "வீடு: புதிய வீடு தேடு",
           "activityPattern": [],
-          "activities": 211
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 212,
           "title": "வீடு: கருத்தை பகிர்",
           "activityPattern": [],
-          "activities": 212
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 213,
           "title": "வீடு: புதுப் வீடு தேடு",
           "activityPattern": [],
-          "activities": 213
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 214,
           "title": "வீடு: பயண நேரம் தெரிந்து கொள்ளவும்",
           "activityPattern": [],
-          "activities": 214
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 215,
           "title": "வீடு: டிக்கெட் வாங்கு",
           "activityPattern": [],
-          "activities": 215
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 216,
           "title": "பூங்கா: பூங்காவில் வலம் வா",
           "activityPattern": [],
-          "activities": 216
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 217,
           "title": "பூங்கா: மரங்களை பாரு",
           "activityPattern": [],
-          "activities": 217
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 218,
           "title": "பூங்கா: காபி அருந்து",
           "activityPattern": [],
-          "activities": 218
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 219,
           "title": "பூங்கா: பார்க் சுற்றி நட",
           "activityPattern": [],
-          "activities": 219
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 220,
           "title": "பூங்கா: வெளியில் பயிற்சி செய்",
           "activityPattern": [],
-          "activities": 220
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 221,
           "title": "நகரம்: பிரபல இடங்களை அறி",
           "activityPattern": [],
-          "activities": 221
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 222,
           "title": "நகரம்: பெரிய நீர்வீழ்ச்சி தேடு",
           "activityPattern": [],
-          "activities": 222
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 223,
           "title": "நகரம்: சிறப்பான இடங்களை தேடு",
           "activityPattern": [],
-          "activities": 223
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 224,
           "title": "நகரம்: நிழற்படம் எடு",
           "activityPattern": [],
-          "activities": 224
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 225,
           "title": "நகரம்: பழமையான சாலை வழியே நட",
           "activityPattern": [],
-          "activities": 225
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 226,
           "title": "குடும்: நேர்மையாக இரு",
           "activityPattern": [],
-          "activities": 226
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 227,
           "title": "குடும்: இனிப்பு பகிர்",
           "activityPattern": [],
-          "activities": 227
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 228,
           "title": "குடும்: நினைவுகளை சொல்",
           "activityPattern": [],
-          "activities": 228
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 229,
           "title": "குடும்: புத்தகங்களை படி",
           "activityPattern": [],
-          "activities": 229
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 230,
           "title": "குடும்: உறவினருடன் உரையாடு",
           "activityPattern": [],
-          "activities": 230
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 231,
           "title": "வழிகள்: வழியை கண்டுபிடி",
           "activityPattern": [],
-          "activities": 231
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 232,
           "title": "வழிகள்: வாகனம் நிறுத்து",
           "activityPattern": [],
-          "activities": 232
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 233,
           "title": "வழிகள்: ஓரமாக நில்",
           "activityPattern": [],
-          "activities": 233
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 234,
           "title": "வழிகள்: பாதையைப் பின்பற்று",
           "activityPattern": [],
-          "activities": 234
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 235,
           "title": "வழிகள்: வழிகளை கூறு",
           "activityPattern": [],
-          "activities": 235
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 236,
           "title": "கலை: கலை அனுபவம் பகிர்",
           "activityPattern": [],
-          "activities": 236
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 237,
           "title": "கலை: உனது கருத்தை பகிர்",
           "activityPattern": [],
-          "activities": 237
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 238,
           "title": "கலை: கலை பற்றி கேள்வி கேள்",
           "activityPattern": [],
-          "activities": 238
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 239,
           "title": "கலை: விழாவில் பங்கேற்று",
           "activityPattern": [],
-          "activities": 239
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 240,
           "title": "கலை: சிறந்த ஜாக்கெட் தேர்வு செய்",
           "activityPattern": [],
-          "activities": 240
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 241,
           "title": "திருமணம்: வாழ்த்து சொல்",
           "activityPattern": [],
-          "activities": 241
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 242,
           "title": "திருமணம்: படங்களை எடு",
           "activityPattern": [],
-          "activities": 242
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 243,
           "title": "திருமணம்: உடை தேர்வு செய்",
           "activityPattern": [],
-          "activities": 243
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 244,
           "title": "திருமணம்: மண விழாவில் பங்கேறு",
           "activityPattern": [],
-          "activities": 244
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 245,
           "title": "திருமணம்: விருந்தினரை சந்தி",
           "activityPattern": [],
-          "activities": 245
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 246,
           "title": "மதிப்பு: புதிய யோசனை கூறு",
           "activityPattern": [],
-          "activities": 246
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 247,
           "title": "மதிப்பு: வழிகாட்டு ஆலோசனை கொடு",
           "activityPattern": [],
-          "activities": 247
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 248,
           "title": "மதிப்பு: உங்கள் கருத்தை பகிர்",
           "activityPattern": [],
-          "activities": 248
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 249,
           "title": "மதிப்பு: மற்றவரை மதிக்கவும்",
           "activityPattern": [],
-          "activities": 249
+          "activities": 8,
+          "estimated": true
         },
         {
           "sectionIndex": 6,
-          "unitIndex": 6,
+          "unitIndex": 250,
           "title": "மதிப்பு: பணி பட்டியலை பார்",
-          "activityPattern": [
-            2026,
-            6,
-            14
-          ],
-          "activities": 2046
+          "activityPattern": [],
+          "activities": 8,
+          "estimated": true
         }
       ]
     }

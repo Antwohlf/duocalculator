@@ -2,25 +2,33 @@
   "meta": {
     "key": "hkfzh48",
     "courseTitle": "Chinese → Cantonese",
-    "scrapedAt": "2026-09-20T08:18:37.233Z",
+    "scrapedAt": "2026-09-26T14:26:32.057Z",
     "sourceHash": "sha256:885451cdd369cbca",
     "fromLang": "Chinese",
     "toLang": "Cantonese",
     "fromCode": "zh",
     "toCode": "hk",
-    "level": null,
-    "levelShort": null,
+    "level": "CEFR 从中文（普通话）学习粤语（中文），共",
+    "levelShort": "从中文（普通话）学习粤语（中文），共",
     "detailHref": "https://duolingodata.com/dat/hkfzh48.html",
+    "parserVersion": 3,
+    "indexUnitsCount": 48,
+    "indexLessonsCount": 820,
+    "sourceSectionCounts": [
+      9,
+      9,
+      10,
+      20
+    ],
     "detailHrefHash": "sha256:c51eaf185a907623",
     "scrapeWarnings": [
-      "No sections parsed, using meta.unitsCount",
-      "No activities parsed, using meta.lessonsCount",
-      "No sections parsed, generated synthetic units from course totals"
+      "Section sizes aligned with current course summary",
+      "Per-unit lesson counts estimated from course total"
     ],
-    "schemaVersion": "1.0.0"
+    "schemaVersion": "2.0.0"
   },
   "totals": {
-    "sections": 5,
+    "sections": 4,
     "activities": 820,
     "units": 48,
     "estimated": true
@@ -28,382 +36,421 @@
   "sections": [
     {
       "sectionIndex": 1,
-      "unitCount": 10,
-      "title": "",
-      "rawTitle": "",
-      "cefr": "",
+      "unitCount": 9,
+      "title": "CEFR Intro:",
+      "rawTitle": "CEFR Intro:",
+      "cefr": "INTRO:",
       "units": [
         {
           "sectionIndex": 1,
           "unitIndex": 1,
-          "title": "Unit 1",
+          "title": "在喝早茶时点餐和询问价格",
           "activityPattern": [],
-          "activities": 18
+          "activities": 18,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
           "unitIndex": 2,
-          "title": "Unit 2",
+          "title": "初次见面与人寒暄",
           "activityPattern": [],
-          "activities": 18
+          "activities": 18,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
           "unitIndex": 3,
-          "title": "Unit 3",
+          "title": "问路",
           "activityPattern": [],
-          "activities": 18
+          "activities": 18,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
           "unitIndex": 4,
-          "title": "Unit 4",
+          "title": "在广州出行",
           "activityPattern": [],
-          "activities": 18
+          "activities": 18,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
           "unitIndex": 5,
-          "title": "Unit 5",
+          "title": "介绍你的家人",
           "activityPattern": [],
-          "activities": 17
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
           "unitIndex": 6,
-          "title": "Unit 6",
+          "title": "与朋友闲聊",
           "activityPattern": [],
-          "activities": 17
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
           "unitIndex": 7,
-          "title": "Unit 7",
+          "title": "谈论职业和梦想",
           "activityPattern": [],
-          "activities": 17
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
           "unitIndex": 8,
-          "title": "Unit 8",
+          "title": "吃晚餐时表达需求",
           "activityPattern": [],
-          "activities": 17
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
           "unitIndex": 9,
-          "title": "Unit 9",
+          "title": "去香港旅行",
           "activityPattern": [],
-          "activities": 17
-        },
-        {
-          "sectionIndex": 1,
-          "unitIndex": 10,
-          "title": "Unit 10",
-          "activityPattern": [],
-          "activities": 17
+          "activities": 17,
+          "estimated": true
         }
       ]
     },
     {
       "sectionIndex": 2,
-      "unitCount": 10,
-      "title": "",
-      "rawTitle": "",
-      "cefr": "",
+      "unitCount": 9,
+      "title": ":",
+      "rawTitle": "CEFR A1:",
+      "cefr": "A1",
       "units": [
         {
           "sectionIndex": 2,
-          "unitIndex": 11,
-          "title": "Unit 11",
+          "unitIndex": 1,
+          "title": "在商场买衣服",
           "activityPattern": [],
-          "activities": 17
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 12,
-          "title": "Unit 12",
+          "unitIndex": 2,
+          "title": "谈论兴趣爱好",
           "activityPattern": [],
-          "activities": 17
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 13,
-          "title": "Unit 13",
+          "unitIndex": 3,
+          "title": "描述身体状况",
           "activityPattern": [],
-          "activities": 17
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 14,
-          "title": "Unit 14",
+          "unitIndex": 4,
+          "title": "在香港的餐厅和小吃摊点餐",
           "activityPattern": [],
-          "activities": 17
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 15,
-          "title": "Unit 15",
+          "unitIndex": 5,
+          "title": "谈论天气",
           "activityPattern": [],
-          "activities": 17
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 16,
-          "title": "Unit 16",
+          "unitIndex": 6,
+          "title": "讨论春节习俗",
           "activityPattern": [],
-          "activities": 17
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 17,
-          "title": "Unit 17",
+          "unitIndex": 7,
+          "title": "描述身体不适和对策",
           "activityPattern": [],
-          "activities": 17
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 18,
-          "title": "Unit 18",
+          "unitIndex": 8,
+          "title": "在菜市场买菜",
           "activityPattern": [],
-          "activities": 17
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 19,
-          "title": "Unit 19",
+          "unitIndex": 9,
+          "title": "描述心情",
           "activityPattern": [],
-          "activities": 17
-        },
-        {
-          "sectionIndex": 2,
-          "unitIndex": 20,
-          "title": "Unit 20",
-          "activityPattern": [],
-          "activities": 17
+          "activities": 17,
+          "estimated": true
         }
       ]
     },
     {
       "sectionIndex": 3,
       "unitCount": 10,
-      "title": "",
-      "rawTitle": "",
-      "cefr": "",
+      "title": ":",
+      "rawTitle": "CEFR A1:",
+      "cefr": "A1",
       "units": [
         {
           "sectionIndex": 3,
-          "unitIndex": 21,
-          "title": "Unit 21",
+          "unitIndex": 1,
+          "title": "在KTV唱粤语歌",
           "activityPattern": [],
-          "activities": 17
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 22,
-          "title": "Unit 22",
+          "unitIndex": 2,
+          "title": "在甜品店吃糖水",
           "activityPattern": [],
-          "activities": 17
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 23,
-          "title": "Unit 23",
+          "unitIndex": 3,
+          "title": "经典粤语影视作品",
           "activityPattern": [],
-          "activities": 17
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 24,
-          "title": "Unit 24",
+          "unitIndex": 4,
+          "title": "端午、中秋、清明习俗",
           "activityPattern": [],
-          "activities": 17
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 25,
-          "title": "Unit 25",
+          "unitIndex": 5,
+          "title": "谈论职场生活",
           "activityPattern": [],
-          "activities": 17
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 26,
-          "title": "Unit 26",
+          "unitIndex": 6,
+          "title": "谈论追星生活",
           "activityPattern": [],
-          "activities": 17
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 27,
-          "title": "Unit 27",
+          "unitIndex": 7,
+          "title": "谈论大学生活日常",
           "activityPattern": [],
-          "activities": 17
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 28,
-          "title": "Unit 28",
+          "unitIndex": 8,
+          "title": "品尝顺德、中山、湛江美食",
           "activityPattern": [],
-          "activities": 17
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 29,
-          "title": "Unit 29",
+          "unitIndex": 9,
+          "title": "谈论广东的天气",
           "activityPattern": [],
-          "activities": 17
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 30,
-          "title": "Unit 30",
+          "unitIndex": 10,
+          "title": "谈论租房需求",
           "activityPattern": [],
-          "activities": 17
+          "activities": 17,
+          "estimated": true
         }
       ]
     },
     {
       "sectionIndex": 4,
-      "unitCount": 10,
-      "title": "",
-      "rawTitle": "",
-      "cefr": "",
+      "unitCount": 20,
+      "title": ":",
+      "rawTitle": "CEFR A2:",
+      "cefr": "A2",
       "units": [
         {
           "sectionIndex": 4,
-          "unitIndex": 31,
-          "title": "Unit 31",
+          "unitIndex": 1,
+          "title": "谈论社交媒体",
           "activityPattern": [],
-          "activities": 17
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 32,
-          "title": "Unit 32",
+          "unitIndex": 2,
+          "title": "与朋友聚会",
           "activityPattern": [],
-          "activities": 17
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 33,
-          "title": "Unit 33",
+          "unitIndex": 3,
+          "title": "谈论深圳与珠海生活",
           "activityPattern": [],
-          "activities": 17
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 34,
-          "title": "Unit 34",
+          "unitIndex": 4,
+          "title": "探讨恋爱观念",
           "activityPattern": [],
-          "activities": 17
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 35,
-          "title": "Unit 35",
+          "unitIndex": 5,
+          "title": "谈论点外卖的需求",
           "activityPattern": [],
-          "activities": 17
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 36,
-          "title": "Unit 36",
+          "unitIndex": 6,
+          "title": "谈论中学生活日常",
           "activityPattern": [],
-          "activities": 17
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 37,
-          "title": "Unit 37",
+          "unitIndex": 7,
+          "title": "交流工作压力与养生心得",
           "activityPattern": [],
-          "activities": 17
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 38,
-          "title": "Unit 38",
+          "unitIndex": 8,
+          "title": "谈论养宠物的日常",
           "activityPattern": [],
-          "activities": 17
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 39,
-          "title": "Unit 39",
+          "unitIndex": 9,
+          "title": "逛超市",
           "activityPattern": [],
-          "activities": 17
+          "activities": 17,
+          "estimated": true
         },
         {
           "sectionIndex": 4,
-          "unitIndex": 40,
-          "title": "Unit 40",
+          "unitIndex": 10,
+          "title": "谈论家庭生活与人生大事",
           "activityPattern": [],
-          "activities": 17
-        }
-      ]
-    },
-    {
-      "sectionIndex": 5,
-      "unitCount": 8,
-      "title": "",
-      "rawTitle": "",
-      "cefr": "",
-      "units": [
-        {
-          "sectionIndex": 5,
-          "unitIndex": 41,
-          "title": "Unit 41",
-          "activityPattern": [],
-          "activities": 17
+          "activities": 17,
+          "estimated": true
         },
         {
-          "sectionIndex": 5,
-          "unitIndex": 42,
-          "title": "Unit 42",
+          "sectionIndex": 4,
+          "unitIndex": 11,
+          "title": "与朋友一起驱车旅行",
           "activityPattern": [],
-          "activities": 17
+          "activities": 17,
+          "estimated": true
         },
         {
-          "sectionIndex": 5,
-          "unitIndex": 43,
-          "title": "Unit 43",
+          "sectionIndex": 4,
+          "unitIndex": 12,
+          "title": "谈论合租生活",
           "activityPattern": [],
-          "activities": 17
+          "activities": 17,
+          "estimated": true
         },
         {
-          "sectionIndex": 5,
-          "unitIndex": 44,
-          "title": "Unit 44",
+          "sectionIndex": 4,
+          "unitIndex": 13,
+          "title": "品尝潮州、汕头、梅州美食",
           "activityPattern": [],
-          "activities": 17
+          "activities": 17,
+          "estimated": true
         },
         {
-          "sectionIndex": 5,
-          "unitIndex": 45,
-          "title": "Unit 45",
+          "sectionIndex": 4,
+          "unitIndex": 14,
+          "title": "谈论网购的经历",
           "activityPattern": [],
-          "activities": 17
+          "activities": 17,
+          "estimated": true
         },
         {
-          "sectionIndex": 5,
-          "unitIndex": 46,
-          "title": "Unit 46",
+          "sectionIndex": 4,
+          "unitIndex": 15,
+          "title": "打理个人形象",
           "activityPattern": [],
-          "activities": 17
+          "activities": 17,
+          "estimated": true
         },
         {
-          "sectionIndex": 5,
-          "unitIndex": 47,
-          "title": "Unit 47",
+          "sectionIndex": 4,
+          "unitIndex": 16,
+          "title": "谈论生活作息",
           "activityPattern": [],
-          "activities": 17
+          "activities": 17,
+          "estimated": true
         },
         {
-          "sectionIndex": 5,
-          "unitIndex": 48,
-          "title": "Unit 48",
+          "sectionIndex": 4,
+          "unitIndex": 17,
+          "title": "讨论着装穿搭",
           "activityPattern": [],
-          "activities": 17
+          "activities": 17,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 18,
+          "title": "应对突发状况",
+          "activityPattern": [],
+          "activities": 17,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 19,
+          "title": "应对冲突与化解矛盾",
+          "activityPattern": [],
+          "activities": 17,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 20,
+          "title": "完成粤语课程",
+          "activityPattern": [],
+          "activities": 17,
+          "estimated": true
         }
       ]
     }

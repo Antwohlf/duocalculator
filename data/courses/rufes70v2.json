@@ -2,23 +2,35 @@
   "meta": {
     "key": "rufes70v2",
     "courseTitle": "Spanish → Russian",
-    "scrapedAt": "2026-09-20T08:18:37.233Z",
+    "scrapedAt": "2026-09-26T14:26:32.057Z",
     "sourceHash": "sha256:e390479e1cc7f68e",
     "fromLang": "Spanish",
     "toLang": "Russian",
     "fromCode": "es",
     "toCode": "ru",
-    "level": "CEFR MCER INTRO",
-    "levelShort": "MCER INTRO",
+    "level": "CEFR RUSO DESDE ESPAÑOL",
+    "levelShort": "RUSO DESDE ESPAÑOL",
     "detailHref": "https://duolingodata.com/dat/rufes70v2.html",
+    "parserVersion": 3,
+    "indexUnitsCount": 70,
+    "indexLessonsCount": 1196,
+    "sourceSectionCounts": [
+      9,
+      30,
+      31
+    ],
     "detailHrefHash": "sha256:5e0810d4a3430f4d",
-    "scrapeWarnings": [],
-    "schemaVersion": "1.0.0"
+    "scrapeWarnings": [
+      "Section sizes aligned with current course summary",
+      "Per-unit lesson counts estimated from course total"
+    ],
+    "schemaVersion": "2.0.0"
   },
   "totals": {
     "sections": 3,
-    "activities": 2906,
-    "units": 70
+    "activities": 1196,
+    "units": 70,
+    "estimated": true
   },
   "sections": [
     {
@@ -33,54 +45,71 @@
           "unitIndex": 1,
           "title": "Reconoce palabras básicas",
           "activityPattern": [
-            1,
+            6,
+            6,
+            3,
             1
           ],
-          "activities": 2
+          "activities": 16,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
-          "unitIndex": 1,
+          "unitIndex": 2,
           "title": "Usa frases útiles",
           "activityPattern": [
-            1,
+            5,
+            5,
+            2,
             1
           ],
-          "activities": 2
+          "activities": 13,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
-          "unitIndex": 1,
+          "unitIndex": 3,
           "title": "Usa expresiones de cortesía",
           "activityPattern": [
-            1,
+            5,
+            5,
+            2,
             1
           ],
-          "activities": 2
+          "activities": 13,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
-          "unitIndex": 1,
+          "unitIndex": 4,
           "title": "Indica pertenencia",
           "activityPattern": [
+            6,
+            6,
             2,
-            2
+            3,
+            1
           ],
-          "activities": 4
+          "activities": 18,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
-          "unitIndex": 1,
+          "unitIndex": 5,
           "title": "Saluda y preséntate",
           "activityPattern": [
+            4,
+            4,
             2,
-            2
+            2,
+            1
           ],
-          "activities": 4
+          "activities": 13,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
-          "unitIndex": 1,
+          "unitIndex": 6,
           "title": "Usa los plurales",
           "activityPattern": [
             5,
@@ -89,11 +118,12 @@
             2,
             1
           ],
-          "activities": 15
+          "activities": 15,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
-          "unitIndex": 1,
+          "unitIndex": 7,
           "title": "Indica la posición de objetos",
           "activityPattern": [
             5,
@@ -102,27 +132,36 @@
             2,
             1
           ],
-          "activities": 15
+          "activities": 15,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
-          "unitIndex": 1,
+          "unitIndex": 8,
           "title": "Describe animales",
           "activityPattern": [
-            1,
+            4,
+            4,
+            2,
+            2,
             1
           ],
-          "activities": 2
+          "activities": 13,
+          "estimated": true
         },
         {
           "sectionIndex": 1,
-          "unitIndex": 1,
+          "unitIndex": 9,
           "title": "Usa el caso genitivo",
           "activityPattern": [
-            1,
+            6,
+            6,
+            2,
+            3,
             1
           ],
-          "activities": 2
+          "activities": 18,
+          "estimated": true
         }
       ]
     },
@@ -135,7 +174,7 @@
       "units": [
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 1,
           "title": "Usa adjetivos posesivos",
           "activityPattern": [
             5,
@@ -144,7 +183,8 @@
             2,
             1
           ],
-          "activities": 15
+          "activities": 15,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
@@ -157,11 +197,12 @@
             1,
             1
           ],
-          "activities": 9
+          "activities": 10,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 3,
           "title": "Usa el objeto directo",
           "activityPattern": [
             5,
@@ -170,21 +211,26 @@
             2,
             1
           ],
-          "activities": 16
+          "activities": 16,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 4,
           "title": "Usa el tiempo presente",
           "activityPattern": [
-            1,
+            8,
+            8,
+            3,
+            4,
             1
           ],
-          "activities": 2
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 5,
           "title": "Usa los infinitivos",
           "activityPattern": [
             4,
@@ -193,11 +239,12 @@
             2,
             1
           ],
-          "activities": 14
+          "activities": 14,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 6,
           "title": "Sigue una receta",
           "activityPattern": [
             5,
@@ -206,21 +253,26 @@
             2,
             1
           ],
-          "activities": 16
+          "activities": 16,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 7,
           "title": "Describe personas",
           "activityPattern": [
-            1,
+            5,
+            5,
+            3,
+            2,
             1
           ],
-          "activities": 2
+          "activities": 16,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 8,
           "title": "Usa conjunciones",
           "activityPattern": [
             2,
@@ -229,11 +281,12 @@
             1,
             1
           ],
-          "activities": 9
+          "activities": 10,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 9,
           "title": "Describe lugares",
           "activityPattern": [
             3,
@@ -242,11 +295,12 @@
             1,
             1
           ],
-          "activities": 11
+          "activities": 11,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 10,
           "title": "Haz preguntas",
           "activityPattern": [
             4,
@@ -255,21 +309,26 @@
             2,
             1
           ],
-          "activities": 14
+          "activities": 14,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 11,
           "title": "Habla de profesiones",
           "activityPattern": [
+            3,
+            3,
+            3,
             1,
             1
           ],
-          "activities": 2
+          "activities": 11,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 12,
           "title": "Pide y da indicaciones",
           "activityPattern": [
             7,
@@ -278,11 +337,12 @@
             3,
             1
           ],
-          "activities": 21
+          "activities": 21,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 13,
           "title": "Habla de viajes",
           "activityPattern": [
             5,
@@ -291,21 +351,26 @@
             2,
             1
           ],
-          "activities": 16
+          "activities": 16,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 14,
           "title": "Usa el tiempo presente",
           "activityPattern": [
-            2,
-            2
+            8,
+            8,
+            3,
+            4,
+            1
           ],
-          "activities": 4
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 15,
           "title": "Usa números del 1 al 20",
           "activityPattern": [
             9,
@@ -314,11 +379,12 @@
             4,
             1
           ],
-          "activities": 26
+          "activities": 26,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 16,
           "title": "Describe a tu familia",
           "activityPattern": [
             5,
@@ -327,21 +393,26 @@
             2,
             1
           ],
-          "activities": 16
+          "activities": 16,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 17,
           "title": "Describe relaciones",
           "activityPattern": [
-            2,
-            2
+            6,
+            6,
+            3,
+            3,
+            1
           ],
-          "activities": 4
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 18,
           "title": "Describe el clima",
           "activityPattern": [
             6,
@@ -350,11 +421,12 @@
             3,
             1
           ],
-          "activities": 19
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 19,
           "title": "Habla de deportes",
           "activityPattern": [
             4,
@@ -363,21 +435,26 @@
             2,
             1
           ],
-          "activities": 14
+          "activities": 14,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 20,
           "title": "Haz descripciones",
           "activityPattern": [
-            2,
-            2
+            10,
+            10,
+            3,
+            5,
+            1
           ],
-          "activities": 4
+          "activities": 28,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 21,
           "title": "Habla del pasado",
           "activityPattern": [
             7,
@@ -386,11 +463,12 @@
             3,
             1
           ],
-          "activities": 21
+          "activities": 21,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 22,
           "title": "Realiza compras",
           "activityPattern": [
             6,
@@ -399,11 +477,12 @@
             3,
             1
           ],
-          "activities": 19
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 23,
           "title": "Usa el caso dativo",
           "activityPattern": [
             8,
@@ -412,11 +491,12 @@
             4,
             1
           ],
-          "activities": 24
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 24,
           "title": "Mantén una charla",
           "activityPattern": [
             3,
@@ -425,11 +505,12 @@
             1,
             1
           ],
-          "activities": 11
+          "activities": 11,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 25,
           "title": "Cuenta qué has hecho",
           "activityPattern": [
             7,
@@ -438,11 +519,12 @@
             3,
             1
           ],
-          "activities": 21
+          "activities": 21,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 26,
           "title": "Usa el caso instrumental",
           "activityPattern": [
             8,
@@ -451,11 +533,12 @@
             4,
             1
           ],
-          "activities": 24
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 27,
           "title": "Describe síntomas",
           "activityPattern": [
             6,
@@ -464,31 +547,40 @@
             3,
             1
           ],
-          "activities": 19
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 28,
           "title": "Haz descripciones",
           "activityPattern": [
-            2,
-            2
+            6,
+            6,
+            3,
+            3,
+            1
           ],
-          "activities": 4
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 29,
           "title": "Describe objetos",
           "activityPattern": [
+            8,
+            8,
             3,
-            3
+            4,
+            1
           ],
-          "activities": 6
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 2,
+          "unitIndex": 30,
           "title": "Expresa estados de ánimo",
           "activityPattern": [
             6,
@@ -497,7 +589,8 @@
             3,
             1
           ],
-          "activities": 19
+          "activities": 19,
+          "estimated": true
         }
       ]
     },
@@ -510,7 +603,7 @@
       "units": [
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 1,
           "title": "Habla de tus estudios",
           "activityPattern": [
             10,
@@ -519,11 +612,12 @@
             5,
             1
           ],
-          "activities": 29
+          "activities": 28,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 2,
           "title": "Habla de viajes",
           "activityPattern": [
             6,
@@ -532,7 +626,8 @@
             3,
             1
           ],
-          "activities": 19
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
@@ -545,11 +640,12 @@
             3,
             1
           ],
-          "activities": 21
+          "activities": 21,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 4,
           "title": "Usa verbos pronominales",
           "activityPattern": [
             6,
@@ -558,11 +654,12 @@
             3,
             1
           ],
-          "activities": 19
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 5,
           "title": "Habla de la vida diaria",
           "activityPattern": [
             5,
@@ -571,11 +668,12 @@
             2,
             1
           ],
-          "activities": 16
+          "activities": 16,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 6,
           "title": "Usa el imperativo",
           "activityPattern": [
             3,
@@ -584,11 +682,12 @@
             1,
             1
           ],
-          "activities": 11
+          "activities": 11,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 7,
           "title": "Habla de transporte",
           "activityPattern": [
             7,
@@ -597,11 +696,12 @@
             3,
             1
           ],
-          "activities": 21
+          "activities": 21,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 8,
           "title": "Describe una ciudad",
           "activityPattern": [
             6,
@@ -610,21 +710,26 @@
             3,
             1
           ],
-          "activities": 19
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 9,
           "title": "Da instrucciones",
           "activityPattern": [
-            2,
-            2
+            6,
+            6,
+            3,
+            3,
+            1
           ],
-          "activities": 4
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 10,
           "title": "Usa pronombres indefinidos",
           "activityPattern": [
             4,
@@ -633,11 +738,12 @@
             2,
             1
           ],
-          "activities": 14
+          "activities": 14,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 11,
           "title": "Habla de tecnología",
           "activityPattern": [
             8,
@@ -646,11 +752,12 @@
             4,
             1
           ],
-          "activities": 24
+          "activities": 24,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 12,
           "title": "Habla del futuro",
           "activityPattern": [
             5,
@@ -659,11 +766,12 @@
             2,
             1
           ],
-          "activities": 16
+          "activities": 16,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 13,
           "title": "Habla del trabajo",
           "activityPattern": [
             6,
@@ -672,11 +780,12 @@
             3,
             1
           ],
-          "activities": 19
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 14,
           "title": "Indica la posición de objetos",
           "activityPattern": [
             4,
@@ -685,31 +794,40 @@
             2,
             1
           ],
-          "activities": 14
+          "activities": 14,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 15,
           "title": "Expresa preferencias",
           "activityPattern": [
-            2,
-            2
+            7,
+            7,
+            3,
+            3,
+            1
           ],
-          "activities": 4
+          "activities": 21,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 16,
           "title": "Elabora un argumento",
           "activityPattern": [
+            5,
+            5,
+            3,
             2,
-            2
+            1
           ],
-          "activities": 4
+          "activities": 16,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 17,
           "title": "Haz planes con amigos",
           "activityPattern": [
             4,
@@ -718,11 +836,12 @@
             2,
             1
           ],
-          "activities": 14
+          "activities": 14,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 18,
           "title": "Usa el tiempo futuro",
           "activityPattern": [
             4,
@@ -731,21 +850,26 @@
             2,
             1
           ],
-          "activities": 14
+          "activities": 14,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 19,
           "title": "Describe medios de transporte",
           "activityPattern": [
+            4,
+            4,
+            3,
             2,
-            2
+            1
           ],
-          "activities": 4
+          "activities": 14,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 20,
           "title": "Habla de arte",
           "activityPattern": [
             6,
@@ -754,11 +878,12 @@
             3,
             1
           ],
-          "activities": 19
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 21,
           "title": "Habla de pasatiempos",
           "activityPattern": [
             3,
@@ -767,31 +892,40 @@
             1,
             1
           ],
-          "activities": 11
+          "activities": 11,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 22,
           "title": "Indica la fecha",
           "activityPattern": [
-            2,
-            2
+            6,
+            6,
+            3,
+            3,
+            1
           ],
-          "activities": 4
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 23,
           "title": "Realiza descripciones",
           "activityPattern": [
-            4,
-            4
+            6,
+            6,
+            3,
+            3,
+            1
           ],
-          "activities": 8
+          "activities": 19,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 24,
           "title": "Habla de planes",
           "activityPattern": [
             3,
@@ -800,21 +934,26 @@
             1,
             1
           ],
-          "activities": 11
+          "activities": 11,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 25,
           "title": "Usa preposiciones",
           "activityPattern": [
-            2,
-            2
+            3,
+            3,
+            3,
+            1,
+            1
           ],
-          "activities": 4
+          "activities": 11,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 26,
           "title": "Indica semejanzas",
           "activityPattern": [
             3,
@@ -823,11 +962,12 @@
             1,
             1
           ],
-          "activities": 11
+          "activities": 11,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 27,
           "title": "Describe utensilios",
           "activityPattern": [
             4,
@@ -836,11 +976,12 @@
             2,
             1
           ],
-          "activities": 14
+          "activities": 14,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 28,
           "title": "Usa unidades de medida",
           "activityPattern": [
             4,
@@ -849,11 +990,12 @@
             2,
             1
           ],
-          "activities": 14
+          "activities": 14,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 29,
           "title": "Habla de negocios",
           "activityPattern": [
             5,
@@ -862,11 +1004,12 @@
             2,
             1
           ],
-          "activities": 16
+          "activities": 16,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 30,
           "title": "Usa prefijos",
           "activityPattern": [
             5,
@@ -875,18 +1018,22 @@
             2,
             1
           ],
-          "activities": 16
+          "activities": 16,
+          "estimated": true
         },
         {
           "sectionIndex": 3,
-          "unitIndex": 3,
+          "unitIndex": 31,
           "title": "Narra historias",
           "activityPattern": [
-            2025,
             7,
-            10
+            7,
+            3,
+            3,
+            1
           ],
-          "activities": 2042
+          "activities": 21,
+          "estimated": true
         }
       ]
     }

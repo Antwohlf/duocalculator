@@ -1,25 +1,25 @@
 {
   "meta": {
-    "key": "idfen69v2",
-    "courseTitle": "English → Indonesian",
+    "key": "zwfzh50",
+    "courseTitle": "Chinese → Zw",
     "scrapedAt": "2026-10-04T09:22:47.458Z",
-    "sourceHash": "sha256:a4a96f2257996dde",
-    "fromLang": "English",
-    "toLang": "Indonesian",
-    "fromCode": "en",
-    "toCode": "id",
+    "sourceHash": "sha256:cde59c8cf4fea44b",
+    "fromLang": "Chinese",
+    "toLang": "Zw",
+    "fromCode": "zh",
+    "toCode": "zw",
     "level": "CEFR A1",
     "levelShort": "A1",
-    "detailHref": "https://duolingodata.com/dat/idfen69v2.html",
+    "detailHref": "https://duolingodata.com/dat/zwfzh50.html",
     "parserVersion": 4,
-    "indexUnitsCount": 69,
-    "indexLessonsCount": 1189,
+    "indexUnitsCount": 50,
+    "indexLessonsCount": 846,
     "sourceSectionCounts": [
       9,
       30,
-      30
+      11
     ],
-    "detailHrefHash": "sha256:290613579db8c404",
+    "detailHrefHash": "sha256:cde6e87ba1be12db",
     "scrapeWarnings": [
       "Section sizes aligned with current course summary",
       "Per-unit lesson counts estimated from course total"
@@ -28,8 +28,8 @@
   },
   "totals": {
     "sections": 3,
-    "activities": 1189,
-    "units": 69,
+    "activities": 846,
+    "units": 50,
     "estimated": true
   },
   "sections": [
@@ -43,73 +43,73 @@
         {
           "sectionIndex": 1,
           "unitIndex": 1,
-          "title": "Use basic phrases",
+          "title": "在早餐店买早饭",
           "activityPattern": [],
-          "activities": 18,
+          "activities": 17,
           "estimated": true
         },
         {
           "sectionIndex": 1,
           "unitIndex": 2,
-          "title": "Introduce yourself",
+          "title": "跟邻居打招呼、闲聊",
           "activityPattern": [],
-          "activities": 18,
+          "activities": 17,
           "estimated": true
         },
         {
           "sectionIndex": 1,
           "unitIndex": 3,
-          "title": "Use common phrases",
+          "title": "讨论地铁路线",
           "activityPattern": [],
-          "activities": 18,
+          "activities": 17,
           "estimated": true
         },
         {
           "sectionIndex": 1,
           "unitIndex": 4,
-          "title": "Greet people",
+          "title": "去咖啡店喝咖啡",
           "activityPattern": [],
-          "activities": 18,
+          "activities": 17,
           "estimated": true
         },
         {
           "sectionIndex": 1,
           "unitIndex": 5,
-          "title": "Order food and drink",
+          "title": "和同事聊工作",
           "activityPattern": [],
-          "activities": 18,
+          "activities": 17,
           "estimated": true
         },
         {
           "sectionIndex": 1,
           "unitIndex": 6,
-          "title": "Describe places",
+          "title": "在健身房运动健身",
           "activityPattern": [],
-          "activities": 18,
+          "activities": 17,
           "estimated": true
         },
         {
           "sectionIndex": 1,
           "unitIndex": 7,
-          "title": "Express actions",
+          "title": "打卡上海网红地点",
           "activityPattern": [],
-          "activities": 18,
+          "activities": 17,
           "estimated": true
         },
         {
           "sectionIndex": 1,
           "unitIndex": 8,
-          "title": "Express ownership",
+          "title": "去医院看病",
           "activityPattern": [],
-          "activities": 18,
+          "activities": 17,
           "estimated": true
         },
         {
           "sectionIndex": 1,
           "unitIndex": 9,
-          "title": "Discuss clothing",
+          "title": "逛街买衣服",
           "activityPattern": [],
-          "activities": 18,
+          "activities": 17,
           "estimated": true
         }
       ]
@@ -124,63 +124,63 @@
         {
           "sectionIndex": 2,
           "unitIndex": 1,
-          "title": "Use conjunctions",
+          "title": "讨论天气",
           "activityPattern": [],
-          "activities": 18,
+          "activities": 17,
           "estimated": true
         },
         {
           "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "Form plurals",
+          "title": "谈论在上海租房",
           "activityPattern": [],
-          "activities": 18,
+          "activities": 17,
           "estimated": true
         },
         {
           "sectionIndex": 2,
           "unitIndex": 3,
-          "title": "Use ber- verbs",
+          "title": "中秋节家庭聚餐",
           "activityPattern": [],
-          "activities": 18,
+          "activities": 17,
           "estimated": true
         },
         {
           "sectionIndex": 2,
           "unitIndex": 4,
-          "title": "Ask questions",
+          "title": "跟相亲对象见面",
           "activityPattern": [],
-          "activities": 18,
+          "activities": 17,
           "estimated": true
         },
         {
           "sectionIndex": 2,
           "unitIndex": 5,
-          "title": "Name colors",
+          "title": "相约看演出",
           "activityPattern": [],
-          "activities": 18,
+          "activities": 17,
           "estimated": true
         },
         {
           "sectionIndex": 2,
           "unitIndex": 6,
-          "title": "Form me- verbs",
+          "title": "交流养宠生活",
           "activityPattern": [],
-          "activities": 18,
+          "activities": 17,
           "estimated": true
         },
         {
           "sectionIndex": 2,
           "unitIndex": 7,
-          "title": "Use adjectives",
+          "title": "乘坐飞机",
           "activityPattern": [],
-          "activities": 18,
+          "activities": 17,
           "estimated": true
         },
         {
           "sectionIndex": 2,
           "unitIndex": 8,
-          "title": "Count things",
+          "title": "讨论关于上海的文艺作品",
           "activityPattern": [],
           "activities": 17,
           "estimated": true
@@ -188,7 +188,7 @@
         {
           "sectionIndex": 2,
           "unitIndex": 9,
-          "title": "Form me- verbs",
+          "title": "相约逛大学校园",
           "activityPattern": [],
           "activities": 17,
           "estimated": true
@@ -196,7 +196,7 @@
         {
           "sectionIndex": 2,
           "unitIndex": 10,
-          "title": "Use adjectives",
+          "title": "讨论假期出游",
           "activityPattern": [],
           "activities": 17,
           "estimated": true
@@ -204,7 +204,7 @@
         {
           "sectionIndex": 2,
           "unitIndex": 11,
-          "title": "Refer to family members",
+          "title": "参加婚礼",
           "activityPattern": [],
           "activities": 17,
           "estimated": true
@@ -212,7 +212,7 @@
         {
           "sectionIndex": 2,
           "unitIndex": 12,
-          "title": "Talk about your kitchen",
+          "title": "应对不同的交通状况",
           "activityPattern": [],
           "activities": 17,
           "estimated": true
@@ -220,7 +220,7 @@
         {
           "sectionIndex": 2,
           "unitIndex": 13,
-          "title": "Form complex sentences",
+          "title": "参观博物馆",
           "activityPattern": [],
           "activities": 17,
           "estimated": true
@@ -228,7 +228,7 @@
         {
           "sectionIndex": 2,
           "unitIndex": 14,
-          "title": "Discuss professions",
+          "title": "看望长辈",
           "activityPattern": [],
           "activities": 17,
           "estimated": true
@@ -236,7 +236,7 @@
         {
           "sectionIndex": 2,
           "unitIndex": 15,
-          "title": "Talk about days and times",
+          "title": "追忆童年",
           "activityPattern": [],
           "activities": 17,
           "estimated": true
@@ -244,7 +244,7 @@
         {
           "sectionIndex": 2,
           "unitIndex": 16,
-          "title": "Form adverbs",
+          "title": "在公共场合与人交流",
           "activityPattern": [],
           "activities": 17,
           "estimated": true
@@ -252,7 +252,7 @@
         {
           "sectionIndex": 2,
           "unitIndex": 17,
-          "title": "Use -di verbs",
+          "title": "在上海的游乐园游玩",
           "activityPattern": [],
           "activities": 17,
           "estimated": true
@@ -260,7 +260,7 @@
         {
           "sectionIndex": 2,
           "unitIndex": 18,
-          "title": "Talk about your body",
+          "title": "回家过年",
           "activityPattern": [],
           "activities": 17,
           "estimated": true
@@ -268,7 +268,7 @@
         {
           "sectionIndex": 2,
           "unitIndex": 19,
-          "title": "Form -an nouns",
+          "title": "与好朋友聚会",
           "activityPattern": [],
           "activities": 17,
           "estimated": true
@@ -276,7 +276,7 @@
         {
           "sectionIndex": 2,
           "unitIndex": 20,
-          "title": "Offer directions",
+          "title": "周末去苏州旅游",
           "activityPattern": [],
           "activities": 17,
           "estimated": true
@@ -284,7 +284,7 @@
         {
           "sectionIndex": 2,
           "unitIndex": 21,
-          "title": "Use commands",
+          "title": "谈论都市潮流生活",
           "activityPattern": [],
           "activities": 17,
           "estimated": true
@@ -292,7 +292,7 @@
         {
           "sectionIndex": 2,
           "unitIndex": 22,
-          "title": "Describe your home",
+          "title": "吐槽职场所见所闻",
           "activityPattern": [],
           "activities": 17,
           "estimated": true
@@ -300,7 +300,7 @@
         {
           "sectionIndex": 2,
           "unitIndex": 23,
-          "title": "Name animals",
+          "title": "办理银行业务",
           "activityPattern": [],
           "activities": 17,
           "estimated": true
@@ -308,7 +308,7 @@
         {
           "sectionIndex": 2,
           "unitIndex": 24,
-          "title": "Express dates and times",
+          "title": "谈论社区生活",
           "activityPattern": [],
           "activities": 17,
           "estimated": true
@@ -316,7 +316,7 @@
         {
           "sectionIndex": 2,
           "unitIndex": 25,
-          "title": "Form adverbs",
+          "title": "讨论语言学习",
           "activityPattern": [],
           "activities": 17,
           "estimated": true
@@ -324,7 +324,7 @@
         {
           "sectionIndex": 2,
           "unitIndex": 26,
-          "title": "Create pe-an nouns",
+          "title": "谈论上海的国际化",
           "activityPattern": [],
           "activities": 17,
           "estimated": true
@@ -332,7 +332,7 @@
         {
           "sectionIndex": 2,
           "unitIndex": 27,
-          "title": "Express your emotions",
+          "title": "购买蔬菜水果",
           "activityPattern": [],
           "activities": 17,
           "estimated": true
@@ -340,7 +340,7 @@
         {
           "sectionIndex": 2,
           "unitIndex": 28,
-          "title": "Form particles",
+          "title": "谈论亲子生活",
           "activityPattern": [],
           "activities": 17,
           "estimated": true
@@ -348,7 +348,7 @@
         {
           "sectionIndex": 2,
           "unitIndex": 29,
-          "title": "Create ter- verbs",
+          "title": "参与不同形式的体育活动",
           "activityPattern": [],
           "activities": 17,
           "estimated": true
@@ -356,7 +356,7 @@
         {
           "sectionIndex": 2,
           "unitIndex": 30,
-          "title": "Discuss education",
+          "title": "谈恋爱",
           "activityPattern": [],
           "activities": 17,
           "estimated": true
@@ -365,7 +365,7 @@
     },
     {
       "sectionIndex": 3,
-      "unitCount": 30,
+      "unitCount": 11,
       "title": ":",
       "rawTitle": "CEFR A1:",
       "cefr": "A1",
@@ -373,7 +373,7 @@
         {
           "sectionIndex": 3,
           "unitIndex": 1,
-          "title": "Use me-kan verbs",
+          "title": "讨论天气与节气",
           "activityPattern": [],
           "activities": 17,
           "estimated": true
@@ -381,7 +381,7 @@
         {
           "sectionIndex": 3,
           "unitIndex": 2,
-          "title": "Make comparisons",
+          "title": "聊中年危机",
           "activityPattern": [],
           "activities": 17,
           "estimated": true
@@ -389,7 +389,7 @@
         {
           "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "Form me-kan verbs",
+          "title": "聊如何养生",
           "activityPattern": [],
           "activities": 17,
           "estimated": true
@@ -397,7 +397,7 @@
         {
           "sectionIndex": 3,
           "unitIndex": 4,
-          "title": "Talk about travel",
+          "title": "讨论毕业相关话题",
           "activityPattern": [],
           "activities": 17,
           "estimated": true
@@ -405,7 +405,7 @@
         {
           "sectionIndex": 3,
           "unitIndex": 5,
-          "title": "Describe measurements",
+          "title": "评论欣赏音乐",
           "activityPattern": [],
           "activities": 17,
           "estimated": true
@@ -413,7 +413,7 @@
         {
           "sectionIndex": 3,
           "unitIndex": 6,
-          "title": "Form di-kan verbs",
+          "title": "讨论上海从以前到现在的发展",
           "activityPattern": [],
           "activities": 17,
           "estimated": true
@@ -421,7 +421,7 @@
         {
           "sectionIndex": 3,
           "unitIndex": 7,
-          "title": "Express feelings",
+          "title": "与亲戚朋友交际",
           "activityPattern": [],
           "activities": 17,
           "estimated": true
@@ -429,185 +429,33 @@
         {
           "sectionIndex": 3,
           "unitIndex": 8,
-          "title": "Discuss health",
+          "title": "聊忙碌的周末",
           "activityPattern": [],
-          "activities": 17,
+          "activities": 16,
           "estimated": true
         },
         {
           "sectionIndex": 3,
           "unitIndex": 9,
-          "title": "Talk about nature",
+          "title": "谈论如何精致生活",
           "activityPattern": [],
-          "activities": 17,
+          "activities": 16,
           "estimated": true
         },
         {
           "sectionIndex": 3,
           "unitIndex": 10,
-          "title": "Communicate with others",
+          "title": "讲述沪漂生活",
           "activityPattern": [],
-          "activities": 17,
+          "activities": 16,
           "estimated": true
         },
         {
           "sectionIndex": 3,
           "unitIndex": 11,
-          "title": "Form me-i verbs",
+          "title": "探讨海派文化",
           "activityPattern": [],
-          "activities": 17,
-          "estimated": true
-        },
-        {
-          "sectionIndex": 3,
-          "unitIndex": 12,
-          "title": "Use prepositions",
-          "activityPattern": [],
-          "activities": 17,
-          "estimated": true
-        },
-        {
-          "sectionIndex": 3,
-          "unitIndex": 13,
-          "title": "Describe materials",
-          "activityPattern": [],
-          "activities": 17,
-          "estimated": true
-        },
-        {
-          "sectionIndex": 3,
-          "unitIndex": 14,
-          "title": "Name common objects",
-          "activityPattern": [],
-          "activities": 17,
-          "estimated": true
-        },
-        {
-          "sectionIndex": 3,
-          "unitIndex": 15,
-          "title": "Talk about science",
-          "activityPattern": [],
-          "activities": 17,
-          "estimated": true
-        },
-        {
-          "sectionIndex": 3,
-          "unitIndex": 16,
-          "title": "Form di-i verbs",
-          "activityPattern": [],
-          "activities": 17,
-          "estimated": true
-        },
-        {
-          "sectionIndex": 3,
-          "unitIndex": 17,
-          "title": "Talk about art and music",
-          "activityPattern": [],
-          "activities": 17,
-          "estimated": true
-        },
-        {
-          "sectionIndex": 3,
-          "unitIndex": 18,
-          "title": "Discuss spirituality",
-          "activityPattern": [],
-          "activities": 17,
-          "estimated": true
-        },
-        {
-          "sectionIndex": 3,
-          "unitIndex": 19,
-          "title": "Use memper- verbs",
-          "activityPattern": [],
-          "activities": 17,
-          "estimated": true
-        },
-        {
-          "sectionIndex": 3,
-          "unitIndex": 20,
-          "title": "Talk about business",
-          "activityPattern": [],
-          "activities": 17,
-          "estimated": true
-        },
-        {
-          "sectionIndex": 3,
-          "unitIndex": 21,
-          "title": "Count with classifiers",
-          "activityPattern": [],
-          "activities": 17,
-          "estimated": true
-        },
-        {
-          "sectionIndex": 3,
-          "unitIndex": 22,
-          "title": "Form diper- verbs",
-          "activityPattern": [],
-          "activities": 17,
-          "estimated": true
-        },
-        {
-          "sectionIndex": 3,
-          "unitIndex": 23,
-          "title": "Talk about sports",
-          "activityPattern": [],
-          "activities": 17,
-          "estimated": true
-        },
-        {
-          "sectionIndex": 3,
-          "unitIndex": 24,
-          "title": "Discuss politics",
-          "activityPattern": [],
-          "activities": 17,
-          "estimated": true
-        },
-        {
-          "sectionIndex": 3,
-          "unitIndex": 25,
-          "title": "Share your location",
-          "activityPattern": [],
-          "activities": 17,
-          "estimated": true
-        },
-        {
-          "sectionIndex": 3,
-          "unitIndex": 26,
-          "title": "Create ke-an nouns",
-          "activityPattern": [],
-          "activities": 17,
-          "estimated": true
-        },
-        {
-          "sectionIndex": 3,
-          "unitIndex": 27,
-          "title": "Form repeating verbs",
-          "activityPattern": [],
-          "activities": 17,
-          "estimated": true
-        },
-        {
-          "sectionIndex": 3,
-          "unitIndex": 28,
-          "title": "Describe your community",
-          "activityPattern": [],
-          "activities": 17,
-          "estimated": true
-        },
-        {
-          "sectionIndex": 3,
-          "unitIndex": 29,
-          "title": "Use pe- nouns",
-          "activityPattern": [],
-          "activities": 17,
-          "estimated": true
-        },
-        {
-          "sectionIndex": 3,
-          "unitIndex": 30,
-          "title": "Name countries",
-          "activityPattern": [],
-          "activities": 17,
+          "activities": 16,
           "estimated": true
         }
       ]

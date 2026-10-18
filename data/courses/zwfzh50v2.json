@@ -1,25 +1,26 @@
 {
   "meta": {
-    "key": "zwfzh50",
+    "key": "zwfzh50v2",
     "courseTitle": "Chinese → Zw",
-    "scrapedAt": "2026-10-11T09:41:54.242Z",
-    "sourceHash": "sha256:cde59c8cf4fea44b",
+    "scrapedAt": "2026-10-18T07:47:41.739Z",
+    "sourceHash": "sha256:cffca9d66863c4cc",
     "fromLang": "Chinese",
     "toLang": "Zw",
     "fromCode": "zh",
     "toCode": "zw",
-    "level": "CEFR A1",
-    "levelShort": "A1",
-    "detailHref": "https://duolingodata.com/dat/zwfzh50.html",
+    "level": "CEFR A2",
+    "levelShort": "A2",
+    "detailHref": "https://duolingodata.com/dat/zwfzh50v2.html",
     "parserVersion": 4,
     "indexUnitsCount": 50,
     "indexLessonsCount": 846,
     "sourceSectionCounts": [
-      9,
-      30,
-      11
+      10,
+      10,
+      10,
+      20
     ],
-    "detailHrefHash": "sha256:cde6e87ba1be12db",
+    "detailHrefHash": "sha256:0f336f49eb97295b",
     "scrapeWarnings": [
       "Section sizes aligned with current course summary",
       "Per-unit lesson counts estimated from course total"
@@ -27,7 +28,7 @@
     "schemaVersion": "2.0.0"
   },
   "totals": {
-    "sections": 3,
+    "sections": 4,
     "activities": 846,
     "units": 50,
     "estimated": true
@@ -35,7 +36,7 @@
   "sections": [
     {
       "sectionIndex": 1,
-      "unitCount": 9,
+      "unitCount": 10,
       "title": "CEFR Intro:",
       "rawTitle": "CEFR Intro:",
       "cefr": "INTRO",
@@ -111,12 +112,20 @@
           "activityPattern": [],
           "activities": 17,
           "estimated": true
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 10,
+          "title": "讨论天气",
+          "activityPattern": [],
+          "activities": 17,
+          "estimated": true
         }
       ]
     },
     {
       "sectionIndex": 2,
-      "unitCount": 30,
+      "unitCount": 10,
       "title": ":",
       "rawTitle": "CEFR A1:",
       "cefr": "A1",
@@ -124,14 +133,6 @@
         {
           "sectionIndex": 2,
           "unitIndex": 1,
-          "title": "讨论天气",
-          "activityPattern": [],
-          "activities": 17,
-          "estimated": true
-        },
-        {
-          "sectionIndex": 2,
-          "unitIndex": 2,
           "title": "谈论在上海租房",
           "activityPattern": [],
           "activities": 17,
@@ -139,7 +140,7 @@
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 3,
+          "unitIndex": 2,
           "title": "中秋节家庭聚餐",
           "activityPattern": [],
           "activities": 17,
@@ -147,7 +148,7 @@
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 4,
+          "unitIndex": 3,
           "title": "跟相亲对象见面",
           "activityPattern": [],
           "activities": 17,
@@ -155,7 +156,7 @@
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 5,
+          "unitIndex": 4,
           "title": "相约看演出",
           "activityPattern": [],
           "activities": 17,
@@ -163,7 +164,7 @@
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 6,
+          "unitIndex": 5,
           "title": "交流养宠生活",
           "activityPattern": [],
           "activities": 17,
@@ -171,7 +172,7 @@
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 7,
+          "unitIndex": 6,
           "title": "乘坐飞机",
           "activityPattern": [],
           "activities": 17,
@@ -179,7 +180,7 @@
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 8,
+          "unitIndex": 7,
           "title": "讨论关于上海的文艺作品",
           "activityPattern": [],
           "activities": 17,
@@ -187,7 +188,7 @@
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 9,
+          "unitIndex": 8,
           "title": "相约逛大学校园",
           "activityPattern": [],
           "activities": 17,
@@ -195,7 +196,7 @@
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 10,
+          "unitIndex": 9,
           "title": "讨论假期出游",
           "activityPattern": [],
           "activities": 17,
@@ -203,160 +204,8 @@
         },
         {
           "sectionIndex": 2,
-          "unitIndex": 11,
+          "unitIndex": 10,
           "title": "参加婚礼",
-          "activityPattern": [],
-          "activities": 17,
-          "estimated": true
-        },
-        {
-          "sectionIndex": 2,
-          "unitIndex": 12,
-          "title": "应对不同的交通状况",
-          "activityPattern": [],
-          "activities": 17,
-          "estimated": true
-        },
-        {
-          "sectionIndex": 2,
-          "unitIndex": 13,
-          "title": "参观博物馆",
-          "activityPattern": [],
-          "activities": 17,
-          "estimated": true
-        },
-        {
-          "sectionIndex": 2,
-          "unitIndex": 14,
-          "title": "看望长辈",
-          "activityPattern": [],
-          "activities": 17,
-          "estimated": true
-        },
-        {
-          "sectionIndex": 2,
-          "unitIndex": 15,
-          "title": "追忆童年",
-          "activityPattern": [],
-          "activities": 17,
-          "estimated": true
-        },
-        {
-          "sectionIndex": 2,
-          "unitIndex": 16,
-          "title": "在公共场合与人交流",
-          "activityPattern": [],
-          "activities": 17,
-          "estimated": true
-        },
-        {
-          "sectionIndex": 2,
-          "unitIndex": 17,
-          "title": "在上海的游乐园游玩",
-          "activityPattern": [],
-          "activities": 17,
-          "estimated": true
-        },
-        {
-          "sectionIndex": 2,
-          "unitIndex": 18,
-          "title": "回家过年",
-          "activityPattern": [],
-          "activities": 17,
-          "estimated": true
-        },
-        {
-          "sectionIndex": 2,
-          "unitIndex": 19,
-          "title": "与好朋友聚会",
-          "activityPattern": [],
-          "activities": 17,
-          "estimated": true
-        },
-        {
-          "sectionIndex": 2,
-          "unitIndex": 20,
-          "title": "周末去苏州旅游",
-          "activityPattern": [],
-          "activities": 17,
-          "estimated": true
-        },
-        {
-          "sectionIndex": 2,
-          "unitIndex": 21,
-          "title": "谈论都市潮流生活",
-          "activityPattern": [],
-          "activities": 17,
-          "estimated": true
-        },
-        {
-          "sectionIndex": 2,
-          "unitIndex": 22,
-          "title": "吐槽职场所见所闻",
-          "activityPattern": [],
-          "activities": 17,
-          "estimated": true
-        },
-        {
-          "sectionIndex": 2,
-          "unitIndex": 23,
-          "title": "办理银行业务",
-          "activityPattern": [],
-          "activities": 17,
-          "estimated": true
-        },
-        {
-          "sectionIndex": 2,
-          "unitIndex": 24,
-          "title": "谈论社区生活",
-          "activityPattern": [],
-          "activities": 17,
-          "estimated": true
-        },
-        {
-          "sectionIndex": 2,
-          "unitIndex": 25,
-          "title": "讨论语言学习",
-          "activityPattern": [],
-          "activities": 17,
-          "estimated": true
-        },
-        {
-          "sectionIndex": 2,
-          "unitIndex": 26,
-          "title": "谈论上海的国际化",
-          "activityPattern": [],
-          "activities": 17,
-          "estimated": true
-        },
-        {
-          "sectionIndex": 2,
-          "unitIndex": 27,
-          "title": "购买蔬菜水果",
-          "activityPattern": [],
-          "activities": 17,
-          "estimated": true
-        },
-        {
-          "sectionIndex": 2,
-          "unitIndex": 28,
-          "title": "谈论亲子生活",
-          "activityPattern": [],
-          "activities": 17,
-          "estimated": true
-        },
-        {
-          "sectionIndex": 2,
-          "unitIndex": 29,
-          "title": "参与不同形式的体育活动",
-          "activityPattern": [],
-          "activities": 17,
-          "estimated": true
-        },
-        {
-          "sectionIndex": 2,
-          "unitIndex": 30,
-          "title": "谈恋爱",
           "activityPattern": [],
           "activities": 17,
           "estimated": true
@@ -365,7 +214,7 @@
     },
     {
       "sectionIndex": 3,
-      "unitCount": 11,
+      "unitCount": 10,
       "title": ":",
       "rawTitle": "CEFR A1:",
       "cefr": "A1",
@@ -373,7 +222,7 @@
         {
           "sectionIndex": 3,
           "unitIndex": 1,
-          "title": "讨论天气与节气",
+          "title": "应对不同的交通状况",
           "activityPattern": [],
           "activities": 17,
           "estimated": true
@@ -381,7 +230,7 @@
         {
           "sectionIndex": 3,
           "unitIndex": 2,
-          "title": "聊中年危机",
+          "title": "参观博物馆",
           "activityPattern": [],
           "activities": 17,
           "estimated": true
@@ -389,7 +238,7 @@
         {
           "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "聊如何养生",
+          "title": "看望长辈",
           "activityPattern": [],
           "activities": 17,
           "estimated": true
@@ -397,7 +246,7 @@
         {
           "sectionIndex": 3,
           "unitIndex": 4,
-          "title": "讨论毕业相关话题",
+          "title": "追忆童年",
           "activityPattern": [],
           "activities": 17,
           "estimated": true
@@ -405,7 +254,7 @@
         {
           "sectionIndex": 3,
           "unitIndex": 5,
-          "title": "评论欣赏音乐",
+          "title": "在公共场合与人交流",
           "activityPattern": [],
           "activities": 17,
           "estimated": true
@@ -413,7 +262,7 @@
         {
           "sectionIndex": 3,
           "unitIndex": 6,
-          "title": "讨论上海从以前到现在的发展",
+          "title": "在上海的游乐园游玩",
           "activityPattern": [],
           "activities": 17,
           "estimated": true
@@ -421,7 +270,7 @@
         {
           "sectionIndex": 3,
           "unitIndex": 7,
-          "title": "与亲戚朋友交际",
+          "title": "回家过年",
           "activityPattern": [],
           "activities": 17,
           "estimated": true
@@ -429,30 +278,191 @@
         {
           "sectionIndex": 3,
           "unitIndex": 8,
+          "title": "与好朋友聚会",
+          "activityPattern": [],
+          "activities": 17,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 9,
+          "title": "周末去苏州旅游",
+          "activityPattern": [],
+          "activities": 17,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 10,
+          "title": "谈论都市潮流生活",
+          "activityPattern": [],
+          "activities": 17,
+          "estimated": true
+        }
+      ]
+    },
+    {
+      "sectionIndex": 4,
+      "unitCount": 20,
+      "title": ":",
+      "rawTitle": "CEFR A2:",
+      "cefr": "A2",
+      "units": [
+        {
+          "sectionIndex": 4,
+          "unitIndex": 1,
+          "title": "吐槽职场所见所闻",
+          "activityPattern": [],
+          "activities": 17,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 2,
+          "title": "办理银行业务",
+          "activityPattern": [],
+          "activities": 17,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 3,
+          "title": "谈论社区生活",
+          "activityPattern": [],
+          "activities": 17,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "讨论语言学习",
+          "activityPattern": [],
+          "activities": 17,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "谈论上海的国际化",
+          "activityPattern": [],
+          "activities": 17,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "购买蔬菜水果",
+          "activityPattern": [],
+          "activities": 17,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "谈论亲子生活",
+          "activityPattern": [],
+          "activities": 17,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "参与不同形式的体育活动",
+          "activityPattern": [],
+          "activities": 17,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 9,
+          "title": "谈恋爱",
+          "activityPattern": [],
+          "activities": 17,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 10,
+          "title": "讨论天气与节气",
+          "activityPattern": [],
+          "activities": 17,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 11,
+          "title": "聊中年危机",
+          "activityPattern": [],
+          "activities": 17,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 12,
+          "title": "聊如何养生",
+          "activityPattern": [],
+          "activities": 17,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 13,
+          "title": "讨论毕业相关话题",
+          "activityPattern": [],
+          "activities": 17,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 14,
+          "title": "评论欣赏音乐",
+          "activityPattern": [],
+          "activities": 17,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 15,
+          "title": "讨论上海从以前到现在的发展",
+          "activityPattern": [],
+          "activities": 17,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 16,
+          "title": "与亲戚朋友交际",
+          "activityPattern": [],
+          "activities": 17,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 17,
           "title": "聊忙碌的周末",
           "activityPattern": [],
           "activities": 16,
           "estimated": true
         },
         {
-          "sectionIndex": 3,
-          "unitIndex": 9,
+          "sectionIndex": 4,
+          "unitIndex": 18,
           "title": "谈论如何精致生活",
           "activityPattern": [],
           "activities": 16,
           "estimated": true
         },
         {
-          "sectionIndex": 3,
-          "unitIndex": 10,
+          "sectionIndex": 4,
+          "unitIndex": 19,
           "title": "讲述沪漂生活",
           "activityPattern": [],
           "activities": 16,
           "estimated": true
         },
         {
-          "sectionIndex": 3,
-          "unitIndex": 11,
+          "sectionIndex": 4,
+          "unitIndex": 20,
           "title": "探讨海派文化",
           "activityPattern": [],
           "activities": 16,

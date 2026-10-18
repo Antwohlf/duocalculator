@@ -2,8 +2,8 @@
   "meta": {
     "key": "enfnl1005",
     "courseTitle": "Dutch → English",
-    "scrapedAt": "2026-10-11T09:41:54.242Z",
-    "sourceHash": "sha256:e17c51008fd25af3",
+    "scrapedAt": "2026-10-18T07:47:41.739Z",
+    "sourceHash": "sha256:f2b2bebd603b0142",
     "fromLang": "Dutch",
     "toLang": "English",
     "fromCode": "nl",
@@ -27,7 +27,6 @@
     "detailHrefHash": "sha256:d92c8cc2c88122a4",
     "scrapeWarnings": [
       "Section sizes aligned with current course summary",
-      "Section 6 has missing unit details",
       "Per-unit lesson counts estimated from course total"
     ],
     "schemaVersion": "2.0.0"
@@ -5134,7 +5133,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 246,
-          "title": "Unit 246 (details unavailable)",
+          "title": "Crime: Explain penalties",
           "activityPattern": [],
           "activities": 8,
           "estimated": true
@@ -5142,7 +5141,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 247,
-          "title": "Unit 247 (details unavailable)",
+          "title": "Crime: Talk about corruption",
           "activityPattern": [],
           "activities": 8,
           "estimated": true
@@ -5150,7 +5149,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 248,
-          "title": "Unit 248 (details unavailable)",
+          "title": "Crime: Prove something with evidence",
           "activityPattern": [],
           "activities": 8,
           "estimated": true
@@ -5158,7 +5157,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 249,
-          "title": "Unit 249 (details unavailable)",
+          "title": "Crime: Explain legal processes",
           "activityPattern": [],
           "activities": 8,
           "estimated": true
@@ -5166,7 +5165,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 250,
-          "title": "Unit 250 (details unavailable)",
+          "title": "Crime: Respond to evidence and proof",
           "activityPattern": [],
           "activities": 8,
           "estimated": true
@@ -5174,7 +5173,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 251,
-          "title": "Unit 251 (details unavailable)",
+          "title": "History: Ask about ancient tools",
           "activityPattern": [],
           "activities": 8,
           "estimated": true
@@ -5182,7 +5181,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 252,
-          "title": "Unit 252 (details unavailable)",
+          "title": "History: Describe historical events",
           "activityPattern": [],
           "activities": 8,
           "estimated": true
@@ -5190,7 +5189,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 253,
-          "title": "Unit 253 (details unavailable)",
+          "title": "History: Share stories about war",
           "activityPattern": [],
           "activities": 8,
           "estimated": true
@@ -5198,7 +5197,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 254,
-          "title": "Unit 254 (details unavailable)",
+          "title": "History: Explain why people immigrated",
           "activityPattern": [],
           "activities": 8,
           "estimated": true
@@ -5206,7 +5205,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 255,
-          "title": "Unit 255 (details unavailable)",
+          "title": "History: Explain how technology has changed",
           "activityPattern": [],
           "activities": 8,
           "estimated": true
@@ -5214,7 +5213,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 256,
-          "title": "Unit 256 (details unavailable)",
+          "title": "Wishes: Express wishes about life",
           "activityPattern": [],
           "activities": 8,
           "estimated": true
@@ -5222,7 +5221,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 257,
-          "title": "Unit 257 (details unavailable)",
+          "title": "Wishes: React to annoying habits",
           "activityPattern": [],
           "activities": 8,
           "estimated": true
@@ -5230,7 +5229,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 258,
-          "title": "Unit 258 (details unavailable)",
+          "title": "Wishes: Share wishes for the past",
           "activityPattern": [],
           "activities": 8,
           "estimated": true
@@ -5238,7 +5237,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 259,
-          "title": "Unit 259 (details unavailable)",
+          "title": "Wishes: Express hopes and dreams",
           "activityPattern": [],
           "activities": 8,
           "estimated": true
@@ -5246,7 +5245,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 260,
-          "title": "Unit 260 (details unavailable)",
+          "title": "Wishes: Encourage someone to succeed",
           "activityPattern": [],
           "activities": 8,
           "estimated": true
@@ -5263,126 +5262,6 @@
         {
           "sectionIndex": 7,
           "unitIndex": 1,
-          "title": "Crime: Explain penalties",
-          "activityPattern": [],
-          "activities": 8,
-          "estimated": true
-        },
-        {
-          "sectionIndex": 7,
-          "unitIndex": 2,
-          "title": "Crime: Talk about corruption",
-          "activityPattern": [],
-          "activities": 8,
-          "estimated": true
-        },
-        {
-          "sectionIndex": 7,
-          "unitIndex": 3,
-          "title": "Crime: Prove something with evidence",
-          "activityPattern": [],
-          "activities": 8,
-          "estimated": true
-        },
-        {
-          "sectionIndex": 7,
-          "unitIndex": 4,
-          "title": "Crime: Explain legal processes",
-          "activityPattern": [],
-          "activities": 8,
-          "estimated": true
-        },
-        {
-          "sectionIndex": 7,
-          "unitIndex": 5,
-          "title": "Crime: Respond to evidence and proof",
-          "activityPattern": [],
-          "activities": 8,
-          "estimated": true
-        },
-        {
-          "sectionIndex": 7,
-          "unitIndex": 6,
-          "title": "History: Ask about ancient tools",
-          "activityPattern": [],
-          "activities": 8,
-          "estimated": true
-        },
-        {
-          "sectionIndex": 7,
-          "unitIndex": 7,
-          "title": "History: Describe historical events",
-          "activityPattern": [],
-          "activities": 8,
-          "estimated": true
-        },
-        {
-          "sectionIndex": 7,
-          "unitIndex": 8,
-          "title": "History: Share stories about war",
-          "activityPattern": [],
-          "activities": 8,
-          "estimated": true
-        },
-        {
-          "sectionIndex": 7,
-          "unitIndex": 9,
-          "title": "History: Explain why people immigrated",
-          "activityPattern": [],
-          "activities": 8,
-          "estimated": true
-        },
-        {
-          "sectionIndex": 7,
-          "unitIndex": 10,
-          "title": "History: Explain how technology has changed",
-          "activityPattern": [],
-          "activities": 8,
-          "estimated": true
-        },
-        {
-          "sectionIndex": 7,
-          "unitIndex": 11,
-          "title": "Wishes: Express wishes about life",
-          "activityPattern": [],
-          "activities": 8,
-          "estimated": true
-        },
-        {
-          "sectionIndex": 7,
-          "unitIndex": 12,
-          "title": "Wishes: React to annoying habits",
-          "activityPattern": [],
-          "activities": 8,
-          "estimated": true
-        },
-        {
-          "sectionIndex": 7,
-          "unitIndex": 13,
-          "title": "Wishes: Share wishes for the past",
-          "activityPattern": [],
-          "activities": 8,
-          "estimated": true
-        },
-        {
-          "sectionIndex": 7,
-          "unitIndex": 14,
-          "title": "Wishes: Express hopes and dreams",
-          "activityPattern": [],
-          "activities": 8,
-          "estimated": true
-        },
-        {
-          "sectionIndex": 7,
-          "unitIndex": 15,
-          "title": "Wishes: Encourage someone to succeed",
-          "activityPattern": [],
-          "activities": 8,
-          "estimated": true
-        },
-        {
-          "sectionIndex": 7,
-          "unitIndex": 16,
           "title": "Permission: Respond to requests",
           "activityPattern": [],
           "activities": 8,
@@ -5390,7 +5269,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 17,
+          "unitIndex": 2,
           "title": "Permission: Ask for permission",
           "activityPattern": [],
           "activities": 8,
@@ -5398,7 +5277,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 18,
+          "unitIndex": 3,
           "title": "Permission: Negotiate a compromise",
           "activityPattern": [],
           "activities": 8,
@@ -5406,7 +5285,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 19,
+          "unitIndex": 4,
           "title": "Permission: Express reactions",
           "activityPattern": [],
           "activities": 8,
@@ -5414,7 +5293,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 20,
+          "unitIndex": 5,
           "title": "Permission: Explain rules and expectations",
           "activityPattern": [],
           "activities": 8,
@@ -5422,7 +5301,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 21,
+          "unitIndex": 6,
           "title": "Health: Talk about feeling unwell",
           "activityPattern": [],
           "activities": 8,
@@ -5430,7 +5309,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 22,
+          "unitIndex": 7,
           "title": "Health: Share advice about medicine",
           "activityPattern": [],
           "activities": 8,
@@ -5438,7 +5317,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 23,
+          "unitIndex": 8,
           "title": "Health: Express doubts about health",
           "activityPattern": [],
           "activities": 8,
@@ -5446,7 +5325,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 24,
+          "unitIndex": 9,
           "title": "Health: Share what you have heard",
           "activityPattern": [],
           "activities": 8,
@@ -5454,7 +5333,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 25,
+          "unitIndex": 10,
           "title": "Health: Talk about health risks",
           "activityPattern": [],
           "activities": 8,
@@ -5462,7 +5341,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 26,
+          "unitIndex": 11,
           "title": "My Home: Describe your ideal home",
           "activityPattern": [],
           "activities": 8,
@@ -5470,7 +5349,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 27,
+          "unitIndex": 12,
           "title": "My Home: Talk about your neighborhood",
           "activityPattern": [],
           "activities": 8,
@@ -5478,7 +5357,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 28,
+          "unitIndex": 13,
           "title": "My Home: Compare housing features",
           "activityPattern": [],
           "activities": 8,
@@ -5486,7 +5365,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 29,
+          "unitIndex": 14,
           "title": "My Home: Express feelings about homes",
           "activityPattern": [],
           "activities": 8,
@@ -5494,7 +5373,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 30,
+          "unitIndex": 15,
           "title": "My Home: Express your preferences",
           "activityPattern": [],
           "activities": 8,
@@ -5502,7 +5381,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 31,
+          "unitIndex": 16,
           "title": "Advice: Share feelings about a situation",
           "activityPattern": [],
           "activities": 8,
@@ -5510,7 +5389,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 32,
+          "unitIndex": 17,
           "title": "Advice: Give advice about past actions",
           "activityPattern": [],
           "activities": 8,
@@ -5518,7 +5397,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 33,
+          "unitIndex": 18,
           "title": "Advice: Express regret about actions",
           "activityPattern": [],
           "activities": 8,
@@ -5526,7 +5405,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 34,
+          "unitIndex": 19,
           "title": "Advice: Apologize and seek forgiveness",
           "activityPattern": [],
           "activities": 8,
@@ -5534,7 +5413,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 35,
+          "unitIndex": 20,
           "title": "Advice: Resolve misunderstandings",
           "activityPattern": [],
           "activities": 8,
@@ -5542,7 +5421,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 36,
+          "unitIndex": 21,
           "title": "Work: Explain qualifications",
           "activityPattern": [],
           "activities": 8,
@@ -5550,7 +5429,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 37,
+          "unitIndex": 22,
           "title": "Work: Ask about schedules",
           "activityPattern": [],
           "activities": 8,
@@ -5558,7 +5437,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 38,
+          "unitIndex": 23,
           "title": "Work: Express preferences for deadlines",
           "activityPattern": [],
           "activities": 8,
@@ -5566,7 +5445,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 39,
+          "unitIndex": 24,
           "title": "Work: Suggest the next steps",
           "activityPattern": [],
           "activities": 8,
@@ -5574,7 +5453,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 40,
+          "unitIndex": 25,
           "title": "Work: Share your excitement about a role",
           "activityPattern": [],
           "activities": 8,
@@ -5582,7 +5461,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 41,
+          "unitIndex": 26,
           "title": "Garden: Ask about planting methods",
           "activityPattern": [],
           "activities": 8,
@@ -5590,7 +5469,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 42,
+          "unitIndex": 27,
           "title": "Garden: Talk about what needs to be done",
           "activityPattern": [],
           "activities": 8,
@@ -5598,7 +5477,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 43,
+          "unitIndex": 28,
           "title": "Garden: Plan where to grow things",
           "activityPattern": [],
           "activities": 8,
@@ -5606,7 +5485,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 44,
+          "unitIndex": 29,
           "title": "Garden: Talk about yard maintenance",
           "activityPattern": [],
           "activities": 8,
@@ -5614,7 +5493,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 45,
+          "unitIndex": 30,
           "title": "Garden: Give advice about plants",
           "activityPattern": [],
           "activities": 8,
@@ -5622,7 +5501,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 46,
+          "unitIndex": 31,
           "title": "Travel: Describe ideal vacation spots",
           "activityPattern": [],
           "activities": 8,
@@ -5630,7 +5509,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 47,
+          "unitIndex": 32,
           "title": "Travel: Describe cruise ship features",
           "activityPattern": [],
           "activities": 8,
@@ -5638,7 +5517,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 48,
+          "unitIndex": 33,
           "title": "Travel: Make a stop during a trip",
           "activityPattern": [],
           "activities": 8,
@@ -5646,7 +5525,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 49,
+          "unitIndex": 34,
           "title": "Travel: Compare travel options",
           "activityPattern": [],
           "activities": 8,
@@ -5654,7 +5533,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 50,
+          "unitIndex": 35,
           "title": "Travel: Talk about making backup plans",
           "activityPattern": [],
           "activities": 8,
@@ -5662,7 +5541,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 51,
+          "unitIndex": 36,
           "title": "Reunion: Share surprising updates",
           "activityPattern": [],
           "activities": 8,
@@ -5670,7 +5549,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 52,
+          "unitIndex": 37,
           "title": "Reunion: Share memories from the past",
           "activityPattern": [],
           "activities": 8,
@@ -5678,7 +5557,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 53,
+          "unitIndex": 38,
           "title": "Reunion: Reflect on past experiences",
           "activityPattern": [],
           "activities": 8,
@@ -5686,7 +5565,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 54,
+          "unitIndex": 39,
           "title": "Reunion: Talk about making mistakes",
           "activityPattern": [],
           "activities": 8,
@@ -5694,7 +5573,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 55,
+          "unitIndex": 40,
           "title": "Reunion: Describe special bonds",
           "activityPattern": [],
           "activities": 8,
@@ -5702,7 +5581,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 56,
+          "unitIndex": 41,
           "title": "Campaign: Make promises about the future",
           "activityPattern": [],
           "activities": 8,
@@ -5710,7 +5589,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 57,
+          "unitIndex": 42,
           "title": "Campaign: Express opinions about candidates",
           "activityPattern": [],
           "activities": 8,
@@ -5718,7 +5597,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 58,
+          "unitIndex": 43,
           "title": "Campaign: Talk about elections",
           "activityPattern": [],
           "activities": 8,
@@ -5726,7 +5605,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 59,
+          "unitIndex": 44,
           "title": "Campaign: Predict future outcomes",
           "activityPattern": [],
           "activities": 8,
@@ -5734,7 +5613,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 60,
+          "unitIndex": 45,
           "title": "Campaign: Stand up for important causes",
           "activityPattern": [],
           "activities": 8,
@@ -5742,7 +5621,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 61,
+          "unitIndex": 46,
           "title": "Weather: Talk about the weather",
           "activityPattern": [],
           "activities": 8,
@@ -5750,7 +5629,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 62,
+          "unitIndex": 47,
           "title": "Weather: Talk about rain",
           "activityPattern": [],
           "activities": 8,
@@ -5758,7 +5637,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 63,
+          "unitIndex": 48,
           "title": "Weather: Predict the impact of weather",
           "activityPattern": [],
           "activities": 8,
@@ -5766,7 +5645,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 64,
+          "unitIndex": 49,
           "title": "Weather: Ask about weather changes",
           "activityPattern": [],
           "activities": 8,
@@ -5774,7 +5653,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 65,
+          "unitIndex": 50,
           "title": "Weather: Talk about snow activities",
           "activityPattern": [],
           "activities": 8,
@@ -5782,7 +5661,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 66,
+          "unitIndex": 51,
           "title": "Risks: Advise against risky actions",
           "activityPattern": [],
           "activities": 8,
@@ -5790,7 +5669,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 67,
+          "unitIndex": 52,
           "title": "Risks: Warn someone about danger",
           "activityPattern": [],
           "activities": 8,
@@ -5798,7 +5677,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 68,
+          "unitIndex": 53,
           "title": "Risks: Explain consequences",
           "activityPattern": [],
           "activities": 8,
@@ -5806,7 +5685,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 69,
+          "unitIndex": 54,
           "title": "Risks: Express concern about danger",
           "activityPattern": [],
           "activities": 8,
@@ -5814,7 +5693,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 70,
+          "unitIndex": 55,
           "title": "Risks: Set boundaries in conversations",
           "activityPattern": [],
           "activities": 8,
@@ -5822,7 +5701,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 71,
+          "unitIndex": 56,
           "title": "Routines: Give instructions for tasks",
           "activityPattern": [],
           "activities": 8,
@@ -5830,7 +5709,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 72,
+          "unitIndex": 57,
           "title": "Routines: Ask for help with errands",
           "activityPattern": [],
           "activities": 8,
@@ -5838,7 +5717,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 73,
+          "unitIndex": 58,
           "title": "Routines: Explain daily responsibilities",
           "activityPattern": [],
           "activities": 8,
@@ -5846,7 +5725,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 74,
+          "unitIndex": 59,
           "title": "Routines: Talk about family support",
           "activityPattern": [],
           "activities": 8,
@@ -5854,7 +5733,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 75,
+          "unitIndex": 60,
           "title": "Routines: Assign responsibilities for tasks",
           "activityPattern": [],
           "activities": 8,
@@ -5862,7 +5741,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 76,
+          "unitIndex": 61,
           "title": "Cliché: Share first impressions",
           "activityPattern": [],
           "activities": 8,
@@ -5870,7 +5749,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 77,
+          "unitIndex": 62,
           "title": "Cliché: Explain common misconceptions",
           "activityPattern": [],
           "activities": 8,
@@ -5878,7 +5757,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 78,
+          "unitIndex": 63,
           "title": "Cliché: Avoid jumping to conclusions",
           "activityPattern": [],
           "activities": 8,
@@ -5886,7 +5765,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 79,
+          "unitIndex": 64,
           "title": "Cliché: Share opinions on competition",
           "activityPattern": [],
           "activities": 8,
@@ -5894,7 +5773,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 80,
+          "unitIndex": 65,
           "title": "Cliché: Respond to unrealistic ideas",
           "activityPattern": [],
           "activities": 8,
@@ -5902,7 +5781,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 81,
+          "unitIndex": 66,
           "title": "Mistakes: Admit to past mistakes",
           "activityPattern": [],
           "activities": 8,
@@ -5910,7 +5789,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 82,
+          "unitIndex": 67,
           "title": "Mistakes: Express regret about past actions",
           "activityPattern": [],
           "activities": 8,
@@ -5918,7 +5797,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 83,
+          "unitIndex": 68,
           "title": "Mistakes: React to personal challenges",
           "activityPattern": [],
           "activities": 8,
@@ -5926,7 +5805,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 84,
+          "unitIndex": 69,
           "title": "Mistakes: Explain reasons for failure",
           "activityPattern": [],
           "activities": 8,
@@ -5934,7 +5813,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 85,
+          "unitIndex": 70,
           "title": "Mistakes: Wish things had gone differently",
           "activityPattern": [],
           "activities": 8,
@@ -5942,7 +5821,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 86,
+          "unitIndex": 71,
           "title": "Studies: Ask about majors and interests",
           "activityPattern": [],
           "activities": 8,
@@ -5950,7 +5829,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 87,
+          "unitIndex": 72,
           "title": "Studies: Ask about people's roles",
           "activityPattern": [],
           "activities": 8,
@@ -5958,7 +5837,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 88,
+          "unitIndex": 73,
           "title": "Studies: Review class assignments",
           "activityPattern": [],
           "activities": 8,
@@ -5966,7 +5845,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 89,
+          "unitIndex": 74,
           "title": "Studies: Ask about feedback",
           "activityPattern": [],
           "activities": 8,
@@ -5974,7 +5853,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 90,
+          "unitIndex": 75,
           "title": "Studies: Ask for help with tasks",
           "activityPattern": [],
           "activities": 8,
@@ -5982,7 +5861,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 91,
+          "unitIndex": 76,
           "title": "Nostalgia: Share memories from the past",
           "activityPattern": [],
           "activities": 8,
@@ -5990,7 +5869,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 92,
+          "unitIndex": 77,
           "title": "Nostalgia: Describe past traditions",
           "activityPattern": [],
           "activities": 8,
@@ -5998,7 +5877,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 93,
+          "unitIndex": 78,
           "title": "Nostalgia: Talk about feeling homesick",
           "activityPattern": [],
           "activities": 8,
@@ -6006,7 +5885,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 94,
+          "unitIndex": 79,
           "title": "Nostalgia: Recall moments you enjoyed",
           "activityPattern": [],
           "activities": 8,
@@ -6014,7 +5893,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 95,
+          "unitIndex": 80,
           "title": "Nostalgia: Remember pranks and jokes",
           "activityPattern": [],
           "activities": 8,
@@ -6022,7 +5901,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 96,
+          "unitIndex": 81,
           "title": "Likes: Compliment someone's home",
           "activityPattern": [],
           "activities": 8,
@@ -6030,7 +5909,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 97,
+          "unitIndex": 82,
           "title": "Likes: Describe appealing foods",
           "activityPattern": [],
           "activities": 8,
@@ -6038,7 +5917,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 98,
+          "unitIndex": 83,
           "title": "Likes: Share personal obsessions",
           "activityPattern": [],
           "activities": 8,
@@ -6046,7 +5925,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 99,
+          "unitIndex": 84,
           "title": "Likes: Share your opinions on trends",
           "activityPattern": [],
           "activities": 8,
@@ -6054,7 +5933,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 100,
+          "unitIndex": 85,
           "title": "Likes: Make plans with others",
           "activityPattern": [],
           "activities": 8,
@@ -6062,7 +5941,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 101,
+          "unitIndex": 86,
           "title": "Office: Share reasons for decisions",
           "activityPattern": [],
           "activities": 8,
@@ -6070,7 +5949,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 102,
+          "unitIndex": 87,
           "title": "Office: Express frustration about problems",
           "activityPattern": [],
           "activities": 8,
@@ -6078,7 +5957,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 103,
+          "unitIndex": 88,
           "title": "Office: Share reasons for letting someone go",
           "activityPattern": [],
           "activities": 8,
@@ -6086,7 +5965,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 104,
+          "unitIndex": 89,
           "title": "Office: Suggest ways to improve teamwork",
           "activityPattern": [],
           "activities": 8,
@@ -6094,7 +5973,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 105,
+          "unitIndex": 90,
           "title": "Office: Suggest next steps",
           "activityPattern": [],
           "activities": 8,
@@ -6102,7 +5981,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 106,
+          "unitIndex": 91,
           "title": "Etiquette: Respond to an invitation",
           "activityPattern": [],
           "activities": 8,
@@ -6110,7 +5989,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 107,
+          "unitIndex": 92,
           "title": "Etiquette: Plan a party setup",
           "activityPattern": [],
           "activities": 8,
@@ -6118,7 +5997,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 108,
+          "unitIndex": 93,
           "title": "Etiquette: Make arrangements for events",
           "activityPattern": [],
           "activities": 8,
@@ -6126,7 +6005,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 109,
+          "unitIndex": 94,
           "title": "Etiquette: Talk about honoring someone",
           "activityPattern": [],
           "activities": 8,
@@ -6134,7 +6013,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 110,
+          "unitIndex": 95,
           "title": "Etiquette: Ask about event details",
           "activityPattern": [],
           "activities": 8,
@@ -6142,7 +6021,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 111,
+          "unitIndex": 96,
           "title": "Doctor: Talk about healthy habits",
           "activityPattern": [],
           "activities": 8,
@@ -6150,7 +6029,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 112,
+          "unitIndex": 97,
           "title": "Doctor: Give advice about injuries",
           "activityPattern": [],
           "activities": 8,
@@ -6158,7 +6037,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 113,
+          "unitIndex": 98,
           "title": "Doctor: Ask for medical advice",
           "activityPattern": [],
           "activities": 8,
@@ -6166,7 +6045,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 114,
+          "unitIndex": 99,
           "title": "Doctor: Ask about health issues",
           "activityPattern": [],
           "activities": 8,
@@ -6174,7 +6053,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 115,
+          "unitIndex": 100,
           "title": "Doctor: Respond to someone feeling unwell",
           "activityPattern": [],
           "activities": 8,
@@ -6182,7 +6061,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 116,
+          "unitIndex": 101,
           "title": "My Home: Explain issues with a house",
           "activityPattern": [],
           "activities": 8,
@@ -6190,7 +6069,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 117,
+          "unitIndex": 102,
           "title": "My Home: Share feelings about stress",
           "activityPattern": [],
           "activities": 8,
@@ -6198,7 +6077,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 118,
+          "unitIndex": 103,
           "title": "My Home: Complain about house problems",
           "activityPattern": [],
           "activities": 8,
@@ -6206,7 +6085,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 119,
+          "unitIndex": 104,
           "title": "My Home: React to repairs and issues",
           "activityPattern": [],
           "activities": 8,
@@ -6214,7 +6093,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 120,
+          "unitIndex": 105,
           "title": "My Home: Express feelings about renovations",
           "activityPattern": [],
           "activities": 8,
@@ -6222,7 +6101,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 121,
+          "unitIndex": 106,
           "title": "Couples: Express how things have changed",
           "activityPattern": [],
           "activities": 8,
@@ -6230,7 +6109,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 122,
+          "unitIndex": 107,
           "title": "Couples: Share opinions about family decisions",
           "activityPattern": [],
           "activities": 8,
@@ -6238,7 +6117,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 123,
+          "unitIndex": 108,
           "title": "Couples: Suggest a solution",
           "activityPattern": [],
           "activities": 8,
@@ -6246,7 +6125,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 124,
+          "unitIndex": 109,
           "title": "Couples: Reach agreements together",
           "activityPattern": [],
           "activities": 8,
@@ -6254,7 +6133,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 125,
+          "unitIndex": 110,
           "title": "Couples: Respond to opinions",
           "activityPattern": [],
           "activities": 8,
@@ -6262,7 +6141,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 126,
+          "unitIndex": 111,
           "title": "Fairytale: Talk about a long journey",
           "activityPattern": [],
           "activities": 8,
@@ -6270,7 +6149,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 127,
+          "unitIndex": 112,
           "title": "Fairytale: React to approaching danger",
           "activityPattern": [],
           "activities": 8,
@@ -6278,7 +6157,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 128,
+          "unitIndex": 113,
           "title": "Fairytale: Share your biggest worry",
           "activityPattern": [],
           "activities": 8,
@@ -6286,7 +6165,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 129,
+          "unitIndex": 114,
           "title": "Fairytale: Retell a story with key events",
           "activityPattern": [],
           "activities": 8,
@@ -6294,7 +6173,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 130,
+          "unitIndex": 115,
           "title": "Fairytale: Retell a magical story",
           "activityPattern": [],
           "activities": 8,
@@ -6302,7 +6181,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 131,
+          "unitIndex": 116,
           "title": "Motivation: Share personal challenges",
           "activityPattern": [],
           "activities": 8,
@@ -6310,7 +6189,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 132,
+          "unitIndex": 117,
           "title": "Motivation: Reflect on past experiences",
           "activityPattern": [],
           "activities": 8,
@@ -6318,7 +6197,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 133,
+          "unitIndex": 118,
           "title": "Motivation: Express your goals and plans",
           "activityPattern": [],
           "activities": 8,
@@ -6326,7 +6205,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 134,
+          "unitIndex": 119,
           "title": "Motivation: Work on improving yourself",
           "activityPattern": [],
           "activities": 8,
@@ -6334,7 +6213,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 135,
+          "unitIndex": 120,
           "title": "Motivation: Reflect on making decisions",
           "activityPattern": [],
           "activities": 8,
@@ -6342,7 +6221,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 136,
+          "unitIndex": 121,
           "title": "Gossip: React to strange situations",
           "activityPattern": [],
           "activities": 8,
@@ -6350,7 +6229,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 137,
+          "unitIndex": 122,
           "title": "Gossip: Share awkward experiences",
           "activityPattern": [],
           "activities": 8,
@@ -6358,7 +6237,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 138,
+          "unitIndex": 123,
           "title": "Gossip: React to someone's situation",
           "activityPattern": [],
           "activities": 8,
@@ -6366,7 +6245,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 139,
+          "unitIndex": 124,
           "title": "Gossip: React to surprising news",
           "activityPattern": [],
           "activities": 8,
@@ -6374,7 +6253,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 140,
+          "unitIndex": 125,
           "title": "Gossip: Share opinions about rumors",
           "activityPattern": [],
           "activities": 8,
@@ -6382,7 +6261,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 141,
+          "unitIndex": 126,
           "title": "Ghost: Explain why you feel uneasy",
           "activityPattern": [],
           "activities": 8,
@@ -6390,7 +6269,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 142,
+          "unitIndex": 127,
           "title": "Ghost: React to strange events",
           "activityPattern": [],
           "activities": 8,
@@ -6398,7 +6277,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 143,
+          "unitIndex": 128,
           "title": "Ghost: Describe what seemed off",
           "activityPattern": [],
           "activities": 8,
@@ -6406,7 +6285,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 144,
+          "unitIndex": 129,
           "title": "Ghost: Describe spooky experiences",
           "activityPattern": [],
           "activities": 8,
@@ -6414,7 +6293,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 145,
+          "unitIndex": 130,
           "title": "Ghost: Share an escape story",
           "activityPattern": [],
           "activities": 8,
@@ -6422,7 +6301,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 146,
+          "unitIndex": 131,
           "title": "Neighbors: Describe strange behavior",
           "activityPattern": [],
           "activities": 8,
@@ -6430,7 +6309,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 147,
+          "unitIndex": 132,
           "title": "Neighbors: Express annoyance about neighbors",
           "activityPattern": [],
           "activities": 8,
@@ -6438,7 +6317,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 148,
+          "unitIndex": 133,
           "title": "Neighbors: Address neighborly issues",
           "activityPattern": [],
           "activities": 8,
@@ -6446,7 +6325,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 149,
+          "unitIndex": 134,
           "title": "Neighbors: Express frustration politely",
           "activityPattern": [],
           "activities": 8,
@@ -6454,7 +6333,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 150,
+          "unitIndex": 135,
           "title": "Neighbors: Respond to difficult situations",
           "activityPattern": [],
           "activities": 8,
@@ -6462,7 +6341,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 151,
+          "unitIndex": 136,
           "title": "Returning: Explain why you moved back home",
           "activityPattern": [],
           "activities": 8,
@@ -6470,7 +6349,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 152,
+          "unitIndex": 137,
           "title": "Returning: Describe changes in your life",
           "activityPattern": [],
           "activities": 8,
@@ -6478,7 +6357,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 153,
+          "unitIndex": 138,
           "title": "Returning: Reflect on your feelings",
           "activityPattern": [],
           "activities": 8,
@@ -6486,7 +6365,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 154,
+          "unitIndex": 139,
           "title": "Returning: Describe changes in behavior",
           "activityPattern": [],
           "activities": 8,
@@ -6494,7 +6373,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 155,
+          "unitIndex": 140,
           "title": "Returning: Reflect on personal decisions",
           "activityPattern": [],
           "activities": 8,
@@ -6502,7 +6381,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 156,
+          "unitIndex": 141,
           "title": "Soap Opera: Describe dramatic plot twists",
           "activityPattern": [],
           "activities": 8,
@@ -6510,7 +6389,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 157,
+          "unitIndex": 142,
           "title": "Soap Opera: Describe hidden traits of people",
           "activityPattern": [],
           "activities": 8,
@@ -6518,7 +6397,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 158,
+          "unitIndex": 143,
           "title": "Soap Opera: React to shocking revelations",
           "activityPattern": [],
           "activities": 8,
@@ -6526,7 +6405,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 159,
+          "unitIndex": 144,
           "title": "Soap Opera: Compare characters to real life",
           "activityPattern": [],
           "activities": 8,
@@ -6534,7 +6413,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 160,
+          "unitIndex": 145,
           "title": "Soap Opera: Describe character behaviors",
           "activityPattern": [],
           "activities": 8,
@@ -6542,7 +6421,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 161,
+          "unitIndex": 146,
           "title": "The Island: Share how people overcame challenges",
           "activityPattern": [],
           "activities": 8,
@@ -6550,7 +6429,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 162,
+          "unitIndex": 147,
           "title": "The Island: Describe natural discoveries",
           "activityPattern": [],
           "activities": 8,
@@ -6558,7 +6437,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 163,
+          "unitIndex": 148,
           "title": "The Island: Express concerns about safety",
           "activityPattern": [],
           "activities": 8,
@@ -6566,7 +6445,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 164,
+          "unitIndex": 149,
           "title": "The Island: Describe survival activities",
           "activityPattern": [],
           "activities": 8,
@@ -6574,7 +6453,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 165,
+          "unitIndex": 150,
           "title": "The Island: Reflect on challenging situations",
           "activityPattern": [],
           "activities": 8,
@@ -6582,7 +6461,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 166,
+          "unitIndex": 151,
           "title": "Drama: React to accusations",
           "activityPattern": [],
           "activities": 8,
@@ -6590,7 +6469,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 167,
+          "unitIndex": 152,
           "title": "Drama: React to rumors and feelings",
           "activityPattern": [],
           "activities": 8,
@@ -6598,7 +6477,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 168,
+          "unitIndex": 153,
           "title": "Drama: Share your point of view",
           "activityPattern": [],
           "activities": 8,
@@ -6606,7 +6485,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 169,
+          "unitIndex": 154,
           "title": "Drama: Express frustration politely",
           "activityPattern": [],
           "activities": 8,
@@ -6614,7 +6493,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 170,
+          "unitIndex": 155,
           "title": "Drama: Express feelings about conflict",
           "activityPattern": [],
           "activities": 8,
@@ -6622,7 +6501,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 171,
+          "unitIndex": 156,
           "title": "Bad Day: Give feedback on mistakes",
           "activityPattern": [],
           "activities": 8,
@@ -6630,7 +6509,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 172,
+          "unitIndex": 157,
           "title": "Bad Day: React to upsetting situations",
           "activityPattern": [],
           "activities": 8,
@@ -6638,7 +6517,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 173,
+          "unitIndex": 158,
           "title": "Bad Day: Comfort someone after an accident",
           "activityPattern": [],
           "activities": 8,
@@ -6646,7 +6525,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 174,
+          "unitIndex": 159,
           "title": "Bad Day: Show understanding and offer help",
           "activityPattern": [],
           "activities": 8,
@@ -6654,7 +6533,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 175,
+          "unitIndex": 160,
           "title": "Bad Day: Offer help to someone struggling",
           "activityPattern": [],
           "activities": 8,
@@ -6662,7 +6541,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 176,
+          "unitIndex": 161,
           "title": "Chat: Add your thoughts politely",
           "activityPattern": [],
           "activities": 8,
@@ -6670,7 +6549,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 177,
+          "unitIndex": 162,
           "title": "Chat: Share opinions about politics",
           "activityPattern": [],
           "activities": 8,
@@ -6678,7 +6557,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 178,
+          "unitIndex": 163,
           "title": "Chat: Talk about mutual friends",
           "activityPattern": [],
           "activities": 8,
@@ -6686,7 +6565,7 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 179,
+          "unitIndex": 164,
           "title": "Chat: Return to a previous topic",
           "activityPattern": [],
           "activities": 8,
@@ -6694,8 +6573,128 @@
         },
         {
           "sectionIndex": 7,
-          "unitIndex": 180,
+          "unitIndex": 165,
           "title": "Chat: Invite someone to join",
+          "activityPattern": [],
+          "activities": 8,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 166,
+          "title": "Negotiate: Discuss job-related choices",
+          "activityPattern": [],
+          "activities": 8,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 167,
+          "title": "Negotiate: Ask for sensitive details",
+          "activityPattern": [],
+          "activities": 8,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 168,
+          "title": "Negotiate: Request a brief meeting",
+          "activityPattern": [],
+          "activities": 8,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 169,
+          "title": "Negotiate: Ask about workplace policies",
+          "activityPattern": [],
+          "activities": 8,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 170,
+          "title": "Negotiate: Express concerns about decisions",
+          "activityPattern": [],
+          "activities": 8,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 171,
+          "title": "Siblings: Question someone's behavior",
+          "activityPattern": [],
+          "activities": 8,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 172,
+          "title": "Siblings: Accuse someone of causing trouble",
+          "activityPattern": [],
+          "activities": 8,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 173,
+          "title": "Siblings: Respond to accusations",
+          "activityPattern": [],
+          "activities": 8,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 174,
+          "title": "Siblings: Apologize for your behavior",
+          "activityPattern": [],
+          "activities": 8,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 175,
+          "title": "Siblings: Reflect on childhood memories",
+          "activityPattern": [],
+          "activities": 8,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 176,
+          "title": "Superhero: Imagine having superpowers",
+          "activityPattern": [],
+          "activities": 8,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 177,
+          "title": "Superhero: Describe superhero traits",
+          "activityPattern": [],
+          "activities": 8,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 178,
+          "title": "Superhero: Compare heroes and villains",
+          "activityPattern": [],
+          "activities": 8,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 179,
+          "title": "Superhero: Imagine alternate endings",
+          "activityPattern": [],
+          "activities": 8,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 180,
+          "title": "Superhero: Predict what will happen next",
           "activityPattern": [],
           "activities": 8,
           "estimated": true
@@ -6712,126 +6711,6 @@
         {
           "sectionIndex": 8,
           "unitIndex": 1,
-          "title": "Negotiate: Discuss job-related choices",
-          "activityPattern": [],
-          "activities": 8,
-          "estimated": true
-        },
-        {
-          "sectionIndex": 8,
-          "unitIndex": 2,
-          "title": "Negotiate: Ask for sensitive details",
-          "activityPattern": [],
-          "activities": 8,
-          "estimated": true
-        },
-        {
-          "sectionIndex": 8,
-          "unitIndex": 3,
-          "title": "Negotiate: Request a brief meeting",
-          "activityPattern": [],
-          "activities": 8,
-          "estimated": true
-        },
-        {
-          "sectionIndex": 8,
-          "unitIndex": 4,
-          "title": "Negotiate: Ask about workplace policies",
-          "activityPattern": [],
-          "activities": 8,
-          "estimated": true
-        },
-        {
-          "sectionIndex": 8,
-          "unitIndex": 5,
-          "title": "Negotiate: Express concerns about decisions",
-          "activityPattern": [],
-          "activities": 8,
-          "estimated": true
-        },
-        {
-          "sectionIndex": 8,
-          "unitIndex": 6,
-          "title": "Siblings: Question someone's behavior",
-          "activityPattern": [],
-          "activities": 8,
-          "estimated": true
-        },
-        {
-          "sectionIndex": 8,
-          "unitIndex": 7,
-          "title": "Siblings: Accuse someone of causing trouble",
-          "activityPattern": [],
-          "activities": 8,
-          "estimated": true
-        },
-        {
-          "sectionIndex": 8,
-          "unitIndex": 8,
-          "title": "Siblings: Respond to accusations",
-          "activityPattern": [],
-          "activities": 8,
-          "estimated": true
-        },
-        {
-          "sectionIndex": 8,
-          "unitIndex": 9,
-          "title": "Siblings: Apologize for your behavior",
-          "activityPattern": [],
-          "activities": 8,
-          "estimated": true
-        },
-        {
-          "sectionIndex": 8,
-          "unitIndex": 10,
-          "title": "Siblings: Reflect on childhood memories",
-          "activityPattern": [],
-          "activities": 8,
-          "estimated": true
-        },
-        {
-          "sectionIndex": 8,
-          "unitIndex": 11,
-          "title": "Superhero: Imagine having superpowers",
-          "activityPattern": [],
-          "activities": 8,
-          "estimated": true
-        },
-        {
-          "sectionIndex": 8,
-          "unitIndex": 12,
-          "title": "Superhero: Describe superhero traits",
-          "activityPattern": [],
-          "activities": 8,
-          "estimated": true
-        },
-        {
-          "sectionIndex": 8,
-          "unitIndex": 13,
-          "title": "Superhero: Compare heroes and villains",
-          "activityPattern": [],
-          "activities": 8,
-          "estimated": true
-        },
-        {
-          "sectionIndex": 8,
-          "unitIndex": 14,
-          "title": "Superhero: Imagine alternate endings",
-          "activityPattern": [],
-          "activities": 8,
-          "estimated": true
-        },
-        {
-          "sectionIndex": 8,
-          "unitIndex": 15,
-          "title": "Superhero: Predict what will happen next",
-          "activityPattern": [],
-          "activities": 8,
-          "estimated": true
-        },
-        {
-          "sectionIndex": 8,
-          "unitIndex": 16,
           "title": "Commercial: Share benefits of a product",
           "activityPattern": [],
           "activities": 8,
@@ -6839,7 +6718,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 17,
+          "unitIndex": 2,
           "title": "Commercial: Highlight product benefits",
           "activityPattern": [],
           "activities": 8,
@@ -6847,7 +6726,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 18,
+          "unitIndex": 3,
           "title": "Commercial: Make recommendations",
           "activityPattern": [],
           "activities": 8,
@@ -6855,7 +6734,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 19,
+          "unitIndex": 4,
           "title": "Commercial: Describe useful products",
           "activityPattern": [],
           "activities": 8,
@@ -6863,7 +6742,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 20,
+          "unitIndex": 5,
           "title": "Commercial: Justify your purchases",
           "activityPattern": [],
           "activities": 8,
@@ -6871,7 +6750,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 21,
+          "unitIndex": 6,
           "title": "Please: Ask for a favor",
           "activityPattern": [],
           "activities": 8,
@@ -6879,7 +6758,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 22,
+          "unitIndex": 7,
           "title": "Please: Offer to do small favors",
           "activityPattern": [],
           "activities": 8,
@@ -6887,7 +6766,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 23,
+          "unitIndex": 8,
           "title": "Please: Persuade someone to help",
           "activityPattern": [],
           "activities": 8,
@@ -6895,7 +6774,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 24,
+          "unitIndex": 9,
           "title": "Please: Offer to help politely",
           "activityPattern": [],
           "activities": 8,
@@ -6903,7 +6782,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 25,
+          "unitIndex": 10,
           "title": "Please: Offer to return the favor",
           "activityPattern": [],
           "activities": 8,
@@ -6911,7 +6790,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 26,
+          "unitIndex": 11,
           "title": "Refund: Explain a product issue",
           "activityPattern": [],
           "activities": 8,
@@ -6919,7 +6798,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 27,
+          "unitIndex": 12,
           "title": "Refund: Ask for a refund",
           "activityPattern": [],
           "activities": 8,
@@ -6927,7 +6806,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 28,
+          "unitIndex": 13,
           "title": "Refund: Explain why an item is defective",
           "activityPattern": [],
           "activities": 8,
@@ -6935,7 +6814,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 29,
+          "unitIndex": 14,
           "title": "Refund: Provide proof of purchase",
           "activityPattern": [],
           "activities": 8,
@@ -6943,7 +6822,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 30,
+          "unitIndex": 15,
           "title": "Refund: Express dissatisfaction",
           "activityPattern": [],
           "activities": 8,
@@ -6951,7 +6830,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 31,
+          "unitIndex": 16,
           "title": "News: Share fascinating stories",
           "activityPattern": [],
           "activities": 8,
@@ -6959,7 +6838,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 32,
+          "unitIndex": 17,
           "title": "News: Celebrate achievements",
           "activityPattern": [],
           "activities": 8,
@@ -6967,7 +6846,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 33,
+          "unitIndex": 18,
           "title": "News: Explore local events and deals",
           "activityPattern": [],
           "activities": 8,
@@ -6975,7 +6854,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 34,
+          "unitIndex": 19,
           "title": "News: Share exciting updates",
           "activityPattern": [],
           "activities": 8,
@@ -6983,7 +6862,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 35,
+          "unitIndex": 20,
           "title": "News: Describe acts of bravery",
           "activityPattern": [],
           "activities": 8,
@@ -6991,7 +6870,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 36,
+          "unitIndex": 21,
           "title": "Music: Share experiences about music",
           "activityPattern": [],
           "activities": 8,
@@ -6999,7 +6878,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 37,
+          "unitIndex": 22,
           "title": "Music: Describe life in the past",
           "activityPattern": [],
           "activities": 8,
@@ -7007,7 +6886,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 38,
+          "unitIndex": 23,
           "title": "Music: Talk about music history",
           "activityPattern": [],
           "activities": 8,
@@ -7015,7 +6894,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 39,
+          "unitIndex": 24,
           "title": "Music: Share your favorite music genres",
           "activityPattern": [],
           "activities": 8,
@@ -7023,7 +6902,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 40,
+          "unitIndex": 25,
           "title": "Music: Talk about influential artists",
           "activityPattern": [],
           "activities": 8,
@@ -7031,7 +6910,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 41,
+          "unitIndex": 26,
           "title": "Business: Propose a new business idea",
           "activityPattern": [],
           "activities": 8,
@@ -7039,7 +6918,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 42,
+          "unitIndex": 27,
           "title": "Business: Predict the right timing",
           "activityPattern": [],
           "activities": 8,
@@ -7047,7 +6926,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 43,
+          "unitIndex": 28,
           "title": "Business: Describe trends in data",
           "activityPattern": [],
           "activities": 8,
@@ -7055,7 +6934,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 44,
+          "unitIndex": 29,
           "title": "Business: Discuss changes in trends",
           "activityPattern": [],
           "activities": 8,
@@ -7063,7 +6942,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 45,
+          "unitIndex": 30,
           "title": "Business: Describe how businesses grow",
           "activityPattern": [],
           "activities": 8,
@@ -7071,7 +6950,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 46,
+          "unitIndex": 31,
           "title": "Years: Explain the role of unions",
           "activityPattern": [],
           "activities": 8,
@@ -7079,7 +6958,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 47,
+          "unitIndex": 32,
           "title": "Years: Compare past and present roles",
           "activityPattern": [],
           "activities": 8,
@@ -7087,7 +6966,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 48,
+          "unitIndex": 33,
           "title": "Years: Describe changes over time",
           "activityPattern": [],
           "activities": 8,
@@ -7095,7 +6974,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 49,
+          "unitIndex": 34,
           "title": "Years: Compare old and new methods",
           "activityPattern": [],
           "activities": 8,
@@ -7103,7 +6982,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 50,
+          "unitIndex": 35,
           "title": "Years: Compare life now and in the past",
           "activityPattern": [],
           "activities": 8,
@@ -7111,7 +6990,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 51,
+          "unitIndex": 36,
           "title": "Game Day: Suggest where to sit",
           "activityPattern": [],
           "activities": 8,
@@ -7119,7 +6998,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 52,
+          "unitIndex": 37,
           "title": "Game Day: React to unexpected situations",
           "activityPattern": [],
           "activities": 8,
@@ -7127,7 +7006,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 53,
+          "unitIndex": 38,
           "title": "Game Day: Plan for a tailgating party",
           "activityPattern": [],
           "activities": 8,
@@ -7135,7 +7014,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 54,
+          "unitIndex": 39,
           "title": "Game Day: Talk about past game experiences",
           "activityPattern": [],
           "activities": 8,
@@ -7143,7 +7022,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 55,
+          "unitIndex": 40,
           "title": "Game Day: React to referee decisions",
           "activityPattern": [],
           "activities": 8,
@@ -7151,7 +7030,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 56,
+          "unitIndex": 41,
           "title": "Judge Duo: Present evidence in a case",
           "activityPattern": [],
           "activities": 8,
@@ -7159,7 +7038,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 57,
+          "unitIndex": 42,
           "title": "Judge Duo: Present an argument",
           "activityPattern": [],
           "activities": 8,
@@ -7167,7 +7046,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 58,
+          "unitIndex": 43,
           "title": "Judge Duo: Evaluate evidence for guilt",
           "activityPattern": [],
           "activities": 8,
@@ -7175,7 +7054,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 59,
+          "unitIndex": 44,
           "title": "Judge Duo: Defend an alibi",
           "activityPattern": [],
           "activities": 8,
@@ -7183,7 +7062,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 60,
+          "unitIndex": 45,
           "title": "Judge Duo: Explain legal outcomes",
           "activityPattern": [],
           "activities": 8,
@@ -7191,7 +7070,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 61,
+          "unitIndex": 46,
           "title": "Scam: Warn someone about a scam",
           "activityPattern": [],
           "activities": 8,
@@ -7199,7 +7078,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 62,
+          "unitIndex": 47,
           "title": "Scam: Describe a suspicious situation",
           "activityPattern": [],
           "activities": 8,
@@ -7207,7 +7086,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 63,
+          "unitIndex": 48,
           "title": "Scam: Speak up about dishonesty",
           "activityPattern": [],
           "activities": 8,
@@ -7215,7 +7094,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 64,
+          "unitIndex": 49,
           "title": "Scam: Express regret about actions",
           "activityPattern": [],
           "activities": 8,
@@ -7223,7 +7102,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 65,
+          "unitIndex": 50,
           "title": "Scam: Complain about bad service",
           "activityPattern": [],
           "activities": 8,
@@ -7231,7 +7110,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 66,
+          "unitIndex": 51,
           "title": "Planning: Suggest ideas for an event",
           "activityPattern": [],
           "activities": 8,
@@ -7239,7 +7118,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 67,
+          "unitIndex": 52,
           "title": "Planning: Explain your preferences",
           "activityPattern": [],
           "activities": 8,
@@ -7247,7 +7126,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 68,
+          "unitIndex": 53,
           "title": "Planning: Respond to catering ideas",
           "activityPattern": [],
           "activities": 8,
@@ -7255,7 +7134,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 69,
+          "unitIndex": 54,
           "title": "Planning: React to unexpected problems",
           "activityPattern": [],
           "activities": 8,
@@ -7263,7 +7142,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 70,
+          "unitIndex": 55,
           "title": "Planning: Suggest a compromise",
           "activityPattern": [],
           "activities": 8,
@@ -7271,7 +7150,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 71,
+          "unitIndex": 56,
           "title": "Detective: Describe suspicious events",
           "activityPattern": [],
           "activities": 8,
@@ -7279,7 +7158,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 72,
+          "unitIndex": 57,
           "title": "Detective: Ask questions about clues",
           "activityPattern": [],
           "activities": 8,
@@ -7287,7 +7166,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 73,
+          "unitIndex": 58,
           "title": "Detective: Identify possible suspects",
           "activityPattern": [],
           "activities": 8,
@@ -7295,7 +7174,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 74,
+          "unitIndex": 59,
           "title": "Detective: Analyze clues from a scene",
           "activityPattern": [],
           "activities": 8,
@@ -7303,7 +7182,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 75,
+          "unitIndex": 60,
           "title": "Detective: Make conclusions based on evidence",
           "activityPattern": [],
           "activities": 8,
@@ -7311,7 +7190,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 76,
+          "unitIndex": 61,
           "title": "Campfire: Share your excitement for camping",
           "activityPattern": [],
           "activities": 8,
@@ -7319,7 +7198,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 77,
+          "unitIndex": 62,
           "title": "Campfire: React to scary stories",
           "activityPattern": [],
           "activities": 8,
@@ -7327,7 +7206,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 78,
+          "unitIndex": 63,
           "title": "Campfire: Tell stories with cliffhangers",
           "activityPattern": [],
           "activities": 8,
@@ -7335,7 +7214,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 79,
+          "unitIndex": 64,
           "title": "Campfire: Describe mysterious events",
           "activityPattern": [],
           "activities": 8,
@@ -7343,7 +7222,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 80,
+          "unitIndex": 65,
           "title": "Campfire: Share spooky camping stories",
           "activityPattern": [],
           "activities": 8,
@@ -7351,7 +7230,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 81,
+          "unitIndex": 66,
           "title": "Big City: Describe your hometown",
           "activityPattern": [],
           "activities": 8,
@@ -7359,7 +7238,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 82,
+          "unitIndex": 67,
           "title": "Big City: Dream about future goals",
           "activityPattern": [],
           "activities": 8,
@@ -7367,7 +7246,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 83,
+          "unitIndex": 68,
           "title": "Big City: Share your neighborhood experiences",
           "activityPattern": [],
           "activities": 8,
@@ -7375,7 +7254,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 84,
+          "unitIndex": 69,
           "title": "Big City: Ask about meeting people",
           "activityPattern": [],
           "activities": 8,
@@ -7383,7 +7262,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 85,
+          "unitIndex": 70,
           "title": "Big City: Express feelings about city life",
           "activityPattern": [],
           "activities": 8,
@@ -7391,7 +7270,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 86,
+          "unitIndex": 71,
           "title": "Theme Park: Suggest plans for a visit",
           "activityPattern": [],
           "activities": 8,
@@ -7399,7 +7278,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 87,
+          "unitIndex": 72,
           "title": "Theme Park: Compare ride preferences",
           "activityPattern": [],
           "activities": 8,
@@ -7407,7 +7286,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 88,
+          "unitIndex": 73,
           "title": "Theme Park: Share thoughts about closures",
           "activityPattern": [],
           "activities": 8,
@@ -7415,7 +7294,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 89,
+          "unitIndex": 74,
           "title": "Theme Park: Express frustration while waiting",
           "activityPattern": [],
           "activities": 8,
@@ -7423,7 +7302,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 90,
+          "unitIndex": 75,
           "title": "Theme Park: Talk about plans and changes",
           "activityPattern": [],
           "activities": 8,
@@ -7431,7 +7310,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 91,
+          "unitIndex": 76,
           "title": "Roommates: Bring up an issue politely",
           "activityPattern": [],
           "activities": 8,
@@ -7439,7 +7318,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 92,
+          "unitIndex": 77,
           "title": "Roommates: Address shared responsibilities",
           "activityPattern": [],
           "activities": 8,
@@ -7447,7 +7326,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 93,
+          "unitIndex": 78,
           "title": "Roommates: Ask others to change habits",
           "activityPattern": [],
           "activities": 8,
@@ -7455,7 +7334,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 94,
+          "unitIndex": 79,
           "title": "Roommates: Negotiate household responsibilities",
           "activityPattern": [],
           "activities": 8,
@@ -7463,7 +7342,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 95,
+          "unitIndex": 80,
           "title": "Roommates: Make and keep promises",
           "activityPattern": [],
           "activities": 8,
@@ -7471,7 +7350,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 96,
+          "unitIndex": 81,
           "title": "Theater: Share feelings about auditions",
           "activityPattern": [],
           "activities": 8,
@@ -7479,7 +7358,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 97,
+          "unitIndex": 82,
           "title": "Theater: Share thoughts on rehearsals",
           "activityPattern": [],
           "activities": 8,
@@ -7487,7 +7366,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 98,
+          "unitIndex": 83,
           "title": "Theater: Express worries about a performance",
           "activityPattern": [],
           "activities": 8,
@@ -7495,7 +7374,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 99,
+          "unitIndex": 84,
           "title": "Theater: Predict what might happen",
           "activityPattern": [],
           "activities": 8,
@@ -7503,7 +7382,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 100,
+          "unitIndex": 85,
           "title": "Theater: Express feelings about opening night",
           "activityPattern": [],
           "activities": 8,
@@ -7511,7 +7390,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 101,
+          "unitIndex": 86,
           "title": "Prom: Ask about someone's plans",
           "activityPattern": [],
           "activities": 8,
@@ -7519,7 +7398,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 102,
+          "unitIndex": 87,
           "title": "Prom: Confirm details with others",
           "activityPattern": [],
           "activities": 8,
@@ -7527,7 +7406,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 103,
+          "unitIndex": 88,
           "title": "Prom: Suggest clothing for an event",
           "activityPattern": [],
           "activities": 8,
@@ -7535,7 +7414,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 104,
+          "unitIndex": 89,
           "title": "Prom: Talk about prom traditions",
           "activityPattern": [],
           "activities": 8,
@@ -7543,7 +7422,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 105,
+          "unitIndex": 90,
           "title": "Prom: Share opinions about outfits",
           "activityPattern": [],
           "activities": 8,
@@ -7551,7 +7430,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 106,
+          "unitIndex": 91,
           "title": "Party: Plan a party with someone",
           "activityPattern": [],
           "activities": 8,
@@ -7559,7 +7438,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 107,
+          "unitIndex": 92,
           "title": "Party: Share your opinions about things",
           "activityPattern": [],
           "activities": 8,
@@ -7567,7 +7446,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 108,
+          "unitIndex": 93,
           "title": "Party: Plan a party menu",
           "activityPattern": [],
           "activities": 8,
@@ -7575,7 +7454,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 109,
+          "unitIndex": 94,
           "title": "Party: Lift and describe objects",
           "activityPattern": [],
           "activities": 8,
@@ -7583,7 +7462,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 110,
+          "unitIndex": 95,
           "title": "Party: React to unexpected situations",
           "activityPattern": [],
           "activities": 8,
@@ -7591,7 +7470,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 111,
+          "unitIndex": 96,
           "title": "Travel: Share your travel plans",
           "activityPattern": [],
           "activities": 8,
@@ -7599,7 +7478,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 112,
+          "unitIndex": 97,
           "title": "Travel: Share vacation preferences",
           "activityPattern": [],
           "activities": 8,
@@ -7607,7 +7486,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 113,
+          "unitIndex": 98,
           "title": "Travel: Look into options for travel",
           "activityPattern": [],
           "activities": 8,
@@ -7615,7 +7494,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 114,
+          "unitIndex": 99,
           "title": "Travel: Adjust your travel plans",
           "activityPattern": [],
           "activities": 8,
@@ -7623,7 +7502,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 115,
+          "unitIndex": 100,
           "title": "Travel: Share changes to your plans",
           "activityPattern": [],
           "activities": 8,
@@ -7631,7 +7510,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 116,
+          "unitIndex": 101,
           "title": "Business: Share milestones and achievements",
           "activityPattern": [],
           "activities": 8,
@@ -7639,7 +7518,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 117,
+          "unitIndex": 102,
           "title": "Business: Describe business challenges",
           "activityPattern": [],
           "activities": 8,
@@ -7647,7 +7526,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 118,
+          "unitIndex": 103,
           "title": "Business: Share milestones in your work",
           "activityPattern": [],
           "activities": 8,
@@ -7655,7 +7534,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 119,
+          "unitIndex": 104,
           "title": "Business: Talk about family businesses",
           "activityPattern": [],
           "activities": 8,
@@ -7663,7 +7542,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 120,
+          "unitIndex": 105,
           "title": "Business: Discuss family-owned businesses",
           "activityPattern": [],
           "activities": 8,
@@ -7671,7 +7550,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 121,
+          "unitIndex": 106,
           "title": "Friday: Express your preferences",
           "activityPattern": [],
           "activities": 8,
@@ -7679,7 +7558,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 122,
+          "unitIndex": 107,
           "title": "Friday: Suggest plans for the evening",
           "activityPattern": [],
           "activities": 8,
@@ -7687,7 +7566,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 123,
+          "unitIndex": 108,
           "title": "Friday: Express what you feel like eating",
           "activityPattern": [],
           "activities": 8,
@@ -7695,7 +7574,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 124,
+          "unitIndex": 109,
           "title": "Friday: Share your preferences",
           "activityPattern": [],
           "activities": 8,
@@ -7703,7 +7582,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 125,
+          "unitIndex": 110,
           "title": "Friday: Ask whose turn it is",
           "activityPattern": [],
           "activities": 8,
@@ -7711,7 +7590,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 126,
+          "unitIndex": 111,
           "title": "Bargain: Share plans to declutter",
           "activityPattern": [],
           "activities": 8,
@@ -7719,7 +7598,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 127,
+          "unitIndex": 112,
           "title": "Bargain: Ask about an item's condition",
           "activityPattern": [],
           "activities": 8,
@@ -7727,7 +7606,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 128,
+          "unitIndex": 113,
           "title": "Bargain: Express interest in buying",
           "activityPattern": [],
           "activities": 8,
@@ -7735,7 +7614,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 129,
+          "unitIndex": 114,
           "title": "Bargain: Describe an item's condition",
           "activityPattern": [],
           "activities": 8,
@@ -7743,7 +7622,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 130,
+          "unitIndex": 115,
           "title": "Bargain: Express excitement about deals",
           "activityPattern": [],
           "activities": 8,
@@ -7751,7 +7630,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 131,
+          "unitIndex": 116,
           "title": "Gym: Set fitness goals",
           "activityPattern": [],
           "activities": 8,
@@ -7759,7 +7638,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 132,
+          "unitIndex": 117,
           "title": "Gym: Share exercise routines",
           "activityPattern": [],
           "activities": 8,
@@ -7767,7 +7646,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 133,
+          "unitIndex": 118,
           "title": "Gym: Talk about exercise challenges",
           "activityPattern": [],
           "activities": 8,
@@ -7775,7 +7654,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 134,
+          "unitIndex": 119,
           "title": "Gym: Encourage someone to exercise",
           "activityPattern": [],
           "activities": 8,
@@ -7783,7 +7662,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 135,
+          "unitIndex": 120,
           "title": "Gym: Follow workout instructions",
           "activityPattern": [],
           "activities": 8,
@@ -7791,7 +7670,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 136,
+          "unitIndex": 121,
           "title": "Gala: Describe formal events",
           "activityPattern": [],
           "activities": 8,
@@ -7799,7 +7678,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 137,
+          "unitIndex": 122,
           "title": "Gala: Offer food or drinks",
           "activityPattern": [],
           "activities": 8,
@@ -7807,7 +7686,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 138,
+          "unitIndex": 123,
           "title": "Gala: Mingle with new people",
           "activityPattern": [],
           "activities": 8,
@@ -7815,7 +7694,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 139,
+          "unitIndex": 124,
           "title": "Gala: Decline an invitation politely",
           "activityPattern": [],
           "activities": 8,
@@ -7823,7 +7702,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 140,
+          "unitIndex": 125,
           "title": "Gala: Thank someone for hosting",
           "activityPattern": [],
           "activities": 8,
@@ -7831,7 +7710,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 141,
+          "unitIndex": 126,
           "title": "Cleaning: Get ready for a visitor",
           "activityPattern": [],
           "activities": 8,
@@ -7839,7 +7718,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 142,
+          "unitIndex": 127,
           "title": "Cleaning: Ask about cleaning priorities",
           "activityPattern": [],
           "activities": 8,
@@ -7847,7 +7726,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 143,
+          "unitIndex": 128,
           "title": "Cleaning: Ask for help with cleaning",
           "activityPattern": [],
           "activities": 8,
@@ -7855,7 +7734,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 144,
+          "unitIndex": 129,
           "title": "Cleaning: Suggest items to buy",
           "activityPattern": [],
           "activities": 8,
@@ -7863,7 +7742,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 145,
+          "unitIndex": 130,
           "title": "Cleaning: Explain how to prepare a space",
           "activityPattern": [],
           "activities": 8,
@@ -7871,7 +7750,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 146,
+          "unitIndex": 131,
           "title": "Old Friend: Catch up with someone",
           "activityPattern": [],
           "activities": 8,
@@ -7879,7 +7758,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 147,
+          "unitIndex": 132,
           "title": "Old Friend: Share how things have been",
           "activityPattern": [],
           "activities": 8,
@@ -7887,7 +7766,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 148,
+          "unitIndex": 133,
           "title": "Old Friend: Catch up on family news",
           "activityPattern": [],
           "activities": 8,
@@ -7895,7 +7774,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 149,
+          "unitIndex": 134,
           "title": "Old Friend: Share updates about your life",
           "activityPattern": [],
           "activities": 8,
@@ -7903,7 +7782,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 150,
+          "unitIndex": 135,
           "title": "Old Friend: Share promises and plans",
           "activityPattern": [],
           "activities": 8,
@@ -7911,7 +7790,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 151,
+          "unitIndex": 136,
           "title": "Excuses: Follow up on a conversation",
           "activityPattern": [],
           "activities": 8,
@@ -7919,7 +7798,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 152,
+          "unitIndex": 137,
           "title": "Excuses: Share background information",
           "activityPattern": [],
           "activities": 8,
@@ -7927,7 +7806,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 153,
+          "unitIndex": 138,
           "title": "Excuses: Respond to feedback about mistakes",
           "activityPattern": [],
           "activities": 8,
@@ -7935,7 +7814,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 154,
+          "unitIndex": 139,
           "title": "Excuses: Address failures",
           "activityPattern": [],
           "activities": 8,
@@ -7943,7 +7822,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 155,
+          "unitIndex": 140,
           "title": "Excuses: Suggest ways to improve",
           "activityPattern": [],
           "activities": 8,
@@ -7951,7 +7830,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 156,
+          "unitIndex": 141,
           "title": "Outdoors: Suggest outdoor activities",
           "activityPattern": [],
           "activities": 8,
@@ -7959,7 +7838,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 157,
+          "unitIndex": 142,
           "title": "Outdoors: Talk about necessary gear",
           "activityPattern": [],
           "activities": 8,
@@ -7967,7 +7846,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 158,
+          "unitIndex": 143,
           "title": "Outdoors: Express conditions for plans",
           "activityPattern": [],
           "activities": 8,
@@ -7975,7 +7854,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 159,
+          "unitIndex": 144,
           "title": "Outdoors: Share opinions about hiking",
           "activityPattern": [],
           "activities": 8,
@@ -7983,7 +7862,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 160,
+          "unitIndex": 145,
           "title": "Outdoors: Talk about outdoor plans",
           "activityPattern": [],
           "activities": 8,
@@ -7991,7 +7870,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 161,
+          "unitIndex": 146,
           "title": "Olympics: Describe athlete achievements",
           "activityPattern": [],
           "activities": 8,
@@ -7999,7 +7878,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 162,
+          "unitIndex": 147,
           "title": "Olympics: Predict who will win medals",
           "activityPattern": [],
           "activities": 8,
@@ -8007,7 +7886,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 163,
+          "unitIndex": 148,
           "title": "Olympics: Talk about upcoming events",
           "activityPattern": [],
           "activities": 8,
@@ -8015,7 +7894,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 164,
+          "unitIndex": 149,
           "title": "Olympics: Predict game outcomes",
           "activityPattern": [],
           "activities": 8,
@@ -8023,7 +7902,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 165,
+          "unitIndex": 150,
           "title": "Olympics: Share your ultimate goals",
           "activityPattern": [],
           "activities": 8,
@@ -8031,7 +7910,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 166,
+          "unitIndex": 151,
           "title": "History: Explore local heritage sites",
           "activityPattern": [],
           "activities": 8,
@@ -8039,7 +7918,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 167,
+          "unitIndex": 152,
           "title": "History: Highlight important landmarks",
           "activityPattern": [],
           "activities": 8,
@@ -8047,7 +7926,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 168,
+          "unitIndex": 153,
           "title": "History: Compare different artworks",
           "activityPattern": [],
           "activities": 8,
@@ -8055,7 +7934,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 169,
+          "unitIndex": 154,
           "title": "History: Describe historical artifacts",
           "activityPattern": [],
           "activities": 8,
@@ -8063,7 +7942,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 170,
+          "unitIndex": 155,
           "title": "History: Compare landmarks or sites",
           "activityPattern": [],
           "activities": 8,
@@ -8071,7 +7950,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 171,
+          "unitIndex": 156,
           "title": "Mystery: Debate theories about pyramids",
           "activityPattern": [],
           "activities": 8,
@@ -8079,7 +7958,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 172,
+          "unitIndex": 157,
           "title": "Mystery: Share your opinion on UFOs",
           "activityPattern": [],
           "activities": 8,
@@ -8087,7 +7966,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 173,
+          "unitIndex": 158,
           "title": "Mystery: Share theories about the past",
           "activityPattern": [],
           "activities": 8,
@@ -8095,7 +7974,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 174,
+          "unitIndex": 159,
           "title": "Mystery: Discuss improbable scenarios",
           "activityPattern": [],
           "activities": 8,
@@ -8103,7 +7982,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 175,
+          "unitIndex": 160,
           "title": "Mystery: Share beliefs about aliens",
           "activityPattern": [],
           "activities": 8,
@@ -8111,7 +7990,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 176,
+          "unitIndex": 161,
           "title": "Magic Show: Welcome someone to the stage",
           "activityPattern": [],
           "activities": 8,
@@ -8119,7 +7998,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 177,
+          "unitIndex": 162,
           "title": "Magic Show: React to a magic performance",
           "activityPattern": [],
           "activities": 8,
@@ -8127,7 +8006,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 178,
+          "unitIndex": 163,
           "title": "Magic Show: React to surprising events",
           "activityPattern": [],
           "activities": 8,
@@ -8135,7 +8014,7 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 179,
+          "unitIndex": 164,
           "title": "Magic Show: Celebrate a great performance",
           "activityPattern": [],
           "activities": 8,
@@ -8143,8 +8022,128 @@
         },
         {
           "sectionIndex": 8,
-          "unitIndex": 180,
+          "unitIndex": 165,
           "title": "Magic Show: Explain how something works",
+          "activityPattern": [],
+          "activities": 8,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 166,
+          "title": "Memories: Share childhood activities",
+          "activityPattern": [],
+          "activities": 8,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 167,
+          "title": "Memories: Share past routines",
+          "activityPattern": [],
+          "activities": 8,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 168,
+          "title": "Memories: Share stories about habits",
+          "activityPattern": [],
+          "activities": 8,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 169,
+          "title": "Memories: Describe favorite places",
+          "activityPattern": [],
+          "activities": 8,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 170,
+          "title": "Memories: Express feelings of nostalgia",
+          "activityPattern": [],
+          "activities": 8,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 171,
+          "title": "Bad Day: Explain why you're late",
+          "activityPattern": [],
+          "activities": 8,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 172,
+          "title": "Bad Day: Apologize for being late",
+          "activityPattern": [],
+          "activities": 8,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 173,
+          "title": "Bad Day: Share a story about your car",
+          "activityPattern": [],
+          "activities": 8,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 174,
+          "title": "Bad Day: Describe car troubles",
+          "activityPattern": [],
+          "activities": 8,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 175,
+          "title": "Bad Day: Share a frustrating experience",
+          "activityPattern": [],
+          "activities": 8,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 176,
+          "title": "Graduation: Congratulate someone’s success",
+          "activityPattern": [],
+          "activities": 8,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 177,
+          "title": "Graduation: Express determination and effort",
+          "activityPattern": [],
+          "activities": 8,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 178,
+          "title": "Graduation: Celebrate academic achievements",
+          "activityPattern": [],
+          "activities": 8,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 179,
+          "title": "Graduation: Express gratitude for support",
+          "activityPattern": [],
+          "activities": 8,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 8,
+          "unitIndex": 180,
+          "title": "Graduation: Share your hopes for the future",
           "activityPattern": [],
           "activities": 8,
           "estimated": true

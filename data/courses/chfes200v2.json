@@ -2,7 +2,7 @@
   "meta": {
     "key": "chfes200v2",
     "courseTitle": "Spanish → Chess",
-    "scrapedAt": "2026-11-15T20:11:48.997Z",
+    "scrapedAt": "2026-11-15T20:27:49.608Z",
     "sourceHash": "sha256:704baead218fcfae",
     "fromLang": "Spanish",
     "toLang": "Chess",
@@ -26,8 +26,6 @@
     "detailHrefHash": "sha256:8617d64140b796d6",
     "scrapeWarnings": [
       "Section sizes aligned with current course summary",
-      "Section 6 has missing unit details",
-      "Section 7 has missing unit details",
       "Per-unit lesson counts estimated from course total"
     ],
     "schemaVersion": "2.0.0"
@@ -919,14 +917,14 @@
     {
       "sectionIndex": 6,
       "unitCount": 48,
-      "title": "ELO 1200",
-      "rawTitle": "ELO 1200",
+      "title": "ELO 1200:",
+      "rawTitle": "ELO 1200:",
       "cefr": "",
       "units": [
         {
           "sectionIndex": 6,
           "unitIndex": 1,
-          "title": "Unit 1 (details unavailable)",
+          "title": "Sobrecarga",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -934,7 +932,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 2,
-          "title": "Unit 2 (details unavailable)",
+          "title": "Estrategia del enroque",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -942,7 +940,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 3,
-          "title": "Unit 3 (details unavailable)",
+          "title": "Mates con la reina",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -950,7 +948,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 4,
-          "title": "Unit 4 (details unavailable)",
+          "title": "Contraataque",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -958,7 +956,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 5,
-          "title": "Unit 5 (details unavailable)",
+          "title": "Ataques dobles",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -966,7 +964,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "Unit 6 (details unavailable)",
+          "title": "Ataques de peón en la apertura",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -974,7 +972,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 7,
-          "title": "Unit 7 (details unavailable)",
+          "title": "Actividad del rey en los finales",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -982,7 +980,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 8,
-          "title": "Unit 8 (details unavailable)",
+          "title": "Escapa de ataques dobles",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -990,7 +988,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 9,
-          "title": "Unit 9 (details unavailable)",
+          "title": "Estructura de peones",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -998,7 +996,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 10,
-          "title": "Unit 10 (details unavailable)",
+          "title": "Fijaciones y rupturas de peón",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1006,7 +1004,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 11,
-          "title": "Unit 11 (details unavailable)",
+          "title": "Intercambiar caballos y alfiles",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1014,7 +1012,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 12,
-          "title": "Unit 12 (details unavailable)",
+          "title": "Calcular capturas",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1022,7 +1020,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 13,
-          "title": "Unit 13 (details unavailable)",
+          "title": "Jaque mate de caballo",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1030,7 +1028,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 14,
-          "title": "Unit 14 (details unavailable)",
+          "title": "Piezas falsamente defendidas",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1038,7 +1036,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 15,
-          "title": "Unit 15 (details unavailable)",
+          "title": "Crea casillas fuertes",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1046,7 +1044,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 16,
-          "title": "Unit 16 (details unavailable)",
+          "title": "Jugadas intermedias",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1054,7 +1052,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 17,
-          "title": "Unit 17 (details unavailable)",
+          "title": "Tácticas de coronación de peones",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1062,7 +1060,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 18,
-          "title": "Unit 18 (details unavailable)",
+          "title": "Sacrificios avanzados",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1070,7 +1068,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 19,
-          "title": "Unit 19 (details unavailable)",
+          "title": "Expón al rey enemigo",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1078,7 +1076,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 20,
-          "title": "Unit 20 (details unavailable)",
+          "title": "Seguridad proactiva del rey",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1086,7 +1084,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 21,
-          "title": "Unit 21 (details unavailable)",
+          "title": "Finales de caballo y peón",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1094,7 +1092,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 22,
-          "title": "Unit 22 (details unavailable)",
+          "title": "Detecta amenazas enemigas",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1102,7 +1100,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 23,
-          "title": "Unit 23 (details unavailable)",
+          "title": "Visión avanzada de jaque mate",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1110,7 +1108,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 24,
-          "title": "Unit 24 (details unavailable)",
+          "title": "Amenazas tácticas de mate",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1118,7 +1116,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 25,
-          "title": "Unit 25 (details unavailable)",
+          "title": "Enfiladas",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1126,7 +1124,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 26,
-          "title": "Unit 26 (details unavailable)",
+          "title": "Movimientos de retirada",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1134,7 +1132,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 27,
-          "title": "Unit 27 (details unavailable)",
+          "title": "Tenedores de caballo y alfil",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1142,7 +1140,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 28,
-          "title": "Unit 28 (details unavailable)",
+          "title": "Clavadas",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1150,7 +1148,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 29,
-          "title": "Unit 29 (details unavailable)",
+          "title": "Escapar de clavadas",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1158,7 +1156,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 30,
-          "title": "Unit 30 (details unavailable)",
+          "title": "Mates con la reina y el alfil",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1166,7 +1164,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 31,
-          "title": "Unit 31 (details unavailable)",
+          "title": "Sobrecarga",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1174,7 +1172,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 32,
-          "title": "Unit 32 (details unavailable)",
+          "title": "mate de la ópera",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1182,7 +1180,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 33,
-          "title": "Unit 33 (details unavailable)",
+          "title": "Evitar el enroque",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1190,7 +1188,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 34,
-          "title": "Unit 34 (details unavailable)",
+          "title": "Jugada intermedia con jaque",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1198,7 +1196,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 35,
-          "title": "Unit 35 (details unavailable)",
+          "title": "mate de gancho",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1206,7 +1204,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 36,
-          "title": "Unit 36 (details unavailable)",
+          "title": "Impedir que te den jaque mate con nombre propio",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1214,7 +1212,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 37,
-          "title": "Unit 37 (details unavailable)",
+          "title": "Tenedores de reina y torre",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1222,7 +1220,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 38,
-          "title": "Unit 38 (details unavailable)",
+          "title": "Jaque descubierto para ganar material",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1230,7 +1228,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 39,
-          "title": "Unit 39 (details unavailable)",
+          "title": "Evita el jaque descubierto",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1238,7 +1236,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 40,
-          "title": "Unit 40 (details unavailable)",
+          "title": "Tenedores de peón y rey",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1246,7 +1244,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 41,
-          "title": "Unit 41 (details unavailable)",
+          "title": "Prevención de tenedores",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1254,7 +1252,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 42,
-          "title": "Unit 42 (details unavailable)",
+          "title": "Ataque descubierto para ganar material",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1262,7 +1260,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 43,
-          "title": "Unit 43 (details unavailable)",
+          "title": "Atracción que lleva a realizar un tenedor I",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1270,7 +1268,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 44,
-          "title": "Unit 44 (details unavailable)",
+          "title": "Desvíos para ganar material I",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1278,7 +1276,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 45,
-          "title": "Unit 45 (details unavailable)",
+          "title": "Acumularse al clavar",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1286,7 +1284,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 46,
-          "title": "Unit 46 (details unavailable)",
+          "title": "Interferencia",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1294,7 +1292,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 47,
-          "title": "Unit 47 (details unavailable)",
+          "title": "Zugzwang",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1302,7 +1300,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 48,
-          "title": "Unit 48 (details unavailable)",
+          "title": "mate de Lolli",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1312,14 +1310,14 @@
     {
       "sectionIndex": 7,
       "unitCount": 48,
-      "title": "ELO 1500",
-      "rawTitle": "ELO 1500",
+      "title": "ELO 1500:",
+      "rawTitle": "ELO 1500:",
       "cefr": "",
       "units": [
         {
           "sectionIndex": 7,
           "unitIndex": 1,
-          "title": "Unit 1 (details unavailable)",
+          "title": "Piezas atrapadas I",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1327,7 +1325,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 2,
-          "title": "Unit 2 (details unavailable)",
+          "title": "Sacrifica para dar mate I",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1335,7 +1333,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 3,
-          "title": "Unit 3 (details unavailable)",
+          "title": "Jaque doble descubierto I",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1343,7 +1341,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 4,
-          "title": "Unit 4 (details unavailable)",
+          "title": "Desvío para la coronación",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1351,7 +1349,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 5,
-          "title": "Unit 5 (details unavailable)",
+          "title": "Arruinar la estructura de peón",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1359,7 +1357,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 6,
-          "title": "Unit 6 (details unavailable)",
+          "title": "Atracción hacia un ataque doble II",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1367,7 +1365,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 7,
-          "title": "Unit 7 (details unavailable)",
+          "title": "Impedir el mate en 1",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1375,7 +1373,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 8,
-          "title": "Unit 8 (details unavailable)",
+          "title": "¿Dar jaque o dar jaque mate?",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1383,7 +1381,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 9,
-          "title": "Unit 9 (details unavailable)",
+          "title": "Atracción para dar jaque mate",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1391,7 +1389,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 10,
-          "title": "Unit 10 (details unavailable)",
+          "title": "Baterías",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1399,7 +1397,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 11,
-          "title": "Unit 11 (details unavailable)",
+          "title": "mate de Morphy",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1407,7 +1405,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 12,
-          "title": "Unit 12 (details unavailable)",
+          "title": "Ataques dobles",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1415,7 +1413,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 13,
-          "title": "Unit 13 (details unavailable)",
+          "title": "Jaque descubierto para dar jaque mate",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1423,7 +1421,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 14,
-          "title": "Unit 14 (details unavailable)",
+          "title": "Mate por clavada",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1431,7 +1429,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 15,
-          "title": "Unit 15 (details unavailable)",
+          "title": "Impedir que te puedan dar jaque mate desde lejos",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1439,7 +1437,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 16,
-          "title": "Unit 16 (details unavailable)",
+          "title": "despeje",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1447,7 +1445,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 17,
-          "title": "Unit 17 (details unavailable)",
+          "title": "Mates con torre y caballo",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1455,7 +1453,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 18,
-          "title": "Unit 18 (details unavailable)",
+          "title": "Peones débiles",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1463,7 +1461,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 19,
-          "title": "Unit 19 (details unavailable)",
+          "title": "Mates con una torre",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1471,7 +1469,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 20,
-          "title": "Unit 20 (details unavailable)",
+          "title": "Impedir el jaque mate en 2 I",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1479,7 +1477,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 21,
-          "title": "Unit 21 (details unavailable)",
+          "title": "Dar jaque mate con caballo y alfil",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1487,7 +1485,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 22,
-          "title": "Unit 22 (details unavailable)",
+          "title": "mate de los cerdos ciegos",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1495,7 +1493,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 23,
-          "title": "Unit 23 (details unavailable)",
+          "title": "Atrapar un peón pasado",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1503,7 +1501,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 24,
-          "title": "Unit 24 (details unavailable)",
+          "title": "Mates de batería",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1511,7 +1509,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 25,
-          "title": "Unit 25 (details unavailable)",
+          "title": "Desvíos para ganar material II",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1519,7 +1517,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 26,
-          "title": "Unit 26 (details unavailable)",
+          "title": "Sacrifica para dar mate II",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1527,7 +1525,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 27,
-          "title": "Unit 27 (details unavailable)",
+          "title": "Evita el mate en 2 II",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1535,7 +1533,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 28,
-          "title": "Unit 28 (details unavailable)",
+          "title": "Desvío para dar jaque mate",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1543,7 +1541,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 29,
-          "title": "Unit 29 (details unavailable)",
+          "title": "Mates asistidos por el alfil",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1551,7 +1549,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 30,
-          "title": "Unit 30 (details unavailable)",
+          "title": "Jaque doble descubierto II",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1559,7 +1557,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 31,
-          "title": "Unit 31 (details unavailable)",
+          "title": "Mate de Epaulette",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1567,7 +1565,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 32,
-          "title": "Unit 32 (details unavailable)",
+          "title": "Exponer al rey",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1575,7 +1573,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 33,
-          "title": "Unit 33 (details unavailable)",
+          "title": "mate de Greco",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1583,7 +1581,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 34,
-          "title": "Unit 34 (details unavailable)",
+          "title": "Promoviendo",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1591,7 +1589,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 35,
-          "title": "Unit 35 (details unavailable)",
+          "title": "Dar jaque mate con alfiles paralelos",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1599,7 +1597,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 36,
-          "title": "Unit 36 (details unavailable)",
+          "title": "Enfilada de atracción",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1607,7 +1605,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 37,
-          "title": "Unit 37 (details unavailable)",
+          "title": "mate de Boden",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1615,7 +1613,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 38,
-          "title": "Unit 38 (details unavailable)",
+          "title": "Piezas atrapadas II",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1623,7 +1621,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 39,
-          "title": "Unit 39 (details unavailable)",
+          "title": "Mate por sofocación",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1631,7 +1629,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 40,
-          "title": "Unit 40 (details unavailable)",
+          "title": "Mates a corta distancia con la reina",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1639,7 +1637,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 41,
-          "title": "Unit 41 (details unavailable)",
+          "title": "Sacrificios de intercambio",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1647,7 +1645,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 42,
-          "title": "Unit 42 (details unavailable)",
+          "title": "mate de Cozio",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1655,7 +1653,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 43,
-          "title": "Unit 43 (details unavailable)",
+          "title": "Mate de reina y caballo",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1663,7 +1661,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 44,
-          "title": "Unit 44 (details unavailable)",
+          "title": "Tenedores en el final",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1671,7 +1669,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 45,
-          "title": "Unit 45 (details unavailable)",
+          "title": "Dar jaque mate en tres I",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1679,7 +1677,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 46,
-          "title": "Unit 46 (details unavailable)",
+          "title": "Tenedor para coronación",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1687,7 +1685,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 47,
-          "title": "Unit 47 (details unavailable)",
+          "title": "Dar jaque mate en tres II",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1695,7 +1693,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 48,
-          "title": "Unit 48 (details unavailable)",
+          "title": "Tenedores de coronación",
           "activityPattern": [],
           "activities": 9,
           "estimated": true

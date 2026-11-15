@@ -271,21 +271,32 @@ export function parseCourseDetail(html, meta) {
     const unitMatch = normalized.match(unitRegex);
     if (unitMatch && currentSection) {
       const [, sectionNumber, unitNumber, title] = unitMatch;
-      if (Number(sectionNumber) !== currentSection.sectionIndex) continue;
       // A few source pages repeat unit rows verbatim. The first occurrence is the
-      // canonical one; duplicate rows must not extend the course.
-      if (currentSection.units.some((unit) => unit.unitIndex === Number(unitNumber))) {
-        currentUnit = null;
-        awaitingPattern = false;
-        continue;
+      // canonical one; duplicate rows must not extend the course. Some localized
+      // pages retain old section numbers in their unit rows, so prefer a row whose
+      // source section number matches the current heading when duplicates occur.
+      const unitIndex = Number(unitNumber);
+      if (!Number.isInteger(unitIndex) || unitIndex < 1) continue;
+      const duplicateIndex = currentSection.units.findIndex((unit) => unit.unitIndex === unitIndex);
+      if (duplicateIndex >= 0) {
+        const existing = currentSection.units[duplicateIndex];
+        const existingIsCanonical = existing.sourceSectionNumber === currentSection.sectionIndex;
+        const incomingIsCanonical = Number(sectionNumber) === currentSection.sectionIndex;
+        if (existingIsCanonical || !incomingIsCanonical) {
+          currentUnit = null;
+          awaitingPattern = false;
+          continue;
+        }
+        currentSection.units.splice(duplicateIndex, 1);
       }
       currentUnit = {
         sectionIndex: currentSection.sectionIndex,
-        unitIndex: Number(unitNumber),
+        unitIndex,
         title: title.trim(),
         activityPattern: [],
         activities: null,
       };
+      Object.defineProperty(currentUnit, 'sourceSectionNumber', { value: Number(sectionNumber) });
       currentSection.units.push(currentUnit);
       awaitingPattern = true;
       continue;
@@ -350,6 +361,15 @@ export function parseCourseDetail(html, meta) {
   }
 
   for (const section of filteredSections) {
+    // Some source pages number units continuously across course sections.
+    // Normalize a complete, contiguous range to local 1-based positions.
+    const sourcePositions = [...new Set(section.units.map((unit) => unit.unitIndex))].sort((a, b) => a - b);
+    if (sourcePositions.length === section.unitCount &&
+        sourcePositions.at(-1) - sourcePositions[0] + 1 === section.unitCount) {
+      const offset = sourcePositions[0] - 1;
+      if (offset) section.units.forEach((unit) => { unit.unitIndex -= offset; });
+    }
+
     // Preserve real unit positions even when the source omits a row. A missing
     // title is explicit rather than shifting every later target unit.
     if (section.unitCount > 0 && section.unitCount <= 300) {

@@ -3,7 +3,7 @@ import assert from 'node:assert/strict';
 import { execFile } from 'node:child_process';
 import { promisify } from 'node:util';
 import { fileURLToPath } from 'node:url';
-import { mkdtemp, mkdir, writeFile, readFile } from 'node:fs/promises';
+import { mkdtemp, mkdir, writeFile, readFile, rm } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import { join } from 'node:path';
 
@@ -31,6 +31,21 @@ async function runValidate(fixtureName, extraArgs = []) {
 test('validate passes on well-formed data', async () => {
   const result = await runValidate('valid');
   assert.equal(result.code, 0);
+});
+
+test('validate writes GitHub Actions outputs through the environment file', async () => {
+  const tempDir = await mkdtemp(join(tmpdir(), 'duo-validate-output-'));
+  const outputFile = join(tempDir, 'outputs');
+  try {
+    await execFileAsync('node', ['validate.js', '--data', fileURLToPath(new URL('valid/', fixturesDir))], {
+      cwd: scraperDir,
+      env: { ...process.env, GITHUB_OUTPUT: outputFile },
+    });
+    const output = await readFile(outputFile, 'utf8');
+    assert.equal(output, 'passed=true\nerror_count=0\nerror_rate=0.0\n');
+  } finally {
+    await rm(tempDir, { recursive: true, force: true });
+  }
 });
 
 test('validate fails when manifest is missing required fields', async () => {

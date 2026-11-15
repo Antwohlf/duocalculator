@@ -61,6 +61,39 @@ test('parseCourseDetail handles empty detail pages', async () => {
   assert.deepEqual(detail.totals, { sections: 0, units: 0, activities: null, estimated: true });
 });
 
+test('localized unit rows can retain a different source section number', () => {
+  const html = [
+    'Stage 1 (2 sections) ELO 1200:',
+    '7 1 First tactic',
+    '7 2 Second tactic',
+    'Stage 2 (2 sections) ELO 1500:',
+    '6 1 Third tactic',
+    '6 2 Fourth tactic',
+  ].join('<br>');
+  const detail = parseCourseDetail(html, { toLang: 'Chess', unitsCount: 4, lessonsCount: 12 });
+
+  assert.deepEqual(detail.sections.map((section) => section.units.map((unit) => unit.title)), [
+    ['First tactic', 'Second tactic'],
+    ['Third tactic', 'Fourth tactic'],
+  ]);
+});
+
+test('continuous source unit numbers are normalized within their section', () => {
+  const html = [
+    'Ενότητα 6 (3 μονάδες) CEFR B1:',
+    '6 136 First lesson',
+    '6 137 Second lesson',
+    '6 138 Third lesson',
+  ].join('<br>');
+  const detail = parseCourseDetail(html, { toLang: 'Chinese', unitsCount: 3, lessonsCount: 9 });
+
+  assert.deepEqual(detail.sections[0].units.map((unit) => [unit.unitIndex, unit.title]), [
+    [1, 'First lesson'],
+    [2, 'Second lesson'],
+    [3, 'Third lesson'],
+  ]);
+});
+
 test('footer dates do not become lessons and repeated rows do not become units', () => {
   const html = 'Section 1 (2 units) Basics<br>1 1 First<br>5, 4, 2<br>1 1 First<br>1 2 Second<br>2025, 17';
   const detail = parseCourseDetail(html, { unitsCount: 2, lessonsCount: 19 });

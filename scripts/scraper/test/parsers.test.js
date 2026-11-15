@@ -60,6 +60,29 @@ test('current section summary overrides stale detail rows', () => {
   assert.equal(detail.totals.activities, 24);
 });
 
+test('grouped course headings count units instead of groups', () => {
+  const unitRows = Array.from({ length: 52 }, (_, index) => `4 ${index + 1} Unit ${index + 1}`).join('<br>');
+  const html = [
+    'Grade 4 (7 Groups, 52 units)',
+    'Grade 4 (7 Groups, 52 units):',
+    unitRows,
+  ].join('<br>');
+  const detail = parseCourseDetail(html, {
+    toLang: 'Math',
+    unitsCount: 52,
+    lessonsCount: 520,
+  });
+
+  assert.equal(detail.sections.length, 1);
+  assert.equal(detail.sections[0].unitCount, 52);
+  assert.equal(detail.totals.units, 52);
+  assert.equal(detail.totals.activities, 520);
+  assert.deepEqual(
+    detail.sections[0].units.map((unit) => unit.unitIndex),
+    Array.from({ length: 52 }, (_, index) => index + 1),
+  );
+});
+
 test('unknown lesson totals stay unknown across alternative layouts', () => {
   const html = 'Stage 1 (2 units) Grades<br>1 1 First<br>1 2 Second<br>Stage 1 (1 unit) Topics<br>1 1 Topic';
   const detail = parseCourseDetail(html, { unitsCount: 2, lessonsCount: null });

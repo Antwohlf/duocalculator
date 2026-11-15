@@ -204,7 +204,7 @@ export function parseCourseDetail(html, meta) {
     'units?|unidades?|unidade?s?|unités?|unità|einheiten|lektion(?:en)?|lessons?|leçons?|lektioner|разделы|юнитов|уроков?|занятий|ders|درس|课程|課|レッスン|単元|단원|레슨';
   // Headings can put a localized word between the section number and the unit count,
   // for example "第 1 阶段 (9 个部分)".
-  const sectionParenRegex = /^([^\d]{1,}?)\s*(\d+)\s*[^\d(]*\(\s*(\d+)\s*[^)]*\)\s*(.*)$/u;
+  const sectionParenRegex = /^([^\d]{1,}?)\s*(\d+)\s*[^\d(]*\(\s*(?:\d+\s+groups?,\s*)?(\d+)\s*[^)]*\)\s*(.*)$/iu;
   const malformedSectionRegex = /^(?=.*\b(?:CEFR|MCER)\b)([^\d]{1,}?)\s*(\d+)\s*[^\d(]*\(\s*(\d+)\s*.+$/iu;
   const leadingNumberSectionRegex = /^(\d+)([^\d(]{2,})\(\s*(\d+)\s*[^)]*\)\s*(.*)$/u;
   const urduOrdinals = ['پہلا', 'دوسرا', 'تیسرا', 'چوتھا', 'پانچواں', 'چھٹا', 'ساتواں', 'آٹھواں'];

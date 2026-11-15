@@ -16,6 +16,7 @@ const LANGUAGE_NAME_OVERRIDES = {
   bs: "Bosnian",
   ca: "Catalan",
   ceb: "Cebuano",
+  ch: "Chess",
   co: "Corsican",
   cs: "Czech",
   cy: "Welsh",
@@ -40,6 +41,7 @@ const LANGUAGE_NAME_OVERRIDES = {
   hk: "Cantonese",
   ht: "Haitian Creole",
   kl: "Klingon",
+  kn: "Kannada",
   nb: "Norwegian Bokmål",
   nv: "Navajo",
   he: "Hebrew",
@@ -71,6 +73,7 @@ const LANGUAGE_NAME_OVERRIDES = {
   nl: "Dutch",
   no: "Norwegian",
   ny: "Chichewa",
+  pa: "Punjabi",
   pl: "Polish",
   pt: "Portuguese",
   qu: "Quechua",
@@ -100,6 +103,7 @@ const LANGUAGE_NAME_OVERRIDES = {
 };
 
 const LANGUAGE_FLAGS = {
+  ch: "♟️",
   en: "🇺🇸",
   es: "🇪🇸",
   fr: "🇫🇷",
@@ -107,7 +111,9 @@ const LANGUAGE_FLAGS = {
   it: "🇮🇹",
   pt: "🇵🇹",
   ja: "🇯🇵",
+  kn: "🇮🇳",
   ko: "🇰🇷",
+  math: "🔢",
   zh: "🇨🇳",
   zhhans: "🇨🇳",
   zhhant: "🇨🇳",
@@ -180,6 +186,7 @@ const LANGUAGE_FLAGS = {
   mt: "🇲🇹",
   my: "🇲🇲",
   ne: "🇳🇵",
+  pa: "🇮🇳",
   qu: "🇵🇪",
   sh: "🇷🇸",
   si: "🇱🇰",
@@ -1601,7 +1608,7 @@ function parseCourseList(html) {
   const levelIndex = findIndex([/cefr/, /level/]);
   const unitsIndex = findIndex([/unit/]);
   const lessonsIndex = findIndex([/lesson/]);
-  const updatedIndex = findIndex([/updated/, /refresh/]);
+  const updatedIndex = findIndex([/updated/, /refresh/, /^date$/]);
 
   const rows = Array.from(table.querySelectorAll("tbody tr")).filter(
     (row) => row.querySelectorAll("td").length >= Math.max(3, headerCells.length || 0),

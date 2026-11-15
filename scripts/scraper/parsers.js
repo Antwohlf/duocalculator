@@ -9,7 +9,7 @@ import * as cheerio from 'cheerio';
 const LANGUAGE_NAME_OVERRIDES = {
   af: 'Afrikaans', am: 'Amharic', ar: 'Arabic', az: 'Azerbaijani',
   be: 'Belarusian', bg: 'Bulgarian', bn: 'Bengali', bs: 'Bosnian',
-  ca: 'Catalan', ceb: 'Cebuano', co: 'Corsican', cs: 'Czech', cy: 'Welsh',
+  ca: 'Catalan', ceb: 'Cebuano', ch: 'Chess', co: 'Corsican', cs: 'Czech', cy: 'Welsh',
   da: 'Danish', de: 'German', el: 'Greek', en: 'English', eo: 'Esperanto',
   es: 'Spanish', et: 'Estonian', eu: 'Basque', fa: 'Persian', fi: 'Finnish',
   fr: 'French', hv: 'High Valyrian', hw: 'Hawaiian', ga: 'Irish',
@@ -17,11 +17,11 @@ const LANGUAGE_NAME_OVERRIDES = {
   hk: 'Cantonese', ht: 'Haitian Creole', kl: 'Klingon', nb: 'Norwegian Bokmål',
   nv: 'Navajo', he: 'Hebrew', hi: 'Hindi', hr: 'Croatian', hu: 'Hungarian',
   hy: 'Armenian', id: 'Indonesian', ig: 'Igbo', is: 'Icelandic', it: 'Italian',
-  ja: 'Japanese', ko: 'Korean', ku: 'Kurdish', la: 'Latin', lb: 'Luxembourgish',
+  ja: 'Japanese', kn: 'Kannada', ko: 'Korean', ku: 'Kurdish', la: 'Latin', lb: 'Luxembourgish',
   lt: 'Lithuanian', lv: 'Latvian', mg: 'Malagasy', mi: 'Maori', mk: 'Macedonian',
   ml: 'Malayalam', mn: 'Mongolian', mr: 'Marathi', ms: 'Malay', mt: 'Maltese',
   my: 'Burmese', ne: 'Nepali', nl: 'Dutch', no: 'Norwegian', ny: 'Chichewa',
-  pl: 'Polish', pt: 'Portuguese', qu: 'Quechua', ro: 'Romanian', ru: 'Russian',
+  pa: 'Punjabi', pl: 'Polish', pt: 'Portuguese', qu: 'Quechua', ro: 'Romanian', ru: 'Russian',
   sh: 'Serbo-Croatian', si: 'Sinhala', sk: 'Slovak', sr: 'Serbian', sv: 'Swedish',
   sw: 'Swahili', ta: 'Tamil', te: 'Telugu', th: 'Thai', tl: 'Tagalog',
   tr: 'Turkish', uk: 'Ukrainian', ur: 'Urdu', uz: 'Uzbek', vi: 'Vietnamese',
@@ -75,7 +75,7 @@ export function parseCourseList(html) {
   const levelIndex = findIndex([/cefr/, /level/]);
   const unitsIndex = findIndex([/unit/]);
   const lessonsIndex = findIndex([/lesson/]);
-  const updatedIndex = findIndex([/updated/, /refresh/]);
+  const updatedIndex = findIndex([/updated/, /refresh/, /^date$/]);
 
   // Parse rows
   table.find('tbody tr').each((i, row) => {

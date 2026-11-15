@@ -23,6 +23,24 @@ test('parseCourseList returns empty array for malformed HTML', async () => {
   assert.deepEqual(courses, []);
 });
 
+test('parseCourseList reads DuolingoData Date column as the course update date', () => {
+  const html = '<table><thead><tr><th>Learning</th><th>From</th><th>Units</th><th>Lessons</th><th>Date</th></tr></thead><tbody><tr><td><a href="/dat/mathfen712.html">Math</a></td><td>English</td><td>712</td><td>8116</td><td>26.11</td></tr></tbody></table>';
+  const [course] = parseCourseList(html);
+
+  assert.equal(course.updated, '26.11');
+});
+
+test('parseCourseList expands Chess, Kannada, and Punjabi course codes', () => {
+  const html = '<table><thead><tr><th>Learning</th><th>From</th><th>Units</th><th>Lessons</th><th>Date</th></tr></thead><tbody><tr><td><a href="/dat/chfen200v2.html">Ch</a></td><td>English</td><td>200</td><td>1818</td><td>26.11</td></tr><tr><td><a href="/dat/enfkn1005v2.html">English</a></td><td>Kn</td><td>1005</td><td>8071</td><td>26.09</td></tr><tr><td><a href="/dat/enfpa1005v2.html">English</a></td><td>Pa</td><td>1005</td><td>8504</td><td>26.10</td></tr></tbody></table>';
+  const courses = parseCourseList(html);
+
+  assert.deepEqual(courses.map((course) => course.title), [
+    'English → Chess',
+    'Kannada → English',
+    'Punjabi → English',
+  ]);
+});
+
 test('parseCourseDetail extracts sections, units, and totals', async () => {
   const html = await readFixture('course-detail.html');
   const detail = parseCourseDetail(html, { key: 'esfen', lessonsCount: 18 });

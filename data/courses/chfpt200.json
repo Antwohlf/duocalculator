@@ -1,19 +1,19 @@
 {
   "meta": {
-    "key": "chfes200",
-    "courseTitle": "Spanish → Ch",
-    "scrapedAt": "2026-11-08T09:54:29.840Z",
-    "sourceHash": "sha256:b30c1636ff61ab5d",
-    "fromLang": "Spanish",
+    "key": "chfpt200",
+    "courseTitle": "Portuguese → Ch",
+    "scrapedAt": "2026-11-15T19:42:33.483Z",
+    "sourceHash": "sha256:8714c0690d6861ee",
+    "fromLang": "Portuguese",
     "toLang": "Ch",
-    "fromCode": "es",
+    "fromCode": "pt",
     "toCode": "ch",
     "level": null,
     "levelShort": null,
-    "detailHref": "https://duolingodata.com/dat/chfes200.html",
+    "detailHref": "https://duolingodata.com/dat/chfpt200.html",
     "parserVersion": 4,
     "indexUnitsCount": 200,
-    "indexLessonsCount": 1845,
+    "indexLessonsCount": 1818,
     "sourceSectionCounts": [
       6,
       26,
@@ -23,7 +23,7 @@
       48,
       48
     ],
-    "detailHrefHash": "sha256:4e598c33d5dbd55d",
+    "detailHrefHash": "sha256:7eb3410672fba16c",
     "scrapeWarnings": [
       "Section sizes aligned with current course summary",
       "Per-unit lesson counts estimated from course total"
@@ -32,7 +32,7 @@
   },
   "totals": {
     "sections": 7,
-    "activities": 1845,
+    "activities": 1818,
     "units": 200,
     "estimated": true
   },
@@ -47,7 +47,7 @@
         {
           "sectionIndex": 1,
           "unitIndex": 1,
-          "title": "Mueve tus piezas",
+          "title": "Mova as suas peças",
           "activityPattern": [],
           "activities": 10,
           "estimated": true
@@ -55,7 +55,7 @@
         {
           "sectionIndex": 1,
           "unitIndex": 2,
-          "title": "Captura y ataca piezas",
+          "title": "Capture e ataque peças",
           "activityPattern": [],
           "activities": 10,
           "estimated": true
@@ -63,7 +63,7 @@
         {
           "sectionIndex": 1,
           "unitIndex": 3,
-          "title": "Defiende tus piezas",
+          "title": "Defesa das peças",
           "activityPattern": [],
           "activities": 10,
           "estimated": true
@@ -71,7 +71,7 @@
         {
           "sectionIndex": 1,
           "unitIndex": 4,
-          "title": "¡Jaque! Ataca al rey",
+          "title": "Xeque! Ataque o rei",
           "activityPattern": [],
           "activities": 10,
           "estimated": true
@@ -79,7 +79,7 @@
         {
           "sectionIndex": 1,
           "unitIndex": 5,
-          "title": "¡Jaque mate! Gana la partida",
+          "title": "Xeque-mate! Vença a partida",
           "activityPattern": [],
           "activities": 10,
           "estimated": true
@@ -87,7 +87,7 @@
         {
           "sectionIndex": 1,
           "unitIndex": 6,
-          "title": "Juega una partida completa",
+          "title": "Jogue uma partida completa",
           "activityPattern": [],
           "activities": 10,
           "estimated": true
@@ -104,7 +104,7 @@
         {
           "sectionIndex": 2,
           "unitIndex": 1,
-          "title": "Valor de piezas y capturas",
+          "title": "Capturas e valor das peças",
           "activityPattern": [],
           "activities": 10,
           "estimated": true
@@ -112,7 +112,7 @@
         {
           "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "Casillas seguras y ataques seguros",
+          "title": "Casas seguras e ataques",
           "activityPattern": [],
           "activities": 10,
           "estimated": true
@@ -120,7 +120,7 @@
         {
           "sectionIndex": 2,
           "unitIndex": 3,
-          "title": "Principios de apertura",
+          "title": "Princípios de abertura",
           "activityPattern": [],
           "activities": 10,
           "estimated": true
@@ -128,7 +128,7 @@
         {
           "sectionIndex": 2,
           "unitIndex": 4,
-          "title": "Defiende tus piezas",
+          "title": "Defesa das peças",
           "activityPattern": [],
           "activities": 10,
           "estimated": true
@@ -136,7 +136,7 @@
         {
           "sectionIndex": 2,
           "unitIndex": 5,
-          "title": "Reina y mates de escalera",
+          "title": "Mate de dama e mate escadinha",
           "activityPattern": [],
           "activities": 10,
           "estimated": true
@@ -144,7 +144,7 @@
         {
           "sectionIndex": 2,
           "unitIndex": 6,
-          "title": "La apertura italiana",
+          "title": "A abertura italiana",
           "activityPattern": [],
           "activities": 10,
           "estimated": true
@@ -152,7 +152,7 @@
         {
           "sectionIndex": 2,
           "unitIndex": 7,
-          "title": "Intercambios",
+          "title": "Trocas",
           "activityPattern": [],
           "activities": 10,
           "estimated": true
@@ -160,7 +160,7 @@
         {
           "sectionIndex": 2,
           "unitIndex": 8,
-          "title": "Reglas del peón y carreras de peones",
+          "title": "Regras e corridas de peões",
           "activityPattern": [],
           "activities": 10,
           "estimated": true
@@ -168,7 +168,7 @@
         {
           "sectionIndex": 2,
           "unitIndex": 9,
-          "title": "Tenedores",
+          "title": "Garfos",
           "activityPattern": [],
           "activities": 10,
           "estimated": true
@@ -176,7 +176,7 @@
         {
           "sectionIndex": 2,
           "unitIndex": 10,
-          "title": "Patrones de mate",
+          "title": "Padrões de xeque-mate",
           "activityPattern": [],
           "activities": 10,
           "estimated": true
@@ -184,7 +184,7 @@
         {
           "sectionIndex": 2,
           "unitIndex": 11,
-          "title": "Clavadas absolutas",
+          "title": "As cravadas absolutas",
           "activityPattern": [],
           "activities": 10,
           "estimated": true
@@ -192,7 +192,7 @@
         {
           "sectionIndex": 2,
           "unitIndex": 12,
-          "title": "Planes después de la apertura",
+          "title": "Planos após a abertura",
           "activityPattern": [],
           "activities": 10,
           "estimated": true
@@ -200,113 +200,113 @@
         {
           "sectionIndex": 2,
           "unitIndex": 13,
-          "title": "Continuando la apertura",
+          "title": "Continue a abertura",
           "activityPattern": [],
-          "activities": 10,
+          "activities": 9,
           "estimated": true
         },
         {
           "sectionIndex": 2,
           "unitIndex": 14,
-          "title": "Clavadas relativas",
+          "title": "As cravadas relativas",
           "activityPattern": [],
-          "activities": 10,
+          "activities": 9,
           "estimated": true
         },
         {
           "sectionIndex": 2,
           "unitIndex": 15,
-          "title": "Enfiladas",
+          "title": "Cravadas invertidas",
           "activityPattern": [],
-          "activities": 10,
+          "activities": 9,
           "estimated": true
         },
         {
           "sectionIndex": 2,
           "unitIndex": 16,
-          "title": "Sacrificio",
+          "title": "Sacrifique",
           "activityPattern": [],
-          "activities": 10,
+          "activities": 9,
           "estimated": true
         },
         {
           "sectionIndex": 2,
           "unitIndex": 17,
-          "title": "Ataques a la descubierta",
+          "title": "Ataques descobertos",
           "activityPattern": [],
-          "activities": 10,
+          "activities": 9,
           "estimated": true
         },
         {
           "sectionIndex": 2,
           "unitIndex": 18,
-          "title": "Movimientos hacia atrás",
+          "title": "Lances para trás",
           "activityPattern": [],
-          "activities": 10,
+          "activities": 9,
           "estimated": true
         },
         {
           "sectionIndex": 2,
           "unitIndex": 19,
-          "title": "Piezas felices",
+          "title": "Peças felizes",
           "activityPattern": [],
-          "activities": 10,
+          "activities": 9,
           "estimated": true
         },
         {
           "sectionIndex": 2,
           "unitIndex": 20,
-          "title": "Batería",
+          "title": "Bateria",
           "activityPattern": [],
-          "activities": 10,
+          "activities": 9,
           "estimated": true
         },
         {
           "sectionIndex": 2,
           "unitIndex": 21,
-          "title": "Completar la apertura",
+          "title": "Conclusão da abertura",
           "activityPattern": [],
-          "activities": 10,
+          "activities": 9,
           "estimated": true
         },
         {
           "sectionIndex": 2,
           "unitIndex": 22,
-          "title": "Evaluar capturas",
+          "title": "Avaliação de capturas",
           "activityPattern": [],
-          "activities": 10,
+          "activities": 9,
           "estimated": true
         },
         {
           "sectionIndex": 2,
           "unitIndex": 23,
-          "title": "Encontrar oportunidades",
+          "title": "Como encontrar oportunidades",
           "activityPattern": [],
-          "activities": 10,
+          "activities": 9,
           "estimated": true
         },
         {
           "sectionIndex": 2,
           "unitIndex": 24,
-          "title": "Detección de tácticas",
+          "title": "Como identificar táticas",
           "activityPattern": [],
-          "activities": 10,
+          "activities": 9,
           "estimated": true
         },
         {
           "sectionIndex": 2,
           "unitIndex": 25,
-          "title": "Defenderse contra el mate",
+          "title": "Se defendendo contra o mate",
           "activityPattern": [],
-          "activities": 10,
+          "activities": 9,
           "estimated": true
         },
         {
           "sectionIndex": 2,
           "unitIndex": 26,
-          "title": "Doble jaque",
+          "title": "Duplo xeque",
           "activityPattern": [],
-          "activities": 10,
+          "activities": 9,
           "estimated": true
         }
       ]
@@ -321,111 +321,111 @@
         {
           "sectionIndex": 3,
           "unitIndex": 1,
-          "title": "Usar clavadas en una partida",
+          "title": "Garfos de peão e cavalo",
           "activityPattern": [],
-          "activities": 10,
+          "activities": 9,
           "estimated": true
         },
         {
           "sectionIndex": 3,
           "unitIndex": 2,
-          "title": "Tenedores de caballo y peón",
+          "title": "Responda aos xeques",
           "activityPattern": [],
-          "activities": 10,
+          "activities": 9,
           "estimated": true
         },
         {
           "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "Responder a los jaques",
+          "title": "Obstáculos no roque",
           "activityPattern": [],
-          "activities": 10,
+          "activities": 9,
           "estimated": true
         },
         {
           "sectionIndex": 3,
           "unitIndex": 4,
-          "title": "Obstáculos para el enroque",
+          "title": "Usando cravadas em uma partida",
           "activityPattern": [],
-          "activities": 10,
+          "activities": 9,
           "estimated": true
         },
         {
           "sectionIndex": 3,
           "unitIndex": 5,
-          "title": "Juego efectivo de peones",
+          "title": "Movimentos eficazes de peão",
           "activityPattern": [],
-          "activities": 10,
+          "activities": 9,
           "estimated": true
         },
         {
           "sectionIndex": 3,
           "unitIndex": 6,
-          "title": "Mates esenciales",
+          "title": "Xeques-mates essenciais",
           "activityPattern": [],
-          "activities": 10,
+          "activities": 9,
           "estimated": true
         },
         {
           "sectionIndex": 3,
           "unitIndex": 7,
-          "title": "Trampas de rey ahogado",
+          "title": "Armadilhas de afogamento",
           "activityPattern": [],
-          "activities": 10,
+          "activities": 9,
           "estimated": true
         },
         {
           "sectionIndex": 3,
           "unitIndex": 8,
-          "title": "Atacar defensores",
+          "title": "Ataque os defensores",
           "activityPattern": [],
-          "activities": 10,
+          "activities": 9,
           "estimated": true
         },
         {
           "sectionIndex": 3,
           "unitIndex": 9,
-          "title": "Evita el mate: mueve o captura",
+          "title": "Mova ou capture para evitar o xeque-mate",
           "activityPattern": [],
-          "activities": 10,
+          "activities": 9,
           "estimated": true
         },
         {
           "sectionIndex": 3,
           "unitIndex": 10,
-          "title": "Evita el mate: defiende o bloquea",
+          "title": "Defenda ou bloqueie o xeque-mate",
           "activityPattern": [],
-          "activities": 10,
+          "activities": 9,
           "estimated": true
         },
         {
           "sectionIndex": 3,
           "unitIndex": 11,
-          "title": "Estructura de peones",
+          "title": "a estrutura de peões",
           "activityPattern": [],
-          "activities": 10,
+          "activities": 9,
           "estimated": true
         },
         {
           "sectionIndex": 3,
           "unitIndex": 12,
-          "title": "Prevención de tenedores",
+          "title": "Prevenção de garfos",
           "activityPattern": [],
-          "activities": 10,
+          "activities": 9,
           "estimated": true
         },
         {
           "sectionIndex": 3,
           "unitIndex": 13,
-          "title": "Escapar de clavadas",
+          "title": "Escape de cravadas",
           "activityPattern": [],
-          "activities": 10,
+          "activities": 9,
           "estimated": true
         },
         {
           "sectionIndex": 3,
           "unitIndex": 14,
-          "title": "Jugadas forzadas",
+          "title": "Jogadas forçadas",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -433,7 +433,7 @@
         {
           "sectionIndex": 3,
           "unitIndex": 15,
-          "title": "Jaques y ataques descubiertos",
+          "title": "Xeques descobertos e ataques descobertos",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -441,7 +441,7 @@
         {
           "sectionIndex": 3,
           "unitIndex": 16,
-          "title": "Debilidades",
+          "title": "Fraquezas",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -449,7 +449,7 @@
         {
           "sectionIndex": 3,
           "unitIndex": 17,
-          "title": "Columnas abiertas y semiabiertas",
+          "title": "Colunas abertas e semiabertas",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -457,7 +457,7 @@
         {
           "sectionIndex": 3,
           "unitIndex": 18,
-          "title": "Ubicación de caballos y alfiles",
+          "title": "Posicione cavalos e bispos",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -465,7 +465,7 @@
         {
           "sectionIndex": 3,
           "unitIndex": 19,
-          "title": "Usar a tu reina",
+          "title": "Uso da dama",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -473,7 +473,7 @@
         {
           "sectionIndex": 3,
           "unitIndex": 20,
-          "title": "Mayorías de peones y coronación",
+          "title": "Maioria de peões e promoção",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -481,7 +481,7 @@
         {
           "sectionIndex": 3,
           "unitIndex": 21,
-          "title": "Oposición",
+          "title": "Oposição",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -489,7 +489,7 @@
         {
           "sectionIndex": 3,
           "unitIndex": 22,
-          "title": "Torres contra reinas",
+          "title": "Torres vs. damas",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -497,7 +497,7 @@
         {
           "sectionIndex": 3,
           "unitIndex": 23,
-          "title": "Alfiles y caballos atrapados",
+          "title": "Bispos e cavalos encurralados",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -505,7 +505,7 @@
         {
           "sectionIndex": 3,
           "unitIndex": 24,
-          "title": "Mates de la reina contra el rey enrocado",
+          "title": "Dama dando mate no rei que fez roque",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -522,7 +522,7 @@
         {
           "sectionIndex": 4,
           "unitIndex": 1,
-          "title": "Interferencia",
+          "title": "Interferência",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -530,7 +530,7 @@
         {
           "sectionIndex": 4,
           "unitIndex": 2,
-          "title": "Clavadas avanzadas",
+          "title": "Cravadas avançadas",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -538,7 +538,7 @@
         {
           "sectionIndex": 4,
           "unitIndex": 3,
-          "title": "Orden de capturas",
+          "title": "Ordem das capturas",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -546,7 +546,7 @@
         {
           "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "Visión del tablero",
+          "title": "Visão do tabuleiro",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -554,7 +554,7 @@
         {
           "sectionIndex": 4,
           "unitIndex": 5,
-          "title": "Desviación",
+          "title": "Desvio",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -562,7 +562,7 @@
         {
           "sectionIndex": 4,
           "unitIndex": 6,
-          "title": "Dominando los finales comunes",
+          "title": "Domine finais de jogo comuns",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -570,7 +570,7 @@
         {
           "sectionIndex": 4,
           "unitIndex": 7,
-          "title": "Estrategia para defender",
+          "title": "Estratégia de defesa",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -578,7 +578,7 @@
         {
           "sectionIndex": 4,
           "unitIndex": 8,
-          "title": "Atracción",
+          "title": "Atração",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -586,7 +586,7 @@
         {
           "sectionIndex": 4,
           "unitIndex": 9,
-          "title": "prevenir jaque mate",
+          "title": "Prevenção do xeque-mate",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -594,7 +594,7 @@
         {
           "sectionIndex": 4,
           "unitIndex": 10,
-          "title": "Peones avanzados",
+          "title": "Peões avançados",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -602,7 +602,7 @@
         {
           "sectionIndex": 4,
           "unitIndex": 11,
-          "title": "Planificar jaques mate",
+          "title": "Planejando xeques-mates",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -618,7 +618,7 @@
         {
           "sectionIndex": 4,
           "unitIndex": 13,
-          "title": "Ataques de columna y de fila",
+          "title": "Ataques pelas colunas e pelas fileiras",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -634,7 +634,7 @@
         {
           "sectionIndex": 4,
           "unitIndex": 15,
-          "title": "Planificando sacrificios",
+          "title": "Planeje sacrifícios",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -642,7 +642,7 @@
         {
           "sectionIndex": 4,
           "unitIndex": 16,
-          "title": "Peones débiles",
+          "title": "Peões fracos",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -650,7 +650,7 @@
         {
           "sectionIndex": 4,
           "unitIndex": 17,
-          "title": "TABLAS",
+          "title": "EMPATES",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -658,7 +658,7 @@
         {
           "sectionIndex": 4,
           "unitIndex": 18,
-          "title": "Mates en la última fila",
+          "title": "Mate do corredor",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -666,7 +666,7 @@
         {
           "sectionIndex": 4,
           "unitIndex": 19,
-          "title": "Ataques diagonales",
+          "title": "Ataques diagonais",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -674,7 +674,7 @@
         {
           "sectionIndex": 4,
           "unitIndex": 20,
-          "title": "Ventajas",
+          "title": "Vantagens",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -682,7 +682,7 @@
         {
           "sectionIndex": 4,
           "unitIndex": 21,
-          "title": "Piezas atrapadas",
+          "title": "Peças presas",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -690,7 +690,7 @@
         {
           "sectionIndex": 4,
           "unitIndex": 22,
-          "title": "Coronación de peones",
+          "title": "Promoção de peões",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -698,7 +698,7 @@
         {
           "sectionIndex": 4,
           "unitIndex": 23,
-          "title": "despeje",
+          "title": "liberação de casas",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -706,7 +706,7 @@
         {
           "sectionIndex": 4,
           "unitIndex": 24,
-          "title": "Detección de tácticas",
+          "title": "Como identificar táticas",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -723,7 +723,7 @@
         {
           "sectionIndex": 5,
           "unitIndex": 1,
-          "title": "Oposición",
+          "title": "Dê xeque-mate com os bispos",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -731,7 +731,7 @@
         {
           "sectionIndex": 5,
           "unitIndex": 2,
-          "title": "Jaque descubiertos",
+          "title": "Peão passado: avance e bloqueie",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -739,7 +739,7 @@
         {
           "sectionIndex": 5,
           "unitIndex": 3,
-          "title": "Mates con caballo",
+          "title": "Sacrifique para vencer",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -747,7 +747,7 @@
         {
           "sectionIndex": 5,
           "unitIndex": 4,
-          "title": "Duplicar torres y el cañón de Alekhine",
+          "title": "Decida quando negociar",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -755,7 +755,7 @@
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "Sacrificios",
+          "title": "Usar táticas na abertura",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -763,7 +763,7 @@
         {
           "sectionIndex": 5,
           "unitIndex": 6,
-          "title": "Peones pasados",
+          "title": "Dê xeque-mate com o cavalo",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -771,7 +771,7 @@
         {
           "sectionIndex": 5,
           "unitIndex": 7,
-          "title": "Mejorar tus piezas",
+          "title": "Melhore as suas torres e a sua dama",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -779,7 +779,7 @@
         {
           "sectionIndex": 5,
           "unitIndex": 8,
-          "title": "Tácticas de apertura",
+          "title": "Empilhe torres e damas",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -787,7 +787,7 @@
         {
           "sectionIndex": 5,
           "unitIndex": 9,
-          "title": "Mejorar tus torres y tu reina",
+          "title": "Corra com seus peões pra promoção",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -795,7 +795,7 @@
         {
           "sectionIndex": 5,
           "unitIndex": 10,
-          "title": "Mates de torre y alfil",
+          "title": "Capturar a oposição.",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -803,7 +803,7 @@
         {
           "sectionIndex": 5,
           "unitIndex": 11,
-          "title": "Carreras de peones y rupturas",
+          "title": "Melhore cavalos e bispos",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -811,7 +811,7 @@
         {
           "sectionIndex": 5,
           "unitIndex": 12,
-          "title": "Saber cuándo cambiar",
+          "title": "Dar mate com torre e bispo",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -819,7 +819,7 @@
         {
           "sectionIndex": 5,
           "unitIndex": 13,
-          "title": "Más mates de torre",
+          "title": "Xeques descobertos",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -827,7 +827,7 @@
         {
           "sectionIndex": 5,
           "unitIndex": 14,
-          "title": "Ataque de alfil",
+          "title": "Ataque com os bispos",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -835,7 +835,7 @@
         {
           "sectionIndex": 5,
           "unitIndex": 15,
-          "title": "Poder de peones",
+          "title": "Poder dos peões",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -843,7 +843,7 @@
         {
           "sectionIndex": 5,
           "unitIndex": 16,
-          "title": "Mates con la reina y el alfil",
+          "title": "Xeques-mates com a dama e o bispo",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -851,7 +851,7 @@
         {
           "sectionIndex": 5,
           "unitIndex": 17,
-          "title": "Tenedor de reina",
+          "title": "Garfo com a dama",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -859,7 +859,7 @@
         {
           "sectionIndex": 5,
           "unitIndex": 18,
-          "title": "Hombro a hombro y zugzwang",
+          "title": "Ombreando e zugzwang",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -867,7 +867,7 @@
         {
           "sectionIndex": 5,
           "unitIndex": 19,
-          "title": "Mate con pareja de alfiles",
+          "title": "Dar mate com uma torre",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -875,7 +875,7 @@
         {
           "sectionIndex": 5,
           "unitIndex": 20,
-          "title": "Torres en la fila de peones",
+          "title": "Invada a fileira de peões",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -883,7 +883,7 @@
         {
           "sectionIndex": 5,
           "unitIndex": 21,
-          "title": "Ataques al rey enrocado",
+          "title": "Ataque e defenda o rei",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -891,7 +891,7 @@
         {
           "sectionIndex": 5,
           "unitIndex": 22,
-          "title": "Mates con torre y caballo",
+          "title": "Dar mate com torre e cavalo",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -899,7 +899,7 @@
         {
           "sectionIndex": 5,
           "unitIndex": 23,
-          "title": "Interferencia y jugada intermedia",
+          "title": "Interferência e intermezzo",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -907,7 +907,7 @@
         {
           "sectionIndex": 5,
           "unitIndex": 24,
-          "title": "Mates con piezas menores",
+          "title": "Dar mate com peças menores",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -924,7 +924,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 1,
-          "title": "Practicando patrones de jaque mate",
+          "title": "Sobrecarga",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -932,7 +932,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 2,
-          "title": "Repertorio de aperturas",
+          "title": "Estratégias para o roque",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -940,7 +940,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 3,
-          "title": "Tácticas defensivas",
+          "title": "Mates de dama",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -948,7 +948,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 4,
-          "title": "Ataques a la descubierta",
+          "title": "Contra-ataque",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -956,7 +956,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 5,
-          "title": "Dominando el caballo",
+          "title": "Ataques duplos",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -964,7 +964,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "Tácticas de ataque",
+          "title": "Ataques de peão na abertura",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -972,7 +972,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 7,
-          "title": "Obtener ventaja en la apertura",
+          "title": "A atividade do rei no final de jogo",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -980,7 +980,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 8,
-          "title": "Dominando el peón",
+          "title": "Escape de garfos",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -988,7 +988,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 9,
-          "title": "Planificando sacrificios",
+          "title": "a estrutura de peões",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -996,7 +996,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 10,
-          "title": "Practicando mates frecuentes",
+          "title": "Congelamentos e rupturas de peão",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1004,7 +1004,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 11,
-          "title": "Práctica del medio juego",
+          "title": "Troca de cavalos e bispos",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1012,7 +1012,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 12,
-          "title": "Aprovechar errores",
+          "title": "Calcular capturas",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1020,7 +1020,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 13,
-          "title": "Dominando el rey",
+          "title": "Xeque-mate com o cavalo",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1028,7 +1028,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 14,
-          "title": "Tácticas con múltiples piezas",
+          "title": "Peças falsamente defendidas",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1036,7 +1036,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 15,
-          "title": "Obtener la ventaja",
+          "title": "Crie postos avançados",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1044,7 +1044,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 16,
-          "title": "Sorprendiendo a tu oponente",
+          "title": "Lances intermediários",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1052,7 +1052,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 17,
-          "title": "Mejorando tu posición",
+          "title": "Táticas de promoção",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1060,7 +1060,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 18,
-          "title": "Dominando la reina",
+          "title": "Sacrifícios avançados",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1068,7 +1068,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 19,
-          "title": "Práctica de finales",
+          "title": "Exponha o rei inimigo",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1076,7 +1076,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 20,
-          "title": "Evitar ataques",
+          "title": "Segurança proativa do rei",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1084,7 +1084,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 21,
-          "title": "Dominando la torre",
+          "title": "Finais de cavalo e peão",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1092,7 +1092,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 22,
-          "title": "Dominando los jaque mate",
+          "title": "Identifique as ameaças inimigas",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1100,7 +1100,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 23,
-          "title": "Dominando la séptima fila",
+          "title": "Visão de xeque-mate avançada",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1108,7 +1108,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 24,
-          "title": "Dominando el alfil",
+          "title": "Ameaças táticas de dar mate",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1116,7 +1116,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 25,
-          "title": "Desventajas",
+          "title": "Cravadas invertidas",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1124,7 +1124,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 26,
-          "title": "Finales complicados",
+          "title": "Lances para recuar",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1132,7 +1132,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 27,
-          "title": "Atracción y despeje",
+          "title": "Garfos de cavalo e bispo",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1140,7 +1140,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 28,
-          "title": "Tácticas de medio juego I",
+          "title": "Craves",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1148,7 +1148,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 29,
-          "title": "Enfoque equilibrado I",
+          "title": "Escape de cravadas",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1156,7 +1156,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 30,
-          "title": "Mates más largos I",
+          "title": "Xeques-mates com a dama e o bispo",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1164,7 +1164,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 31,
-          "title": "Despeje y desviación",
+          "title": "Sobrecarga",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1172,7 +1172,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 32,
-          "title": "Atracción y medio juego",
+          "title": "a mate da ópera",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1180,7 +1180,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 33,
-          "title": "Tácticas del medio juego II",
+          "title": "Como impedir o roque",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1188,7 +1188,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 34,
-          "title": "Enfoque equilibrado II",
+          "title": "Intermezzo com xeque",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1196,7 +1196,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 35,
-          "title": "Finales I",
+          "title": "Xeque-mate gancho",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1204,7 +1204,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 36,
-          "title": "Finales II",
+          "title": "Evite um padrão conhecido de dar xeque-mate",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1212,7 +1212,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 37,
-          "title": "Tácticas del medio juego III",
+          "title": "Garfos com dama e torre",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1220,7 +1220,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 38,
-          "title": "Finales de torre y dama",
+          "title": "Xeque descoberto para ganhar material",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1228,7 +1228,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 39,
-          "title": "Finales de alfil y caballo",
+          "title": "Evite o xeque descoberto",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1236,7 +1236,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 40,
-          "title": "Práctica de jaque mate",
+          "title": "Garfos de peão e rei",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1244,7 +1244,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 41,
-          "title": "Ataques descubiertos y dobles",
+          "title": "Prevenção de garfos",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1252,7 +1252,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 42,
-          "title": "Jaques mate más largos II",
+          "title": "Ataque descoberto para ganhar material",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1260,7 +1260,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 43,
-          "title": "Enfoque equilibrado III",
+          "title": "Atração para o garfo I",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1268,7 +1268,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 44,
-          "title": "Finales de peones y coronaciones",
+          "title": "Desvio do material I",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1276,7 +1276,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 45,
-          "title": "Desviación y atracción",
+          "title": "Acúmulo sobre a peça cravada",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1284,7 +1284,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 46,
-          "title": "Ganar piezas",
+          "title": "Interferência",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1292,7 +1292,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 47,
-          "title": "Enfoque equilibrado IV",
+          "title": "Zugzwang",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1300,7 +1300,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 48,
-          "title": "Apertura",
+          "title": "o mate de Lolli",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1317,7 +1317,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 1,
-          "title": "Tácticas de medio juego I",
+          "title": "Peças encurraladas I",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1325,7 +1325,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 2,
-          "title": "Finales de torre y dama",
+          "title": "Sacrifique para dar mate I",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1333,7 +1333,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 3,
-          "title": "Finales de alfil y caballo",
+          "title": "Xeque duplo descoberto I",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1341,7 +1341,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 4,
-          "title": "Práctica de jaque mate",
+          "title": "Desvio de promoção",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1349,7 +1349,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 5,
-          "title": "Ataques descubiertos y dobles I",
+          "title": "Arruinar a estrutura de peões",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1357,7 +1357,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 6,
-          "title": "Mates más largos",
+          "title": "Atração pra dar um garfo II",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1365,7 +1365,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 7,
-          "title": "Enfoque equilibrado",
+          "title": "Impeça o adversário de dar xeque-mate em 1",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1373,7 +1373,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 8,
-          "title": "Finales de peones y coronaciones",
+          "title": "Dar xeque ou dar mate?",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1381,7 +1381,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 9,
-          "title": "Desviación y atracción",
+          "title": "Atração pra dar mate",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1389,7 +1389,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 10,
-          "title": "Ganar piezas",
+          "title": "Baterias",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1397,7 +1397,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 11,
-          "title": "Enfoque equilibrado",
+          "title": "xeque-mate de Morphy",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1405,7 +1405,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 12,
-          "title": "apertura",
+          "title": "Ataques duplos",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1413,7 +1413,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 13,
-          "title": "Desventajas",
+          "title": "Xeque descoberto pra dar mate",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1421,7 +1421,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 14,
-          "title": "Finales complicados",
+          "title": "Dar mate ao cravar",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1429,7 +1429,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 15,
-          "title": "Atracción y despeje",
+          "title": "Impeça alguém de dar xeque-mate à distância",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1437,7 +1437,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 16,
-          "title": "Tácticas del medio juego II",
+          "title": "liberação de casas",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1445,7 +1445,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 17,
-          "title": "Enfoque equilibrado",
+          "title": "Xeques-mates com a torre e o cavalo",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1453,7 +1453,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 18,
-          "title": "Mates más largos",
+          "title": "Peões fracos",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1461,7 +1461,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 19,
-          "title": "Despeje y desviación",
+          "title": "Xeques-mates com uma torre",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1469,7 +1469,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 20,
-          "title": "Atracción y medio juego",
+          "title": "Prevenção contra o mate em 2 I",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1477,7 +1477,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 21,
-          "title": "Tácticas del medio juego III",
+          "title": "Dar mate com bispo e cavalo",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1485,7 +1485,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 22,
-          "title": "Enfoque equilibrado",
+          "title": "xeque-mate dos porcos cegos",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1493,7 +1493,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 23,
-          "title": "Finales I",
+          "title": "Parar um peão passado",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1501,7 +1501,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 24,
-          "title": "Finales II",
+          "title": "Dar xeque-mate com bateria de ataque",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1509,7 +1509,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 25,
-          "title": "Equilibrio estratégico I",
+          "title": "Desvio para ganho de material II",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1517,7 +1517,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 26,
-          "title": "Maestría en jaque mate I",
+          "title": "Sacrifique para dar mate II",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1525,7 +1525,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 27,
-          "title": "Precisión táctica",
+          "title": "Evite o xeque-mate em 2 II",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1533,7 +1533,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 28,
-          "title": "Juego posicional",
+          "title": "Desvio para dar xeque-mate",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1541,7 +1541,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 29,
-          "title": "Tácticas avanzadas I",
+          "title": "Xeque-mate com ajuda do bispo",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1549,7 +1549,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 30,
-          "title": "Equilibrio estratégico II",
+          "title": "Xeque duplo descoberto II",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1557,7 +1557,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 31,
-          "title": "Finales complejos I",
+          "title": "mate da dragoneira",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1565,7 +1565,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 32,
-          "title": "Finales complejos II",
+          "title": "Exposição do rei",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1573,7 +1573,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 33,
-          "title": "Tácticas avanzadas II",
+          "title": "xeque-mate de Greco",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1581,7 +1581,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 34,
-          "title": "Finales complejos III",
+          "title": "Promovendo",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1589,7 +1589,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 35,
-          "title": "Finales de piezas",
+          "title": "Dar xeque-mate com bispos paralelos",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1597,7 +1597,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 36,
-          "title": "Dominio del jaque mate II",
+          "title": "Espeto de atração",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1605,7 +1605,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 37,
-          "title": "Ataques descubiertos avanzados",
+          "title": "Xeque-mate de Boden",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1613,7 +1613,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 38,
-          "title": "Mates largos",
+          "title": "Peças encurraladas II",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1621,7 +1621,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 39,
-          "title": "Equilibrio estratégico III",
+          "title": "xeque-mate por sufocamento",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1629,7 +1629,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 40,
-          "title": "Estructura de peones",
+          "title": "Mates de dama e rei",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1637,7 +1637,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 41,
-          "title": "Combinaciones tácticas I",
+          "title": "Sacrifícios de troca",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1645,7 +1645,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 42,
-          "title": "ventaja de material",
+          "title": "O mate em encaixe",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1653,7 +1653,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 43,
-          "title": "Equilibrio estratégico IV",
+          "title": "Xeques-mates com a dama e o cavalo",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1661,7 +1661,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 44,
-          "title": "Principios de apertura",
+          "title": "Garfos no final de jogo",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1669,7 +1669,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 45,
-          "title": "Tácticas de remontada",
+          "title": "Dar mate em três lances I",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1677,7 +1677,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 46,
-          "title": "Finura en el final",
+          "title": "Garfo para a promoção",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1685,7 +1685,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 47,
-          "title": "Combinaciones tácticas II",
+          "title": "Dar mate em 3 II",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1693,7 +1693,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 48,
-          "title": "Tácticas avanzadas III",
+          "title": "Garfos em promoção",
           "activityPattern": [],
           "activities": 9,
           "estimated": true

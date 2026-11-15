@@ -1,0 +1,1704 @@
+{
+  "meta": {
+    "key": "chfzh200",
+    "courseTitle": "Chinese → Ch",
+    "scrapedAt": "2026-11-15T19:42:33.483Z",
+    "sourceHash": "sha256:87edd2d633419562",
+    "fromLang": "Chinese",
+    "toLang": "Ch",
+    "fromCode": "zh",
+    "toCode": "ch",
+    "level": null,
+    "levelShort": null,
+    "detailHref": "https://duolingodata.com/dat/chfzh200.html",
+    "parserVersion": 4,
+    "indexUnitsCount": 200,
+    "indexLessonsCount": 1818,
+    "sourceSectionCounts": [
+      6,
+      26,
+      24,
+      24,
+      24,
+      48,
+      48
+    ],
+    "detailHrefHash": "sha256:fb70ff7b19cb6abd",
+    "scrapeWarnings": [
+      "Section sizes aligned with current course summary",
+      "Per-unit lesson counts estimated from course total"
+    ],
+    "schemaVersion": "2.0.0"
+  },
+  "totals": {
+    "sections": 7,
+    "activities": 1818,
+    "units": 200,
+    "estimated": true
+  },
+  "sections": [
+    {
+      "sectionIndex": 1,
+      "unitCount": 6,
+      "title": "ELO 200:",
+      "rawTitle": "ELO 200:",
+      "cefr": "",
+      "units": [
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "移动你的棋子",
+          "activityPattern": [],
+          "activities": 10,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 2,
+          "title": "捕捉和攻击棋子",
+          "activityPattern": [],
+          "activities": 10,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 3,
+          "title": "保护你的棋子",
+          "activityPattern": [],
+          "activities": 10,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 4,
+          "title": "将军！攻击王",
+          "activityPattern": [],
+          "activities": 10,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 5,
+          "title": "将杀！赢下棋局",
+          "activityPattern": [],
+          "activities": 10,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 6,
+          "title": "实战完整对局",
+          "activityPattern": [],
+          "activities": 10,
+          "estimated": true
+        }
+      ]
+    },
+    {
+      "sectionIndex": 2,
+      "unitCount": 26,
+      "title": "ELO 500:",
+      "rawTitle": "ELO 500:",
+      "cefr": "",
+      "units": [
+        {
+          "sectionIndex": 2,
+          "unitIndex": 1,
+          "title": "棋子价值和吃子",
+          "activityPattern": [],
+          "activities": 10,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "安全格和攻击",
+          "activityPattern": [],
+          "activities": 10,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 3,
+          "title": "开局原则",
+          "activityPattern": [],
+          "activities": 10,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 4,
+          "title": "保护你的棋子",
+          "activityPattern": [],
+          "activities": 10,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 5,
+          "title": "后将杀与梯子杀",
+          "activityPattern": [],
+          "activities": 10,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 6,
+          "title": "意大利开局",
+          "activityPattern": [],
+          "activities": 10,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 7,
+          "title": "交换",
+          "activityPattern": [],
+          "activities": 10,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 8,
+          "title": "兵的规则和兵竞速",
+          "activityPattern": [],
+          "activities": 10,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 9,
+          "title": "捉双",
+          "activityPattern": [],
+          "activities": 10,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 10,
+          "title": "将杀模式",
+          "activityPattern": [],
+          "activities": 10,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 11,
+          "title": "绝对牵制",
+          "activityPattern": [],
+          "activities": 10,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 12,
+          "title": "开局后的规划",
+          "activityPattern": [],
+          "activities": 10,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 13,
+          "title": "继续开局",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 14,
+          "title": "相对牵制",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 15,
+          "title": "串击",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 16,
+          "title": "弃子",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 17,
+          "title": "闪击",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 18,
+          "title": "后退走法",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 19,
+          "title": "活跃棋子",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 20,
+          "title": "叠子",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 21,
+          "title": "完成开局",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 22,
+          "title": "评估吃子",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 23,
+          "title": "寻找机会",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 24,
+          "title": "识别战术",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 25,
+          "title": "防止将死",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 26,
+          "title": "双将",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        }
+      ]
+    },
+    {
+      "sectionIndex": 3,
+      "unitCount": 24,
+      "title": "ELO 800:",
+      "rawTitle": "ELO 800:",
+      "cefr": "",
+      "units": [
+        {
+          "sectionIndex": 3,
+          "unitIndex": 1,
+          "title": "兵马捉双",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 2,
+          "title": "应对将军",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "阻碍易位的因素",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 4,
+          "title": "在对局中运用牵制",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 5,
+          "title": "兵要下得有效",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 6,
+          "title": "基本将杀",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 7,
+          "title": "逼和陷阱",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 8,
+          "title": "攻击防守者",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 9,
+          "title": "移动或吃子避免将杀",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 10,
+          "title": "防守或垫将",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 11,
+          "title": "兵型",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 12,
+          "title": "预防捉双",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 13,
+          "title": "解开牵制",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 14,
+          "title": "强制着法",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 15,
+          "title": "闪将和闪击",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 16,
+          "title": "弱点",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 17,
+          "title": "开放和半开放竖线",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 18,
+          "title": "布局马和象",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 19,
+          "title": "利用你的后",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 20,
+          "title": "兵力优势和升变",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 21,
+          "title": "对王",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 22,
+          "title": "车对后",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 23,
+          "title": "象和马被困住了",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 24,
+          "title": "后对易位王的将杀",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        }
+      ]
+    },
+    {
+      "sectionIndex": 4,
+      "unitCount": 24,
+      "title": "ELO 1000:",
+      "rawTitle": "ELO 1000:",
+      "cefr": "",
+      "units": [
+        {
+          "sectionIndex": 4,
+          "unitIndex": 1,
+          "title": "干扰",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 2,
+          "title": "高级牵制",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 3,
+          "title": "吃子顺序",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "棋盘视野",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "引离",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "掌握常见残局",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "防御战略",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "吸引",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 9,
+          "title": "防止将杀",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 10,
+          "title": "先头兵",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 11,
+          "title": "规划将杀",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 12,
+          "title": "迫移",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 13,
+          "title": "直线和横线攻击",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 14,
+          "title": "将杀网",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 15,
+          "title": "计划牺牲",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 16,
+          "title": "弱兵",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 17,
+          "title": "和局",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 18,
+          "title": "底线将杀",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 19,
+          "title": "斜线攻击",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 20,
+          "title": "优势",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 21,
+          "title": "被困棋子",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 22,
+          "title": "兵升变",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 23,
+          "title": "清空",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 24,
+          "title": "识别战术",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        }
+      ]
+    },
+    {
+      "sectionIndex": 5,
+      "unitCount": 24,
+      "title": "ELO 1100:",
+      "rawTitle": "ELO 1100:",
+      "cefr": "",
+      "units": [
+        {
+          "sectionIndex": 5,
+          "unitIndex": 1,
+          "title": "双象将杀",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 2,
+          "title": "推进及阻拦通路兵。",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 3,
+          "title": "弃子赢局",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 4,
+          "title": "决定何时交易",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "开局运用战术",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 6,
+          "title": "马杀",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 7,
+          "title": "提升你对国际象棋中车和后的运用技巧",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 8,
+          "title": "把车和后叠在一起",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 9,
+          "title": "让你的兵冲刺实现升变",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 10,
+          "title": "占据对峙",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 11,
+          "title": "提高马和象的技巧",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 12,
+          "title": "用车与象将杀",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 13,
+          "title": "发现将军",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 14,
+          "title": "双象联合攻击",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 15,
+          "title": "兵力",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 16,
+          "title": "后象将杀",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 17,
+          "title": "用后捉双",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 18,
+          "title": "肩冲和迫移",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 19,
+          "title": "用车将杀",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 20,
+          "title": "入侵兵所在的横线",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 21,
+          "title": "攻击对方的王并保护己方的王",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 22,
+          "title": "用车和马将杀",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 23,
+          "title": "干扰和过渡着",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 24,
+          "title": "用轻子将杀",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        }
+      ]
+    },
+    {
+      "sectionIndex": 6,
+      "unitCount": 48,
+      "title": "ELO 1200:",
+      "rawTitle": "ELO 1200:",
+      "cefr": "",
+      "units": [
+        {
+          "sectionIndex": 6,
+          "unitIndex": 1,
+          "title": "过载",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 2,
+          "title": "王车易位战略",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 3,
+          "title": "后将杀",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 4,
+          "title": "反击",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 5,
+          "title": "双重攻击",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "开局兵的攻击",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 7,
+          "title": "王在残局中的活动",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 8,
+          "title": "摆脱捉双",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 9,
+          "title": "兵型",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 10,
+          "title": "兵的固定和突破",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 11,
+          "title": "马象交换",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 12,
+          "title": "计算吃子",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 13,
+          "title": "马将杀",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 14,
+          "title": "看似受保护的棋子",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 15,
+          "title": "建立哨站",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 16,
+          "title": "中间着法",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 17,
+          "title": "升变战术",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 18,
+          "title": "高级弃子",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 19,
+          "title": "暴露敌方的王",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 20,
+          "title": "主动确保王的安全",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 21,
+          "title": "马兵残局",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 22,
+          "title": "发现对手的威胁",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 23,
+          "title": "高级将杀识别能力",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 24,
+          "title": "战术性将杀威胁",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 25,
+          "title": "串击",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 26,
+          "title": "后退走法",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 27,
+          "title": "马象捉双",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 28,
+          "title": "牵制",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 29,
+          "title": "解开牵制",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 30,
+          "title": "后象将杀",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 31,
+          "title": "过载",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 32,
+          "title": "歌剧院将杀",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 33,
+          "title": "预防王车易位",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 34,
+          "title": "带将军的过渡着",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 35,
+          "title": "钩子将杀",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 36,
+          "title": "阻止有名字的将杀",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 37,
+          "title": "后与车捉双",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 38,
+          "title": "用闪将赢得子力",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 39,
+          "title": "避免闪将",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 40,
+          "title": "兵与王的捉双",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 41,
+          "title": "预防捉双",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 42,
+          "title": "用闪击赢子力",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 43,
+          "title": "通过吸引使出捉双 I",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 44,
+          "title": "通过引离战术赢得子力（一）",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 45,
+          "title": "利用牵制施压",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 46,
+          "title": "干扰",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 47,
+          "title": "迫移",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 48,
+          "title": "洛利将杀",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        }
+      ]
+    },
+    {
+      "sectionIndex": 7,
+      "unitCount": 48,
+      "title": "ELO 1500:",
+      "rawTitle": "ELO 1500:",
+      "cefr": "",
+      "units": [
+        {
+          "sectionIndex": 7,
+          "unitIndex": 1,
+          "title": "被困棋子（一）",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 2,
+          "title": "弃子将杀（一）",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 3,
+          "title": "闪将式双将（一）",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 4,
+          "title": "用于升变的引离战术",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 5,
+          "title": "破坏兵形",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 6,
+          "title": "用吸引使出捉双（二）",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "防止对手一步将杀",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 8,
+          "title": "将军还是将杀？",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 9,
+          "title": "用于将杀的吸引",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 10,
+          "title": "叠子",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 11,
+          "title": "墨菲将杀",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 12,
+          "title": "双重攻击",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 13,
+          "title": "用闪将将杀",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 14,
+          "title": "牵制将杀",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 15,
+          "title": "从远处阻止对手的将杀",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 16,
+          "title": "清空",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 17,
+          "title": "车马将杀",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 18,
+          "title": "弱兵",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 19,
+          "title": "单车将杀",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 20,
+          "title": "阻止两步将杀（一）",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 21,
+          "title": "象马将杀法",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 22,
+          "title": "双车绞杀",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 23,
+          "title": "追上通路兵",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 24,
+          "title": "叠子将杀",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 25,
+          "title": "用引离战术赢得子力（二）",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 26,
+          "title": "弃子将杀（二）",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 27,
+          "title": "防两步将杀（二）",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 28,
+          "title": "将杀用的引离战术",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 29,
+          "title": "借助象的将杀",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 30,
+          "title": "闪将式双将（二）",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 31,
+          "title": "肩章将杀",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 32,
+          "title": "暴露王的位置",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 33,
+          "title": "格列柯将杀",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 34,
+          "title": "推广",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 35,
+          "title": "平行双象将杀",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 36,
+          "title": "吸引串击",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 37,
+          "title": "波登将杀",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 38,
+          "title": "被困棋子（二）",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 39,
+          "title": "窒息将杀",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 40,
+          "title": "贴身后将杀",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 41,
+          "title": "兑子中的弃子",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 42,
+          "title": "鸽尾将杀",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 43,
+          "title": "后马将杀",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 44,
+          "title": "残局中的捉双",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 45,
+          "title": "三步将杀（一）",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 46,
+          "title": "为升变而捉双",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 47,
+          "title": "三步将杀（二）",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 48,
+          "title": "升变捉双",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        }
+      ]
+    }
+  ]
+}

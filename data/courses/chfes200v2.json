@@ -1,0 +1,1706 @@
+{
+  "meta": {
+    "key": "chfes200v2",
+    "courseTitle": "Spanish → Ch",
+    "scrapedAt": "2026-11-15T19:42:33.483Z",
+    "sourceHash": "sha256:704baead218fcfae",
+    "fromLang": "Spanish",
+    "toLang": "Ch",
+    "fromCode": "es",
+    "toCode": "ch",
+    "level": null,
+    "levelShort": null,
+    "detailHref": "https://duolingodata.com/dat/chfes200v2.html",
+    "parserVersion": 4,
+    "indexUnitsCount": 200,
+    "indexLessonsCount": 1818,
+    "sourceSectionCounts": [
+      6,
+      26,
+      24,
+      24,
+      24,
+      48,
+      48
+    ],
+    "detailHrefHash": "sha256:8617d64140b796d6",
+    "scrapeWarnings": [
+      "Section sizes aligned with current course summary",
+      "Section 6 has missing unit details",
+      "Section 7 has missing unit details",
+      "Per-unit lesson counts estimated from course total"
+    ],
+    "schemaVersion": "2.0.0"
+  },
+  "totals": {
+    "sections": 7,
+    "activities": 1818,
+    "units": 200,
+    "estimated": true
+  },
+  "sections": [
+    {
+      "sectionIndex": 1,
+      "unitCount": 6,
+      "title": "ELO 200:",
+      "rawTitle": "ELO 200:",
+      "cefr": "",
+      "units": [
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Mueve tus piezas",
+          "activityPattern": [],
+          "activities": 10,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 2,
+          "title": "Captura y ataca piezas",
+          "activityPattern": [],
+          "activities": 10,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 3,
+          "title": "Defiende tus piezas",
+          "activityPattern": [],
+          "activities": 10,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 4,
+          "title": "¡Jaque! Ataca al rey",
+          "activityPattern": [],
+          "activities": 10,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 5,
+          "title": "¡Jaque mate! Gana la partida",
+          "activityPattern": [],
+          "activities": 10,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 6,
+          "title": "Juega una partida completa",
+          "activityPattern": [],
+          "activities": 10,
+          "estimated": true
+        }
+      ]
+    },
+    {
+      "sectionIndex": 2,
+      "unitCount": 26,
+      "title": "ELO 500:",
+      "rawTitle": "ELO 500:",
+      "cefr": "",
+      "units": [
+        {
+          "sectionIndex": 2,
+          "unitIndex": 1,
+          "title": "Valor de piezas y capturas",
+          "activityPattern": [],
+          "activities": 10,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Casillas seguras y ataques seguros",
+          "activityPattern": [],
+          "activities": 10,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 3,
+          "title": "Principios de apertura",
+          "activityPattern": [],
+          "activities": 10,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 4,
+          "title": "Defiende tus piezas",
+          "activityPattern": [],
+          "activities": 10,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 5,
+          "title": "Reina y mates de escalera",
+          "activityPattern": [],
+          "activities": 10,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 6,
+          "title": "La apertura italiana",
+          "activityPattern": [],
+          "activities": 10,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 7,
+          "title": "Intercambios",
+          "activityPattern": [],
+          "activities": 10,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 8,
+          "title": "Reglas del peón y carreras de peones",
+          "activityPattern": [],
+          "activities": 10,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 9,
+          "title": "Tenedores",
+          "activityPattern": [],
+          "activities": 10,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 10,
+          "title": "Patrones de mate",
+          "activityPattern": [],
+          "activities": 10,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 11,
+          "title": "Clavadas absolutas",
+          "activityPattern": [],
+          "activities": 10,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 12,
+          "title": "Planes después de la apertura",
+          "activityPattern": [],
+          "activities": 10,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 13,
+          "title": "Continuando la apertura",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 14,
+          "title": "Clavadas relativas",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 15,
+          "title": "Enfiladas",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 16,
+          "title": "Sacrificio",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 17,
+          "title": "Ataques a la descubierta",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 18,
+          "title": "Movimientos hacia atrás",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 19,
+          "title": "Piezas felices",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 20,
+          "title": "Batería",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 21,
+          "title": "Completar la apertura",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 22,
+          "title": "Evaluar capturas",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 23,
+          "title": "Encontrar oportunidades",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 24,
+          "title": "Detección de tácticas",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 25,
+          "title": "Defenderse contra el mate",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 26,
+          "title": "Doble jaque",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        }
+      ]
+    },
+    {
+      "sectionIndex": 3,
+      "unitCount": 24,
+      "title": "ELO 800:",
+      "rawTitle": "ELO 800:",
+      "cefr": "",
+      "units": [
+        {
+          "sectionIndex": 3,
+          "unitIndex": 1,
+          "title": "Tenedores de peón y caballo",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 2,
+          "title": "Responder a los jaques",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Obstáculos para el enroque",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 4,
+          "title": "Usar clavadas en una partida",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 5,
+          "title": "Juego efectivo de peones",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 6,
+          "title": "Mates esenciales",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 7,
+          "title": "Trampas de rey ahogado",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 8,
+          "title": "Atacar defensores",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 9,
+          "title": "Mueve o captura para evitar el mate",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 10,
+          "title": "Defiende o bloquea el mate",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 11,
+          "title": "Estructura de peones",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 12,
+          "title": "Prevención de tenedores",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 13,
+          "title": "Escapar de clavadas",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 14,
+          "title": "Jugadas forzadas",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 15,
+          "title": "Jaques y ataques descubiertos",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 16,
+          "title": "Debilidades",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 17,
+          "title": "Columnas abiertas y semiabiertas",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 18,
+          "title": "Ubicación de caballos y alfiles",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 19,
+          "title": "Usar a tu reina",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 20,
+          "title": "Mayorías de peones y coronación",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 21,
+          "title": "Oposición",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 22,
+          "title": "Torres contra reinas",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 23,
+          "title": "Alfiles y caballos atrapados",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 24,
+          "title": "Mates de la reina contra el rey enrocado",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        }
+      ]
+    },
+    {
+      "sectionIndex": 4,
+      "unitCount": 24,
+      "title": "ELO 1000:",
+      "rawTitle": "ELO 1000:",
+      "cefr": "",
+      "units": [
+        {
+          "sectionIndex": 4,
+          "unitIndex": 1,
+          "title": "Interferencia",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 2,
+          "title": "Clavadas avanzadas",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 3,
+          "title": "Orden de capturas",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Visión del tablero",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "Desviación",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "Dominando los finales comunes",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "Estrategia para defender",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "Atracción",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 9,
+          "title": "prevenir jaque mate",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 10,
+          "title": "Peones avanzados",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 11,
+          "title": "Planificar jaques mate",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 12,
+          "title": "Zugzwang",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 13,
+          "title": "Ataques de columna y de fila",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 14,
+          "title": "Redes de mate",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 15,
+          "title": "Planificando sacrificios",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 16,
+          "title": "Peones débiles",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 17,
+          "title": "TABLAS",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 18,
+          "title": "Mates en la última fila",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 19,
+          "title": "Ataques diagonales",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 20,
+          "title": "Ventajas",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 21,
+          "title": "Piezas atrapadas",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 22,
+          "title": "Coronación de peones",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 23,
+          "title": "despeje",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 24,
+          "title": "Detección de tácticas",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        }
+      ]
+    },
+    {
+      "sectionIndex": 5,
+      "unitCount": 24,
+      "title": "ELO 1100:",
+      "rawTitle": "ELO 1100:",
+      "cefr": "",
+      "units": [
+        {
+          "sectionIndex": 5,
+          "unitIndex": 1,
+          "title": "Da mate con la pareja de alfiles",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 2,
+          "title": "Avanza y detén peones pasados",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 3,
+          "title": "Sacrifica para la victoria",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 4,
+          "title": "Decide cuándo operar",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Usa tácticas en la apertura",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 6,
+          "title": "Mates con caballo",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 7,
+          "title": "Mejora tus torres y tu reina",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 8,
+          "title": "Apila torres y reinas",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 9,
+          "title": "Apresura la coronación de tus peones",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 10,
+          "title": "Capturar a la oposición",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 11,
+          "title": "Mejora caballos y alfiles",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 12,
+          "title": "Dar jaque mate con torre y alfil",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 13,
+          "title": "Descubre dar jaque",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 14,
+          "title": "Ataca con tus alfiles",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 15,
+          "title": "Poder de peones",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 16,
+          "title": "Mates con la reina y el alfil",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 17,
+          "title": "Haz un tenedor con tu reina",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 18,
+          "title": "Hombro a hombro y zugzwang",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 19,
+          "title": "Dar jaque mate con torre",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 20,
+          "title": "Invadir la fila de peones",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 21,
+          "title": "Ataca y defiende al rey",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 22,
+          "title": "Dar jaque mate con torre y caballo",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 23,
+          "title": "Interferencia y jugada intermedia",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 24,
+          "title": "Dar jaque mate con piezas menores",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        }
+      ]
+    },
+    {
+      "sectionIndex": 6,
+      "unitCount": 48,
+      "title": "ELO 1200",
+      "rawTitle": "ELO 1200",
+      "cefr": "",
+      "units": [
+        {
+          "sectionIndex": 6,
+          "unitIndex": 1,
+          "title": "Unit 1 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 2,
+          "title": "Unit 2 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 3,
+          "title": "Unit 3 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 4,
+          "title": "Unit 4 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 5,
+          "title": "Unit 5 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Unit 6 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 7,
+          "title": "Unit 7 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 8,
+          "title": "Unit 8 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 9,
+          "title": "Unit 9 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 10,
+          "title": "Unit 10 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 11,
+          "title": "Unit 11 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 12,
+          "title": "Unit 12 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 13,
+          "title": "Unit 13 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 14,
+          "title": "Unit 14 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 15,
+          "title": "Unit 15 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 16,
+          "title": "Unit 16 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 17,
+          "title": "Unit 17 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 18,
+          "title": "Unit 18 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 19,
+          "title": "Unit 19 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 20,
+          "title": "Unit 20 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 21,
+          "title": "Unit 21 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 22,
+          "title": "Unit 22 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 23,
+          "title": "Unit 23 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 24,
+          "title": "Unit 24 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 25,
+          "title": "Unit 25 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 26,
+          "title": "Unit 26 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 27,
+          "title": "Unit 27 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 28,
+          "title": "Unit 28 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 29,
+          "title": "Unit 29 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 30,
+          "title": "Unit 30 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 31,
+          "title": "Unit 31 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 32,
+          "title": "Unit 32 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 33,
+          "title": "Unit 33 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 34,
+          "title": "Unit 34 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 35,
+          "title": "Unit 35 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 36,
+          "title": "Unit 36 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 37,
+          "title": "Unit 37 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 38,
+          "title": "Unit 38 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 39,
+          "title": "Unit 39 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 40,
+          "title": "Unit 40 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 41,
+          "title": "Unit 41 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 42,
+          "title": "Unit 42 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 43,
+          "title": "Unit 43 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 44,
+          "title": "Unit 44 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 45,
+          "title": "Unit 45 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 46,
+          "title": "Unit 46 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 47,
+          "title": "Unit 47 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 48,
+          "title": "Unit 48 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        }
+      ]
+    },
+    {
+      "sectionIndex": 7,
+      "unitCount": 48,
+      "title": "ELO 1500",
+      "rawTitle": "ELO 1500",
+      "cefr": "",
+      "units": [
+        {
+          "sectionIndex": 7,
+          "unitIndex": 1,
+          "title": "Unit 1 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 2,
+          "title": "Unit 2 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 3,
+          "title": "Unit 3 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 4,
+          "title": "Unit 4 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 5,
+          "title": "Unit 5 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 6,
+          "title": "Unit 6 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Unit 7 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 8,
+          "title": "Unit 8 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 9,
+          "title": "Unit 9 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 10,
+          "title": "Unit 10 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 11,
+          "title": "Unit 11 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 12,
+          "title": "Unit 12 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 13,
+          "title": "Unit 13 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 14,
+          "title": "Unit 14 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 15,
+          "title": "Unit 15 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 16,
+          "title": "Unit 16 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 17,
+          "title": "Unit 17 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 18,
+          "title": "Unit 18 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 19,
+          "title": "Unit 19 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 20,
+          "title": "Unit 20 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 21,
+          "title": "Unit 21 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 22,
+          "title": "Unit 22 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 23,
+          "title": "Unit 23 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 24,
+          "title": "Unit 24 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 25,
+          "title": "Unit 25 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 26,
+          "title": "Unit 26 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 27,
+          "title": "Unit 27 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 28,
+          "title": "Unit 28 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 29,
+          "title": "Unit 29 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 30,
+          "title": "Unit 30 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 31,
+          "title": "Unit 31 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 32,
+          "title": "Unit 32 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 33,
+          "title": "Unit 33 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 34,
+          "title": "Unit 34 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 35,
+          "title": "Unit 35 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 36,
+          "title": "Unit 36 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 37,
+          "title": "Unit 37 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 38,
+          "title": "Unit 38 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 39,
+          "title": "Unit 39 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 40,
+          "title": "Unit 40 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 41,
+          "title": "Unit 41 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 42,
+          "title": "Unit 42 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 43,
+          "title": "Unit 43 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 44,
+          "title": "Unit 44 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 45,
+          "title": "Unit 45 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 46,
+          "title": "Unit 46 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 47,
+          "title": "Unit 47 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 48,
+          "title": "Unit 48 (details unavailable)",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        }
+      ]
+    }
+  ]
+}

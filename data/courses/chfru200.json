@@ -1,19 +1,19 @@
 {
   "meta": {
-    "key": "chfen200",
-    "courseTitle": "English → Ch",
-    "scrapedAt": "2026-11-08T09:54:29.840Z",
-    "sourceHash": "sha256:e6f5e94845030cdd",
-    "fromLang": "English",
+    "key": "chfru200",
+    "courseTitle": "Russian → Ch",
+    "scrapedAt": "2026-11-15T19:42:33.483Z",
+    "sourceHash": "sha256:fd54b9bf44d7029c",
+    "fromLang": "Russian",
     "toLang": "Ch",
-    "fromCode": "en",
+    "fromCode": "ru",
     "toCode": "ch",
     "level": null,
     "levelShort": null,
-    "detailHref": "https://duolingodata.com/dat/chfen200.html",
+    "detailHref": "https://duolingodata.com/dat/chfru200.html",
     "parserVersion": 4,
     "indexUnitsCount": 200,
-    "indexLessonsCount": 1845,
+    "indexLessonsCount": 1818,
     "sourceSectionCounts": [
       6,
       26,
@@ -23,7 +23,7 @@
       48,
       48
     ],
-    "detailHrefHash": "sha256:52492d11a6e5e6d5",
+    "detailHrefHash": "sha256:bab240c85c11ea0a",
     "scrapeWarnings": [
       "Section sizes aligned with current course summary",
       "Per-unit lesson counts estimated from course total"
@@ -32,7 +32,7 @@
   },
   "totals": {
     "sections": 7,
-    "activities": 1845,
+    "activities": 1818,
     "units": 200,
     "estimated": true
   },
@@ -47,7 +47,7 @@
         {
           "sectionIndex": 1,
           "unitIndex": 1,
-          "title": "Move your pieces",
+          "title": "Ходы фигур",
           "activityPattern": [],
           "activities": 10,
           "estimated": true
@@ -55,7 +55,7 @@
         {
           "sectionIndex": 1,
           "unitIndex": 2,
-          "title": "Capture and attack pieces",
+          "title": "Возьмите и атакуйте фигуры",
           "activityPattern": [],
           "activities": 10,
           "estimated": true
@@ -63,7 +63,7 @@
         {
           "sectionIndex": 1,
           "unitIndex": 3,
-          "title": "Defend your pieces",
+          "title": "Защита фигур",
           "activityPattern": [],
           "activities": 10,
           "estimated": true
@@ -71,7 +71,7 @@
         {
           "sectionIndex": 1,
           "unitIndex": 4,
-          "title": "Check! Attack the king",
+          "title": "Шах! Атакуйте короля.",
           "activityPattern": [],
           "activities": 10,
           "estimated": true
@@ -79,7 +79,7 @@
         {
           "sectionIndex": 1,
           "unitIndex": 5,
-          "title": "Checkmate! Win the game",
+          "title": "Мат! Выиграйте партию.",
           "activityPattern": [],
           "activities": 10,
           "estimated": true
@@ -87,7 +87,7 @@
         {
           "sectionIndex": 1,
           "unitIndex": 6,
-          "title": "Play a full match",
+          "title": "Сыграйте полную партию",
           "activityPattern": [],
           "activities": 10,
           "estimated": true
@@ -104,7 +104,7 @@
         {
           "sectionIndex": 2,
           "unitIndex": 1,
-          "title": "Piece value and captures",
+          "title": "Ценность фигур и взятия",
           "activityPattern": [],
           "activities": 10,
           "estimated": true
@@ -112,7 +112,7 @@
         {
           "sectionIndex": 2,
           "unitIndex": 2,
-          "title": "Safe squares and attacks",
+          "title": "Безопасные поля и атаки",
           "activityPattern": [],
           "activities": 10,
           "estimated": true
@@ -120,7 +120,7 @@
         {
           "sectionIndex": 2,
           "unitIndex": 3,
-          "title": "Opening principles",
+          "title": "Принципы дебюта",
           "activityPattern": [],
           "activities": 10,
           "estimated": true
@@ -128,7 +128,7 @@
         {
           "sectionIndex": 2,
           "unitIndex": 4,
-          "title": "Defend your pieces",
+          "title": "Защита фигур",
           "activityPattern": [],
           "activities": 10,
           "estimated": true
@@ -136,7 +136,7 @@
         {
           "sectionIndex": 2,
           "unitIndex": 5,
-          "title": "Queen and ladder mates",
+          "title": "Мат ферзём и мат «лесенкой»",
           "activityPattern": [],
           "activities": 10,
           "estimated": true
@@ -144,7 +144,7 @@
         {
           "sectionIndex": 2,
           "unitIndex": 6,
-          "title": "The Italian Game",
+          "title": "Итальянская партия",
           "activityPattern": [],
           "activities": 10,
           "estimated": true
@@ -152,7 +152,7 @@
         {
           "sectionIndex": 2,
           "unitIndex": 7,
-          "title": "Exchanges",
+          "title": "Размены",
           "activityPattern": [],
           "activities": 10,
           "estimated": true
@@ -160,7 +160,7 @@
         {
           "sectionIndex": 2,
           "unitIndex": 8,
-          "title": "Pawn rules and races",
+          "title": "Правила для пешек и пешечные гонки",
           "activityPattern": [],
           "activities": 10,
           "estimated": true
@@ -168,7 +168,7 @@
         {
           "sectionIndex": 2,
           "unitIndex": 9,
-          "title": "Forks",
+          "title": "Вилки",
           "activityPattern": [],
           "activities": 10,
           "estimated": true
@@ -176,7 +176,7 @@
         {
           "sectionIndex": 2,
           "unitIndex": 10,
-          "title": "Mate patterns",
+          "title": "Матовые схемы",
           "activityPattern": [],
           "activities": 10,
           "estimated": true
@@ -184,7 +184,7 @@
         {
           "sectionIndex": 2,
           "unitIndex": 11,
-          "title": "Absolute pins",
+          "title": "Абсолютные связки",
           "activityPattern": [],
           "activities": 10,
           "estimated": true
@@ -192,7 +192,7 @@
         {
           "sectionIndex": 2,
           "unitIndex": 12,
-          "title": "Plans after the opening",
+          "title": "План игры после дебюта",
           "activityPattern": [],
           "activities": 10,
           "estimated": true
@@ -200,113 +200,113 @@
         {
           "sectionIndex": 2,
           "unitIndex": 13,
-          "title": "Continuing the opening",
+          "title": "Продолжайте дебют",
           "activityPattern": [],
-          "activities": 10,
+          "activities": 9,
           "estimated": true
         },
         {
           "sectionIndex": 2,
           "unitIndex": 14,
-          "title": "Relative pins",
+          "title": "Относительные связки",
           "activityPattern": [],
-          "activities": 10,
+          "activities": 9,
           "estimated": true
         },
         {
           "sectionIndex": 2,
           "unitIndex": 15,
-          "title": "Skewers",
+          "title": "Линейные удары",
           "activityPattern": [],
-          "activities": 10,
+          "activities": 9,
           "estimated": true
         },
         {
           "sectionIndex": 2,
           "unitIndex": 16,
-          "title": "Sacrifice",
+          "title": "Пожертвовать",
           "activityPattern": [],
-          "activities": 10,
+          "activities": 9,
           "estimated": true
         },
         {
           "sectionIndex": 2,
           "unitIndex": 17,
-          "title": "Discovered attacks",
+          "title": "Вскрытые нападения",
           "activityPattern": [],
-          "activities": 10,
+          "activities": 9,
           "estimated": true
         },
         {
           "sectionIndex": 2,
           "unitIndex": 18,
-          "title": "Backward moves",
+          "title": "Ходы назад",
           "activityPattern": [],
-          "activities": 10,
+          "activities": 9,
           "estimated": true
         },
         {
           "sectionIndex": 2,
           "unitIndex": 19,
-          "title": "Happy pieces",
+          "title": "Фигуры в выгодной позиции",
           "activityPattern": [],
-          "activities": 10,
+          "activities": 9,
           "estimated": true
         },
         {
           "sectionIndex": 2,
           "unitIndex": 20,
-          "title": "Battery",
+          "title": "батарея",
           "activityPattern": [],
-          "activities": 10,
+          "activities": 9,
           "estimated": true
         },
         {
           "sectionIndex": 2,
           "unitIndex": 21,
-          "title": "Finishing the opening",
+          "title": "Завершение дебюта",
           "activityPattern": [],
-          "activities": 10,
+          "activities": 9,
           "estimated": true
         },
         {
           "sectionIndex": 2,
           "unitIndex": 22,
-          "title": "Evaluate captures",
+          "title": "Анализ взятий",
           "activityPattern": [],
-          "activities": 10,
+          "activities": 9,
           "estimated": true
         },
         {
           "sectionIndex": 2,
           "unitIndex": 23,
-          "title": "Finding opportunities",
+          "title": "Поиск возможностей",
           "activityPattern": [],
-          "activities": 10,
+          "activities": 9,
           "estimated": true
         },
         {
           "sectionIndex": 2,
           "unitIndex": 24,
-          "title": "Spotting tactics",
+          "title": "Распознавание тактики",
           "activityPattern": [],
-          "activities": 10,
+          "activities": 9,
           "estimated": true
         },
         {
           "sectionIndex": 2,
           "unitIndex": 25,
-          "title": "Defending against mate",
+          "title": "Защита от мата",
           "activityPattern": [],
-          "activities": 10,
+          "activities": 9,
           "estimated": true
         },
         {
           "sectionIndex": 2,
           "unitIndex": 26,
-          "title": "Double check",
+          "title": "Двойной шах",
           "activityPattern": [],
-          "activities": 10,
+          "activities": 9,
           "estimated": true
         }
       ]
@@ -321,111 +321,111 @@
         {
           "sectionIndex": 3,
           "unitIndex": 1,
-          "title": "Using pins in a game",
+          "title": "Вилки пешкой и конём",
           "activityPattern": [],
-          "activities": 10,
+          "activities": 9,
           "estimated": true
         },
         {
           "sectionIndex": 3,
           "unitIndex": 2,
-          "title": "Knight and pawn forks",
+          "title": "Реагирование на шахи",
           "activityPattern": [],
-          "activities": 10,
+          "activities": 9,
           "estimated": true
         },
         {
           "sectionIndex": 3,
           "unitIndex": 3,
-          "title": "Responding to checks",
+          "title": "Препятствия для рокировки",
           "activityPattern": [],
-          "activities": 10,
+          "activities": 9,
           "estimated": true
         },
         {
           "sectionIndex": 3,
           "unitIndex": 4,
-          "title": "Obstacles to castling",
+          "title": "Использование связок в игре",
           "activityPattern": [],
-          "activities": 10,
+          "activities": 9,
           "estimated": true
         },
         {
           "sectionIndex": 3,
           "unitIndex": 5,
-          "title": "Effective pawn play",
+          "title": "Эффективная игра пешками",
           "activityPattern": [],
-          "activities": 10,
+          "activities": 9,
           "estimated": true
         },
         {
           "sectionIndex": 3,
           "unitIndex": 6,
-          "title": "Essential checkmates",
+          "title": "Основные маты",
           "activityPattern": [],
-          "activities": 10,
+          "activities": 9,
           "estimated": true
         },
         {
           "sectionIndex": 3,
           "unitIndex": 7,
-          "title": "Stalemate traps",
+          "title": "Патовые ловушки",
           "activityPattern": [],
-          "activities": 10,
+          "activities": 9,
           "estimated": true
         },
         {
           "sectionIndex": 3,
           "unitIndex": 8,
-          "title": "Attacking defenders",
+          "title": "Атака защитников",
           "activityPattern": [],
-          "activities": 10,
+          "activities": 9,
           "estimated": true
         },
         {
           "sectionIndex": 3,
           "unitIndex": 9,
-          "title": "Prevent mate—move or capture",
+          "title": "Ход или взятие для предотвращения мата",
           "activityPattern": [],
-          "activities": 10,
+          "activities": 9,
           "estimated": true
         },
         {
           "sectionIndex": 3,
           "unitIndex": 10,
-          "title": "Prevent mate—defend or block",
+          "title": "Мат: защититесь или перекройте",
           "activityPattern": [],
-          "activities": 10,
+          "activities": 9,
           "estimated": true
         },
         {
           "sectionIndex": 3,
           "unitIndex": 11,
-          "title": "Pawn structure",
+          "title": "Пешечная структура",
           "activityPattern": [],
-          "activities": 10,
+          "activities": 9,
           "estimated": true
         },
         {
           "sectionIndex": 3,
           "unitIndex": 12,
-          "title": "Preventing forks",
+          "title": "Предотвращение вилок",
           "activityPattern": [],
-          "activities": 10,
+          "activities": 9,
           "estimated": true
         },
         {
           "sectionIndex": 3,
           "unitIndex": 13,
-          "title": "Escaping pins",
+          "title": "Освобождение от связок",
           "activityPattern": [],
-          "activities": 10,
+          "activities": 9,
           "estimated": true
         },
         {
           "sectionIndex": 3,
           "unitIndex": 14,
-          "title": "Forcing moves",
+          "title": "Форсирующие ходы",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -433,7 +433,7 @@
         {
           "sectionIndex": 3,
           "unitIndex": 15,
-          "title": "Discovered checks and attacks",
+          "title": "Вскрытые шахи и нападения",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -441,7 +441,7 @@
         {
           "sectionIndex": 3,
           "unitIndex": 16,
-          "title": "Weaknesses",
+          "title": "Слабости",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -449,7 +449,7 @@
         {
           "sectionIndex": 3,
           "unitIndex": 17,
-          "title": "Open and semi-open files",
+          "title": "Открытые и полуоткрытые вертикали",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -457,7 +457,7 @@
         {
           "sectionIndex": 3,
           "unitIndex": 18,
-          "title": "Placing knights and bishops",
+          "title": "Расставьте коней и слонов",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -465,7 +465,7 @@
         {
           "sectionIndex": 3,
           "unitIndex": 19,
-          "title": "Using your queen",
+          "title": "Ферзь идет на помощь",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -473,7 +473,7 @@
         {
           "sectionIndex": 3,
           "unitIndex": 20,
-          "title": "Pawn majorities and promotion",
+          "title": "Пешечное большинство и превращение",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -481,7 +481,7 @@
         {
           "sectionIndex": 3,
           "unitIndex": 21,
-          "title": "Opposition",
+          "title": "Оппозиция",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -489,7 +489,7 @@
         {
           "sectionIndex": 3,
           "unitIndex": 22,
-          "title": "Rooks vs queens",
+          "title": "Ладьи против ферзей",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -497,7 +497,7 @@
         {
           "sectionIndex": 3,
           "unitIndex": 23,
-          "title": "Trapped bishops and knights",
+          "title": "Пойманные слоны и кони",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -505,7 +505,7 @@
         {
           "sectionIndex": 3,
           "unitIndex": 24,
-          "title": "Queen mates on a castled king",
+          "title": "Мат рокированному королю ферзём",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -522,7 +522,7 @@
         {
           "sectionIndex": 4,
           "unitIndex": 1,
-          "title": "Interference",
+          "title": "вмешательство",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -530,7 +530,7 @@
         {
           "sectionIndex": 4,
           "unitIndex": 2,
-          "title": "Advanced pins",
+          "title": "Продвинутые связки",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -538,7 +538,7 @@
         {
           "sectionIndex": 4,
           "unitIndex": 3,
-          "title": "Order of captures",
+          "title": "Порядок взятий",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -546,7 +546,7 @@
         {
           "sectionIndex": 4,
           "unitIndex": 4,
-          "title": "Board vision",
+          "title": "Видение шахматной доски",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -554,7 +554,7 @@
         {
           "sectionIndex": 4,
           "unitIndex": 5,
-          "title": "Deflection",
+          "title": "Отвлечение",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -562,7 +562,7 @@
         {
           "sectionIndex": 4,
           "unitIndex": 6,
-          "title": "Mastering common endgames",
+          "title": "Овладение основными эндшпилями",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -570,7 +570,7 @@
         {
           "sectionIndex": 4,
           "unitIndex": 7,
-          "title": "Defending strategy",
+          "title": "Стратегия защиты",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -578,7 +578,7 @@
         {
           "sectionIndex": 4,
           "unitIndex": 8,
-          "title": "Attraction",
+          "title": "Привлечение",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -586,7 +586,7 @@
         {
           "sectionIndex": 4,
           "unitIndex": 9,
-          "title": "Checkmate prevention",
+          "title": "Предотвращение мата",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -594,7 +594,7 @@
         {
           "sectionIndex": 4,
           "unitIndex": 10,
-          "title": "Advanced pawns",
+          "title": "Продвинутые пешки",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -602,7 +602,7 @@
         {
           "sectionIndex": 4,
           "unitIndex": 11,
-          "title": "Planning checkmates",
+          "title": "Планирование матов",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -610,7 +610,7 @@
         {
           "sectionIndex": 4,
           "unitIndex": 12,
-          "title": "Zugzwang",
+          "title": "Цугцванг",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -618,7 +618,7 @@
         {
           "sectionIndex": 4,
           "unitIndex": 13,
-          "title": "File and rank attacks",
+          "title": "Нападения по вертикалям и горизонталям",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -626,7 +626,7 @@
         {
           "sectionIndex": 4,
           "unitIndex": 14,
-          "title": "Mating nets",
+          "title": "Матовые сети",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -634,7 +634,7 @@
         {
           "sectionIndex": 4,
           "unitIndex": 15,
-          "title": "Planning sacrifices",
+          "title": "Планирование жертв",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -642,7 +642,7 @@
         {
           "sectionIndex": 4,
           "unitIndex": 16,
-          "title": "Weak pawns",
+          "title": "Слабые пешки",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -650,7 +650,7 @@
         {
           "sectionIndex": 4,
           "unitIndex": 17,
-          "title": "Draws",
+          "title": "НИЧЬИ",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -658,7 +658,7 @@
         {
           "sectionIndex": 4,
           "unitIndex": 18,
-          "title": "Back-rank mates",
+          "title": "Маты по последней горизонтали",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -666,7 +666,7 @@
         {
           "sectionIndex": 4,
           "unitIndex": 19,
-          "title": "Diagonal attacks",
+          "title": "Диагональные атаки",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -674,7 +674,7 @@
         {
           "sectionIndex": 4,
           "unitIndex": 20,
-          "title": "Advantages",
+          "title": "Преимущества",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -682,7 +682,7 @@
         {
           "sectionIndex": 4,
           "unitIndex": 21,
-          "title": "Trapped pieces",
+          "title": "Попавшие в ловушку фигуры",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -690,7 +690,7 @@
         {
           "sectionIndex": 4,
           "unitIndex": 22,
-          "title": "Promoting pawns",
+          "title": "Превращение пешек",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -698,7 +698,7 @@
         {
           "sectionIndex": 4,
           "unitIndex": 23,
-          "title": "Clearance",
+          "title": "освобождение",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -706,7 +706,7 @@
         {
           "sectionIndex": 4,
           "unitIndex": 24,
-          "title": "Spotting tactics",
+          "title": "Распознавание тактики",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -723,7 +723,7 @@
         {
           "sectionIndex": 5,
           "unitIndex": 1,
-          "title": "Opposition",
+          "title": "Мат двумя слонами",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -731,7 +731,7 @@
         {
           "sectionIndex": 5,
           "unitIndex": 2,
-          "title": "Discovered checks",
+          "title": "Продвигайте и останавливайте проходные пешки",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -739,7 +739,7 @@
         {
           "sectionIndex": 5,
           "unitIndex": 3,
-          "title": "Knight mates",
+          "title": "Жертва ради победы",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -747,7 +747,7 @@
         {
           "sectionIndex": 5,
           "unitIndex": 4,
-          "title": "Doubling rooks and Alekhine's gun",
+          "title": "Определяйте, когда торговать",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -755,7 +755,7 @@
         {
           "sectionIndex": 5,
           "unitIndex": 5,
-          "title": "Sacrifices",
+          "title": "Используйте тактические приёмы в дебюте",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -763,7 +763,7 @@
         {
           "sectionIndex": 5,
           "unitIndex": 6,
-          "title": "Passed pawns",
+          "title": "Мат конём",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -771,7 +771,7 @@
         {
           "sectionIndex": 5,
           "unitIndex": 7,
-          "title": "Improving your pieces",
+          "title": "Улучшите игру ладьями и ферзём",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -779,7 +779,7 @@
         {
           "sectionIndex": 5,
           "unitIndex": 8,
-          "title": "Early game tactics",
+          "title": "Ставьте ладьи и ферзи в одну линию",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -787,7 +787,7 @@
         {
           "sectionIndex": 5,
           "unitIndex": 9,
-          "title": "Improving your rooks and queen",
+          "title": "Гоните свои пешки к превращению",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -795,7 +795,7 @@
         {
           "sectionIndex": 5,
           "unitIndex": 10,
-          "title": "Rook and bishop mates",
+          "title": "Возьмите оппозицию",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -803,7 +803,7 @@
         {
           "sectionIndex": 5,
           "unitIndex": 11,
-          "title": "Pawn races and breakthroughs",
+          "title": "Улучшите коней и слонов",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -811,7 +811,7 @@
         {
           "sectionIndex": 5,
           "unitIndex": 12,
-          "title": "Knowing when to trade",
+          "title": "Поставить мат ладьёй и слоном",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -819,7 +819,7 @@
         {
           "sectionIndex": 5,
           "unitIndex": 13,
-          "title": "More rook mates",
+          "title": "Узнайте, как дать шах",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -827,7 +827,7 @@
         {
           "sectionIndex": 5,
           "unitIndex": 14,
-          "title": "Bishop attacks",
+          "title": "Атакуйте своими слонами",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -835,7 +835,7 @@
         {
           "sectionIndex": 5,
           "unitIndex": 15,
-          "title": "Pawn power",
+          "title": "Сила пешек",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -843,7 +843,7 @@
         {
           "sectionIndex": 5,
           "unitIndex": 16,
-          "title": "Queen and bishop mates",
+          "title": "Мат ферзём и слоном",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -851,7 +851,7 @@
         {
           "sectionIndex": 5,
           "unitIndex": 17,
-          "title": "Queen forks",
+          "title": "Поставьте вилку ферзём",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -859,7 +859,7 @@
         {
           "sectionIndex": 5,
           "unitIndex": 18,
-          "title": "Shouldering and zugzwang",
+          "title": "Оттеснение и цугцванг",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -867,7 +867,7 @@
         {
           "sectionIndex": 5,
           "unitIndex": 19,
-          "title": "Bishop pair mates",
+          "title": "Мат ладьёй",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -875,7 +875,7 @@
         {
           "sectionIndex": 5,
           "unitIndex": 20,
-          "title": "Rooks on the pawn row",
+          "title": "Вторгайтесь на ряд пешек",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -883,7 +883,7 @@
         {
           "sectionIndex": 5,
           "unitIndex": 21,
-          "title": "Attacks on a castled king",
+          "title": "Атака и защита короля",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -891,7 +891,7 @@
         {
           "sectionIndex": 5,
           "unitIndex": 22,
-          "title": "Rook and knight mates",
+          "title": "Мат ладьёй и конём",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -899,7 +899,7 @@
         {
           "sectionIndex": 5,
           "unitIndex": 23,
-          "title": "Interference and intermezzo",
+          "title": "Перекрытие и интермеццо",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -907,7 +907,7 @@
         {
           "sectionIndex": 5,
           "unitIndex": 24,
-          "title": "Minor piece checkmates",
+          "title": "Поставить мат лёгкими фигурами",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -924,7 +924,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 1,
-          "title": "Practicing checkmating patterns",
+          "title": "Перегрузка",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -932,7 +932,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 2,
-          "title": "Opening repertoire",
+          "title": "Стратегия рокировки",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -940,7 +940,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 3,
-          "title": "Defending tactics",
+          "title": "Мат ферзём",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -948,7 +948,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 4,
-          "title": "Discovered attacks",
+          "title": "Контратака",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -956,7 +956,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 5,
-          "title": "Mastering the knight",
+          "title": "Двойные нападения",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -964,7 +964,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 6,
-          "title": "Attacking tactics",
+          "title": "Атаки пешек в дебюте",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -972,7 +972,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 7,
-          "title": "Gaining advantage in the early game",
+          "title": "Активность короля в эндшпиле",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -980,7 +980,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 8,
-          "title": "Mastering the pawn",
+          "title": "Уход от приёма «вилка»",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -988,7 +988,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 9,
-          "title": "Planning sacrifices",
+          "title": "Пешечная структура",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -996,7 +996,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 10,
-          "title": "Practicing frequent checkmates",
+          "title": "Фиксация пешек и пешечные прорывы",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1004,7 +1004,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 11,
-          "title": "Middlegame practice",
+          "title": "Размен коней и слонов",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1012,7 +1012,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 12,
-          "title": "Exploiting mistakes",
+          "title": "Посчитайте взятия",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1020,7 +1020,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 13,
-          "title": "Mastering the king",
+          "title": "Шах и мат конём",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1028,7 +1028,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 14,
-          "title": "Multipiece tactics",
+          "title": "Ложно защищённые фигуры",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1036,7 +1036,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 15,
-          "title": "Obtaining the advantage",
+          "title": "Создавайте форпосты",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1044,7 +1044,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 16,
-          "title": "Surprising your opponent",
+          "title": "Промежуточные ходы",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1052,7 +1052,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 17,
-          "title": "Improving your position",
+          "title": "Приёмы превращения",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1060,7 +1060,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 18,
-          "title": "Mastering the queen",
+          "title": "Продвинутые жертвы",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1068,7 +1068,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 19,
-          "title": "Endgame practice",
+          "title": "Раскрой короля противника",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1076,7 +1076,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 20,
-          "title": "Avoiding attacks",
+          "title": "Активная защита короля",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1084,7 +1084,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 21,
-          "title": "Mastering the rook",
+          "title": "Эндшпиль: конь и пешки",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1092,7 +1092,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 22,
-          "title": "Mastering checkmates",
+          "title": "Замечайте вражеские угрозы",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1100,7 +1100,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 23,
-          "title": "Mastering the seventh rank",
+          "title": "Продвинутое видение мата",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1108,7 +1108,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 24,
-          "title": "Mastering the bishop",
+          "title": "Тактика: угрозы мата",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1116,7 +1116,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 25,
-          "title": "Disadvantages",
+          "title": "Линейные удары",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1124,7 +1124,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 26,
-          "title": "Tricky endgames",
+          "title": "Ходы отступления",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1132,7 +1132,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 27,
-          "title": "Attraction and clearance",
+          "title": "Вилки: конь и слон",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1140,7 +1140,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 28,
-          "title": "Midgame tactics I",
+          "title": "Связки",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1148,7 +1148,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 29,
-          "title": "Balanced focus I",
+          "title": "Освобождение от связок",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1156,7 +1156,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 30,
-          "title": "Longer checkmates I",
+          "title": "Мат ферзём и слоном",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1164,7 +1164,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 31,
-          "title": "Clearance and deflection",
+          "title": "Перегрузка",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1172,7 +1172,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 32,
-          "title": "Attraction and midgame",
+          "title": "мат оперы",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1180,7 +1180,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 33,
-          "title": "Midgame tactics II",
+          "title": "Предотвращение рокировки",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1188,7 +1188,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 34,
-          "title": "Balanced focus II",
+          "title": "Промежуточный ход с шахом",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1196,7 +1196,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 35,
-          "title": "Endgames I",
+          "title": "хук-мат",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1204,7 +1204,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 36,
-          "title": "Endgames II",
+          "title": "Предотвращение именованного мата",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1212,7 +1212,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 37,
-          "title": "Midgame tactics III",
+          "title": "Вилки: ферзь и ладья",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1220,7 +1220,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 38,
-          "title": "Rook and queen endgames",
+          "title": "Вскрытый шах с выигрышем материала",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1228,7 +1228,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 39,
-          "title": "Bishop and knight endgames",
+          "title": "Предотвратите вскрытый шах",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1236,7 +1236,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 40,
-          "title": "Checkmate practice",
+          "title": "Вилки пешкой и королём",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1244,7 +1244,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 41,
-          "title": "Discovered and double attacks",
+          "title": "Предотвращение вилок",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1252,7 +1252,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 42,
-          "title": "Longer checkmates II",
+          "title": "Вскрытое нападение с выигрышем материала",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1260,7 +1260,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 43,
-          "title": "Balanced focus III",
+          "title": "Привлечение под вилку I",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1268,7 +1268,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 44,
-          "title": "Pawn endgames and promotions",
+          "title": "Отвлечение для материала I",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1276,7 +1276,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 45,
-          "title": "Deflection and attraction",
+          "title": "Наращиваем давление на связанную фигуру",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1284,7 +1284,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 46,
-          "title": "Winning pieces",
+          "title": "вмешательство",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1292,7 +1292,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 47,
-          "title": "Balanced focus IV",
+          "title": "Цугцванг",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1300,7 +1300,7 @@
         {
           "sectionIndex": 6,
           "unitIndex": 48,
-          "title": "Early game",
+          "title": "мат Лолли",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1317,7 +1317,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 1,
-          "title": "Midgame tactics I",
+          "title": "Пойманные фигуры I",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1325,7 +1325,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 2,
-          "title": "Rook and queen endgames",
+          "title": "Жертва ради мата I",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1333,7 +1333,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 3,
-          "title": "Bishop and knight endgames",
+          "title": "Двойной вскрытый шах I",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1341,7 +1341,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 4,
-          "title": "Checkmate practice",
+          "title": "Отвлечение для превращения",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1349,7 +1349,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 5,
-          "title": "Discovered and double attacks I",
+          "title": "Нарушение пешечной структуры",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1357,7 +1357,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 6,
-          "title": "Longer checkmates",
+          "title": "Привлечение под вилку II",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1365,7 +1365,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 7,
-          "title": "Balanced focus",
+          "title": "Не дайте поставить мат в 1 ход",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1373,7 +1373,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 8,
-          "title": "Pawn endgames and promotions",
+          "title": "Дать шах или поставить мат?",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1381,7 +1381,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 9,
-          "title": "Deflection and attraction",
+          "title": "Привлечение с целью поставить мат",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1389,7 +1389,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 10,
-          "title": "Winning pieces",
+          "title": "Батареи",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1397,7 +1397,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 11,
-          "title": "Balanced focus",
+          "title": "мат Морфи",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1405,7 +1405,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 12,
-          "title": "Early game",
+          "title": "Двойные нападения",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1413,7 +1413,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 13,
-          "title": "Disadvantages",
+          "title": "Вскрытый шах, чтобы поставить мат",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1421,7 +1421,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 14,
-          "title": "Tricky endgames",
+          "title": "Мат на связке",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1429,7 +1429,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 15,
-          "title": "Attraction and clearance",
+          "title": "Не дайте поставить мат издалека",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1437,7 +1437,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 16,
-          "title": "Midgame tactics II",
+          "title": "освобождение",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1445,7 +1445,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 17,
-          "title": "Balanced focus",
+          "title": "Маты ладьёй и конём",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1453,7 +1453,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 18,
-          "title": "Longer checkmates",
+          "title": "Слабые пешки",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1461,7 +1461,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 19,
-          "title": "Clearance and deflection",
+          "title": "Маты одной ладьёй",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1469,7 +1469,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 20,
-          "title": "Attraction and midgame",
+          "title": "Не дайте поставить мат в 2 хода I",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1477,7 +1477,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 21,
-          "title": "Midgame tactics III",
+          "title": "Поставить мат конём и слоном",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1485,7 +1485,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 22,
-          "title": "Balanced focus",
+          "title": "мат \"слепых свиней\"",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1493,7 +1493,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 23,
-          "title": "Endgames I",
+          "title": "Проходная пешка: как её поймать",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1501,7 +1501,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 24,
-          "title": "Endgames II",
+          "title": "Батарейные маты",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1509,7 +1509,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 25,
-          "title": "Strategic balance I",
+          "title": "Отвлечение для материала II",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1517,7 +1517,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 26,
-          "title": "Checkmate mastery I",
+          "title": "Жертва ради мата II",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1525,7 +1525,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 27,
-          "title": "Tactical precision",
+          "title": "Не дайте объявить мат в 2 хода II",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1533,7 +1533,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 28,
-          "title": "Positional play",
+          "title": "Отвлечение с целью поставить мат",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1541,7 +1541,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 29,
-          "title": "Advanced tactics I",
+          "title": "Маты с помощью слона",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1549,7 +1549,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 30,
-          "title": "Strategic balance II",
+          "title": "Двойной вскрытый шах II",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1557,7 +1557,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 31,
-          "title": "Complex endgames I",
+          "title": "Эполетный мат",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1565,7 +1565,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 32,
-          "title": "Complex endgames II",
+          "title": "Разоблачение короля",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1573,7 +1573,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 33,
-          "title": "Advanced tactics II",
+          "title": "Мат Греко",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1581,7 +1581,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 34,
-          "title": "Complex endgames III",
+          "title": "Продвижение",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1589,7 +1589,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 35,
-          "title": "Piece endgames",
+          "title": "Поставить мат параллельными слонами",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1597,7 +1597,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 36,
-          "title": "Checkmate mastery II",
+          "title": "Линейный удар с привлечением",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1605,7 +1605,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 37,
-          "title": "Advanced discovered attacks",
+          "title": "мат Бодена",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1613,7 +1613,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 38,
-          "title": "Long checkmates",
+          "title": "Пойманные фигуры II",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1621,7 +1621,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 39,
-          "title": "Strategic balance III",
+          "title": "удушающий мат",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1629,7 +1629,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 40,
-          "title": "Pawn structure",
+          "title": "Мат ферзём с близкого расстояния",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1637,7 +1637,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 41,
-          "title": "Tactical combinations I",
+          "title": "Жертвы качества",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1645,7 +1645,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 42,
-          "title": "Material advantage",
+          "title": "мат \"ласточкин хвост\"",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1653,7 +1653,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 43,
-          "title": "Strategic balance IV",
+          "title": "Мат ферзём и конём",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1661,7 +1661,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 44,
-          "title": "Opening principles",
+          "title": "Эндшпиль: вилка",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1669,7 +1669,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 45,
-          "title": "Comeback tactics",
+          "title": "Поставить мат в три хода I",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1677,7 +1677,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 46,
-          "title": "Endgame finesse",
+          "title": "Вилка на превращение",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1685,7 +1685,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 47,
-          "title": "Tactical combinations II",
+          "title": "Поставить мат в три хода II",
           "activityPattern": [],
           "activities": 9,
           "estimated": true
@@ -1693,7 +1693,7 @@
         {
           "sectionIndex": 7,
           "unitIndex": 48,
-          "title": "Advanced tactics III",
+          "title": "Вилки при превращении",
           "activityPattern": [],
           "activities": 9,
           "estimated": true

@@ -1,0 +1,1704 @@
+{
+  "meta": {
+    "key": "chfen200v2",
+    "courseTitle": "English → Ch",
+    "scrapedAt": "2026-11-15T19:42:33.483Z",
+    "sourceHash": "sha256:721576aadbf56182",
+    "fromLang": "English",
+    "toLang": "Ch",
+    "fromCode": "en",
+    "toCode": "ch",
+    "level": null,
+    "levelShort": null,
+    "detailHref": "https://duolingodata.com/dat/chfen200v2.html",
+    "parserVersion": 4,
+    "indexUnitsCount": 200,
+    "indexLessonsCount": 1818,
+    "sourceSectionCounts": [
+      6,
+      26,
+      24,
+      24,
+      24,
+      48,
+      48
+    ],
+    "detailHrefHash": "sha256:0d44bf0bf719a736",
+    "scrapeWarnings": [
+      "Section sizes aligned with current course summary",
+      "Per-unit lesson counts estimated from course total"
+    ],
+    "schemaVersion": "2.0.0"
+  },
+  "totals": {
+    "sections": 7,
+    "activities": 1818,
+    "units": 200,
+    "estimated": true
+  },
+  "sections": [
+    {
+      "sectionIndex": 1,
+      "unitCount": 6,
+      "title": "ELO 200:",
+      "rawTitle": "ELO 200:",
+      "cefr": "",
+      "units": [
+        {
+          "sectionIndex": 1,
+          "unitIndex": 1,
+          "title": "Move your pieces",
+          "activityPattern": [],
+          "activities": 10,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 2,
+          "title": "Capture and attack pieces",
+          "activityPattern": [],
+          "activities": 10,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 3,
+          "title": "Defend your pieces",
+          "activityPattern": [],
+          "activities": 10,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 4,
+          "title": "Check! Attack the king",
+          "activityPattern": [],
+          "activities": 10,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 5,
+          "title": "Checkmate! Win the game",
+          "activityPattern": [],
+          "activities": 10,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 1,
+          "unitIndex": 6,
+          "title": "Play a full match",
+          "activityPattern": [],
+          "activities": 10,
+          "estimated": true
+        }
+      ]
+    },
+    {
+      "sectionIndex": 2,
+      "unitCount": 26,
+      "title": "ELO 500:",
+      "rawTitle": "ELO 500:",
+      "cefr": "",
+      "units": [
+        {
+          "sectionIndex": 2,
+          "unitIndex": 1,
+          "title": "Piece value and captures",
+          "activityPattern": [],
+          "activities": 10,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 2,
+          "title": "Safe squares and attacks",
+          "activityPattern": [],
+          "activities": 10,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 3,
+          "title": "Opening principles",
+          "activityPattern": [],
+          "activities": 10,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 4,
+          "title": "Defend your pieces",
+          "activityPattern": [],
+          "activities": 10,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 5,
+          "title": "Queen and ladder mates",
+          "activityPattern": [],
+          "activities": 10,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 6,
+          "title": "The Italian Game",
+          "activityPattern": [],
+          "activities": 10,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 7,
+          "title": "Exchanges",
+          "activityPattern": [],
+          "activities": 10,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 8,
+          "title": "Pawn rules and races",
+          "activityPattern": [],
+          "activities": 10,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 9,
+          "title": "Forks",
+          "activityPattern": [],
+          "activities": 10,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 10,
+          "title": "Mate patterns",
+          "activityPattern": [],
+          "activities": 10,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 11,
+          "title": "Absolute pins",
+          "activityPattern": [],
+          "activities": 10,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 12,
+          "title": "Plans after the opening",
+          "activityPattern": [],
+          "activities": 10,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 13,
+          "title": "Continuing the opening",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 14,
+          "title": "Relative pins",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 15,
+          "title": "Skewers",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 16,
+          "title": "Sacrifice",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 17,
+          "title": "Discovered attacks",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 18,
+          "title": "Backward moves",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 19,
+          "title": "Happy pieces",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 20,
+          "title": "Battery",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 21,
+          "title": "Finishing the opening",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 22,
+          "title": "Evaluate captures",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 23,
+          "title": "Finding opportunities",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 24,
+          "title": "Spotting tactics",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 25,
+          "title": "Defending against mate",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 2,
+          "unitIndex": 26,
+          "title": "Double check",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        }
+      ]
+    },
+    {
+      "sectionIndex": 3,
+      "unitCount": 24,
+      "title": "ELO 800:",
+      "rawTitle": "ELO 800:",
+      "cefr": "",
+      "units": [
+        {
+          "sectionIndex": 3,
+          "unitIndex": 1,
+          "title": "Pawn and knight forks",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 2,
+          "title": "Responding to checks",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 3,
+          "title": "Obstacles to castling",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 4,
+          "title": "Using pins in a game",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 5,
+          "title": "Effective pawn play",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 6,
+          "title": "Essential checkmates",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 7,
+          "title": "Stalemate traps",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 8,
+          "title": "Attacking defenders",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 9,
+          "title": "Move or capture to avoid mate",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 10,
+          "title": "Defend or block mate",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 11,
+          "title": "Pawn structure",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 12,
+          "title": "Preventing forks",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 13,
+          "title": "Escaping pins",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 14,
+          "title": "Forcing moves",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 15,
+          "title": "Discovered checks and attacks",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 16,
+          "title": "Weaknesses",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 17,
+          "title": "Open and semi-open files",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 18,
+          "title": "Place knights and bishops",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 19,
+          "title": "Using your queen",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 20,
+          "title": "Pawn majorities and promotion",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 21,
+          "title": "Opposition",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 22,
+          "title": "Rooks vs queens",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 23,
+          "title": "Trapped bishops and knights",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 3,
+          "unitIndex": 24,
+          "title": "Queen mates on a castled king",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        }
+      ]
+    },
+    {
+      "sectionIndex": 4,
+      "unitCount": 24,
+      "title": "ELO 1000:",
+      "rawTitle": "ELO 1000:",
+      "cefr": "",
+      "units": [
+        {
+          "sectionIndex": 4,
+          "unitIndex": 1,
+          "title": "Interference",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 2,
+          "title": "Advanced pins",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 3,
+          "title": "Order of captures",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 4,
+          "title": "Board vision",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 5,
+          "title": "Deflection",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 6,
+          "title": "Mastering common endgames",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 7,
+          "title": "Defending strategy",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 8,
+          "title": "Attraction",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 9,
+          "title": "Checkmate prevention",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 10,
+          "title": "Advanced pawns",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 11,
+          "title": "Planning checkmates",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 12,
+          "title": "Zugzwang",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 13,
+          "title": "File and rank attacks",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 14,
+          "title": "Mating nets",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 15,
+          "title": "Planning sacrifices",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 16,
+          "title": "Weak pawns",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 17,
+          "title": "Draws",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 18,
+          "title": "Back-rank mates",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 19,
+          "title": "Diagonal attacks",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 20,
+          "title": "Advantages",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 21,
+          "title": "Trapped pieces",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 22,
+          "title": "Promoting pawns",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 23,
+          "title": "Clearance",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 4,
+          "unitIndex": 24,
+          "title": "Spotting tactics",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        }
+      ]
+    },
+    {
+      "sectionIndex": 5,
+      "unitCount": 24,
+      "title": "ELO 1100:",
+      "rawTitle": "ELO 1100:",
+      "cefr": "",
+      "units": [
+        {
+          "sectionIndex": 5,
+          "unitIndex": 1,
+          "title": "Mate with a bishop pair",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 2,
+          "title": "Push and stop passed pawns",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 3,
+          "title": "Sacrifice to win",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 4,
+          "title": "Decide when to trade",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 5,
+          "title": "Use tactics in the opening",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 6,
+          "title": "Knight mates",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 7,
+          "title": "Improve your rooks and queen",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 8,
+          "title": "Stack rooks and queens",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 9,
+          "title": "Race your pawns to promotion",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 10,
+          "title": "Take the opposition",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 11,
+          "title": "Improve knights and bishops",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 12,
+          "title": "Mate with rook and bishop",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 13,
+          "title": "Discover checks",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 14,
+          "title": "Attack with your bishops",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 15,
+          "title": "Pawn power",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 16,
+          "title": "Queen and bishop mates",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 17,
+          "title": "Fork with your queen",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 18,
+          "title": "Shouldering and zugzwang",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 19,
+          "title": "Mate with a rook",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 20,
+          "title": "Invade the pawn row",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 21,
+          "title": "Attack and defend the king",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 22,
+          "title": "Mate with rook and knight",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 23,
+          "title": "Interference and intermezzo",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 5,
+          "unitIndex": 24,
+          "title": "Mate with minor pieces",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        }
+      ]
+    },
+    {
+      "sectionIndex": 6,
+      "unitCount": 48,
+      "title": "ELO 1200:",
+      "rawTitle": "ELO 1200:",
+      "cefr": "",
+      "units": [
+        {
+          "sectionIndex": 6,
+          "unitIndex": 1,
+          "title": "Overloading",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 2,
+          "title": "Castling strategy",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 3,
+          "title": "Queen mates",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 4,
+          "title": "Counterattack",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 5,
+          "title": "Double attacks",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 6,
+          "title": "Opening pawn attacks",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 7,
+          "title": "King activity in endgames",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 8,
+          "title": "Escape forks",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 9,
+          "title": "Pawn structure",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 10,
+          "title": "Pawn freezes and breakthroughs",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 11,
+          "title": "Trading knights and bishops",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 12,
+          "title": "Calculate captures",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 13,
+          "title": "Knight checkmates",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 14,
+          "title": "Falsely defended pieces",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 15,
+          "title": "Create outposts",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 16,
+          "title": "In-between moves",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 17,
+          "title": "Promotion tactics",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 18,
+          "title": "Advanced sacrifices",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 19,
+          "title": "Expose the enemy king",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 20,
+          "title": "Proactive king safety",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 21,
+          "title": "Knight and pawn endgames",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 22,
+          "title": "Spot enemy threats",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 23,
+          "title": "Advanced checkmate vision",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 24,
+          "title": "Tactical mate threats",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 25,
+          "title": "Skewers",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 26,
+          "title": "Retreating moves",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 27,
+          "title": "Knight and bishop forks",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 28,
+          "title": "Pins",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 29,
+          "title": "Escaping pins",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 30,
+          "title": "Queen and bishop mates",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 31,
+          "title": "Overloading",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 32,
+          "title": "Opera mate",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 33,
+          "title": "Prevent castling",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 34,
+          "title": "Intermezzo with check",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 35,
+          "title": "Hook mate",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 36,
+          "title": "Prevent a named mate",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 37,
+          "title": "Queen and rook forks",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 38,
+          "title": "Discovered check for material",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 39,
+          "title": "Avoid discovered check",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 40,
+          "title": "Pawn and king forks",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 41,
+          "title": "Preventing forks",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 42,
+          "title": "Discovered attack for material",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 43,
+          "title": "Attraction into fork I",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 44,
+          "title": "Deflection for material I",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 45,
+          "title": "Piling up on a pin",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 46,
+          "title": "Interference",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 47,
+          "title": "Zugzwang",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 6,
+          "unitIndex": 48,
+          "title": "Lolli's mate",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        }
+      ]
+    },
+    {
+      "sectionIndex": 7,
+      "unitCount": 48,
+      "title": "ELO 1500:",
+      "rawTitle": "ELO 1500:",
+      "cefr": "",
+      "units": [
+        {
+          "sectionIndex": 7,
+          "unitIndex": 1,
+          "title": "Trapped pieces I",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 2,
+          "title": "Sacrifice for mate I",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 3,
+          "title": "Discovered double check I",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 4,
+          "title": "Deflection for promotion",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 5,
+          "title": "Ruining pawn structure",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 6,
+          "title": "Attraction into fork II",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 7,
+          "title": "Prevent mate in 1",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 8,
+          "title": "Check or mate?",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 9,
+          "title": "Attraction for mate",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 10,
+          "title": "Batteries",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 11,
+          "title": "Morphy's mate",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 12,
+          "title": "Double attacks",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 13,
+          "title": "Discovered check for mate",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 14,
+          "title": "Mate due to a pin",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 15,
+          "title": "Prevent a mate from afar",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 16,
+          "title": "Clearance",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 17,
+          "title": "Rook and knight mates",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 18,
+          "title": "Weak pawns",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 19,
+          "title": "One-rook mates",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 20,
+          "title": "Prevent mate in 2 I",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 21,
+          "title": "Bishop and knight mates",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 22,
+          "title": "Blind swine mate",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 23,
+          "title": "Catching a passed pawn",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 24,
+          "title": "Battery mates",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 25,
+          "title": "Deflection for material II",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 26,
+          "title": "Sacrifice for mate II",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 27,
+          "title": "Prevent mate in 2 II",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 28,
+          "title": "Deflection for mate",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 29,
+          "title": "Bishop-assisted mates",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 30,
+          "title": "Discovered double check II",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 31,
+          "title": "Epaulette mate",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 32,
+          "title": "Exposing the king",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 33,
+          "title": "Greco's mate",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 34,
+          "title": "Promoting",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 35,
+          "title": "Parallel bishops mate",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 36,
+          "title": "Attraction skewer",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 37,
+          "title": "Boden's mate",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 38,
+          "title": "Trapped pieces II",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 39,
+          "title": "Suffocation mate",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 40,
+          "title": "Close queen mates",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 41,
+          "title": "Exchange sacrifices",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 42,
+          "title": "Dovetail mate",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 43,
+          "title": "Queen and knight mates",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 44,
+          "title": "Forks in the endgame",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 45,
+          "title": "Mate in three I",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 46,
+          "title": "Fork for promotion",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 47,
+          "title": "Mate in three II",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        },
+        {
+          "sectionIndex": 7,
+          "unitIndex": 48,
+          "title": "Promotion forks",
+          "activityPattern": [],
+          "activities": 9,
+          "estimated": true
+        }
+      ]
+    }
+  ]
+}

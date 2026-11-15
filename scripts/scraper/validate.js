@@ -5,7 +5,7 @@
  */
 
 import { parseArgs } from 'node:util';
-import { readFile, readdir, access } from 'node:fs/promises';
+import { appendFile, readFile, readdir, access } from 'node:fs/promises';
 import { join } from 'node:path';
 
 const { values: args } = parseArgs({
@@ -381,13 +381,16 @@ async function validateScrapedData() {
 
 // Run validation
 validateScrapedData()
-  .then(({ passed, errors, errorRate }) => {
-    // Output for GitHub Actions
-    console.log('');
-    console.log(`::set-output name=passed::${passed}`);
-    console.log(`::set-output name=error_count::${errors.length}`);
-    console.log(`::set-output name=error_rate::${errorRate.toFixed(1)}`);
-    
+  .then(async ({ passed, errors, errorRate }) => {
+    if (process.env.GITHUB_OUTPUT) {
+      const outputs = [
+        `passed=${passed}`,
+        `error_count=${errors.length}`,
+        `error_rate=${errorRate.toFixed(1)}`,
+      ].join('\n');
+      await appendFile(process.env.GITHUB_OUTPUT, `${outputs}\n`, 'utf8');
+    }
+
     process.exit(passed ? 0 : 1);
   })
   .catch((error) => {
